@@ -9,7 +9,6 @@ from spacy.lang.fr.stop_words import STOP_WORDS as fr_stop
 from spacy.lang.en.stop_words import STOP_WORDS as en_stop
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
-
 final_stopwords_list = list(fr_stop) + list(en_stop)
 vec_of_tokens=[]
 vec_of_docs={}
