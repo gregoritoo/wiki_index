@@ -1,0 +1,794 @@
+# Finance
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+La **finance** recouvre un domaine d'activité — celui du
+[financement](/wiki/Financement "Financement") — qui consiste à fournir
+l'argent nécessaire à la réalisation d'une opération économique. Ce domaine
+concerne aussi bien les individus, les ménages que les entreprises publiques
+ou privées, mais aussi les États.
+
+La recherche de financement obéit à deux types d'objectifs suivant le volume
+initial de [capital](/wiki/Capitaux "Capitaux") :
+
+  * à niveau de capital restreint, on cherche à obtenir des [capitaux](/wiki/Capitaux "Capitaux") nécessaires et suffisants pour entreprendre, maintenir ou développer une activité ;
+  * à niveau de capital avéré, l'objectif est de trouver les [placements](/wiki/Placement "Placement") les plus pertinents en performance et en sécurité en fonction de la [valeur temps de l'argent](/wiki/Valeur_temps_de_l%27argent "Valeur temps de l'argent").
+
+Le mot « finance » peut également désigner :
+
+  * soit les [techniques](/wiki/Techniques "Techniques") qui permettent de façon raisonnée d'obtenir et de placer des [capitaux](/wiki/Capitaux "Capitaux") ;
+  * soit les [agents économiques](/wiki/Agents_%C3%A9conomiques "Agents économiques") ou les institutions qui recherchent des [capitaux](/wiki/Capitaux "Capitaux") disponibles ou souhaitent en placer (soit une définition liminaire qui serait : acheter ou vendre de l'argent).
+
+Pour se financer, un agent économique (une organisation privée ou publique, ou
+un particulier) peut procéder :
+
+  * par [autofinancement](/wiki/Autofinancement "Autofinancement"), c'est-à-dire en utilisant ses bénéfices antérieurs ou ses réserves financières disponibles ;
+  * par financement direct en faisant appel au [marché financier](/wiki/March%C3%A9_financier "Marché financier") (émission d'[actions](/wiki/Action_\(finance\) "Action \(finance\)") ou d'[obligations](/wiki/Obligation_\(finance\) "Obligation \(finance\)")) ;
+  * par financement indirect ou intermédié en ayant recours au [crédit bancaire](/wiki/Cr%C3%A9dit_bancaire "Crédit bancaire").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sch%C3%A9ma_synoptique_de_la_Finance.png/400px-
+Sch%C3%A9ma_synoptique_de_la_Finance.png)](/wiki/Fichier:Sch%C3%A9ma_synoptique_de_la_Finance.png)
+
+[](/wiki/Fichier:Sch%C3%A9ma_synoptique_de_la_Finance.png "Agrandir")
+
+[Schéma](/wiki/Sch%C3%A9ma_\(informatique\) "Schéma \(informatique\)")
+[synoptique](/wiki/Synoptique "Synoptique") des pans de la finance.
+
+## Sommaire
+
+  * 1 Étymologie et Histoire
+  * 2 Parties prenantes à l'activité financière
+  * 3 Domaines d'activité de la finance
+    * 3.1 Types de finance
+      * 3.1.1 Rôle des marchés
+    * 3.2 Disciplines mobilisées dans le cadre de la finance
+      * 3.2.1 Au niveau de la microéconomie
+      * 3.2.2 Au niveau de la macroéconomie
+  * 4 Enjeux et finalités de la finance
+    * 4.1 Rémunération de la finance
+    * 4.2 Finance et mondialisation
+    * 4.3 Finance et Industrie
+    * 4.4 Financiarisation et bien commun
+    * 4.5 Quelle place dans l'économie ?
+  * 5 Notes et références
+  * 6 Voir aussi
+    * 6.1 Articles connexes
+    * 6.2 Liens externes
+
+## Étymologie et
+Histoire[[modifier](/w/index.php?title=Finance&veaction=edit&section=1
+"Modifier la section : Étymologie et Histoire") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=1 "Modifier la section :
+Étymologie et Histoire")]
+
+Le terme « finance » est dérivé du mot latin _finis_ qui signifie « le terme
+». En français du [XIIIe siècle](/wiki/XIIIe_si%C3%A8cle "XIIIe siècle"), le
+verbe _finer_ veut d'abord dire « finir une transaction et donc payer ». Par
+la suite, le mot évolue pour désigner des « ressources financières » et à
+partir du [XVIe siècle](/wiki/XVIe_si%C3%A8cle "XVIe siècle") des « affaires
+d'argent »[1].
+
+Au [XVe siècle](/wiki/XVe_si%C3%A8cle "XVe siècle") apparaissent en France les
+« gens de finances », qui sont des fonctionnaires, recrutés par les princes,
+chargés de gérer l'argent issu des privilèges : plus tard, ces charges
+deviennent héréditaires. Ce n'est pas le cas en Angleterre ou en Italie, où
+les rôles (et contre-rôles) financiers vont échapper très tôt, d'une part à la
+morale ecclésiastique qui voit en l'argent et sa gestion un
+[péché](/wiki/P%C3%A9ch%C3%A9 "Péché") (lié à la
+[vénalité](/wiki/V%C3%A9nalit%C3%A9 "Vénalité"), à l'[avarice](/wiki/Avarice
+"Avarice")), d'autre part, aux emplois sous tutelle d'État. La France va donc
+prendre un retard considérable dans le commerce de l'argent et le
+développement des banques[2]. Le premier traité sur ces questions, celui de
+[Nicole Oresme](/wiki/Nicole_Oresme "Nicole Oresme"), date de 1355.
+
+Cependant, se produit le [développement des bourses de
+valeurs](/wiki/Histoire_des_bourses_de_valeurs "Histoire des bourses de
+valeurs") : cette éclosion a été accélérée par la croissance de places
+financières et commerciales en Europe avant le développement du commerce
+maritime international : des flux sensibles se mettent en place très tôt entre
+des places d'argent comme [Venise](/wiki/Venise "Venise") et
+[Gênes](/wiki/G%C3%AAnes "Gênes"), mais aussi [Anvers](/wiki/Anvers "Anvers"),
+[Troyes](/wiki/Troyes "Troyes") et [Londres](/wiki/Londres "Londres"),
+[Brême](/wiki/Br%C3%AAme "Brême") et [Augsbourg](/wiki/Augsbourg "Augsbourg"),
+etc.
+
+Même si de nombreux livres lui sont consacrés entre le milieu du [XVIIIe
+siècle](/wiki/XVIIIe_si%C3%A8cle "XVIIIe siècle")[3], et le début du [XIXe
+siècle](/wiki/XIXe_si%C3%A8cle "XIXe siècle"), au moment de l'éclosion de
+l'[École classique](/wiki/%C3%89cole_classique "École classique"), c'est
+seulement à partir de [1958](/wiki/1958 "1958") que la finance est devenue une
+sous-discipline de l'[économie](/wiki/Sciences_%C3%A9conomiques "Sciences
+économiques"), en lui empruntant ses raisonnements formalisés et ses
+mécanismes d'optimisation. Auparavant, la gestion financière consistait
+essentiellement en un recueil de pratiques qui n'étaient pas nécessairement
+encadrées ou réglementées par des institutions légales.
+
+La finance est largement devenue de nos jours un négoce d'instruments et de
+transfert des anticipations de revenus et de risques, dont les prix peuvent
+être négociés sur des marchés ou auprès d'institutions. Les risques peuvent
+être ainsi transférés à ceux disposés à les prendre (contre des revenus
+espérés), et les intermédiaires financiers peuvent pratiquer une compensation
+des risques inverses (par exemple, le risque de change d'un importateur est
+inverse de celui d'un exportateur, le risque de taux d'un prêteur est inverse
+de celui d'un emprunteur…), la diversification des risques, etc.
+
+## Parties prenantes à l'activité
+financière[[modifier](/w/index.php?title=Finance&veaction=edit&section=2
+"Modifier la section : Parties prenantes à l'activité financière") | [modifier
+le code](/w/index.php?title=Finance&action=edit&section=2 "Modifier la section
+: Parties prenantes à l'activité financière")]
+
+Tous les [agents économiques](/wiki/Agents_%C3%A9conomiques "Agents
+économiques") ont vocation pratiquement en permanence à recourir aux moyens
+offerts par la finance :
+
+  * les particuliers pour leurs [placements](/wiki/Placement "Placement") et leurs emprunts ;
+  * les [entreprises](/wiki/Entreprise "Entreprise") pour obtenir des capitaux et gérer leur trésorerie ;
+  * l'[État](/wiki/%C3%89tat "État") et les collectivités publiques pour assurer l'équilibre entre leurs dépenses et leurs recettes et financer leurs projets d'infrastructure ou d'équipement ;
+  * les institutions financières elles-mêmes pour ajuster leurs ressources et leurs emplois. Elles interviennent pour leur besoin propre sur les [marchés financiers](/wiki/March%C3%A9s_financiers "Marchés financiers") ;
+  * les intermédiaires financiers, dont la vocation est de faciliter le rapprochement entre l'offre et la demande de produits financiers.
+
+Ces intermédiaires financiers se distinguent par la nature des services qu'ils
+rendent à leur clientèle et des produits qu'ils sont à même de négocier :
+
+  * les [conseillers financiers](/wiki/Conseiller_financier "Conseiller financier"), conseils en patrimoines et gestionnaires de fortune ;
+  * les [banques](/wiki/Banque "Banque") qui recyclent les dépôts et l'épargne ;
+  * les organismes de crédit aux particuliers ou aux entreprises ;
+  * les [marchés organisés](/wiki/March%C3%A9_organis%C3%A9 "Marché organisé") (bourses) où s'échangent divers [actifs financiers](/wiki/Actif_financier "Actif financier") négociables ;
+  * les [caisses de retraites](/wiki/Caisse_de_retraite "Caisse de retraite"), [fonds de placement](/wiki/Fonds_de_placement "Fonds de placement"), et institutions uniques ;
+  * les compagnies d'[assurances](/wiki/Assurance "Assurance") qui doivent préserver la valeur des réserves ou provisions venant en garantie des risques qu'elles assurent ;
+  * les entreprises d'investissement, héritières des [sociétés de bourse](/wiki/Soci%C3%A9t%C3%A9_de_bourse "Société de bourse") depuis la loi de modernisation financière de 2006.
+
+Une classe particulière d'organismes financiers est constituée par les
+instances de régulations nationales et internationales ainsi que par les
+[agences de notation](/wiki/Agence_de_notation_financi%C3%A8re "Agence de
+notation financière"). Les [marchés financiers](/wiki/March%C3%A9s_financiers
+"Marchés financiers") sont en effet marqués par des épisodes de croissance
+exubérante et de dépression sévère qui posent le problème toujours renouvelé
+de leur [régulation](/wiki/R%C3%A9gulation "Régulation").
+
+## Domaines d'activité de la
+finance[[modifier](/w/index.php?title=Finance&veaction=edit&section=3
+"Modifier la section : Domaines d'activité de la finance") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=3 "Modifier la section :
+Domaines d'activité de la finance")]
+
+Selon Dembinski[4], la finance est un sous-système économique qui remplit
+trois fonctions spécifiques :
+
+  * tout d’abord, garantir la circulation des transactions financières ;
+  * ensuite, réunir l’épargne et la mettre au service de projets d’investissement ;
+  * enfin, évaluer le risque, lui attribuer une valeur et faire en sorte qu’il soit rentable.
+
+### Types de
+finance[[modifier](/w/index.php?title=Finance&veaction=edit&section=4
+"Modifier la section : Types de finance") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=4 "Modifier la section :
+Types de finance")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg/250px-
+NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg)](/wiki/Fichier:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg)
+
+[](/wiki/Fichier:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg "Agrandir")
+
+Salle de marché du [NYSE](/wiki/NYSE "NYSE") avant l’introduction des écrans
+et de la cotation électronique
+
+La finance se subdivise traditionnellement en plusieurs périmètres d'activité
+définis par la clientèle servie :
+
+  * La **[finance publique](/wiki/Finance_publique "Finance publique")** recouvre le financement des actions et du [budget de l'État](/wiki/Budget_de_l%27%C3%89tat "Budget de l'État"), des collectivités publiques et des organismes sociaux.
+  * La **[finance privée](/wiki/Finance_priv%C3%A9e "Finance privée")** concerne la gestion de [patrimoine](/wiki/Patrimoine_\(finance\) "Patrimoine \(finance\)") et des [revenus](/wiki/Revenu "Revenu") personnels, préparation de la [retraite](/wiki/Retraite_\(sociale\) "Retraite \(sociale\)").
+  * La **[finance d'entreprise](/wiki/Finance_d%27entreprise "Finance d'entreprise")** accompagne la gestion financière des [entreprises](/wiki/Entreprise "Entreprise"), en matière d'[exploitation](/wiki/Activit%C3%A9_\(analyse_du_travail\) "Activité \(analyse du travail\)") (trésorerie de court terme) ou d'[investissement](/wiki/Investissement "Investissement") (moyen et long terme).
+
+#### Rôle des
+marchés[[modifier](/w/index.php?title=Finance&veaction=edit&section=5
+"Modifier la section : Rôle des marchés") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=5 "Modifier la section :
+Rôle des marchés")]
+
+La **[finance de marché](/wiki/Finance_de_march%C3%A9 "Finance de marché")**
+désigne les mécanismes par lesquels il est possible de faire appel aux marchés
+pour se financer directement, opérer des [placements](/wiki/Placement
+"Placement"), se [couvrir](/wiki/Couverture_de_risque "Couverture de risque"),
+ou d'utiliser des [instruments financiers](/wiki/Instrument_financier
+"Instrument financier") complexes, comme les
+[options](/wiki/Option_\(finance\) "Option \(finance\)"). Les **[marchés
+financiers](/wiki/March%C3%A9_financier "Marché financier")** sont devenus
+depuis les [années 1980](/wiki/Ann%C3%A9es_1980 "Années 1980") l'un des
+principaux circuits de financement de l'économie, en complément des
+[banques](/wiki/Banques "Banques"). Aux [États-Unis](/wiki/%C3%89tats-Unis
+"États-Unis"), le recours aux marchés est plus répandu qu'en
+[Europe](/wiki/Europe "Europe") continentale. Ils comprennent :
+
+  * Les marchés d'[actions](/wiki/Action_\(finance\) "Action \(finance\)"), qui sont les plus connus du grand public, mais pas les plus actifs.
+  * Les marchés de [taux d'intérêt](/wiki/Taux_d%27int%C3%A9r%C3%AAt "Taux d'intérêt") qui, par leurs cotations en continu, constituent de très loin le plus grand marché de la planète et se subdivisent en : 
+    * [Marché monétaire](/wiki/March%C3%A9_mon%C3%A9taire "Marché monétaire") pour le court terme
+    * [Marché obligataire](/wiki/March%C3%A9_obligataire "Marché obligataire") pour le moyen-long terme.
+  * Le [Marché des changes](/wiki/Forex "Forex") ou _[Forex](/wiki/Forex "Forex")_.
+  * Il existe par ailleurs de nombreux **[marchés de matières premières et de produits de base](/wiki/March%C3%A9s_commerciaux "Marchés commerciaux")** ([pétrole](/wiki/P%C3%A9trole "Pétrole"), [blé](/wiki/Bl%C3%A9 "Blé"), etc.) qui peuvent donner lieu à des interventions motivées par des ressorts financiers alors qu'en principe leurs transactions sont réputées contribuer à l'établissement des prix des produits dits « de base ».
+
+### Disciplines mobilisées dans le cadre de la
+finance[[modifier](/w/index.php?title=Finance&veaction=edit&section=6
+"Modifier la section : Disciplines mobilisées dans le cadre de la finance") |
+[modifier le code](/w/index.php?title=Finance&action=edit&section=6 "Modifier
+la section : Disciplines mobilisées dans le cadre de la finance")]
+
+Plusieurs visions théoriques et outils d'optimisation existent qui sont
+destinés à faciliter les prises de [décisions](/wiki/D%C3%A9cision "Décision")
+financières.
+
+#### Au niveau de la [microéconomie](/wiki/Micro%C3%A9conomie
+"Microéconomie")[[modifier](/w/index.php?title=Finance&veaction=edit&section=7
+"Modifier la section : Au niveau de la microéconomie") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=7 "Modifier la section :
+Au niveau de la microéconomie")]
+
+  * **[Mathématiques financières](/wiki/Math%C3%A9matiques_financi%C3%A8res "Mathématiques financières")** : ensemble d'outils de calcul pour la [modélisation](/wiki/Mod%C3%A8le_math%C3%A9matique "Modèle mathématique") et l'[aide à la décision](/wiki/Aide_%C3%A0_la_d%C3%A9cision "Aide à la décision") utilisés dans les différentes branches de la finance, notamment les calculs sur les [taux d'intérêt](/wiki/Taux_d%27int%C3%A9r%C3%AAt "Taux d'intérêt") et les [instruments financiers](/wiki/Instrument_financier "Instrument financier").
+  * **[Choix d'investissement](/wiki/Choix_d%27investissement "Choix d'investissement")** : critères et méthodes pour sélectionner des [investissements](/wiki/Investissement "Investissement") en fonction de leur [rentabilité](/wiki/Rentabilit%C3%A9 "Rentabilité") prévisionnelle ou de leur création de valeur.
+  * **[Évaluation financière](/wiki/%C3%89valuation_financi%C3%A8re "Évaluation financière")** : estimation de la valeur des [actifs](/wiki/Actif_\(comptabilit%C3%A9\) "Actif \(comptabilité\)"), que ceux-ci soient financiers ([actions](/wiki/Action_\(finance\) "Action \(finance\)"), [obligations](/wiki/Obligation_\(finance\) "Obligation \(finance\)"), [options](/wiki/Option_\(finance\) "Option \(finance\)"), voir [actif financier](/wiki/Actif_financier "Actif financier")), ou des [entreprises](/wiki/Entreprise "Entreprise") (voir [évaluation d'entreprise](/wiki/%C3%89valuation_d%27entreprise "Évaluation d'entreprise")) ou encore des [biens immobiliers](/wiki/Bien_immobilier "Bien immobilier").
+  * **Politique financière** : choix des [financements](/wiki/Financement "Financement") des sociétés, dans le but d'optimiser leur **Coût Moyen Pondéré du Capital (CMPC)**. La répartition entre le financement par [Capitaux propres](/wiki/Capitaux_propres "Capitaux propres") et par [dettes](/wiki/Dette "Dette"), la politique de [dividende](/wiki/Dividende "Dividende") sont des questions centrales de la politique financière.
+  * **[Théorie moderne du portefeuille](/wiki/Th%C3%A9orie_moderne_du_portefeuille "Théorie moderne du portefeuille")** : optimisation de la répartition des [actifs](/wiki/Actif_\(comptabilit%C3%A9\) "Actif \(comptabilité\)") par [diversification](/wiki/Diversification_\(finance\) "Diversification \(finance\)"). Initialement développée pour les [marchés financiers](/wiki/March%C3%A9_financier "Marché financier"), cette discipline sert également au champ de la [finance d'entreprise](/wiki/Finance_d%27entreprise "Finance d'entreprise"). Plus généralement, on parle de **[gestion du risque](/wiki/Gestion_du_risque "Gestion du risque")**.
+  * **[Finance comportementale](/wiki/Finance_comportementale "Finance comportementale")** : identification des facteurs psychologiques individuels et collectifs intervenant dans les décisions financières et leurs effets sur la formation des prix et sur les rendements financiers.
+
+#### Au niveau de la [macroéconomie](/wiki/Macro%C3%A9conomie
+"Macroéconomie")[[modifier](/w/index.php?title=Finance&veaction=edit&section=8
+"Modifier la section : Au niveau de la macroéconomie") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=8 "Modifier la section :
+Au niveau de la macroéconomie")]
+
+La **[Politique monétaire](/wiki/Politique_mon%C3%A9taire "Politique
+monétaire")** et **[Finance publique
+internationale](/wiki/Finance_publique_internationale "Finance publique
+internationale")** servent des objectifs
+[macroéconomiques](/wiki/Macro%C3%A9conomie "Macroéconomie"). Par exemple, la
+politique monétaire est menée par les [banques
+centrales](/wiki/Banque_centrale "Banque centrale"), avec des interactions
+avec les organismes officiels internationaux
+([FMI](/wiki/Fonds_mon%C3%A9taire_international "Fonds monétaire
+international"), [Banque mondiale](/wiki/Banque_mondiale "Banque mondiale"),
+[Banque des règlements
+internationaux](/wiki/Banque_des_r%C3%A8glements_internationaux "Banque des
+règlements internationaux"),
+[BEI](/wiki/Banque_europ%C3%A9enne_d%27investissement "Banque européenne
+d'investissement"), [BERD](/wiki/BERD "BERD"), etc.).
+
+## Enjeux et finalités de la
+finance[[modifier](/w/index.php?title=Finance&veaction=edit&section=9
+"Modifier la section : Enjeux et finalités de la finance") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=9 "Modifier la section :
+Enjeux et finalités de la finance")]
+
+### Rémunération de la
+finance[[modifier](/w/index.php?title=Finance&veaction=edit&section=10
+"Modifier la section : Rémunération de la finance") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=10 "Modifier la section :
+Rémunération de la finance")]
+
+La finance est d'une certaine manière un service rendu. La question est
+ouverte - et largement débattue- quant à la rémunération de ce service.
+
+Sur un plan « opérationnel », l'idée d'indemnité est censée rétribuer
+différents éléments :
+
+  * l'aptitude à concilier les exigences des offreurs et des demandeurs de capitaux ;
+  * l'aptitude à décider et opérer des placements ou capitaux afin d'en obtenir la valeur financière la plus grande, pour un niveau de risque approprié.
+
+Dans une perspective plus large, il convient de trouver des outils
+d'optimisation des flux financiers capables de prendre en compte la complexité
+et la variété des situations : biais de la [finance
+comportementale](/wiki/Finance_comportementale "Finance comportementale"),
+prise en compte des intérêts divergents des [parties
+prenantes](/wiki/Parties_prenantes "Parties prenantes"), [rationalité
+limitée](/wiki/Rationalit%C3%A9_limit%C3%A9e "Rationalité limitée")…
+
+### Finance et
+mondialisation[[modifier](/w/index.php?title=Finance&veaction=edit&section=11
+"Modifier la section : Finance et mondialisation") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=11 "Modifier la section :
+Finance et mondialisation")]
+
+Compte tenu de l'extension de la convertibilité des [monnaies](/wiki/Monnaie
+"Monnaie") et de la [mondialisation](/wiki/Mondialisation "Mondialisation")
+des échanges, la finance est désormais internationale. L'apparition de
+produits financiers internationaux complexes et d'opérateurs non régulés
+agissant à partir des [paradis fiscaux](/wiki/Paradis_fiscaux "Paradis
+fiscaux") a largement été associée au développement de la crise des marchés
+financiers qui paralyse actuellement
+l'[économie](/wiki/%C3%89conomie_\(activit%C3%A9_humaine\) "Économie
+\(activité humaine\)") mondiale, posant la question de la mise en œuvre de
+régulations mondiales renforcées.
+
+Le **[système financier](/wiki/Syst%C3%A8me_financier "Système financier")**
+est international : il est présent dans chaque pays, avec des flux circulant
+de l'un à l'autre avec toutefois certaines restrictions locales.
+
+Il rassemble un ensemble d'acteurs, reliés entre eux par un réseau de
+communication, formant une série de marchés financiers spécialisés visant
+chacun à équilibrer l'offre et la demande dans un actif financier particulier.
+Cet équilibre est obtenu par la confrontation des ordres entre les divers
+acteurs détenteurs de moyens monétaires ou financiers et notamment :
+
+Au niveau des institutions financières, le système comprend entre autres les
+banques supra-nationales (par exemple la Banque Centrale Européenne, la
+[Banque des règlements
+internationaux](/wiki/Banque_des_r%C3%A8glements_internationaux "Banque des
+règlements internationaux")), les Banques Centrales nationales, les [banques
+commerciales](/wiki/Banques_commerciales "Banques commerciales"), les sociétés
+financières, les caisses de [retraites](/wiki/Retraite_\(sociale\) "Retraite
+\(sociale\)"), la [sécurité sociale](/wiki/S%C3%A9curit%C3%A9_sociale
+"Sécurité sociale") et les caisses de prévoyance, les compagnies d'assurances,
+le [Trésor public](/wiki/Tr%C3%A9sor_public "Trésor public"), les [marchés
+financiers](/wiki/March%C3%A9_financier "Marché financier").
+
+La superposition des différents marchés financiers (actions, taux d'intérêt,
+devises et matières premières) et son extension à tous les pays, forment ce
+qu'on appelle le système financier international.
+
+Le système financier cherche à faciliter une bonne [allocation des
+capitaux](/wiki/Allocation_des_capitaux "Allocation des capitaux"), favorable
+à l'essor économique. Ce rôle primordial explique la place importante de la
+finance dans les pays développés, avec une part de 5 % à 10 % du
+[PIB](/wiki/Produit_int%C3%A9rieur_brut "Produit intérieur brut") (Produit
+intérieur brut).
+
+### Finance et
+Industrie[[modifier](/w/index.php?title=Finance&veaction=edit&section=12
+"Modifier la section : Finance et Industrie") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=12 "Modifier la section :
+Finance et Industrie")]
+
+Selon Gabriel Colletis[5], certaines formes de financiarisation des stratégies
+des entreprises doivent être remises en cause car elles inversent le sens de
+la relation traditionnelle entre [investissement](/wiki/Investissement
+"Investissement") et finance : Au lieu de sélectionner les financements
+possibles des investissements qu'elles souhaitent réaliser, elles choisissent
+les investissements en fonction d'une norme de rentabilité et d'un revenu
+promis aux actionnaires (surtout lorsque ceux-ci sont des [fonds
+d'investissement](/wiki/Fonds_d%27investissement "Fonds d'investissement")).
+Ainsi des activités peuvent être délocalisées et des investissements
+abandonnés non parce qu'ils ne sont pas rentables, mais parce qu'ils ne le
+sont pas assez.
+
+  * Ainsi les deux puissants moteurs de cette évolution sont la préférence accordée aux stratégies de [croissance externe](/wiki/Croissance_externe "Croissance externe") et l'alignement des intérêts des managers sur ceux des actionnaires (attribution de [stock-options](/wiki/Stock-option "Stock-option") et/ou de rémunérations variables indexées sur la rentabilité).
+  * Il s'ensuit une stérilisation des richesses créées par les entreprises : nombre d'entreprises utilisent leurs profits pour procéder à des rachats de leurs propres actions (la réduction des titres en circulation provoque mécaniquement l'augmentation du bénéfice par action). D'autre part la croissance de la part des profits distribués aux actionnaires sous forme de [dividendes](/wiki/Dividende "Dividende") : en trente ans, le résultat brut des entreprises a été multiplié par un peu moins de trois, tandis que les dividendes l'ont été par plus de dix[6].
+  * La financiarisation a fait disparaitre en France la majeure partie des entreprises grandes et moyennes véritablement indépendantes. Le groupe est devenu la structure dominante. Gabriel Colettis pose la question « La finance est-elle en train de tuer l'industrie ? »[7]. Le groupe n'est rien d'autre, le plus souvent, qu'une structure orientée par des considérations actionnariales, financières et fiscales.
+  * L'analyse de la contribution de l'industrie à l'activité économique est désormais loin d'être évidente : si l'industrie française pèse environ la moitié de l'industrie allemande en termes de [valeur ajoutée](/wiki/Valeur_ajout%C3%A9e "Valeur ajoutée"), ses investissements à l'étranger sont le double de sa consœur allemande. L'Allemagne favorise l'investissement et la production domestiques, alors que la France, marquée par le poids de grands groupes financiarisés et extravertis, produit et fait produire de plus en plus à l'étranger. Pour G. Colletis, c'est sans doute là que réside l'une des raisons de l'asymétrie des [balances commerciales](/wiki/Balance_commerciale "Balance commerciale"), plus que dans le coût du travail[8].
+
+### Financiarisation et bien
+commun[[modifier](/w/index.php?title=Finance&veaction=edit&section=13
+"Modifier la section : Financiarisation et bien commun") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=13 "Modifier la section :
+Financiarisation et bien commun")]
+
+Article détaillé : [Investissement socialement
+responsable](/wiki/Investissement_socialement_responsable "Investissement
+socialement responsable").
+
+Article détaillé : [Finance islamique](/wiki/Finance_islamique "Finance
+islamique").
+
+Article détaillé : [Doctrine sociale de
+l'Église](/wiki/Doctrine_sociale_de_l%27%C3%89glise "Doctrine sociale de
+l'Église").
+
+Selon l'Observatoire de la Finance[9], « la montée en puissance de pratiques,
+de techniques mais aussi de représentations et de valeurs inspirées par la
+finance se traduit par un processus de “ **financiarisation** ”.
+
+– Cette mutation a transformé l'économie et la société contemporaines en les
+organisant autour d'une nouvelle cohérence articulée sur l'efficacité
+financière et sur une vision du temps linéaire spécifique à la finance.
+
+– Cette cohérence s'approche avec la crise actuelle de son point de rupture,
+ce qui expliquerait l'atmosphère de “ fin de règne ” ressentie par certains »
+».
+
+Selon Denis Dupré, spécialiste des risques financiers et écologiques[10], la
+démesure de notre système financier reflète une « Économie-Titanic »[11] minée
+par la puissance exponentielle de l'économie nuisible. Les financiers,
+contrairement aux économistes parmi lesquels des opinions différentes
+s'expriment, forment un corps soudé d'« experts » souvent complices par leur
+silence et inaction[12] sur la lutte contre les pratiques mafieuses, la
+corruption et les paradis fiscaux[13]. La profession financière s'oppose aux
+réformes urgentes que sont notamment la mise au service des citoyens de la
+BCE[14],[15], la séparation des banques, l’interdiction de la finance
+casino[16], la réforme des marchés boursiers[17]. [Gaël
+Giraud](/wiki/Ga%C3%ABl_Giraud "Gaël Giraud") propose de considérer comme un
+bien commun la liquidité des actifs sur les marchés financiers et le
+crédit[18].
+
+### Quelle place dans l'économie
+?[[modifier](/w/index.php?title=Finance&veaction=edit&section=14 "Modifier la
+section : Quelle place dans l'économie ?") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=14 "Modifier la section :
+Quelle place dans l'économie ?")]
+
+Le débat sur la place de la finance dans l'économie se ranime chaque fois que
+surviennent des [crises financières](/wiki/Crise_financi%C3%A8re "Crise
+financière"). En [France](/wiki/France "France"), le débat a été relancé après
+la première vague de libéralisation des marchés :
+
+  * _Le Monde Affaires_ du 28 février 1987 titre ainsi : « _L'industrie malade de la finance, une déclinaison du mythe_ » de l'économiste libéral [Bertrand Jacquillat](/wiki/Bertrand_Jacquillat "Bertrand Jacquillat")[19].
+  * Paul Dembiski, fondateur de l'Observatoire de la Finance, fait paraitre un ouvrage intitulé : « _Marchés financiers, une vocation trahie ?_ »[20].
+  * _200 milliards de dollars par jour_ , du banquier [Gérard Worms](/wiki/G%C3%A9rard_Worms_\(banquier\) "Gérard Worms \(banquier\)")[21],[22].
+
+Le débat va s'amplifiant avec les polémiques soulevées par le krach boursier
+d'octobre 1987 et surtout par la [crise des
+subprimes](/wiki/Crise_des_subprimes "Crise des subprimes") de 2007-2008. Le
+poids du secteur financier dans l'ensemble des activités économiques à
+l'échelle de la planète est tel qu'il serait potentiellement créateur de
+déséquilibres pouvant conduire à des crises graves :
+
+  * Concernant le poids dans l'économie, l'économiste Thomas Philippon a calculé que le secteur financier représente 8 % du [PIB](/wiki/Produit_int%C3%A9rieur_brut "Produit intérieur brut") en 2006, probablement au moins 2 % au-dessus de la taille qu'il devrait avoir pour exercer sa tâche normale de financement de l'économie[23].
+  * Concernant l'[endettement](/wiki/Endettement "Endettement") non maitrisé - sinon le sur-endettement - de certains agents économiques (ménages, collectivités locales, voire États réputés « souverains »…) dont la charge financière fixe n'est plus compatible lorsqu'elle est excessive avec des revenus sujets aux évolutions de la [conjoncture](/wiki/Conjoncture_\(%C3%A9conomie\) "Conjoncture \(économie\)").
+  * Concernant les rémunérations, l'économiste [Thomas Philippon](/wiki/Thomas_Philippon "Thomas Philippon") (Université de New York et [École d'économie de Paris](/wiki/%C3%89cole_d%27%C3%A9conomie_de_Paris "École d'économie de Paris")) a calculé vers 2008 que les [salaires](/wiki/Salaire "Salaire") de la finance sont 40 % au-dessus de « ce à quoi on pourrait s'attendre », soit l'écart le plus important depuis 1929[24].
+  * Concernant l'emploi des diplômés, selon l'économiste [Esther Duflo](/wiki/Esther_Duflo "Esther Duflo") ([MIT](/wiki/MIT "MIT"), [École d'économie de Paris](/wiki/%C3%89cole_d%27%C3%A9conomie_de_Paris "École d'économie de Paris")), 15 % des diplômés de [Harvard](/wiki/Harvard "Harvard") de l'année 1990 travaillent dans la finance contre 5 % en 1975[25]. Elle estime que « ce que la crise révèle de manière brutale (et coûteuse) est que toute cette intelligence n'est pas employée de manière particulièrement productive »[26].
+
+Selon l'Afic, les entreprises soutenues par le [capital-
+investissement](/wiki/Capital-investissement "Capital-investissement")
+représentent 1,5 million de salariés en France en 2006[27].
+
+[Georges Pauget](/wiki/Georges_Pauget "Georges Pauget") précise que le
+[secteur financier](/wiki/Secteur_financier "Secteur financier") représente «
+1 million de collaborateurs en France »[28], dont 40 % pour le seul secteur
+bancaire[29]. Fin 2011, les [sociétés
+d'assurances](/wiki/Soci%C3%A9t%C3%A9s_d%27assurances "Sociétés d'assurances")
+avaient investi 925 milliards d'euros dans les entreprises, soit 54 % de leurs
+actifs[30].
+
+Outre l'immobilier, les Français auraient 3 600 milliards d'euros de
+placements financiers dans leur [patrimoine](/wiki/Patrimoine_\(finance\)
+"Patrimoine \(finance\)") en 2011, dont 39 % sur des comptes d'assurance-
+vie[31].
+
+## Notes et
+références[[modifier](/w/index.php?title=Finance&veaction=edit&section=15
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=15 "Modifier la section :
+Notes et références")]
+
+  1. ↑ in _Dictionnaire étymologique Larousse_ , 1971.
+  2. ↑ Philippe Wolff, « Commerce et Marchands de Toulouse », in _La France à la fin du XIVe siècle, renouveau et apogée_, Paris, Actes publiés par le CNRS, 1994.
+  3. ↑ En France, [Turgot](/wiki/Turgot "Turgot") fut l'un des premiers à penser le concept.
+  4. ↑ [Dembinski, Paul H. et Morais, Natasha (Coord.), _Sortir du dédale de la financiarisation : pour une finance au service du Bien Commun_, Observatoire de la Finance, novembre 2001.](http://infotek.fph.ch/d/f/1943/1943_FRE.pdf?public=ENG&t=.pdf)
+  5. ↑ Professeur à l'Université de Toulouse, ancien conseiller scientifique au Commissariat général du Plan et auteur de « L'Urgence industrielle », Le Bord de l'eau 2012.
+  6. ↑ Rapport présenté par Jean-philippe Cotis, Directeur Général de l'Insee au Président de la République, « Partage de la valeur ajoutée, partage des profits et écarts de rémunération en France », Insee 2010.
+  7. ↑ _Alternatives économiques_ No Hors série, 3e trimestre 2012.
+  8. ↑ G. Colettis _op. cit._
+  9. ↑ [Fondation](/wiki/Fondation_\(institution\) "Fondation \(institution\)") de droit suisse domiciliée à [Genève](/wiki/Gen%C3%A8ve "Genève") où elle jouit d'un statut d'[utilité publique](/wiki/Utilit%C3%A9_publique "Utilité publique") ([[1]](http://www.obsfin.ch)).
+  10. ↑ [« Travaux et recherches »](https://sites.google.com/site/financeresponsable/denis-dupre).
+  11. ↑ Denis Dupré, [« Une confiance arrogante, une visibilité réduite... La mondialisation c'est un peu le Titanic. Et le tiers monde, la troisième classe. L'économie Titanic a-t-elle assez de canots de sauvetage? »](http://www.liberation.fr/tribune/0101259852-une-confiance-arrogante-une-visibilite-reduite-la-mondialisation-c-est-un-peu-le-titanic-et-le-tiers-monde-la-troisieme-classe-l-economie-titanic-a-t-elle-assez-de-canots-de-sauvetage), _Libération_ , 13 octobre 1998.
+  12. ↑ Denis Dupré, [« Du sauvetage des banques au naufrage des Etats : silence des financiers et hypocrisie de l'Europe. »](https://www.lemonde.fr/idees/article/2012/07/16/du-sauvetage-des-banques-au-naufrage-des-etats-silence-des-financiers-et-hypocrisie-de-l-europe_1733314_3232.html), _Le Monde_ , 16 juillet 2012.
+  13. ↑ Denis Dupré, [« Le sauvetage des banques chypriotes a épargné les mafias, mais pas les contribuables »](https://www.lemonde.fr/economie/article/2013/04/15/le-sauvetage-des-banques-chypriotes-a-epargne-les-mafias-mais-pas-les-contribuables_3159888_3234.html), _Le Monde_ , 15 avril 2013.
+  14. ↑ Denis Dupré, [« La création monétaire ne doit pas être un crime contre les peuples, 17 février 2012 »](https://www.letemps.ch/Page/Uuid/3a348854-58e7-11e1-b40a-d17757e84d1d/La_cr%C3%A9ation_mon%C3%A9taire_ne_doit_pas_%C3%AAtre_un_crime_contre_les_peuples#.UHVfIFEQbIU), sur letemps.ch.
+  15. ↑ Denis Dupré, [« Sauver l’Europe avec la BCE dans le cadre des traités existants »](http://www.cerag.org/IMG/jpg/Le_TEMPS_121003.jpg), _Le Temps de Genève_ , 3 octobre 2012.
+  16. ↑ Denis Dupré, [Marc Chesney](/wiki/Marc_Chesney "Marc Chesney") et Paul Jorion, [« La finance Casino risque de détruire nos sociétés »](http://www.cerag.org/IMG/jpg/Le_temps_120926_Finance_Casino_16_.jpg), _Le Temps de Genève_ , 26 septembre 2012.
+  17. ↑ [Marc Chesney](/wiki/Marc_Chesney "Marc Chesney"), Denis Dupré et Olivier Taramasco, [« Arrêtons la cotation en temps continu sur les marchés financiers »](https://www.lemonde.fr/idees/article/2012/11/26/arretons-la-cotation-en-temps-continu-sur-les-marches_1796084_3232.html), Le Monde.fr, 27 novembre 2012.
+  18. ↑ [Gaël Giraud](/wiki/Ga%C3%ABl_Giraud "Gaël Giraud"), L'illusion financière, Ivry-sur-Seine, éditions de l'Atelier, 2012, 168 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-7082-4258-6](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-7082-4258-6 "Spécial:Ouvrages de référence/978-2-7082-4258-6")).
+  19. ↑ Bertrand Jacquillat Lettre d'Information de l'AFFI no 29, avril 1987
+  20. ↑ Edit FIPH, fondation pour le progrès de l'homme 
+  21. ↑ in la revue _Communications_ , 1989, numéro 50, pages 213-225]
+  22. ↑ [Gérard Worms](http://www.persee.fr/web/revues/home/prescript/article/comm_0588-8018_1989_num_50_1_1764),
+  23. ↑ Étude citée par Esther Duflo in _Libération_ , 7 octobre 2008, page 37
+  24. ↑ Étude citée par l'économiste [Esther Duflo](/wiki/Esther_Duflo "Esther Duflo") ([MIT](/wiki/MIT "MIT"), [École d'économie de Paris](/wiki/%C3%89cole_d%27%C3%A9conomie_de_Paris "École d'économie de Paris")), in _Libération_ , 7 octobre 2008, page 37 
+  25. ↑ In _Libération_ , 7 octobre 2008, page 37.
+  26. ↑ In _Libération_ , 7 octobre 2008, page 37
+  27. ↑ [PDF] [Étude du 28 novembre 2006 par l'AFIC et Ernst & Young : 4850 entreprises soutenues par le Capital Investissement emploient 1,5 million de salariés en France](http://www.afic.asso.fr/Images/Upload/DOCUMENTS/cp_poids_eco_281106.pdf)
+  28. ↑ Allocutions du 23 janvier 2013 lors de la remise du deuxième livre blanc sur l'assurance dans les locaux de [Finance Innovation](/wiki/Finance_Innovation "Finance Innovation")
+  29. ↑ [Le secteur bancaire emploie environ 390 000 personnes (chiffres FBF 2008).](http://www.cbanque.com/pratique/finance/chiffres-france-europe.php)
+  30. ↑ [Fin 2011, les sommes investies dans les entreprises atteignaient 925 milliards d'euros et représentent ainsi 54 % des actifs des sociétés d'assurances](http://www.ffsa.fr/sites/jcms/p1_673777/assurance-les-resultats-de-lannee-2011?cc=fn_7345)
+  31. ↑ « Les Français épargnent-ils trop ? » par Christian Chavagneux, in _[Alternatives économiques](/wiki/Alternatives_%C3%A9conomiques "Alternatives économiques")_ , septembre 2012, no 316, page 60.
+
+## Voir aussi[[modifier](/w/index.php?title=Finance&veaction=edit&section=16
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=16 "Modifier la section :
+Voir aussi")]
+
+Sur les autres projets Wikimedia :
+
+  * [finance](https://fr.wiktionary.org/wiki/finance "wikt:finance"), sur le Wiktionnaire
+  * [Finance](https://fr.wikiversity.org/wiki/D%C3%A9partement:Finance "v:Département:Finance"), sur Wikiversity
+  * [Finance](https://fr.wikiquote.org/wiki/Finance "q:Finance"), sur Wikiquote
+
+### Articles
+connexes[[modifier](/w/index.php?title=Finance&veaction=edit&section=17
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=17 "Modifier la section :
+Articles connexes")]
+
+  * [Autorité de contrôle prudentiel et de résolution](/wiki/Autorit%C3%A9_de_contr%C3%B4le_prudentiel_et_de_r%C3%A9solution "Autorité de contrôle prudentiel et de résolution")
+  * [Bourse des valeurs](/wiki/Bourse_des_valeurs "Bourse des valeurs") et [marché financier](/wiki/March%C3%A9_financier "Marché financier")
+  * [Conseiller en investissements financiers](/wiki/Conseiller_en_investissements_financiers "Conseiller en investissements financiers")
+  * [Crise financière](/wiki/Crise_financi%C3%A8re "Crise financière") et [risque financier](/wiki/Risque_financier "Risque financier")
+  * [Dette](/wiki/Dette "Dette") et [crédit](/wiki/Cr%C3%A9dit "Crédit")
+  * [Économie](/wiki/%C3%89conomie_\(activit%C3%A9_humaine\) "Économie \(activité humaine\)")
+  * [Épargne](/wiki/%C3%89pargne "Épargne") et [investissement](/wiki/Investissement "Investissement")
+  * [Établissement de crédit](/wiki/%C3%89tablissement_de_cr%C3%A9dit "Établissement de crédit")
+  * [Finance islamique](/wiki/Finance_islamique "Finance islamique")
+  * [Finance Watch](/wiki/Finance_Watch "Finance Watch"), association internationale de vigilance
+  * [Fonds européen de stabilité financière](/wiki/Fonds_europ%C3%A9en_de_stabilit%C3%A9_financi%C3%A8re "Fonds européen de stabilité financière")
+  * [Gouvernance financière](/wiki/Gouvernance_financi%C3%A8re "Gouvernance financière")
+  * [Intermédiaire en opérations de banque et en services de paiement](/wiki/Interm%C3%A9diaire_en_op%C3%A9rations_de_banque_et_en_services_de_paiement "Intermédiaire en opérations de banque et en services de paiement")
+  * [Monnaie](/wiki/Monnaie "Monnaie") et [banque](/wiki/Banque "Banque")
+  * Le photographe [Olivier Roller](/wiki/Olivier_Roller "Olivier Roller") a réalisé une série de portraits de financiers dans le cadre de son projet _Les Figures du Pouvoir_ : Voir [« olivier roller photographer - figure of power »](https://www.olivierroller.com/pages/financiers.html), sur www.olivierroller.com (consulté le 7 juillet 2017)
+
+### Liens
+externes[[modifier](/w/index.php?title=Finance&veaction=edit&section=18
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Finance&action=edit&section=18 "Modifier la section :
+Liens externes")]
+
+  * [Site de l'Observatoire de la Finance](http://www.obsfin.ch/FR/marchesfinanciers.html)
+  * [Site de l'Organisation « Finance Watch »](http://www.finance-watch.org)
+  * [Endettement financier et conséquences directes](http://www.interdiction-bancaire.info/)
+  * [Observatoire de l'endettement des ménages](http://www.guideducredit.com/HTMcorps/Fichiersmarche/observatoire.htm)
+
+[v](/wiki/Mod%C3%A8le:Palette_Branches_des_sciences_%C3%A9conomiques
+"Modèle:Palette Branches des sciences économiques") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Branches_des_sciences_%C3%A9conomiques&action=edit)
+
+Branches des sciences économiques  
+  
+---  
+ **[Macroéconomie](/wiki/Macro%C3%A9conomie "Macroéconomie")** ·
+**[Microéconomie](/wiki/Micro%C3%A9conomie "Microéconomie")**  
+[Économie quantitative](/wiki/%C3%89conomie_quantitative "Économie
+quantitative") · [Économie internationale](/wiki/%C3%89conomie_internationale
+"Économie internationale") · [Économie
+monétaire](/wiki/%C3%89conomie_mon%C3%A9taire "Économie monétaire") · Économie
+financière · [Économie publique](/wiki/%C3%89conomie_publique "Économie
+publique") · [Économie du bonheur ](/wiki/%C3%89conomie_du_bonheur "Économie
+du bonheur") · [Économie du bien-être](/wiki/%C3%89conomie_du_bien-%C3%AAtre
+"Économie du bien-être") · [Économie de
+l'éducation](/wiki/%C3%89conomie_de_l%27%C3%A9ducation "Économie de
+l'éducation") · [Économie du travail](/wiki/%C3%89conomie_du_travail "Économie
+du travail") · [Analyse économique du
+droit](/wiki/Analyse_%C3%A9conomique_du_droit "Analyse économique du droit") ·
+[Organisation industrielle](/wiki/Organisation_industrielle "Organisation
+industrielle") · [Économie d'entreprise](/wiki/Management "Management") ·
+[Histoire économique](/wiki/Histoire_%C3%A9conomique "Histoire économique") ·
+[Économie comportementale](/wiki/%C3%89conomie_comportementale "Économie
+comportementale") · [Économie de la culture](/wiki/%C3%89conomie_de_la_culture
+"Économie de la culture") · [Économie du
+développement](/wiki/%C3%89conomie_du_d%C3%A9veloppement "Économie du
+développement") · [Économie de
+l'environnement](/wiki/%C3%89conomie_de_l%27environnement "Économie de
+l'environnement") · [Économie
+expérimentale](/wiki/%C3%89conomie_exp%C3%A9rimentale "Économie
+expérimentale") · [Économie
+géographique](/wiki/%C3%89conomie_g%C3%A9ographique "Économie géographique") ·
+[Économie des institutions](/wiki/%C3%89conomie_des_institutions "Économie des
+institutions") · [Économie de
+l'information](/wiki/%C3%89conomie_de_l%27information "Économie de
+l'information") · [Économie politique](/wiki/%C3%89conomie_politique "Économie
+politique") · [Économie de
+l’attention](/wiki/%C3%89conomie_de_l%E2%80%99attention "Économie de
+l’attention") · [Économie circulaire](/wiki/%C3%89conomie_circulaire "Économie
+circulaire") · [Économie du savoir](/wiki/%C3%89conomie_du_savoir "Économie du
+savoir")  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Circle-icons-money.svg/24px-Circle-icons-money.svg.png)](/wiki/Portail:Finance "Portail de la finance") [Portail de la finance](/wiki/Portail:Finance "Portail:Finance")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Finance&oldid=171754650](https://fr.wikipedia.org/w/index.php?title=Finance&oldid=171754650)
+».
+
+[Catégorie](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Finance](/wiki/Cat%C3%A9gorie:Finance "Catégorie:Finance")
+
+Catégories cachées :
+
+  * [Page utilisant le modèle Citation avec un retour ligne](/wiki/Cat%C3%A9gorie:Page_utilisant_le_mod%C3%A8le_Citation_avec_un_retour_ligne "Catégorie:Page utilisant le modèle Citation avec un retour ligne")
+  * [Portail:Finance/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Finance/Articles_li%C3%A9s "Catégorie:Portail:Finance/Articles liés")
+  * [Portail:Économie/Articles liés](/wiki/Cat%C3%A9gorie:Portail:%C3%89conomie/Articles_li%C3%A9s "Catégorie:Portail:Économie/Articles liés")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Finance "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Finance "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Finance&oldid=171754650 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Finance&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Finance&id=171754650&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q43015 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Finance)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Finance&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Finance&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Finance)
+  * [Wikinews](https://fr.wikinews.org/wiki/Cat%C3%A9gorie:Finance)
+  * [Wikiquote](https://fr.wikiquote.org/wiki/Finance)
+  * [Wikiversité](https://fr.wikiversity.org/wiki/Notions_de_base_en_finance)
+
+###  Dans d’autres langues
+
+  * [Afrikaans](https://af.wikipedia.org/wiki/Finansies "Finansies — afrikaans")
+  * [Aragonés](https://an.wikipedia.org/wiki/Finanzas "Finanzas — aragonais")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%AA%D9%85%D9%88%D9%8A%D9%84 "تمويل — arabe")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Finances "Finances — asturien")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Maliyy%C9%99 "Maliyyə — azéri")
+  * [تۆرکجه](https://azb.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%DB%8C%DB%8C%D9%87 "مالییه — South Azerbaijani")
+  * [Башҡортса](https://ba.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%82%D0%B0%D1%80 "Финанстар — bachkir")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%A4%D1%96%D0%BD%D0%B0%D0%BD%D1%81%D1%8B "Фінансы — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%A4%D1%96%D0%BD%D0%B0%D0%BD%D1%81%D1%8B "Фінансы — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%B8 "Финанси — bulgare")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8 "অর্থসংস্থান — bengali")
+  * [Català](https://ca.wikipedia.org/wiki/Finances "Finances — catalan")
+  * [ᏣᎳᎩ](https://chr.wikipedia.org/wiki/%E1%8E%A0%E1%8E%B5%E1%8F%8D%E1%8F%95%E1%8E%B8%E1%8F%99%E1%8F%97_%E1%8E%A0%E1%8F%95%E1%8E%B8_%E1%8E%AC%E1%8F%97 "ᎠᎵᏍᏕᎸᏙᏗ ᎠᏕᎸ ᎬᏗ — cherokee")
+  * [Čeština](https://cs.wikipedia.org/wiki/Finance "Finance — tchèque")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Arianneg "Arianneg — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/Finansiering "Finansiering — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Finanzen "Finanzen — allemand")
+  * [Zazaki](https://diq.wikipedia.org/wiki/Finans "Finans — Zazaki")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%B7%CE%BC%CE%B1%CF%84%CE%BF%CE%BF%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CE%AC "Χρηματοοικονομικά — grec")
+  * [English](https://en.wikipedia.org/wiki/Finance "Finance — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Financoj "Financoj — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Finanzas "Finanzas — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Rahandus "Rahandus — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Finantzak "Finantzak — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4_%D9%85%D8%A7%D9%84%DB%8C "دانش مالی — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Rahoitus "Rahoitus — finnois")
+  * [Furlan](https://fur.wikipedia.org/wiki/Finance "Finance — frioulan")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/Airgeadas "Airgeadas — irlandais")
+  * [Kriyòl gwiyannen](https://gcr.wikipedia.org/wiki/Finans "Finans — créole guyanais")
+  * [Gaelg](https://gv.wikipedia.org/wiki/Argidys "Argidys — mannois")
+  * [客家語/Hak-kâ-ngî](https://hak.wikipedia.org/wiki/K%C3%AEm-y%C3%B9ng "Kîm-yùng — hakka")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%9E%D7%95%D7%9F "מימון — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%A4 "वित्त — hindi")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Financije "Financije — croate")
+  * [Magyar](https://hu.wikipedia.org/wiki/P%C3%A9nz%C3%BCgy "Pénzügy — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D5%96%D5%AB%D5%B6%D5%A1%D5%B6%D5%BD%D5%B6%D5%A5%D6%80 "Ֆինանսներ — arménien")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Keuangan "Keuangan — indonésien")
+  * [Ido](https://io.wikipedia.org/wiki/Financo "Financo — ido")
+  * [Íslenska](https://is.wikipedia.org/wiki/Fj%C3%A1rm%C3%A1l "Fjármál — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Finanza "Finanza — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E9%87%91%E8%9E%8D "金融 — japonais")
+  * [Patois](https://jam.wikipedia.org/wiki/Finans "Finans — créole jamaïcain")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%98%E1%83%9C%E1%83%90%E1%83%9C%E1%83%A1%E1%83%94%E1%83%91%E1%83%98 "ფინანსები — géorgien")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D2%9A%D0%B0%D1%80%D0%B6%D1%8B "Қаржы — kazakh")
+  * [ಕನ್ನಡ](https://kn.wikipedia.org/wiki/%E0%B2%B9%E0%B2%A3%E0%B2%95%E0%B2%BE%E0%B2%B8%E0%B3%81 "ಹಣಕಾಸು — kannada")
+  * [한국어](https://ko.wikipedia.org/wiki/%EA%B8%88%EC%9C%B5 "금융 — coréen")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B "Финансы — kirghize")
+  * [Limburgs](https://li.wikipedia.org/wiki/Finanse "Finanse — limbourgeois")
+  * [لۊری شومالی](https://lrc.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D9%92 "مالیاْ — lori du Nord")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Finansai "Finansai — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Finanses "Finanses — letton")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%A7%E0%B4%A8%E0%B4%95%E0%B4%BE%E0%B4%B0%E0%B5%8D%E0%B4%AF%E0%B4%82 "ധനകാര്യം — malayalam")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/Kewangan "Kewangan — malais")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Financi%C3%ABn "Financiën — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Finans "Finans — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Finans "Finans — norvégien bokmål")
+  * [Polski](https://pl.wikipedia.org/wiki/Finanse "Finanse — polonais")
+  * [پښتو](https://ps.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%DB%8C%D9%87 "مالیه — pachto")
+  * [Português](https://pt.wikipedia.org/wiki/Finan%C3%A7as "Finanças — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/Finan%C8%9Be "Finanțe — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B "Финансы — russe")
+  * [Саха тыла](https://sah.wikipedia.org/wiki/%D2%AE%D0%BF "Үп — iakoute")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/Finanza "Finanza — sicilien")
+  * [Scots](https://sco.wikipedia.org/wiki/Finance "Finance — écossais")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Financije "Financije — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/Finance "Finance — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Financovanie "Financovanie — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Finance "Finance — slovène")
+  * [ChiShona](https://sn.wikipedia.org/wiki/Muduso "Muduso — shona")
+  * [Shqip](https://sq.wikipedia.org/wiki/Financa "Financa — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/Finansije "Finansije — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/Finans "Finans — suédois")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BF%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D "நிதியியல் — tamoul")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99 "การเงิน — thaï")
+  * [Tagalog](https://tl.wikipedia.org/wiki/Pananalapi_\(pinansiyal\) "Pananalapi \(pinansiyal\) — tagalog")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Finans "Finans — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%A4%D1%96%D0%BD%D0%B0%D0%BD%D1%81%D0%B8 "Фінанси — ukrainien")
+  * [اردو](https://ur.wikipedia.org/wiki/%D9%81%D9%86%D8%A7%D9%86%D8%B3 "فنانس — ourdou")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Moliya "Moliya — ouzbek")
+  * [Vèneto](https://vec.wikipedia.org/wiki/Finansa "Finansa — vénitien")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/T%C3%A0i_ch%C3%ADnh "Tài chính — vietnamien")
+  * [Winaray](https://war.wikipedia.org/wiki/Finanza "Finanza — waray")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E9%87%91%E8%9E%8D "金融 — wu")
+  * [მარგალური](https://xmf.wikipedia.org/wiki/%E1%83%A4%E1%83%98%E1%83%9C%E1%83%90%E1%83%9C%E1%83%A1%E1%83%94%E1%83%A4%E1%83%98 "ფინანსეფი — mingrélien")
+  * [ייִדיש](https://yi.wikipedia.org/wiki/%D7%A4%D7%99%D7%A0%D7%90%D7%A0%D7%A5 "פינאנץ — yiddish")
+  * [Yorùbá](https://yo.wikipedia.org/wiki/%C3%8Cn%C3%A1w%C3%B3 "Ìnáwó — yoruba")
+  * [中文](https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D "金融 — chinois")
+  * [文言](https://zh-classical.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E5%AD%B8 "金融學 — Classical Chinese")
+  * [Bân-lâm-gú](https://zh-min-nan.wikipedia.org/wiki/Kim-hi%C3%B4ng "Kim-hiông — Chinese \(Min Nan\)")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E9%87%91%E8%9E%8D "金融 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q43015#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Finance "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Finance "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Finance "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Finance "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Finance)
+  * [Modifier](/w/index.php?title=Finance&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Finance&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Finance&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 7 juin 2020 à 10:03.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Finance "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Finance&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[XIIIe]: 13ᵉ siècle
+  *[XVIe]: 16ᵉ siècle
+  *[XVe]: 15ᵉ siècle
+  *[XVIIIe]: 18ᵉ siècle
+  *[XIXe]: 19ᵉ siècle
+  *[ XIVe]: Quatorzième
+  *[No]: Numéro
+  *[3e]: Troisième
+  *[p.]: pages
+  *[no]: numéro
+  *[[PDF]]: Document au format Portable Document Format (PDF) d'Adobe
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+

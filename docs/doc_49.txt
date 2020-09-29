@@ -1,0 +1,1001 @@
+# Grec ancien
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Grec](/wiki/Grec "Grec") et [grc](/wiki/Grc
+"Grc").
+
+Grec ancien  
+Ἑλληνική  
+---  
+Période  | IXe siècle av. J.-C. – VIe siècle apr. J.-C.  
+Langues filles  | [Grec de la koinè](/wiki/Koin%C3%A8_\(grec\) "Koinè
+\(grec\)")  
+Région  | [Méditerranée](/wiki/M%C3%A9diterran%C3%A9e "Méditerranée")
+orientale  
+[Typologie](/wiki/Typologie_linguistique "Typologie linguistique") |
+[SVO](/wiki/Langue_SVO "Langue SVO"), [flexionnelle](/wiki/Langue_flexionnelle
+"Langue flexionnelle"), [accusative](/wiki/Langue_accusative "Langue
+accusative"), [à accent de hauteur](/wiki/Accent_de_hauteur "Accent de
+hauteur")  
+Classification par famille  
+  
+  * - [langues indo-européennes](/wiki/Langues_indo-europ%C3%A9ennes "Langues indo-européennes")
+    * - [langues helléniques](/wiki/Langues_hell%C3%A9niques "Langues helléniques")
+      * - **grec ancien**
+
+  
+Codes de langue  
+[ISO 639-2](/wiki/ISO_639-2 "ISO 639-2") | `grc`  
+[ISO 639-3](/wiki/ISO_639-3 "ISO 639-3") |
+`[grc](http://www-01.sil.org/iso639-3/documentation.asp?id=grc)`  
+[IETF](/wiki/%C3%89tiquette_d%27identification_de_langues_IETF "Étiquette
+d'identification de langues IETF") | `grc`  
+Échantillon  
+Texte de _[Homère, Iliade 1.1](/wiki/Iliade "Iliade")_  
+  
+Μῆνιν ἄειδε, θεὰ, Πηληιάδεω Ἀχιλῆος  
+οὐλομένην, ἣ μυρί’ Ἀχαιοῖς ἄλγε’ ἔθηκε,  
+πολλὰς δ’ ἰφθίμους ψυχὰς Ἄϊδι προῒαψεν  
+ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν  
+οἰωνοῖσί τε πᾶσι· Διὸς δ’ ἐτελείετο βουλή·  
+Carte  
+[![Distribution des dialectes grecs autour de l'Égée et à Chypre, aux
+alentours de 400 av.
+J.-C.](//upload.wikimedia.org/wikipedia/commons/thumb/6/61/AncientGreekDialects_%28Woodard%29_fr.svg/langfr-280px-
+AncientGreekDialects_%28Woodard%29_fr.svg.png)](/w/index.php?title=Fichier:AncientGreekDialects_\(Woodard\)_fr.svg&lang=fr
+"Distribution des dialectes grecs autour de l'Égée et à Chypre, aux alentours
+de 400 av. J.-C.")  
+Distribution des dialectes grecs autour de l'[Égée](/wiki/Mer_%C3%89g%C3%A9e
+"Mer Égée") et à [Chypre](/wiki/Chypre_\(%C3%AEle\) "Chypre \(île\)"), [aux
+alentours de 400 av. J.-C.](/wiki/P%C3%A9riode_classique "Période classique")  
+[modifier](https://fr.wikipedia.org/w/index.php?title=Grec_ancien&action=edit&section=0)
+[![Consultez la documentation du
+modèle](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Mod%C3%A8le:Infobox_Langue "Consultez la
+documentation du modèle")  
+  
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Magna_Graecia_ancient_colonies_and_dialects-
+fr.svg/280px-Magna_Graecia_ancient_colonies_and_dialects-
+fr.svg.png)](/wiki/Fichier:Magna_Graecia_ancient_colonies_and_dialects-fr.svg)
+
+[](/wiki/Fichier:Magna_Graecia_ancient_colonies_and_dialects-fr.svg
+"Agrandir")
+
+Distribution des [dialectes du grec ancien](/wiki/Dialectes_du_grec_ancien
+"Dialectes du grec ancien") [aux alentours de 400 av.
+J.-C.](/wiki/P%C3%A9riode_classique "Période classique") en [Grande
+Grèce](/wiki/Grande_Gr%C3%A8ce "Grande Grèce").
+
+Le **grec ancien** est l’étape historique de la [langue
+grecque](/wiki/Grec_\(langue\) "Grec \(langue\)") qui s'étend du [IXe siècle
+av. J.-C.](/wiki/IXe_si%C3%A8cle_av._J.-C. "IXe siècle av. J.-C.") au [VIe
+siècle](/wiki/VIe_si%C3%A8cle "VIe siècle"). Principale langue parlée et
+écrite en [Grèce antique](/wiki/Gr%C3%A8ce_antique "Grèce antique"), elle
+devient le vecteur de la [littérature grecque
+antique](/wiki/Litt%C3%A9rature_grecque_antique "Littérature grecque antique")
+qui produit de nombreuses œuvres littéraires et scientifiques à l'influence
+durable, dont l’ _[Iliade](/wiki/Iliade "Iliade")_ et l’
+_[Odyssée](/wiki/Odyss%C3%A9e "Odyssée")_ attribuées dans
+l'[Antiquité](/wiki/Antiquit%C3%A9 "Antiquité") au poète légendaire
+[Homère](/wiki/Hom%C3%A8re "Homère"). On distingue en grec ancien plusieurs
+dialectes bien distincts, le plus employé étant
+l'[attique](/wiki/Attique_\(dialecte\) "Attique \(dialecte\)").
+
+D'abord notée à l'aide du [linéaire B](/wiki/Lin%C3%A9aire_B "Linéaire B"), un
+[syllabaire](/wiki/Syllabaire "Syllabaire"), la langue grecque antique recourt
+plus durablement à l'[alphabet grec](/wiki/Alphabet_grec "Alphabet grec"),
+influencé par l'[alphabet phénicien](/wiki/Alphabet_ph%C3%A9nicien "Alphabet
+phénicien"). En tant que [langue flexionnelle](/wiki/Langue_flexionnelle
+"Langue flexionnelle"), le grec ancien possède [trois grandes
+déclinaisons](/wiki/D%C3%A9clinaisons_du_grec_ancien "Déclinaisons du grec
+ancien") structurées selon cinq [cas](/wiki/Cas_grammatical "Cas
+grammatical"), trois [genres](/wiki/Genre_\(grammaire\) "Genre \(grammaire\)")
+(masculin, féminin et neutre) et trois [nombres](/wiki/Nombre_\(grammaire\)
+"Nombre \(grammaire\)") (singulier, duel, pluriel). Les verbes grecs anciens
+ont trois [voix](/wiki/Diath%C3%A8se "Diathèse") (active, moyenne et passive)
+et sont classés en deux grands systèmes de
+[conjugaison](/wiki/Conjugaisons_du_grec_ancien "Conjugaisons du grec ancien")
+selon qu'ils sont [thématiques](/wiki/Voyelle_th%C3%A9matique "Voyelle
+thématique") ou athématiques. La [syntaxe](/wiki/Syntaxe "Syntaxe") est très
+souple.
+
+Le grec ancien a exercé une influence durable sur de nombreuses langues
+pendant et après l'Antiquité, et cela jusqu'à nos jours. De nombreux mots ont
+été empruntés au grec ancien (parfois par l'intermédiaire du
+[latin](/wiki/Latin "Latin")). Cette langue continue d'être utilisée pour
+forger certains [néologismes](/wiki/N%C3%A9ologisme "Néologisme"), notamment
+dans le domaine des [sciences.](/wiki/Science "Science")
+
+## Sommaire
+
+  * 1 Dialectes
+  * 2 Écriture
+  * 3 Phonologie
+  * 4 Grammaire
+    * 4.1 Morphologie
+      * 4.1.1 Système nominal
+      * 4.1.2 Système verbal
+    * 4.2 Syntaxe
+  * 5 Influence du grec ancien sur les langues modernes
+    * 5.1 Mots savants et radicaux grecs
+    * 5.2 Mots courants
+    * 5.3 Le dédale synchrone du cosmos politique
+    * 5.4 Le grec ancien en Belgique
+    * 5.5 Le grec ancien en France
+    * 5.6 Le grec ancien en Suisse
+    * 5.7 Le grec ancien au Québec
+  * 6 Références
+  * 7 Annexes
+    * 7.1 Articles connexes
+    * 7.2 Bibliographie
+      * 7.2.1 Dictionnaires de grec ancien
+      * 7.2.2 Grammaires du grec ancien
+      * 7.2.3 Sur la syntaxe du grec ancien
+      * 7.2.4 Manuels de grec ancien
+      * 7.2.5 Sur l'accentuation grecque
+      * 7.2.6 Sur les particules grecques
+      * 7.2.7 Études de linguistique sur le grec ancien
+      * 7.2.8 Ouvrages grand public
+    * 7.3 Lien externe
+
+## Dialectes[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=1
+"Modifier la section : Dialectes") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=1 "Modifier la
+section : Dialectes")]
+
+Articles détaillés : [Dialectes du grec ancien](/wiki/Dialectes_du_grec_ancien
+"Dialectes du grec ancien") et [Langues
+helléniques](/wiki/Langues_hell%C3%A9niques "Langues helléniques").
+
+À l’origine, il existait une grande variété de [dialectes](/wiki/Dialecte
+"Dialecte"), regroupés en quatre groupes :
+[arcadochypriote](/wiki/Arcadochypriote "Arcadochypriote"),
+[dorien](/wiki/Doriens "Doriens"), éolien et [ionien-attique](/wiki/Ionien-
+attique "Ionien-attique")[1]. Parler _du_ grec ancien n’a pas grand sens
+lorsqu'on veut se référer à un des idiomes antiques : dans les faits,
+cependant, _le_ grec ancien désigne l’[attique](/wiki/Attique_\(dialecte\)
+"Attique \(dialecte\)") (dialecte du groupe [ionien-attique](/wiki/Ionien-
+attique "Ionien-attique")), langue de l’[Athènes
+antique](/wiki/D%C3%A9mocratie_ath%C3%A9nienne "Démocratie athénienne"). C'est
+en effet la langue dans laquelle est écrite la majeure partie de la
+[littérature grecque](/wiki/Litt%C3%A9rature_grecque "Littérature grecque")
+classique[1]. Pendant la [période
+hellénistique](/wiki/P%C3%A9riode_hell%C3%A9nistique "Période hellénistique")
+et le brassage des populations hellénophones en résultant, la
+_[koinè](/wiki/Koin%C3%A8\(grec\) "Koinè\(grec\)")_ , langue commune (c’est le
+sens de l'adjectif κοινός, _koinós_ ) issue de plusieurs dialectes du groupe
+ionien-attique, s'est progressivement imposée au détriment des dialectes,
+devenant ainsi la _[lingua franca](/wiki/Langue_v%C3%A9hiculaire "Langue
+véhiculaire")_ de l’[Antiquité](/wiki/Antiquit%C3%A9 "Antiquité"), en
+concurrence avec le [latin](/wiki/Latin "Latin")[1].
+
+La _koinè_ est ensuite devenue [langue officielle](/wiki/Langue_officielle
+"Langue officielle") de l’[Empire romain
+d'Orient](/wiki/Empire_romain_d%27Orient "Empire romain d'Orient") avant de
+continuer d’évoluer pour donner naissance au [grec moderne](/wiki/Grec_moderne
+"Grec moderne") d’aujourd’hui[1].
+
+## Écriture[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=2
+"Modifier la section : Écriture") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=2 "Modifier la
+section : Écriture")]
+
+Article détaillé : [Alphabet grec](/wiki/Alphabet_grec "Alphabet grec").
+
+La première forme d'écriture attestée pour noter un dialecte grec est le
+[linéaire B](/wiki/Lin%C3%A9aire_B "Linéaire B"), un
+[syllabaire](/wiki/Syllabaire "Syllabaire") sans rapport avec l'[alphabet
+grec](/wiki/Alphabet_grec "Alphabet grec"), servant à transcrire le
+[mycénien](/wiki/Myc%C3%A9nien "Mycénien"), forme archaïque d'un dialecte
+[arcadochypriote](/wiki/Arcadochypriote "Arcadochypriote") utilisée en Grèce
+continentale et en [Crète](/wiki/Cr%C3%A8te "Crète") entre environ 1550 et
+1200 av. J.-C. Entre 800 et 200 av. J.-C., une écriture proche, le [syllabaire
+chypriote](/wiki/Syllabaire_chypriote "Syllabaire chypriote"), a été utilisée
+à [Chypre](/wiki/%C3%8Ele_de_Chypre "Île de Chypre") pour transcrire le grec
+et l'[étéochypriote](/wiki/%C3%89t%C3%A9ochypriote "Étéochypriote") (une
+langue non [indo-européenne](/wiki/Langues_indo-europ%C3%A9ennes "Langues
+indo-européennes") partiellement déchiffrée, peut-être apparentée au
+[lemnien](/wiki/Lemnien "Lemnien") et à l'[étrusque](/wiki/%C3%89trusque
+"Étrusque")).
+
+Des écritures plus anciennes ont existé en Grèce, mais n'ont vraisemblablement
+pas servi à noter du grec :
+
+  * le [linéaire A](/wiki/Lin%C3%A9aire_A "Linéaire A") (entre 1800 et 1450 av. J.-C., en Crète et dans des [îles Égéennes](/wiki/%C3%8Eles_%C3%89g%C3%A9ennes "Îles Égéennes")) ;
+  * le [crétois hiéroglyphique](/wiki/Hi%C3%A9roglyphes_cr%C3%A9tois "Hiéroglyphes crétois") (entre 1750 et 1600 av.J.-C. en [Crète](/wiki/Cr%C3%A8te "Crète")) ;
+  * le [disque de Phaistos](/wiki/Disque_de_Phaistos "Disque de Phaistos") (datation discutée) comporte une écriture sans autre exemple ;
+  * le [syllabaire chypro-minoen](/wiki/Syllabaire_chypro-minoen "Syllabaire chypro-minoen"), quelquefois appelé linéaire C (entre 1500 et 1200 av. J.-C., à [Chypre](/wiki/Chypre_\(pays\) "Chypre \(pays\)")), peut-être dérivé du linéaire A et vraisemblablement à l'origine du syllabaire chypriote plus tardif. Il servait probablement à noter une forme primitive d'[étéochypriote](/wiki/%C3%89t%C3%A9ochypriote "Étéochypriote").
+
+Toutes ces écritures étaient vraisemblablement de nature
+[syllabique](/wiki/Syllabaire "Syllabaire").
+
+C'est ensuite l'[alphabet grec](/wiki/Alphabet_grec "Alphabet grec"), hérité
+des [Phéniciens](/wiki/Ph%C3%A9niciens "Phéniciens") et de [leur
+alphabet](/wiki/Alphabet_ph%C3%A9nicien "Alphabet phénicien"), qui a été
+utilisé sous différentes versions (dites
+[épichoriques](/wiki/Alphabets_%C3%A9pichoriques "Alphabets épichoriques")) à
+partir du [IXe siècle av. J.-C.](/wiki/IXe_si%C3%A8cle_av._J.-C. "IXe siècle
+av. J.-C.") ou du [VIIIe siècle av. J.-C.](/wiki/VIIIe_si%C3%A8cle_av._J.-C.
+"VIIIe siècle av. J.-C.") puis a été normalisé et imposé au reste du monde
+hellénophone par [Athènes](/wiki/Ath%C3%A8nes_antique "Athènes antique") en
+403 av. J.-C[2]. En ajoutant des voyelles à cet [abjad](/wiki/Abjad "Abjad")
+sémitique, les Grecs sont les inventeurs des alphabets occidentaux. En effet,
+emprunté par les [Étrusques](/wiki/%C3%89trusques "Étrusques") (cf. [Alphabet
+étrusque](/wiki/Alphabet_%C3%A9trusque "Alphabet étrusque")), qui l'ont
+transmis aux [Romains](/wiki/Empire_romain "Empire romain"), il a donné
+naissance à l'[alphabet latin](/wiki/Alphabet_latin "Alphabet latin") mais
+aussi, sans passer par les Étrusques, à l'[alphabet
+gotique](/wiki/Alphabet_gotique "Alphabet gotique"), à l'[alphabet
+cyrillique](/wiki/Alphabet_cyrillique "Alphabet cyrillique"), à l'[alphabet
+copte](/wiki/Alphabet_copte "Alphabet copte"), etc.
+
+L'[histoire de l'alphabet grec](/wiki/Histoire_de_l%27alphabet_grec "Histoire
+de l'alphabet grec") constitue un article séparé.
+
+##
+Phonologie[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=3
+"Modifier la section : Phonologie") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=3 "Modifier la
+section : Phonologie")]
+
+Articles détaillés : [Accentuation du grec
+ancien](/wiki/Accentuation_du_grec_ancien "Accentuation du grec ancien") et
+[Phonologie du grec ancien](/wiki/Phonologie_du_grec_ancien "Phonologie du
+grec ancien").
+
+Le grec ancien est une langue à [accent de hauteur](/wiki/Accent_de_hauteur
+"Accent de hauteur") possédant deux intonations : aiguë et circonflexe[3]. Il
+se caractérise aussi par un système de [consonnes
+aspirées](/wiki/Consonne_aspir%C3%A9e "Consonne aspirée") et par un jeu
+d'oppositions de [quantités vocaliques](/wiki/Quantit%C3%A9_vocalique
+"Quantité vocalique"). Il existe plusieurs règles de [sandhi](/wiki/Sandhi
+"Sandhi"), tant internes qu'externes.
+
+En passant de l'[indo-européen commun](/wiki/Indo-europ%C3%A9en_commun "Indo-
+européen commun") au grec ancien, la langue a subi de nombreuses
+[modifications phonétiques](/wiki/Modification_phon%C3%A9tique "Modification
+phonétique") dont les plus flagrantes sont décrites par la [loi de
+Grassmann](/wiki/Loi_de_Grassmann "Loi de Grassmann"), la [loi
+d'Osthoff](/wiki/Loi_d%27Osthoff "Loi d'Osthoff") et la [loi de
+Rix](/w/index.php?title=Loi_de_Rix&action=edit&redlink=1 "Loi de Rix \(page
+inexistante\)"). On note d'autre part qu'il permet de restituer dans de
+nombreux cas la coloration des [laryngales](/wiki/Laryngale "Laryngale") indo-
+européennes. Enfin, c'est une [langue centum](/wiki/Langues_satem/centum
+"Langues satem/centum").
+
+## Grammaire[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=4
+"Modifier la section : Grammaire") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=4 "Modifier la
+section : Grammaire")]
+
+Article détaillé : [Grammaire du grec ancien](/wiki/Grammaire_du_grec_ancien
+"Grammaire du grec ancien").
+
+###
+Morphologie[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=5
+"Modifier la section : Morphologie") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=5 "Modifier la
+section : Morphologie")]
+
+Comme d'autres [langues indo-européennes](/wiki/Langues_indo-europ%C3%A9ennes
+"Langues indo-européennes") anciennes, le grec est hautement
+[flexionnel](/wiki/Langue_flexionnelle "Langue flexionnelle"). Outre
+l'utilisation de [désinences](/wiki/D%C3%A9sinence "Désinence"), le grec se
+caractérise par des procédés hérités de l'indo-européen commun comme
+l'[alternance vocalique](/wiki/Alternance_vocalique "Alternance vocalique") et
+l'utilisation du [redoublement](/wiki/Redoublement_\(linguistique\)
+"Redoublement \(linguistique\)").
+
+#### Système
+nominal[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=6
+"Modifier la section : Système nominal") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=6 "Modifier la
+section : Système nominal")]
+
+Article détaillé : [Déclinaisons du grec
+ancien](/wiki/D%C3%A9clinaisons_du_grec_ancien "Déclinaisons du grec ancien").
+
+Les noms possèdent cinq [cas](/wiki/Cas_grammatical "Cas grammatical")
+([nominatif](/wiki/Nominatif "Nominatif"), [vocatif](/wiki/Vocatif "Vocatif"),
+[accusatif](/wiki/Accusatif "Accusatif"), [génitif](/wiki/G%C3%A9nitif
+"Génitif") et [datif](/wiki/Datif "Datif"))[4], trois
+[genres](/wiki/Genre_\(grammaire\) "Genre \(grammaire\)") (masculin, féminin
+et neutre)[5] et trois [nombres](/wiki/Nombre_\(grammaire\) "Nombre
+\(grammaire\)") (singulier, duel, pluriel)[6]. Le grec moderne n'utilise plus
+le [datif](/wiki/Datif "Datif"), excepté dans quelques expressions comme _en
+taxei_ , mais les autres cas sont généralement conservés.
+
+On compte trois grands types de
+[déclinaisons](/wiki/D%C3%A9clinaisons_en_grec_moderne "Déclinaisons en grec
+moderne"), tant pour les noms que les adjectifs (type en -α / -η, type
+[thématique](/wiki/Voyelle_th%C3%A9matique "Voyelle thématique") en -ος et
+type athématique), lesquels possèdent plusieurs sous-types. Les pronoms
+suivent un système qui leur est propre et qui, ayant influencé les types
+nominaux, n'en sont pas très éloignés.
+
+#### Système
+verbal[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=7
+"Modifier la section : Système verbal") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=7 "Modifier la
+section : Système verbal")]
+
+Article détaillé : [Conjugaisons du grec
+ancien](/wiki/Conjugaisons_du_grec_ancien "Conjugaisons du grec ancien").
+
+Les verbes ont trois [voix](/wiki/Diath%C3%A8se "Diathèse") (active, moyenne
+et passive), trois [personnes](/wiki/Personne_\(grammaire\) "Personne
+\(grammaire\)") et trois [nombres](/wiki/Nombre_\(grammaire\) "Nombre
+\(grammaire\)")[7]. Ils se conjuguent selon six
+[modes](/wiki/Mode_\(grammaire\) "Mode \(grammaire\)") : quatre personnels
+([indicatif](/wiki/Indicatif_\(conjugaison\) "Indicatif \(conjugaison\)"),
+[impératif](/wiki/Imp%C3%A9ratif_\(grammaire\) "Impératif \(grammaire\)"),
+[subjonctif](/wiki/Subjonctif "Subjonctif") et [optatif](/wiki/Optatif
+"Optatif")) et deux [impersonnels](/wiki/Personne_\(grammaire\) "Personne
+\(grammaire\)") ([infinitif](/wiki/Infinitif "Infinitif") et
+[participe](/wiki/Participe "Participe"))[7]. Il existe sept
+[temps](/wiki/Temps_\(grammaire\) "Temps \(grammaire\)")
+([présent](/wiki/Pr%C3%A9sent_\(linguistique\) "Présent \(linguistique\)"),
+[imparfait](/wiki/Imparfait "Imparfait"), [aoriste](/wiki/Aoriste "Aoriste"),
+[futur simple](/wiki/Futur_\(grammaire\) "Futur \(grammaire\)"),
+[parfait](/wiki/Parfait_\(grammaire\) "Parfait \(grammaire\)"), [plus-que-
+parfait](/wiki/Plus-que-parfait "Plus-que-parfait"), et [futur
+antérieur](/wiki/Futur_ant%C3%A9rieur "Futur antérieur"), ces deux derniers
+étant rarement usés), qui n'existent toutefois pas à tous les modes.
+
+Outre le temps, le verbe exprime surtout trois [aspects](/wiki/Aspect
+"Aspect") ([imperfectif](/wiki/Imperfectif "Imperfectif"),
+[perfectif](/wiki/Perfectif "Perfectif") et [statique](/wiki/Statique
+"Statique"))[7] et, comme toutes les langues, plusieurs modes de procès
+([inchoatif](/wiki/Inchoatif "Inchoatif"), [itératif](/wiki/It%C3%A9ratif
+"Itératif"), [fréquentatif](/wiki/Fr%C3%A9quentatif "Fréquentatif"), etc.).
+Seul l'indicatif marque toujours le temps ; aux autres modes, c'est l'aspect
+qui est généralement indiqué.
+
+Il existe deux grandes catégories de conjugaisons : les
+[thématiques](/wiki/Voyelle_th%C3%A9matique "Voyelle thématique") (ou _verbes
+en -ω_ ) et les athématiques (dits _verbes en -μι_ )[8] : les verbes
+thématiques se caractérisent par la présence d'une voyelle avant la désinence,
+absente dans les verbes athématiques. Ces catégories se divisent en un grand
+nombre de sous-catégories. Le système verbal est très complexe car la flexion
+met en œuvre de nombreux procédés comme l'[alternance
+vocalique](/wiki/Alternance_vocalique "Alternance vocalique"), la
+[suffixation](/wiki/Affixe "Affixe") par le jeu de
+[désinences](/wiki/D%C3%A9sinence "Désinence"), l'utilisation d'une [voyelle
+thématique](/wiki/Voyelle_th%C3%A9matique "Voyelle thématique"), celle de
+l'[augment](/wiki/Augment "Augment") et du
+[redoublement](/wiki/Redoublement_\(linguistique\) "Redoublement
+\(linguistique\)"). À tous ces procédés s'ajoutent des [modifications
+phonétiques](/wiki/Modification_phon%C3%A9tique "Modification phonétique")
+importantes au sein d'un même [paradigme](/wiki/Paradigme "Paradigme").
+
+En sorte, il n'est pas exagéré de dire qu'il existe plus de [verbes
+irréguliers](/wiki/Verbe_irr%C3%A9gulier "Verbe irrégulier") que de verbes
+réguliers, si du moins on s'en tient à la définition de verbe irrégulier ayant
+cours dans la [grammaire française](/wiki/Grammaire_fran%C3%A7aise "Grammaire
+française").
+
+### Syntaxe[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=8
+"Modifier la section : Syntaxe") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=8 "Modifier la
+section : Syntaxe")]
+
+Cette section est vide, insuffisamment détaillée ou incomplète. [Votre
+aide](/wiki/Sp%C3%A9cial:EditPage/Grec_ancien "Spécial:EditPage/Grec ancien")
+est la bienvenue ! [Comment faire ?](/wiki/Aide:Comment_modifier_une_page
+"Aide:Comment modifier une page")
+
+Tout ceci est donné à titre indicatif, car comme de nombreuses langues
+flexionnelles, le grec ancien s'accorde une grande liberté dans la place des
+groupes.
+
+Pour les verbes, le grec met souvent le verbe en fin de proposition, qu'elle
+soit principale ou subordonnée, mais bien moins systématiquement que le latin.
+Il existe une exception pour les impératifs et les verbes à tournure
+impersonnelle (comme le verbe « être » : _ἐστί_ , « il/elle est », traduisible
+par « il y a ») qui sont généralement en tête de proposition.
+
+Règle du génitif enclavé : le génitif se place sous l’article, soit entre
+l’article et le mot désignant le possesseur, soit après répétition de
+l’article[9]. Dans le groupe nominal « le fils du citoyen » on écrira en grec
+: _Ὁ τοῦ πολίτου υἱός_ , littéralement « le du citoyen fils » ; mais il est
+également possible de positionner le génitif après répétition de l'article,
+par exemple : _Ὁ υἱός ὁ τοῦ πολίτου_ , « le fils le du citoyen ». L’adjectif
+quant à lui, se place généralement soit entre l'article et le nom (τὸ μικρὸν
+ἄνθος : la petite fleur), ou bien après le nom avec une répétition de
+l’article ( _τὸ ἄνθος τὸ μικρόν_ , littéralement « la fleur la petite »).
+
+Pour les particularités de la négation en grec ancien : voir _[Négation
+(linguistique)](/wiki/N%C3%A9gation_\(linguistique\)#En_grec_ancien "Négation
+\(linguistique\)")_.
+
+Le grec ancien se caractérise également par le maintien d’une règle de l’indo-
+européen commun, qui stipule qu’un verbe dont le sujet est un nom neutre
+pluriel ne se conjugue pas au pluriel mais au singulier[10]. Voir l’article
+consacré à la règle dite « _[Τὰ ζῷα
+τρέχει](/wiki/%CE%A4%E1%BD%B0_%CE%B6%E1%BF%B7%CE%B1_%CF%84%CF%81%CE%AD%CF%87%CE%B5%CE%B9
+"Τὰ ζῷα τρέχει")_ ».
+
+## Influence du grec ancien sur les langues
+modernes[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=9
+"Modifier la section : Influence du grec ancien sur les langues modernes") |
+[modifier le code](/w/index.php?title=Grec_ancien&action=edit&section=9
+"Modifier la section : Influence du grec ancien sur les langues modernes")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Beginning_Odyssey.svg/220px-
+Beginning_Odyssey.svg.png)](/wiki/Fichier:Beginning_Odyssey.svg)
+
+[](/wiki/Fichier:Beginning_Odyssey.svg "Agrandir")
+
+Les neuf premiers vers de l’ _[Odyssée](/wiki/Odyss%C3%A9e "Odyssée")_
+d'[Homère](/wiki/Hom%C3%A8re "Homère").
+
+### Mots savants et radicaux
+grecs[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=10
+"Modifier la section : Mots savants et radicaux grecs") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=10 "Modifier la
+section : Mots savants et radicaux grecs")]
+
+Un grand nombre de mots en [latin](/wiki/Latin "Latin"),
+[français](/wiki/Fran%C3%A7ais "Français") et [anglais](/wiki/Anglais
+"Anglais"), pour ne citer que ceux-là, sont d'origine grecque, et la majorité
+des [néologismes](/wiki/N%C3%A9ologisme "Néologisme") savants utilisés de par
+le monde est bâtie sur des radicaux grecs (souvent mêlés de radicaux latins).
+Seules quelques langues européennes, comme l'[islandais](/wiki/Islandais
+"Islandais"), de manière systématique, et, dans une moindre mesure,
+l'[allemand](/wiki/Allemand "Allemand"), le [turc](/wiki/Turc "Turc"), le
+[tchèque](/wiki/Tch%C3%A8que "Tchèque") et le [croate](/wiki/Croate "Croate"),
+n'utilisent pas ces radicaux mais traduisent par
+[calque](/wiki/Calque_\(linguistique\) "Calque \(linguistique\)") les termes
+savants grecs au moyen de [radicaux](/wiki/Racine_\(linguistique\) "Racine
+\(linguistique\)") qui leur sont propres.
+
+### Mots
+courants[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=11
+"Modifier la section : Mots courants") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=11 "Modifier la
+section : Mots courants")]
+
+Des mots comme « [boutique](/wiki/Commerce_de_d%C3%A9tail "Commerce de
+détail") », « [caractère](/wiki/Caract%C3%A8re_ph%C3%A9notypique "Caractère
+phénotypique") » ou « [beurre](/wiki/Beurre "Beurre") » viendraient aussi du
+grec ancien. Passés par le latin et hérités comme tel dans la langue française
+(via d’autres langues, comme l’[occitan](/wiki/Occitan "Occitan")), ils ont
+subi les mêmes [modifications
+phonétiques](/wiki/Modifications_phon%C3%A9tiques "Modifications phonétiques")
+que les autres mots hérités et sont maintenant très éloignés de leur étymon
+grec puisqu'il faut reconnaître derrière chacun d’entre eux : ἀποθήκη,
+_apothếkê_ ; χαρακτήρ, _kharaktếr_ et βούτυρον, _boúturon_.
+
+### Le dédale synchrone du cosmos
+politique[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=12
+"Modifier la section : Le dédale synchrone du cosmos politique") | [modifier
+le code](/w/index.php?title=Grec_ancien&action=edit&section=12 "Modifier la
+section : Le dédale synchrone du cosmos politique")]
+
+Voici, pour illustrer la prégnance du grec dans les langues occidentales, la
+traduction en français d'un texte anglais de [Xenophón
+Zolótas](/wiki/Xenoph%C3%B3n_Zol%C3%B3tas "Xenophón Zolótas") (Ξενοφών
+Ζολώτας) dans lequel chaque mot (hormis les [mots-outils](/wiki/Mot-outil
+"Mot-outil")) est d’origine grecque [11] :
+
+> « Kyrié, sans apostropher ma rhétorique dans l’emphase et la pléthore,
+> j’analyserai elliptiquement, sans nul gallicisme, le dédale synchrone du
+> cosmos politique caractérisé par des syndromes de crise paralysant
+> l’organisation systématique de notre économie. Nous sommes périodiquement
+> sceptiques et neurasthéniques devant ces paroxysmes périphrastiques, cette
+> boulimie des démagogues, ces hyperboles, ces paradoxes hypocrites et
+> cyniques qui symbolisent une démocratie anachronique et chaotique. Les
+> phénomènes fantastiques qu’on nous prophétise pour l’époque astronomique
+> détrôneront les programmes rachitiques, hybrides et sporadiques de notre
+> cycle atomique. Seule une panacée authentique et draconienne métamorphosera
+> cette agonie prodrome de l’apocalypse et une genèse homologue du Phénix. Les
+> économistes technocrates seront les stratèges d’un théâtre polémique et
+> dynamique et non les prosélytes du marasme. Autochtones helléniques, dans
+> une apologie cathartique, psalmodions les théorèmes de la démocratie
+> thésaurisante et héroïque, soyons allergiques aux parasites allogènes dont
+> les sophismes trop hyalins n’ont qu’une pseudodialectique. En épilogue à ces
+> agapes, mon amphore à l’apogée, je prophétise toute euphorie et apothéose à
+> Monsieur Giscard d’Estaing, prototype enthousiasmant de la néo-orthodoxie
+> économique et symbole de la palingénésie de son ethnie gallique. »
+
+### Le grec ancien en
+Belgique[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=13
+"Modifier la section : Le grec ancien en Belgique") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=13 "Modifier la
+section : Le grec ancien en Belgique")]
+
+En Belgique, la section latin-grec est l'une des branches possibles dans
+l'enseignement secondaire général : le grec s'y enseigne à partir de la 3e
+année (dans la numérotation "moderne" 1-2-3-4-5-6). Le grec ancien s'enseigne
+bien sûr aussi à l'université, en philologie classique.
+
+### Le grec ancien en
+France[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=14
+"Modifier la section : Le grec ancien en France") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=14 "Modifier la
+section : Le grec ancien en France")]
+
+En [France](/wiki/France "France"), l'enseignement du grec ancien est proposé
+dans quelques [collèges](/wiki/Coll%C3%A8ge_en_France "Collège en France") et
+[lycées](/wiki/Lyc%C3%A9e_en_France "Lycée en France"). Les élèves peuvent le
+débuter dès la troisième ou la seconde et le passer en option pour le
+[baccalauréat](/wiki/Baccalaur%C3%A9at_en_France "Baccalauréat en France"). Il
+s'apprend aussi dans l'enseignement supérieur pour que les universitaires
+puissent avoir accès aux textes originaux et en établir des éditions
+scientifiques.
+
+### Le grec ancien en
+Suisse[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=15
+"Modifier la section : Le grec ancien en Suisse") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=15 "Modifier la
+section : Le grec ancien en Suisse")]
+
+Le grec ancien est une option spécifique dans les établissements
+d'enseignements secondaires préparant à la [maturité
+gymnasiale](/wiki/Maturit%C3%A9_gymnasiale_en_Suisse "Maturité gymnasiale en
+Suisse"), et peut être choisi comme sujet d'examen pour ce diplôme.
+
+### Le grec ancien au
+Québec[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=16
+"Modifier la section : Le grec ancien au Québec") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=16 "Modifier la
+section : Le grec ancien au Québec")]
+
+Au [Québec](/wiki/Qu%C3%A9bec "Québec"), le grec ancien est toujours enseigné
+à l'[Université Laval](/wiki/Universit%C3%A9_Laval "Université Laval"),
+l'[Université de Montréal](/wiki/Universit%C3%A9_de_Montr%C3%A9al "Université
+de Montréal"), l'[Université Concordia](/wiki/Universit%C3%A9_Concordia
+"Université Concordia") et l'[Université McGill](/wiki/Universit%C3%A9_McGill
+"Université McGill") au sein des premier et second cycles selon les
+universités. Il s'agissait d'une matière obligatoire du [cours
+classique](/wiki/Cours_classique "Cours classique") aux côtés du
+[latin](/wiki/Latin "Latin"), mais son enseignement fut abandonné dans les
+années 1960 après la création des [cégeps](/wiki/CEGEP "CEGEP").
+
+##
+Références[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=17
+"Modifier la section : Références") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=17 "Modifier la
+section : Références")]
+
+  1. ↑ a b c et d Vernhes 2016, p. XI
+  2. ↑ Vernhes 2016, p. 1
+  3. ↑ Vernhes 2016, p. 5
+  4. ↑ Vernhes 2016, p. 17-18
+  5. ↑ Vernhes 2016, p. 26
+  6. ↑ Vernhes 2016, p. 21
+  7. ↑ a b et c Vernhes 2016, p. 30
+  8. ↑ Vernhes 2016, p. 31
+  9. ↑ Vernhes 2016, p. 18
+  10. ↑ Vernhes 2016, p. 27
+  11. ↑ Quentin Ludwig, _Les racines grecques du français : une étymologie toujours vivante_, Eyrolles, 2007, page 43. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2212536751](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2212536751 "Spécial:Ouvrages de référence/978-2212536751"))
+
+## Annexes[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=18
+"Modifier la section : Annexes") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=18 "Modifier la
+section : Annexes")]
+
+Sur les autres projets Wikimedia :
+
+  * [Grec ancien](https://fr.wikiversity.org/wiki/D%C3%A9partement:Grec_ancien "v:Département:Grec ancien"), sur Wikiversity
+  * [Apprendre et parler le grec ancien](https://fr.wikibooks.org/wiki/Grec_ancien "b:Grec ancien"), sur Wikibooks
+  * [Littérature grecque](https://fr.wikisource.org/wiki/Cat%C3%A9gorie:Litt%C3%A9rature_grecque "s:Catégorie:Littérature grecque"), sur Wikisource
+  * [Textes bilingues français et grec](https://fr.wikisource.org/wiki/Cat%C3%A9gorie:%C3%89ditions_bilingues_fran%C3%A7ais_grec "s:Catégorie:Éditions bilingues français grec"), sur Wikisource
+
+![](//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-
+logo.svg/35px-Incubator-logo.svg.png)
+
+_**[Wikipédia en Grec ancien](https://incubator.wikimedia.org/wiki/Wp/grc
+"incubator:Wp/grc")**_ dans l'Incubateur de Wikimedia.
+
+### Articles
+connexes[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=19
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=19 "Modifier la
+section : Articles connexes")]
+
+  * [dialectes du grec ancien](/wiki/Dialectes_du_grec_ancien "Dialectes du grec ancien") ;
+  * [déclinaisons du grec ancien](/wiki/D%C3%A9clinaisons_du_grec_ancien "Déclinaisons du grec ancien") ;
+  * [conjugaisons du grec ancien](/wiki/Conjugaisons_du_grec_ancien "Conjugaisons du grec ancien") ;
+  * [particularités de la négation en grec ancien](/wiki/N%C3%A9gation_\(linguistique\)#En_grec_ancien "Négation \(linguistique\)") ;
+  * [phonologie du grec ancien](/wiki/Phonologie_du_grec_ancien "Phonologie du grec ancien"), [accentuation du grec](/wiki/Accentuation_du_grec "Accentuation du grec") ;
+  * [alphabet grec](/wiki/Alphabet_grec "Alphabet grec"), [diacritiques de l'alphabet grec](/wiki/Diacritiques_de_l%27alphabet_grec "Diacritiques de l'alphabet grec"), [lettres supplémentaires de l'alphabet grec](/wiki/Lettres_suppl%C3%A9mentaires_de_l%27alphabet_grec "Lettres supplémentaires de l'alphabet grec") et [histoire de l'alphabet grec](/wiki/Histoire_de_l%27alphabet_grec "Histoire de l'alphabet grec") ;
+  * [Numération grecque](/wiki/Num%C3%A9ration_grecque "Numération grecque") ;
+  * [littérature grecque](/wiki/Litt%C3%A9rature_grecque "Littérature grecque").
+  * [Langue morte](/wiki/Langue_morte "Langue morte")
+
+###
+Bibliographie[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=20
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=20 "Modifier la
+section : Bibliographie")]
+
+![Document utilisé pour la rédaction de
+l’article](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-
+Icon_flat_design_plume.svg.png) : document utilisé comme source pour la
+rédaction de cet article.
+
+#### Dictionnaires de grec
+ancien[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=21
+"Modifier la section : Dictionnaires de grec ancien") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=21 "Modifier la
+section : Dictionnaires de grec ancien")]
+
+  * [Henri Estienne](/wiki/Henri_Estienne "Henri Estienne"), _Thesaurus linguæ græcæ_ , 1572. C'est le plus complet des dictionnaires de la langue grecque[[réf. nécessaire]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire "Aide:Référence nécessaire"). Il fut réédité en 2008 par l'éditeur italien [La scula di Pitagora](http://www.scuoladipitagora.it/) en 9 volumes.
+  * [Anatole Bailly](/wiki/Anatole_Bailly "Anatole Bailly") (dir.), _Dictionnaire grec-français_ , Paris, Hachette, 1895 (nombreuses rééditions, plusieurs refontes).
+
+#### Grammaires du grec
+ancien[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=22
+"Modifier la section : Grammaires du grec ancien") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=22 "Modifier la
+section : Grammaires du grec ancien")]
+
+  * Éloi Ragon, _Grammaire grecque_ , Paris, De Gigord, 1889 (édition refondue par A. Dain, J. De Foucault et P. Poulain en 1951).
+  * Jean Allard et F. de Feuillâtre, _Grammaire grecque_ , Paris, Hachette, 1944 (deuxième version refondue en 1963).
+  * A. L. Sihler, _New Comparative Grammar of Greek and Latin_ , Oxford, Oxford University Press, 1995.
+  * Ch. Van de Vorst, _Grammaire grecque_ , H. Dessain, 1987, ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-502-07001-5](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-502-07001-5 "Spécial:Ouvrages de référence/2-502-07001-5"))
+
+#### Sur la syntaxe du grec
+ancien[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=23
+"Modifier la section : Sur la syntaxe du grec ancien") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=23 "Modifier la
+section : Sur la syntaxe du grec ancien")]
+
+  * Jean Humbert, _Syntaxe grecque_ , Paris, [Klincksieck](/wiki/Klincksieck "Klincksieck"), 1945 (3e éd. 1960).
+  * [Marcel Bizos](/wiki/Marcel_Bizos "Marcel Bizos"), _Syntaxe grecque_ , Paris, Vuibert, 1947.
+
+#### Manuels de grec
+ancien[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=24
+"Modifier la section : Manuels de grec ancien") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=24 "Modifier la
+section : Manuels de grec ancien")]
+
+  * Jean-Victor Vernhes, Ἕρμαιον : Initiation au grec ancien, Paris, Éditions Ophrys, 2016 (1re éd. 1976), 421 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-7080-0728-4](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-7080-0728-4 "Spécial:Ouvrages de référence/978-2-7080-0728-4"), [lire en ligne](https://books.google.com/books?id=mgajCgAAQBAJ&printsec=frontcover)). ![](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-Icon_flat_design_plume.svg.png).
+
+#### Sur l'accentuation
+grecque[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=25
+"Modifier la section : Sur l'accentuation grecque") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=25 "Modifier la
+section : Sur l'accentuation grecque")]
+
+  * Michel Lejeune, _Précis d'accentuation grecque_ , Paris, Hachette, 1945.
+
+#### Sur les particules
+grecques[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=26
+"Modifier la section : Sur les particules grecques") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=26 "Modifier la
+section : Sur les particules grecques")]
+
+  * John Dewar Denniston, _Greek Particles_ , Oxford, Clarendon Press, 1934 (2e éd. 1954).
+
+#### Études de linguistique sur le grec
+ancien[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=27
+"Modifier la section : Études de linguistique sur le grec ancien") | [modifier
+le code](/w/index.php?title=Grec_ancien&action=edit&section=27 "Modifier la
+section : Études de linguistique sur le grec ancien")]
+
+  * [Pierre Chantraine](/wiki/Pierre_Chantraine "Pierre Chantraine"), _Dictionnaire étymologique de la langue grecque_ , Paris, Klincksieck, 1968 (3e éd., 1980 ; nouvelle éd. avec un supplément, 2009).
+  * [Charles de Lamberterie](/wiki/Charles_de_Lamberterie "Charles de Lamberterie"), « Le grec ancien », dans _Dictionnaire des langues_ , Paris, PUF, 2011, p. 487–498.
+  * M. Meier-Brügger, _Griechische Sprachwissenschaft_ , 2 vol., Berlin, Walter de Gruyter, 1992.
+  * Antoine Meillet, _Aperçu d'une histoire de la langue grecque_ , 4e éd., Paris, Hachette, 1935 (1re éd., 1913).
+  * J. Perrot, « Le grec ancien », dans _Le langage_ , sous la dir. de A. Martinet, Paris, Gallimard (La Pléiade), 1968, p. 906–928.
+
+#### Ouvrages grand
+public[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=28
+"Modifier la section : Ouvrages grand public") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=28 "Modifier la
+section : Ouvrages grand public")]
+
+  * (it) [Andrea Marcolongo](/wiki/Andrea_Marcolongo "Andrea Marcolongo"), La lingua geniale : 9 ragioni per amare il greco, GLF editori Laterza, 2016, 156 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-88-581-2525-0](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-88-581-2525-0 "Spécial:Ouvrages de référence/978-88-581-2525-0"), [OCLC](/wiki/Online_Computer_Library_Center "Online Computer Library Center") [981545565](https://worldcat.org/oclc/981545565&lang=fr)), traduit en français sous le titre _La Langue géniale. 9 bonnes raisons d'aimer le grec_.
+  * [Bernard Sergent](/wiki/Bernard_Sergent "Bernard Sergent"), _Notre grec de tous les jours. Petit dictionnaire pour un usage quotidien_ , Imago, 2017.
+
+### Lien
+externe[[modifier](/w/index.php?title=Grec_ancien&veaction=edit&section=29
+"Modifier la section : Lien externe") | [modifier le
+code](/w/index.php?title=Grec_ancien&action=edit&section=29 "Modifier la
+section : Lien externe")]
+
+  * [Les Auteurs latins, Les Auteurs grecs](http://juxta.free.fr) \- Nombreux textes latins et grecs en juxtalinéaire (c'est-à-dire avec une traduction phrase par phrase).
+
+[v](/wiki/Mod%C3%A8le:Palette_Histoire_de_la_langue_grecque "Modèle:Palette
+Histoire de la langue grecque") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Histoire_de_la_langue_grecque&action=edit)
+
+[Histoire](/wiki/Histoire_de_la_langue_grecque "Histoire de la langue
+grecque") de la [langue grecque](/wiki/Grec "Grec")  
+  
+---  
+Évolution | [Proto-grec](/wiki/Proto-grec "Proto-grec") (vers 2000 av. J.-C.)
+· [Mycénien](/wiki/Myc%C3%A9nien "Mycénien") (vers 1600-1100 av. J.-C.) · Grec
+ancien (vers 800-300 av. J.-C.) · [Koinè](/wiki/Koin%C3%A8_\(grec\) "Koinè
+\(grec\)") (dès 300 av. J.-C.) · [Grec médiéval](/wiki/Grec_m%C3%A9di%C3%A9val
+"Grec médiéval") (vers 330-1453) · [Grec moderne](/wiki/Grec_moderne "Grec
+moderne") (dès 1453)  
+[Dialectes anciens](/wiki/Dialectes_du_grec_ancien "Dialectes du grec ancien")
+|
+
+  * [Éolien](/wiki/%C3%89olien_\(dialecte\) "Éolien \(dialecte\)")
+  * [Arcadochypriote](/wiki/Arcadochypriote "Arcadochypriote")
+  * [Pamphylien](/wiki/Pamphylien "Pamphylien")
+  * [Dorien](/wiki/Dorien "Dorien")
+  * [Attique](/wiki/Attique_\(dialecte\) "Attique \(dialecte\)")
+  * [Ionien](/wiki/Ionien_\(dialecte\) "Ionien \(dialecte\)")
+  * [Grec homérique](/wiki/Langue_hom%C3%A9rique "Langue homérique")
+  * [Ancien macédonien](/wiki/Ancien_mac%C3%A9donien "Ancien macédonien") (incertain)
+
+  
+  
+[Dialectes modernes](/wiki/Dialectes_du_grec_moderne "Dialectes du grec
+moderne") |
+
+  * [Cappadocien](/wiki/Cappadocien "Cappadocien")
+  * [Crétois](/wiki/Grec_cr%C3%A9tois "Grec crétois")
+  * [Chypriote](/wiki/Grec_chypriote "Grec chypriote")
+  * [Démotique](/wiki/Grec_d%C3%A9motique "Grec démotique")
+  * [Griko](/wiki/Griko "Griko")
+  * [Katharévousa](/wiki/Kathar%C3%A9vousa "Katharévousa")
+  * [Pontique](/wiki/Pontique_\(langue\) "Pontique \(langue\)")
+  * [Tsakonien](/wiki/Tsakonien "Tsakonien")
+  * [Yévanique](/wiki/Y%C3%A9vanique "Yévanique")
+
+  
+  
+  * [Romanisation du grec](/wiki/Romanisation_du_grec "Romanisation du grec")
+  * [Greeklish](/wiki/Greeklish "Greeklish")
+
+  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nuvola_apps_gaim.png/24px-Nuvola_apps_gaim.png)](/wiki/Portail:Langues "Portail des langues") [Portail des langues](/wiki/Portail:Langues "Portail:Langues")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Discobolus_icon.png/16px-Discobolus_icon.png)](/wiki/Portail:Gr%C3%A8ce_antique "Portail de la Grèce antique") [Portail de la Grèce antique](/wiki/Portail:Gr%C3%A8ce_antique "Portail:Grèce antique")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Grec_ancien&oldid=175047677](https://fr.wikipedia.org/w/index.php?title=Grec_ancien&oldid=175047677)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Langue SVO](/wiki/Cat%C3%A9gorie:Langue_SVO "Catégorie:Langue SVO")
+  * [Langue flexionnelle](/wiki/Cat%C3%A9gorie:Langue_flexionnelle "Catégorie:Langue flexionnelle")
+  * [Langue accusative](/wiki/Cat%C3%A9gorie:Langue_accusative "Catégorie:Langue accusative")
+  * [Langue à accent de hauteur](/wiki/Cat%C3%A9gorie:Langue_%C3%A0_accent_de_hauteur "Catégorie:Langue à accent de hauteur")
+  * [Inventaire de langues](/wiki/Cat%C3%A9gorie:Inventaire_de_langues "Catégorie:Inventaire de langues")
+  * [Langue grecque ancienne](/wiki/Cat%C3%A9gorie:Langue_grecque_ancienne "Catégorie:Langue grecque ancienne")
+  * [Langue antique](/wiki/Cat%C3%A9gorie:Langue_antique "Catégorie:Langue antique")
+  * [Histoire du grec](/wiki/Cat%C3%A9gorie:Histoire_du_grec "Catégorie:Histoire du grec")
+
+Catégories cachées :
+
+  * [Article utilisant une Infobox](/wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox "Catégorie:Article utilisant une Infobox")
+  * [Article avec une section vide ou incomplète](/wiki/Cat%C3%A9gorie:Article_avec_une_section_vide_ou_incompl%C3%A8te "Catégorie:Article avec une section vide ou incomplète")
+  * [Article à référence nécessaire](/wiki/Cat%C3%A9gorie:Article_%C3%A0_r%C3%A9f%C3%A9rence_n%C3%A9cessaire "Catégorie:Article à référence nécessaire")
+  * [Portail:Langues/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Langues/Articles_li%C3%A9s "Catégorie:Portail:Langues/Articles liés")
+  * [Portail:Langues/Articles liés directement](/wiki/Cat%C3%A9gorie:Portail:Langues/Articles_li%C3%A9s_directement "Catégorie:Portail:Langues/Articles liés directement")
+  * [Portail:Grèce antique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Gr%C3%A8ce_antique/Articles_li%C3%A9s "Catégorie:Portail:Grèce antique/Articles liés")
+  * [Portail:Monde antique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Monde_antique/Articles_li%C3%A9s "Catégorie:Portail:Monde antique/Articles liés")
+  * [Portail:Histoire/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Histoire/Articles_li%C3%A9s "Catégorie:Portail:Histoire/Articles liés")
+  * [Portail:Europe/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Europe/Articles_li%C3%A9s "Catégorie:Portail:Europe/Articles liés")
+  * [Bon article en allemand](/wiki/Cat%C3%A9gorie:Bon_article_en_allemand "Catégorie:Bon article en allemand")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Grec_ancien "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Grec_ancien "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Grec_ancien&oldid=175047677 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Grec_ancien&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Grec_ancien&id=175047677&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q35497 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Grec+ancien)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Grec_ancien&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Grec_ancien&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Ancient_Greek_language)
+  * [Wikilivres](https://fr.wikibooks.org/wiki/Grec_ancien)
+
+###  Dans d’autres langues
+
+  * [Alemannisch](https://als.wikipedia.org/wiki/Altgriechische_Sprache "Altgriechische Sprache — Alemannisch")
+  * [Aragonés](https://an.wikipedia.org/wiki/Griego_antigo "Griego antigo — aragonais")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%A5%D8%BA%D8%B1%D9%8A%D9%82%D9%8A%D8%A9 "اللغة الإغريقية — arabe")
+  * [ܐܪܡܝܐ](https://arc.wikipedia.org/wiki/%DC%A0%DC%AB%DC%A2%DC%90_%DC%9D%DC%98%DC%A2%DC%9D%DC%90_%DC%A5%DC%AC%DC%9D%DC%A9%DC%90 "ܠܫܢܐ ܝܘܢܝܐ ܥܬܝܩܐ — araméen")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Griegu_antiguu "Griegu antiguu — asturien")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Q%C9%99dim_yunan_dili "Qədim yunan dili — azéri")
+  * [تۆرکجه](https://azb.wikipedia.org/wiki/%D9%82%D8%AF%DB%8C%D9%85_%DB%8C%D9%88%D9%86%D8%A7%D9%86_%D8%AF%DB%8C%D9%84%DB%8C "قدیم یونان دیلی — South Azerbaijani")
+  * [Boarisch](https://bar.wikipedia.org/wiki/Oidgriachisch "Oidgriachisch — bavarois")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D0%B6%D1%8B%D1%82%D0%BD%D0%B0%D0%B3%D1%80%D1%8D%D1%87%D0%B0%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B2%D0%B0 "Старажытнагрэчаская мова — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D0%B6%D1%8B%D1%82%D0%BD%D0%B0%D0%B3%D1%80%D1%8D%D1%86%D0%BA%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B2%D0%B0 "Старажытнагрэцкая мова — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B3%D1%80%D1%8A%D1%86%D0%BA%D0%B8_%D0%B5%D0%B7%D0%B8%D0%BA "Старогръцки език — bulgare")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%9A%E0%A7%80%E0%A6%A8_%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95 "প্রাচীন গ্রিক — bengali")
+  * [Brezhoneg](https://br.wikipedia.org/wiki/Henc%27hresianeg "Henc'hresianeg — breton")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Starogr%C4%8Dki_jezik "Starogrčki jezik — bosniaque")
+  * [Català](https://ca.wikipedia.org/wiki/Grec_antic "Grec antic — catalan")
+  * [Mìng-dĕ̤ng-ngṳ̄](https://cdo.wikipedia.org/wiki/G%C5%AB_H%C4%AD-l%C3%A9-n%C3%A0%CC%A4-ng%E1%B9%B3%CC%84 "Gū Hĭ-lé-nà̤-ngṳ̄ — Min Dong Chinese")
+  * [Нохчийн](https://ce.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D1%82%D0%BE%D0%B9%D0%BD_%D1%88%D0%B8%D1%80%D0%B0_%D0%BC%D0%BE%D1%82%D1%82 "Желтойн шира мотт — tchétchène")
+  * [Čeština](https://cs.wikipedia.org/wiki/Staro%C5%99e%C4%8Dtina "Starořečtina — tchèque")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%90%D0%B2%D0%B0%D0%BB%D1%85%D0%B8_%D0%B3%D1%80%D0%B5%D0%BA_%D1%87%C4%95%D0%BB%D1%85%D0%B8 "Авалхи грек чĕлхи — tchouvache")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Hen_Roeg_\(iaith\) "Hen Roeg \(iaith\) — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/Oldgr%C3%A6sk "Oldgræsk — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Altgriechische_Sprache "Altgriechische Sprache — allemand")
+  * [Zazaki](https://diq.wikipedia.org/wiki/Greki "Greki — Zazaki")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%B1_%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%B3%CE%BB%CF%8E%CF%83%CF%83%CE%B1 "Αρχαία ελληνική γλώσσα — grec")
+  * [English](https://en.wikipedia.org/wiki/Ancient_Greek "Ancient Greek — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Antikva_greka_lingvo "Antikva greka lingvo — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Griego_antiguo "Griego antiguo — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Vanakreeka_keel "Vanakreeka keel — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Antzinako_greziera "Antzinako greziera — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%DB%8C%D9%88%D9%86%D8%A7%D9%86%DB%8C_%D8%A8%D8%A7%D8%B3%D8%AA%D8%A7%D9%86 "یونانی باستان — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Muinaiskreikka "Muinaiskreikka — finnois")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/An_tSean-Ghr%C3%A9igis "An tSean-Ghréigis — irlandais")
+  * [Galego](https://gl.wikipedia.org/wiki/Lingua_grega_antiga "Lingua grega antiga — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%95%D7%A0%D7%99%D7%AA_%D7%A2%D7%AA%D7%99%D7%A7%D7%94 "יוונית עתיקה — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A5%80%E0%A4%A8_%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%80_%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE "प्राचीन यूनानी भाषा — hindi")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Starogr%C4%8Dki_jezik "Starogrčki jezik — croate")
+  * [Magyar](https://hu.wikipedia.org/wiki/%C3%93g%C3%B6r%C3%B6g_nyelv "Ógörög nyelv — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D5%80%D5%AB%D5%B6_%D5%B0%D5%B8%D6%82%D5%B6%D5%A1%D6%80%D5%A5%D5%B6 "Հին հունարեն — arménien")
+  * [Արեւմտահայերէն](https://hyw.wikipedia.org/wiki/%D5%80%D5%AB%D5%B6_%D5%85%D5%B8%D6%82%D5%B6%D5%A1%D6%80%D5%A7%D5%B6 "Հին Յունարէն — arménien occidental")
+  * [Interlingua](https://ia.wikipedia.org/wiki/Greco_ancian "Greco ancian — interlingua")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Bahasa_Yunani_Kuno "Bahasa Yunani Kuno — indonésien")
+  * [Ilokano](https://ilo.wikipedia.org/wiki/Taga-ugma_a_Griego "Taga-ugma a Griego — ilocano")
+  * [ГӀалгӀай](https://inh.wikipedia.org/wiki/%D0%9A%D1%8A%D0%B0%D1%8C%D0%BD%D0%B0%D1%80%D0%B0_%D1%8D%D0%BB%D0%BB%D0%B8%D0%BD%D0%BE%D0%B9_%D0%BC%D0%BE%D1%82%D1%82 "Къаьнара эллиной мотт — ingouche")
+  * [Íslenska](https://is.wikipedia.org/wiki/Forngr%C3%ADska "Forngríska — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Lingua_greca_antica "Lingua greca antica — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BB%A3%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E8%AA%9E "古代ギリシア語 — japonais")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%AB%E1%83%95%E1%83%94%E1%83%9A%E1%83%98_%E1%83%91%E1%83%94%E1%83%A0%E1%83%AB%E1%83%9C%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%94%E1%83%9C%E1%83%90 "ძველი ბერძნული ენა — géorgien")
+  * [Kabɩyɛ](https://kbp.wikipedia.org/wiki/Kr%C9%9Bk%C9%A9_k%C9%A9b%C9%A9n%CA%8A%CA%8A_k%CA%8An%CA%8A%C5%8B "Krɛkɩ kɩbɩnʊʊ kʊnʊŋ — Kabiye")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%95%D0%B6%D0%B5%D0%BB%D0%B3%D1%96_%D0%B3%D1%80%D0%B5%D0%BA_%D1%82%D1%96%D0%BB%D1%96 "Ежелгі грек тілі — kazakh")
+  * [한국어](https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%8C%80_%EA%B7%B8%EB%A6%AC%EC%8A%A4%EC%96%B4 "고대 그리스어 — coréen")
+  * [Kurdî](https://ku.wikipedia.org/wiki/Yewnaniya_kevn "Yewnaniya kevn — kurde")
+  * [Коми](https://kv.wikipedia.org/wiki/%D0%92%D0%B0%D0%B6_%D1%8D%D0%BB%D0%BB%D0%B8%D0%BD_%D0%BA%D1%8B%D0%B2 "Важ эллин кыв — komi")
+  * [Latina](https://la.wikipedia.org/wiki/Lingua_Graeca_antiqua "Lingua Graeca antiqua — latin")
+  * [Lëtzebuergesch](https://lb.wikipedia.org/wiki/Algriichesch "Algriichesch — luxembourgeois")
+  * [Лезги](https://lez.wikipedia.org/wiki/%D0%94%D0%B5%D0%B3%D1%8C_%D0%B3%D1%80%D0%B5%D0%BA_%D1%87I%D0%B0%D0%BB "Дегь грек чIал — lezghien")
+  * [Limburgs](https://li.wikipedia.org/wiki/Aajdgrieks "Aajdgrieks — limbourgeois")
+  * [Ligure](https://lij.wikipedia.org/wiki/Lengua_grega_antiga "Lengua grega antiga — ligure")
+  * [Lumbaart](https://lmo.wikipedia.org/wiki/Lengua_greca_antiga "Lengua greca antiga — lombard")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Senov%C4%97s_graik%C5%B3_kalba "Senovės graikų kalba — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Sengrie%C4%B7u_valoda "Sengrieķu valoda — letton")
+  * [Malagasy](https://mg.wikipedia.org/wiki/Fiteny_grika_taloha "Fiteny grika taloha — malgache")
+  * [Олык марий](https://mhr.wikipedia.org/wiki/%D0%90%D0%BA%D1%80%D0%B5%D1%82_%D0%B3%D1%80%D0%B5%D0%BA_%D0%B9%D1%8B%D0%BB%D0%BC%D0%B5 "Акрет грек йылме — Eastern Mari")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B3%D1%80%D1%87%D0%BA%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D0%BA "Старогрчки јазик — macédonien")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B4%9A%E0%B5%80%E0%B4%A8_%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B5%80%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D_%E0%B4%AD%E0%B4%BE%E0%B4%B7 "പ്രാചീന ഗ്രീക്ക് ഭാഷ — malayalam")
+  * [Plattdüütsch](https://nds.wikipedia.org/wiki/Ooltgreeksche_Spraak "Ooltgreeksche Spraak — bas-allemand")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Oudgrieks "Oudgrieks — néerlandais")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Gammelgresk "Gammelgresk — norvégien bokmål")
+  * [Occitan](https://oc.wikipedia.org/wiki/Gr%C3%A8c_ancian "Grèc ancian — occitan")
+  * [ਪੰਜਾਬੀ](https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A9%81%E0%A8%B0%E0%A8%BE%E0%A8%A4%E0%A8%A8_%E0%A8%AF%E0%A9%82%E0%A8%A8%E0%A8%BE%E0%A8%A8%E0%A9%80 "ਪੁਰਾਤਨ ਯੂਨਾਨੀ — pendjabi")
+  * [Polski](https://pl.wikipedia.org/wiki/J%C4%99zyk_starogrecki "Język starogrecki — polonais")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/Grech_antich "Grech antich — piémontais")
+  * [پنجابی](https://pnb.wikipedia.org/wiki/%D9%BE%D8%B1%D8%A7%D9%86%DB%8C_%DB%8C%D9%88%D9%86%D8%A7%D9%86%DB%8C_%D8%A8%D9%88%D9%84%DB%8C "پرانی یونانی بولی — Western Punjabi")
+  * [Português](https://pt.wikipedia.org/wiki/L%C3%ADngua_grega_antiga "Língua grega antiga — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/Limba_greac%C4%83_veche "Limba greacă veche — roumain")
+  * [Tarandíne](https://roa-tara.wikipedia.org/wiki/L%C3%A8nga_greche_andiche "Lènga greche andiche — Tarantino")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA "Древнегреческий язык — russe")
+  * [Саха тыла](https://sah.wikipedia.org/wiki/%D0%91%D1%8B%D0%BB%D1%8B%D1%80%D0%B3%D1%8B_%D0%B3%D0%B8%D1%80%D0%B8%D1%8D%D0%BA_%D1%82%D1%8B%D0%BB%D0%B0 "Былыргы гириэк тыла — iakoute")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/Lingua_greca_antica "Lingua greca antica — sicilien")
+  * [Scots](https://sco.wikipedia.org/wiki/Auncient_Greek "Auncient Greek — écossais")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Starogr%C4%8Dki_jezik "Starogrčki jezik — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/Ancient_Greek "Ancient Greek — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Starogr%C3%A9%C4%8Dtina "Starogréčtina — slovaque")
+  * [Shqip](https://sq.wikipedia.org/wiki/Greqishtja_e_lasht%C3%AB "Greqishtja e lashtë — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B3%D1%80%D1%87%D0%BA%D0%B8_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA "Старогрчки језик — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/Klassisk_grekiska "Klassisk grekiska — suédois")
+  * [Тоҷикӣ](https://tg.wikipedia.org/wiki/%D0%97%D0%B0%D0%B1%D0%BE%D0%BD%D0%B8_%D1%8E%D0%BD%D0%BE%D0%BD%D0%B8_%D0%B1%D0%BE%D1%81%D1%82%D0%BE%D0%BD "Забони юнони бостон — tadjik")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%81%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%93 "ภาษากรีกโบราณ — thaï")
+  * [Tagalog](https://tl.wikipedia.org/wiki/Wikang_Sinaunang_Griyego "Wikang Sinaunang Griyego — tagalog")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Grek%C3%A7e "Grekçe — turc")
+  * [Татарча/tatarça](https://tt.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%8B%D0%BD%D0%B3%D1%8B_%D1%8E%D0%BD%D0%B0%D0%BD_%D1%82%D0%B5%D0%BB%D0%B5 "Борынгы юнан теле — tatar")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%BD%D1%8C%D0%BE%D0%B3%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B2%D0%B0 "Давньогрецька мова — ukrainien")
+  * [اردو](https://ur.wikipedia.org/wiki/%D9%82%D8%AF%DB%8C%D9%85_%DB%8C%D9%88%D9%86%D8%A7%D9%86%DB%8C "قدیم یونانی — ourdou")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Qadimgi_yunon_tili "Qadimgi yunon tili — ouzbek")
+  * [Vèneto](https://vec.wikipedia.org/wiki/%C5%81%C3%A9ngua_grega_antiga "Łéngua grega antiga — vénitien")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Hy_L%E1%BA%A1p_c%E1%BB%95_%C4%91%E1%BA%A1i "Tiếng Hy Lạp cổ đại — vietnamien")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E5%8F%A4%E5%B8%8C%E8%85%8A%E8%AF%AD "古希腊语 — wu")
+  * [მარგალური](https://xmf.wikipedia.org/wiki/%E1%83%AF%E1%83%95%E1%83%94%E1%83%A8%E1%83%98_%E1%83%91%E1%83%94%E1%83%A0%E1%83%AB%E1%83%94%E1%83%9C%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%9C%E1%83%98%E1%83%9C%E1%83%90 "ჯვეში ბერძენული ნინა — mingrélien")
+  * [ייִדיש](https://yi.wikipedia.org/wiki/%D7%90%D7%95%D7%A8%D7%90%D7%9C%D7%98_%D7%92%D7%A8%D7%99%D7%9B%D7%99%D7%A9 "אוראלט גריכיש — yiddish")
+  * [中文](https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%B8%8C%E8%87%98%E8%AA%9E "古希臘語 — chinois")
+  * [文言](https://zh-classical.wikipedia.org/wiki/%E5%8F%A4%E5%B8%8C%E8%87%98%E8%AA%9E "古希臘語 — Classical Chinese")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E5%8F%A4%E5%B8%8C%E8%87%98%E6%96%87 "古希臘文 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q35497#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Grec+ancien "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Grec+ancien "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Grec_ancien "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Grec_ancien "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Grec_ancien)
+  * [Modifier](/w/index.php?title=Grec_ancien&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Grec_ancien&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Grec_ancien&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 26 septembre 2020 à 12:01.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Grec_ancien "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Grec_ancien&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[IXe]: 9ᵉ siècle
+  *[av. J.-C.]: avant Jésus-Christ
+  *[VIe]: 6ᵉ siècle
+  *[apr. J.-C.]: après Jésus-Christ
+  *[VIIIe]: 8ᵉ siècle
+  *[3e]: Troisième
+  *[p.]: pages
+  *[1re]: Première
+  *[éd.]: édition
+  *[2e]: Deuxième
+  *[4e]: Quatrième
+  *[(it)]: Langue : italien
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+

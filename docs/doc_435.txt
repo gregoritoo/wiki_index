@@ -1,0 +1,1612 @@
+# Joseph Fourier
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Fourier](/wiki/Fourier "Fourier").
+
+Joseph Fourier
+
+[![Fourier2.jpg](//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Fourier2.jpg/260px-
+Fourier2.jpg)](/wiki/Fichier:Fourier2.jpg)
+
+Gravure de [Julien Léopold Boilly](/wiki/Julien_L%C3%A9opold_Boilly "Julien
+Léopold Boilly")
+
+Fonction[Fauteuil 5 de l'Académie
+française](/wiki/Acad%C3%A9mie_fran%C3%A7aise "Académie française")  
+---  
+14 décembre 1826 - 16 mai 1830  
+  
+[Pierre-Édouard Lémontey](/wiki/Pierre-%C3%89douard_L%C3%A9montey "Pierre-
+Édouard Lémontey")
+
+[Victor Cousin](/wiki/Victor_Cousin "Victor Cousin")  
+  
+Titre de noblesse[Baron](/wiki/Baron_\(noblesse\) "Baron \(noblesse\)")  
+---  
+BiographieNaissance|
+
+[21 mars](/wiki/21_mars "21 mars") [1768](/wiki/1768 "1768")[![Voir et
+modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P569
+"Voir et modifier les données sur Wikidata")  
+[Auxerre](/wiki/Auxerre "Auxerre")[![Voir et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P19 "Voir
+et modifier les données sur Wikidata")  
+  
+---|---  
+Décès|
+
+[16](/wiki/16_mai "16 mai") [mai](/wiki/Mai_1830 "Mai 1830") [1830](/wiki/1830
+"1830")[![Voir et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P570
+"Voir et modifier les données sur Wikidata") (à 62 ans)  
+[Paris](/wiki/Paris "Paris")[![Voir et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P20 "Voir
+et modifier les données sur Wikidata")  
+  
+Sépulture|
+
+[Cimetière du Père-Lachaise](/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise
+"Cimetière du Père-Lachaise")[![Voir et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P119
+"Voir et modifier les données sur Wikidata")  
+  
+Nom de naissance|
+
+Jean-Baptiste Joseph Fourier[![Voir et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P1477
+"Voir et modifier les données sur Wikidata")  
+  
+Nationalité|
+
+[Français](/wiki/France "France")[![Voir et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P27 "Voir
+et modifier les données sur Wikidata")  
+  
+Formation|
+
+[École normale](/wiki/%C3%89cole_normale_\(R%C3%A9volution_fran%C3%A7aise\)
+"École normale \(Révolution française\)") (depuis 1794)[![Voir et modifier les
+données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P69 "Voir
+et modifier les données sur Wikidata")  
+  
+Activités|
+
+[Mathématicien](/wiki/Math%C3%A9maticien "Mathématicien"),
+[physicien](/wiki/Physicien "Physicien"), [historien](/wiki/Historien
+"Historien"), [archéologue](/wiki/Arch%C3%A9ologie "Archéologie"), [professeur
+d'université](/wiki/Enseignement "Enseignement"),
+[préfet](/wiki/Pr%C3%A9fet_\(France\) "Préfet \(France\)"),
+[ingénieur](/wiki/Ing%C3%A9nieur "Ingénieur")[![Voir et modifier les données
+sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P106
+"Voir et modifier les données sur Wikidata")  
+  
+Autres informationsA travaillé pour|
+
+[École normale supérieure](/wiki/%C3%89cole_normale_sup%C3%A9rieure_\(Paris\)
+"École normale supérieure \(Paris\)"), [université Grenoble-
+Alpes](/wiki/Universit%C3%A9_Grenoble-Alpes "Université Grenoble-Alpes"),
+[École polytechnique](/wiki/%C3%89cole_polytechnique_\(France\) "École
+polytechnique \(France\)") (depuis le [1er](/wiki/1er_septembre "1er
+septembre") [septembre](/wiki/Septembre_1795 "Septembre 1795")
+[1795](/wiki/1795 "1795"))[![Voir et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P108
+"Voir et modifier les données sur Wikidata")  
+  
+---|---  
+Domaines|
+
+[Analyse](/wiki/Analyse_\(math%C3%A9matiques\) "Analyse \(mathématiques\)"),
+[mathématiques](/wiki/Math%C3%A9matiques "Mathématiques"),
+[physique](/wiki/Physique "Physique"),
+[africanisme](/wiki/Africanisme_\(sciences_humaines_et_naturelles\)
+"Africanisme \(sciences humaines et naturelles\)"), science de l'histoire
+([d](https://www.wikidata.org/wiki/Q1066186 "d:Q1066186")),
+[archéologie](/wiki/Arch%C3%A9ologie "Archéologie"), [physique
+mathématique](/wiki/Physique_math%C3%A9matique "Physique mathématique")[![Voir
+et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P101
+"Voir et modifier les données sur Wikidata")  
+  
+Membre de|
+
+[Académie nationale de
+médecine](/wiki/Acad%C3%A9mie_nationale_de_m%C3%A9decine "Académie nationale
+de médecine")  
+[Académie des sciences](/wiki/Acad%C3%A9mie_des_sciences_\(France\) "Académie
+des sciences \(France\)") ([1817](/wiki/1817 "1817"))  
+[Royal Society](/wiki/Royal_Society "Royal Society") ([1823](/wiki/1823
+"1823"))  
+[Académie royale des sciences de
+Prusse](/wiki/Acad%C3%A9mie_royale_des_sciences_de_Prusse "Académie royale des
+sciences de Prusse") ([1826](/wiki/1826 "1826"))  
+[Académie française](/wiki/Acad%C3%A9mie_fran%C3%A7aise "Académie française")
+([1826](/wiki/1826 "1826")-[1830](/wiki/1830 "1830"))  
+[Académie des sciences de Russie](/wiki/Acad%C3%A9mie_des_sciences_de_Russie
+"Académie des sciences de Russie") ([1829](/wiki/1829 "1829"))  
+[Académie royale des sciences de
+Suède](/wiki/Acad%C3%A9mie_royale_des_sciences_de_Su%C3%A8de "Académie royale
+des sciences de Suède") ([1830](/wiki/1830 "1830"))[![Voir et modifier les
+données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P463
+"Voir et modifier les données sur Wikidata")  
+  
+Maître|
+
+[Joseph-Louis Lagrange](/wiki/Joseph-Louis_Lagrange "Joseph-Louis
+Lagrange")[![Voir et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P1066
+"Voir et modifier les données sur Wikidata")  
+  
+Directeur de thèse|
+
+[Joseph-Louis Lagrange](/wiki/Joseph-Louis_Lagrange "Joseph-Louis
+Lagrange")[![Voir et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P184
+"Voir et modifier les données sur Wikidata")  
+  
+Distinctions|
+
+[Officier de la Légion
+d'honneur](/wiki/Ordre_national_de_la_L%C3%A9gion_d%27honneur "Ordre national
+de la Légion d'honneur")  
+[Grand prix des sciences
+mathématiques](/wiki/Grand_prix_des_sciences_math%C3%A9matiques "Grand prix
+des sciences mathématiques") (1812)[![Voir et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P166
+"Voir et modifier les données sur Wikidata")  
+  
+Archives conservées par|
+
+[Archives nationales](/wiki/Archives_nationales_\(France\) "Archives
+nationales \(France\)") (F/1bI/160/11)[![Voir et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P485
+"Voir et modifier les données sur Wikidata")  
+  
+Œuvres principales
+
+[_Série de Fourier_](/wiki/S%C3%A9rie_de_Fourier "Série de Fourier"),
+[_transformée de Fourier_](/wiki/Transformation_de_Fourier "Transformation de
+Fourier"), [_Équation de la chaleur_](/wiki/%C3%89quation_de_la_chaleur
+"Équation de la chaleur")[![Voir et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#P800
+"Voir et modifier les données sur Wikidata")  
+  
+---  
+  
+[![signature de Joseph
+Fourier](//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Signature_de_Joseph_Fourier.jpg/110px-
+Signature_de_Joseph_Fourier.jpg)](/wiki/Fichier:Signature_de_Joseph_Fourier.jpg)
+
+Signature de Joseph Fourier
+
+[![Père-Lachaise - Division 18 - Joseph Fourier
+01.jpg](//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/P%C3%A8re-
+Lachaise_-_Division_18_-_Joseph_Fourier_01.jpg/220px-P%C3%A8re-Lachaise_-
+_Division_18_-_Joseph_Fourier_01.jpg)](/wiki/Fichier:P%C3%A8re-Lachaise_-
+_Division_18_-_Joseph_Fourier_01.jpg)
+
+Vue de la sépulture.
+
+[modifier](https://fr.wikipedia.org/w/index.php?title=Joseph_Fourier&veaction=edit&section=0)
+\- [modifier le
+code](https://fr.wikipedia.org/w/index.php?title=Joseph_Fourier&action=edit&section=0)
+\- [modifier Wikidata](https://www.wikidata.org/wiki/Q8772
+"d:Q8772")[![Documentation du
+modèle](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Mod%C3%A8le:Infobox_Biographie2 "Documentation du
+modèle")
+
+**Jean Baptiste Joseph Fourier** est un
+[mathématicien](/wiki/Math%C3%A9maticien "Mathématicien") et
+[physicien](/wiki/Physicien "Physicien") [français](/wiki/France "France") né
+le 21 mars 1768 à [Auxerre](/wiki/Auxerre "Auxerre") et mort le 16 mai 1830 à
+[Paris](/wiki/Paris "Paris") (et non le 16 mars comme indiqué par erreur sur
+la plaque de bronze apposée sur sa maison natale).
+
+Joseph Fourier est connu pour avoir déterminé, par le calcul, la [diffusion de
+la chaleur](/wiki/Transfert_thermique "Transfert thermique") en utilisant la
+décomposition d'une fonction quelconque en une série
+[trigonométrique](/wiki/Trigonom%C3%A9trie "Trigonométrie")
+[convergente](/wiki/Convergence_simple "Convergence simple"). De telles
+fonctions sont appelées [séries de Fourier](/wiki/S%C3%A9rie_de_Fourier "Série
+de Fourier"). La méthode de calcul permettant de passer, de façon réversible,
+d'une fonction à la série trigonométrique correspondante est la
+[transformation de Fourier](/wiki/Transformation_de_Fourier "Transformation de
+Fourier"). Cette méthode très féconde est devenue incontournable en [théorie
+du signal](/wiki/Traitement_du_signal "Traitement du signal"), avec des
+applications majeures pour le traitement et la
+[compression](/wiki/Compression_de_donn%C3%A9es "Compression de données") du
+son et de l'[image numérique](/wiki/Image_num%C3%A9rique "Image numérique").
+La compression d'image [JPEG](/wiki/JPEG "JPEG"), ou les normes de téléphonie
+[3G](/wiki/3G "3G") et [4G](/wiki/4G "4G") en découlent directement.
+
+## Sommaire
+
+  * 1 Biographie
+  * 2 Théorie analytique de la chaleur et séries de Fourier
+  * 3 Effet de serre
+  * 4 Étude des systèmes d'inégalités et programmation linéaire
+  * 5 Autres travaux et innovations
+  * 6 Hommages
+  * 7 Œuvres
+  * 8 Armoiries
+  * 9 Notes et références
+    * 9.1 Notes
+    * 9.2 Références
+  * 10 Voir aussi
+    * 10.1 Bibliographie
+    * 10.2 Articles connexes
+    * 10.3 Liens externes
+
+##
+Biographie[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=1
+"Modifier la section : Biographie") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=1 "Modifier la
+section : Biographie")]
+
+Né d'un père garçon-tailleur, et d'Edmée Germaine Lebègue, il se retrouve
+orphelin de père et de mère à dix ans. L'organiste d'Auxerre, Joseph Pallais,
+le fait entrer dans le pensionnat qu'il dirige. Recommandé par Mgr [Champion
+de Cicé](/wiki/Jean-Baptiste-Marie_Champion_de_Cic%C3%A9 "Jean-Baptiste-Marie
+Champion de Cicé"), [évêque
+d'Auxerre](/wiki/Liste_des_%C3%A9v%C3%AAques_d%27Auxerre "Liste des évêques
+d'Auxerre"), il intègre en 1780 l'[École
+militaire](/wiki/%C3%89cole_royale_militaire_\(ordonnance_de_1776\) "École
+royale militaire \(ordonnance de 1776\)") d'Auxerre tenue alors par les
+[Bénédictins](/wiki/Ordre_de_Saint-Beno%C3%AEt "Ordre de Saint-Benoît") de la
+[Congrégation de Saint-Maur](/wiki/Congr%C3%A9gation_de_Saint-Maur
+"Congrégation de Saint-Maur"). Élève brillant, dès l'adolescence, il développe
+un profond intérêt pour les mathématiques, qui vire à l'obsession. Promu
+professeur dès l'âge de seize ans, il peut dès lors commencer ses recherches
+personnelles[a]. Il apparaît rapidement que seules deux voies raisonnables
+s'offrent à lui : une carrière militaire ou l'Église. Malgré la demande
+appuyée par [le mathématicien Legendre](/wiki/Adrien-Marie_Legendre "Adrien-
+Marie Legendre"), le ministre de la Guerre refuse de l'intégrer au corps des
+ingénieurs ou à celui de l'artillerie, car il n'est pas noble. Fourier entre,
+en 1787, à l'[abbaye de Saint-Benoît-sur-Loire](/wiki/Abbaye_de_Saint-
+Beno%C3%AEt-sur-Loire "Abbaye de Saint-Benoît-sur-Loire") où il enseigne les
+mathématiques à d'autres novices. Il est rendu à la vie civile par la
+dissolution des ordres religieux[b], quelques jours avant de prononcer ses
+vœux[1],[2].
+
+À la suite d'une intervention très éloquente devant l'assemblée des citoyens
+d'Auxerre, il participe à la [Révolution](/wiki/R%C3%A9volution_fran%C3%A7aise
+"Révolution française"). Poussé par le suffrage populaire, il devient
+notamment Président de la _Société populaire d'Auxerre_. Bien qu'il occupe la
+plus haute responsabilité de la
+[Terreur](/wiki/Terreur_\(R%C3%A9volution_fran%C3%A7aise\) "Terreur
+\(Révolution française\)") à Auxerre, Fourier ne participe jamais à des
+activités violentes. Dès que cela lui est possible, il intervient en faveur
+des plus vulnérables, parvenant par divers stratagèmes à faire éviter
+l'exécution de certains ordres qui lui paraissent injustes. Son placement en
+détention sur ordre du Comité de sûreté générale, le 4 juillet 1794, n'est
+certainement pas étranger à ces prises de position. Il est sauvé de justesse
+par la chute de [Robespierre](/wiki/Maximilien_de_Robespierre "Maximilien de
+Robespierre")[c]. Les citoyens d'Auxerre se mobilisent en sa faveur et
+obtiennent sa libération.
+
+En 1795, à 26-27 ans, il fait partie des jeunes gens qui suivent les cours de
+la toute nouvelle [École normale de l’an
+III](/wiki/%C3%89cole_normale_\(R%C3%A9volution_fran%C3%A7aise\) "École
+normale \(Révolution française\)"). Cette École éphémère — elle ne dure que
+quatre mois exactement, du 20 janvier au 19 mai 1795 — compte parmi ses
+instructeurs les mathématiciens [Joseph-Louis Lagrange](/wiki/Joseph-
+Louis_Lagrange "Joseph-Louis Lagrange"), [Gaspard Monge](/wiki/Gaspard_Monge
+"Gaspard Monge") et [Pierre-Simon Laplace](/wiki/Pierre-Simon_de_Laplace
+"Pierre-Simon de Laplace") ainsi que le minéralogiste [René Just
+Haüy](/wiki/Ren%C3%A9_Just_Ha%C3%BCy "René Just Haüy") et le chimiste [Claude-
+Louis Berthollet](/wiki/Claude-Louis_Berthollet "Claude-Louis Berthollet").
+Fourier y est rapidement sélectionné comme chargé des « conférences » — on
+dirait « travaux dirigés » aujourd’hui — qui remplacent les débats.
+Conséquence de [l'affaiblissement des
+Jacobins](/wiki/Convention_thermidorienne#Affaiblissement_des_Jacobins
+"Convention thermidorienne") au sein du [Comité de salut
+public](/wiki/Comit%C3%A9_de_salut_public "Comité de salut public"), il est à
+nouveau incarcéré le 7 juin 1795. Libéré, sans doute sur intervention de
+Lagrange et Monge, il retourne en qualité de professeur assistant à l'École
+centrale des travaux publics dont le directeur est Monge.
+
+Peu de temps après, il assiste à l'inauguration de l’[École
+polytechnique](/wiki/%C3%89cole_polytechnique_\(France\) "École polytechnique
+\(France\)") — successeure de l'École centrale des travaux publics —, créée
+par la loi du 15 fructidor an III (1er septembre 1795) où il reste quelques
+années en se consacrant presque exclusivement à l'enseignement, collaborant
+avec Monge pour les cours de géométrie descriptive et enseignant l'analyse
+sous la tutelle de Lagrange. En 1797, il succède à Lagrange, à la direction du
+cours d’analyse et de mécanique. Il publie son premier article dans le
+_Journal de l'École polytechnique_ en 1798[3].
+
+En 1798, il est désigné pour faire partie de la [campagne
+d'Égypte](/wiki/Campagne_d%27%C3%89gypte "Campagne d'Égypte") et embarque à
+Toulon le 19 mai. Il occupe un haut poste de diplomate, devient secrétaire de
+l'[Institut d'Égypte](/wiki/Institut_d%27%C3%89gypte "Institut d'Égypte") dont
+il anime la vie scientifique et conduit une exploration en Haute-Égypte aux
+côtés de [Louis Costaz](/wiki/Louis_Costaz "Louis Costaz")[d]. À son retour en
+France en 1802, il retrouve son poste de professeur à l'École polytechnique,
+mais peu après [Napoléon](/wiki/Napol%C3%A9on_Ier "Napoléon Ier") le nomme
+[préfet de l'Isère](/wiki/Liste_des_pr%C3%A9fets_de_l%27Is%C3%A8re "Liste des
+préfets de l'Isère"), le 12 février. La campagne d'Égypte a fortement nui à sa
+santé, il s'était acclimaté à ce pays et le froid et l'humidité de Grenoble
+lui causent des rhumatismes. Il hait le froid, dans ces conditions, il n'est
+pas étonnant qu'il se soit intéressé au problème physique de la conduction de
+la chaleur. Le 21 décembre 1807, il présente à l'Académie des sciences un
+mémoire intitulé _Théorie de la propagation de la chaleur dans les solides_ ,
+on y trouve une bonne partie des résultats qui formeront son œuvre maîtresse,
+la _Théorie analytique de la chaleur_ publiée en 1822[4].
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grenoble_-
+_ancien_%C3%A9v%C3%AAch%C3%A9_-_Joseph_Fourier.JPG/220px-Grenoble_-
+_ancien_%C3%A9v%C3%AAch%C3%A9_-_Joseph_Fourier.JPG)](/wiki/Fichier:Grenoble_-
+_ancien_%C3%A9v%C3%AAch%C3%A9_-_Joseph_Fourier.JPG)
+
+[](/wiki/Fichier:Grenoble_-_ancien_%C3%A9v%C3%AAch%C3%A9_-_Joseph_Fourier.JPG
+"Agrandir")
+
+Buste de Joseph Fourier au [Musée de l'Ancien
+Évêché](/wiki/Mus%C3%A9e_de_l%27Ancien_%C3%89v%C3%AAch%C3%A9 "Musée de
+l'Ancien Évêché") de Grenoble.
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/P%C3%A8re-Lachaise_-
+_Division_18_-_Joseph_Fourier_03.jpg/220px-P%C3%A8re-Lachaise_-
+_Division_18_-_Joseph_Fourier_03.jpg)](/wiki/Fichier:P%C3%A8re-Lachaise_-
+_Division_18_-_Joseph_Fourier_03.jpg)
+
+[](/wiki/Fichier:P%C3%A8re-Lachaise_-_Division_18_-_Joseph_Fourier_03.jpg
+"Agrandir")
+
+Tombe de Fourier au [Père-Lachaise](/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise
+"Cimetière du Père-Lachaise") dans le [style éclectique
+égyptien](/wiki/%C3%89clectisme_%C3%A9gyptien "Éclectisme égyptien") : buste
+dans un [naos](/wiki/Naos "Naos") avec des cobras gravés sur les piliers et
+surmonté par un [disque solaire ailé](/wiki/Disque_solaire "Disque solaire")
+entouré de deux [uræus](/wiki/Ur%C3%A6us "Uræus").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/A_group_of_French_savants_huddle_together_at_the_top_of_a_co_Wellcome_L0015077.jpg/220px-
+A_group_of_French_savants_huddle_together_at_the_top_of_a_co_Wellcome_L0015077.jpg)](/wiki/Fichier:A_group_of_French_savants_huddle_together_at_the_top_of_a_co_Wellcome_L0015077.jpg)
+
+[](/wiki/Fichier:A_group_of_French_savants_huddle_together_at_the_top_of_a_co_Wellcome_L0015077.jpg
+"Agrandir")
+
+Caricature de l’expérience égyptienne de la [Commission des sciences et des
+arts](/wiki/Commission_des_sciences_et_des_arts "Commission des sciences et
+des arts") accompagnant [Bonaparte](/wiki/Napol%C3%A9on_Ier "Napoléon Ier").
+
+Il crée en 1810 la Faculté (université) Impériale de Grenoble dont il devient
+le recteur, [Jacques-Joseph Champollion](/wiki/Jacques-Joseph_Champollion
+"Jacques-Joseph Champollion") devient son secrétaire. Il encourage le jeune
+frère de ce dernier, [Jean-François Champollion](/wiki/Jean-
+Fran%C3%A7ois_Champollion "Jean-François Champollion") à déchiffrer les
+hiéroglyphes. Ils deviennent familiers et animent les soirées de l’[hôtel de
+Lesdiguières](/wiki/H%C3%B4tel_de_Lesdigui%C3%A8res "Hôtel de Lesdiguières")
+au côté des grands Grenoblois[1]. Joseph Fourier ne néglige pas ses fonctions
+de préfet et permet la construction de la route entre Grenoble et
+[Briançon](/wiki/Brian%C3%A7on "Briançon") par le franchissement du [col du
+Lautaret](/wiki/Col_du_Lautaret "Col du Lautaret"), ainsi que l'assèchement
+des marais de Bourgoin [e]. Il participe également à la vie intellectuelle
+locale à travers une société savante, l'[Académie
+delphinale](/wiki/Acad%C3%A9mie_delphinale "Académie delphinale").
+
+Napoléon abdique en 1814, et la monarchie est restaurée en France. Maintenu à
+son poste de préfet lors de la première Restauration, il parvient à dévier
+l'itinéraire de Napoléon, évitant ainsi une rencontre embarrassante à Grenoble
+alors que celui-ci se rend sur l'île d'Elbe. Quand Napoléon débarque à Golfe-
+Juan dans l'intention de restaurer l'Empire, Fourier ne peut néanmoins
+l'esquiver une nouvelle fois et les deux hommes se rencontrent finalement à
+Bourgoin. Napoléon est ouvertement hostile, mais décide de le garder à son
+service, le nommant sur-le-champ préfet du département du Rhône. Fourier
+accepte le poste, mais exprime à Napoléon ses doutes quant à la réussite de
+son plan de reconquête. Soumis aux exigences épuratrices de l'Empire, Fourier
+démissionne avant Waterloo. Il considère Napoléon comme un usurpateur du
+pouvoir et pense que le nouveau régime ne tiendra pas longtemps, ce qui le
+conduit à manœuvrer en s'efforçant de maintenir de bonnes relations avec la
+monarchie. Le 17 mai 1815, Fourier est destitué pour avoir refusé d'adopter
+certaines mesures ordonnées par [Carnot](/wiki/Lazare_Carnot "Lazare Carnot")
+[f] et qu'il juge extrêmes : il quitte Lyon et s'installe à Paris. Il est élu
+une première fois à l'Académie des sciences en 1816, mais [Louis
+XVIII](/wiki/Louis_XVIII "Louis XVIII") refuse sa nomination. Sur proposition
+d'un ancien élève de Polytechnique, préfet de la Seine, il est nommé directeur
+du Bureau des statistiques de la Seine. En 1817, une nouvelle élection a lieu
+à l'[Académie des sciences](/wiki/Acad%C3%A9mie_des_sciences_\(France\)
+"Académie des sciences \(France\)") et cette fois il en devient membre. À
+partir de ce moment, débarrassé de tous les soucis financiers, il peut enfin
+réaliser son rêve : se consacrer de façon quasi exclusive à la recherche.
+
+[Jean-Baptiste Joseph Delambre](/wiki/Jean-Baptiste_Joseph_Delambre "Jean-
+Baptiste Joseph Delambre"), qui occupe le poste de secrétaire perpétuel de
+l'Académie, meurt en 1822. Lors de la séance du 18 novembre 1822 consacrée à
+la nomination de son successeur, Fourier remporte l'élection face à [Jean-
+Baptiste Biot](/wiki/Jean-Baptiste_Biot "Jean-Baptiste Biot"), à 38 voix
+contre 10. Le 6 janvier 1823, le [roi Louis XVIII](/wiki/Louis_XVIII "Louis
+XVIII") approuve sa nomination. Au sein de l'Académie des sciences, il pèse de
+tout son poids pour que [Sophie Germain](/wiki/Sophie_Germain "Sophie
+Germain") — le seul "possible amour" que nous lui connaissons —, dont il a
+reconnu les qualités de mathématicienne, puisse suivre les séances. C'est la
+première femme à bénéficier de ce privilège.
+
+Le 11 décembre 1823, Fourier est nommé membre étranger de la [Royal
+Society](/wiki/Royal_Society "Royal Society") de Londres, puis membre de
+l'[Académie française](/wiki/Acad%C3%A9mie_fran%C3%A7aise "Académie
+française") le 14 décembre 1826. Point culminant de sa vie universitaire, il
+remplace Laplace en 1827 en tant que président du conseil de perfectionnement
+de l'École polytechnique.
+
+Pendant les cinq dernières années de sa vie, Fourier est malade de façon
+intermittente. Avec l'âge, il manifeste une sensibilité excessive au froid.
+[Arago](/wiki/Fran%C3%A7ois_Arago "François Arago") note : « notre confrère se
+vêtait, dans la saison la plus chaude de l'année, comme ne le sont même pas
+les voyageurs condamnés à hiverner au milieu des glaces polaires ». Ses
+derniers mois sont pénibles. Il souffre d'insomnies et continue cependant à
+travailler ; pendant cette période, il écrit plusieurs manuscrits
+mathématiques qui s'avèrent illisibles par la suite. Le 4 mai 1830, il ressent
+une douleur aiguë, mais continue à travailler selon son habitude. Il
+s'évanouit et meurt le [16 mai](/wiki/16_mai "16 mai"). Fourier est enterré au
+[cimetière du Père-Lachaise](/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise
+"Cimetière du Père-Lachaise") (18e division), à Paris. Son ami et protégé
+[Champollion](/wiki/Jean-Fran%C3%A7ois_Champollion "Jean-François
+Champollion") se fera enterrer dans la même division, non loin de lui [5] ,
+[6].
+
+Fourier est connu pour sa _Théorie analytique de la chaleur_ [7]. On lui doit
+des _Rapports sur les progrès des sciences mathématiques_ , parus en
+1822-1829, et des _Éloges_ de [Jean-Baptiste Joseph Delambre](/wiki/Jean-
+Baptiste_Joseph_Delambre "Jean-Baptiste Joseph Delambre"), [William
+Herschel](/wiki/William_Herschel "William Herschel") et [Abraham
+Breguet](/wiki/Abraham_Breguet "Abraham Breguet"), ainsi que la Préface à la
+[Description de l'Égypte](/wiki/Description_de_l%27%C3%89gypte "Description de
+l'Égypte").
+
+## Théorie analytique de la chaleur et séries de
+Fourier[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=2
+"Modifier la section : Théorie analytique de la chaleur et séries de Fourier")
+| [modifier le code](/w/index.php?title=Joseph_Fourier&action=edit&section=2
+"Modifier la section : Théorie analytique de la chaleur et séries de
+Fourier")]
+
+C'est à [Grenoble](/wiki/Grenoble "Grenoble") qu'il conduit des expériences
+sur la diffusion de la chaleur, qui lui permettront de
+[modéliser](/wiki/M%C3%A9thode_scientifique "Méthode scientifique")
+l'évolution de la [température](/wiki/Temp%C3%A9rature "Température") au
+travers de [séries trigonométriques](/wiki/S%C3%A9rie_trigonom%C3%A9trique
+"Série trigonométrique"). Ces travaux — compilés dans un mémoire qu'il
+présente à l'Académie des sciences en 1811 — qui apportent une grande
+amélioration à la modélisation mathématique de phénomènes[g], contribueront
+aux fondements de la [thermodynamique](/wiki/Thermodynamique
+"Thermodynamique").
+
+La théorie des [séries de Fourier](/wiki/S%C3%A9rie_de_Fourier "Série de
+Fourier") et les [transformées de Fourier](/wiki/Transformation_de_Fourier
+"Transformation de Fourier") ouvrent la voie à des recherches fondamentales
+sur les fonctions, mais ces outils sont très contestés, lors de leur
+présentation, notamment par [Pierre-Simon de Laplace](/wiki/Pierre-
+Simon_de_Laplace "Pierre-Simon de Laplace"), [Joseph-Louis
+Lagrange](/wiki/Joseph-Louis_Lagrange "Joseph-Louis Lagrange"), et [Siméon
+Denis Poisson](/wiki/Sim%C3%A9on_Denis_Poisson "Siméon Denis Poisson"). En
+1821, Fourier n'en peut plus d'attendre et décide de publier lui-même ses
+recherches, au sein d'un ouvrage qu'il intitule _Théorie analytique de la
+chaleur_. En 1822, lorsqu'il succède à [Delambre](/wiki/Jean-
+Baptiste_Joseph_Delambre "Jean-Baptiste Joseph Delambre") en tant que
+secrétaire perpétuel de l'Académie, il parvient à lever les blocages dont ses
+travaux font l'objet et à publier le texte dans _Les Mémoires de l'Académie_.
+Il décrit en préface le parcours semé d'embûches de son œuvre, et ajoute « Les
+retards dans la publication de mon œuvre auront contribué à rendre le travail
+plus clair et plus complet »[8].
+
+[Bernhard Riemann](/wiki/Bernhard_Riemann "Bernhard Riemann") étudiera plus
+tard soigneusement l'histoire du sujet pour conclure : « c'est Fourier qui, le
+premier, a compris d'une manière exacte et complète la nature des séries
+trigonométriques. ». De fait, les difficultés techniques associées à ces
+outils ont accompagné toute l'histoire de
+l'[intégration](/wiki/Int%C3%A9gration_\(math%C3%A9matiques\) "Intégration
+\(mathématiques\)"). Quant à la démarche générale, [Henri
+Poincaré](/wiki/Henri_Poincar%C3%A9 "Henri Poincaré") dira : « la Théorie de
+la Chaleur de Fourier est un des premiers exemples d'application de l'analyse
+à la physique [...]. Les résultats qu'il a obtenus sont certes intéressants
+par eux-mêmes, mais ce qui l'est plus encore est la méthode qu'il a employée
+pour y parvenir et qui servira toujours de modèle à tous ceux qui voudront
+cultiver une branche quelconque de la physique mathématique. » Longtemps
+mésestimés, plus pour des questions de philosophie des sciences, l'apport et
+l'héritage de Fourier sont aujourd'hui pleinement reconnus[9] et l'on assiste
+à un véritable « retour de Fourier »[10].
+
+Fourier n'a jamais abordé le problème de la nature physique de la chaleur et
+il s'oppose à la philosophie [laplacienne](/wiki/Pierre-Simon_de_Laplace
+"Pierre-Simon de Laplace") selon laquelle la chaleur — et d'ailleurs tous les
+phénomènes physiques — provient de l'action [newtonienne](/wiki/Isaac_Newton
+"Isaac Newton") sur de petites distances. Dans ses écrits, il reprend la
+terminologie en vigueur, à savoir celle de la théorie matérielle de la
+chaleur, sans jamais mentionner le débat suscité par cette théorie, ne prenant
+position ni d'un côté ni de l'autre [h] , [11].
+
+De son vivant, Fourier est conscient de l'universalité de sa théorie et des
+domaines d'application de ses outils : vibrations, acoustique,
+électricité[12], etc.. Le développement de ces domaines d'applications
+aboutira au XXe siècle à la naissance du [traitement du
+signal](/wiki/Traitement_du_signal "Traitement du signal")[i]. [Norbert
+Wiener](/wiki/Norbert_Wiener "Norbert Wiener"), père de la cybernétique,
+étudiera notamment de manière approfondie les outils de Fourier[j].
+
+Par ailleurs, les travaux de Fourier ont été une grande source d'inspiration
+pour [William Thomson (Lord Kelvin)](/wiki/William_Thomson_\(Lord_Kelvin\)
+"William Thomson \(Lord Kelvin\)") qui aimait comparer la théorie analytique
+de la chaleur à un admirable poème mathématique[13].
+
+## Effet de
+serre[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=3
+"Modifier la section : Effet de serre") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=3 "Modifier la
+section : Effet de serre")]
+
+Fourier est probablement l'un des premiers à avoir proposé, en 1824, une
+théorie selon laquelle les [gaz](/wiki/Gaz "Gaz") de l'atmosphère terrestre
+augmentent la température à sa surface — c'est une première ébauche de
+l'[effet de serre](/wiki/Effet_de_serre "Effet de serre"). Ses travaux sur la
+chaleur le poussèrent à étudier les équilibres énergétiques sur les planètes :
+elles reçoivent l'énergie sous forme de rayonnement à partir d'un certain
+nombre de sources — ce qui augmente leur température — mais en perdent
+également par radiation infrarouge (ce qu'il appelait « chaleur obscure »)
+d'autant plus que la température est élevée — ce qui tend à diminuer cette
+dernière. On atteint donc un équilibre, et l'atmosphère favorise les
+températures plus élevées en limitant les pertes de chaleur. Il ne put
+cependant déterminer avec précision cet équilibre, et la [loi de Stefan-
+Boltzmann](/wiki/Loi_de_Stefan-Boltzmann "Loi de Stefan-Boltzmann"), qui donne
+la puissance du rayonnement du corps noir, ne sera établie que cinquante ans
+plus tard.
+
+Alors que l'[effet de serre](/wiki/Effet_de_serre "Effet de serre") est
+aujourd'hui à la base de la climatologie, Fourier est fréquemment cité comme
+le premier à avoir présenté cette notion (voir par exemple John Houghton). Ces
+citations prennent souvent la date de 1827 comme première évocation de
+l'[effet de serre](/wiki/Effet_de_serre "Effet de serre") par Fourier.
+Pourtant, l'article cité en 1827 n'est qu'une nouvelle version de l'article
+original publié dans les _[Annales de chimie et de
+physique](/wiki/Annales_de_chimie_et_de_physique "Annales de chimie et de
+physique")_ en 1824.
+
+Il s'appuyait sur l'expérience de [M. de
+Saussure](/wiki/Horace_B%C3%A9n%C3%A9dict_de_Saussure "Horace Bénédict de
+Saussure"), consistant à placer une boîte noire sous la lumière du soleil.
+Quand on place une plaque de verre au-dessus de la boîte, la température à
+l’intérieur augmente[14]. La radiation infrarouge fut découverte par [William
+Herschel](/wiki/William_Herschel "William Herschel") vingt ans après.
+
+Si Fourier avait remarqué que la principale source d'énergie de la Terre était
+la radiation solaire — c’est-à-dire que l'énergie géothermique n'a que peu
+d'influence —, il a commis l'erreur d'attribuer une contribution majeure à la
+radiation issue de l'espace interplanétaire[15].
+
+## Étude des systèmes d'inégalités et programmation
+linéaire[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=4
+"Modifier la section : Étude des systèmes d'inégalités et programmation
+linéaire") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=4 "Modifier la
+section : Étude des systèmes d'inégalités et programmation linéaire")]
+
+Certes, c’est bien George Dantzig qui a « inventé » la [programmation
+linéaire](/wiki/Optimisation_lin%C3%A9aire "Optimisation linéaire") (dite
+aussi « optimisation linéaire ») : après en avoir fait un usage intensif pour
+les besoins de l’effort de guerre US dans la période 1937-45, ce nouveau champ
+de recherches et de développements est apparu au grand jour en 1947, date à
+partir de laquelle on assista à une prolifération de publications sur le
+sujet, notamment celles de Dantzig lui-même qui en présenta tout un éventail
+d’applications et d’usage extensif.
+
+Mais la paternité plus lointaine en revient incontestablement à Joseph
+Fourier, et c’est précisément Dantzig qui en donne acte historique, voire
+archéologique :
+
+> "In the years from the time when it was first proposed in 1947 by the author
+> (in connection with the planning activities of the military), linear
+> programming and its many extensions have come into wide use. In academic
+> circles decision scientists (operations researchers and management
+> scientists), as well as numerical analysts, mathematicians, and economists
+> have written hundreds of books and an uncountable number of articles on the
+> subject.  
+> Curiously, in spite of its wide applicability today to everyday problems, it
+> was unknown prior to 1947. This is not quite correct; there were some
+> isolated exceptions. Fourier (of Fourier series fame) in 1823 and the well-
+> known Belgian mathematician [de la Vallée Poussin](/wiki/Charles-
+> Jean_de_La_Vall%C3%A9e_Poussin "Charles-Jean de La Vallée Poussin") in 1911
+> each wrote a paper about it, but that was about it. Their work had as much
+> influence on Post-1947 developments as would finding in an Egyptian tomb an
+> electronic computer built in 3000 BC [16]."
+
+Traduction:  (« Depuis qu'il fut proposé pour la première fois en 1947 par
+l'auteur (en lien avec la planification des activités militaires), la
+programmation linéaire et ses nombreuses extensions ont trouvé une très large
+application. Dans les cercles académiques des scientifiques de la décision
+(recherche opérationnelle et gestion), aussi bien que chez les analystes
+numériques, les mathématiciens et les économistes, ont a écrits des centaines
+de livres et n'innombrables articles sur le sujet. Curieusement, en dépit de
+sa grande applicabilité aujourd'hui aux problèmes de tous les jours, c'était
+une question inconnue jusqu'en 1947. Ce n'est pas tout à fait correct ; il y a
+eue quelques exceptions isolées. Fourier (des fameuses séries de Fourier) en
+1823 et le bien connu mathématicien belge de la Vallée Poussin en 1911
+écrivirent chacun un papier à ce sujet, mais c'est tout. Leurs travaux ont eu
+autant d'influence sur les développements postérieur à 1947 que pourrait
+l'avoir la découverte d'un ordinateur électronique dans une tombe Égyptienne
+bâtie en 3000 avant J.C. »)
+
+La réflexion de Fourier débute par la question des travaux virtuels (vitesses
+et moments) dans son premier mémoire publié, un article sur le principe des
+vitesses virtuelles et la théorie des moments, paru en janvier 1796 [17].
+
+Dans lequel il exprime ce que l’on nomme « principe d’inégalité de Fourier »,
+selon lequel un système mécanique est en équilibre si et seulement si le
+travail des forces virtuelles n’est pas négatif. Comme Fourier exprime les
+conditions d’exercice des forces du système par des inégalités (et non plus
+par des égalités comme le faisait précédemment [Lagrange](/wiki/Joseph-
+Louis_Lagrange "Joseph-Louis Lagrange")), on a donc un schéma que l’on
+retrouve dans la programmation linéaire.
+
+> "[Gyula Farkas](/w/index.php?title=Gyula_Farkas&action=edit&redlink=1 "Gyula
+> Farkas \(page inexistante\)") dedicated his scientific researches mainly to
+> the foundations of the mechanics. He focussed on the conditions of the
+> mechanical equilibrium, dealing with a more general form of the principle of
+> the virtual work, the inequality form, known as the [Fourier-
+> principle](/wiki/Analyse_dimensionnelle "Analyse dimensionnelle"). [...]
+> Farkas dealt with the foundation of force equilibrium in mechanics and
+> thermodynamics when creating the famous theorem of homogeneous linear
+> inequality systems. [...]  
+> In 1894, (Farkas) gave mathematical formulation to the mechanical principle
+> of Fourier, stated in 1798, and developed a theory of linear inequalities
+> that he needed to derive the necessary condition of the equilibrium of a
+> mechanical system. He published the results in subsequent papers between
+> 1894 and 1901.  
+> The mechanical principle of Courtivron, stated in 1747, was given
+> mathematical form by [Lagrange](/wiki/Joseph-Louis_Lagrange "Joseph-Louis
+> Lagrange"), in 1788. In that theory the mechanical system was constrained by
+> equalities. The novelty in Fourier’s and Farkas’ work was the use of
+> inequality constraints, where the former theory is a special case. If the
+> forces form a conservative system, i.e., there exists potential, then
+> finding necessary condition to equilibrium is the same as minimizing the
+> potential subject to constraints."
+
+-- András Prékopa.[18]
+
+Traduction:  (« Gyula Farkas consacra ses recherches scientifiques
+principalement aux fondations de la mécanique. Il se concentra sur les
+conditions mécaniques à l'équilibre, travaillant avec une forme plus générale
+du principe des forces virtuelles, les inégalités de formes, connu sous le nom
+de Principe de Fourier. […] Farkas travailla que les fondations des forces
+d'équilibres en mécanique et thermodynamique lorsqu'il créa le fameux théorème
+d'homogénéité des systèmes d'équations linéaires. […] En 1894, (Farkas) donna
+une formulation mathématique du principe mécanique de Fourier, formulé en
+1798, et développa une théorie des inégalités dont il avait besoin pour dérivé
+les conditions nécessaires à l'équilibre d'un système mécanique. Il publia les
+résultats dans une série de papier entre 1894 et 1901. Le principe mécanique
+de Courtivron, formulé en 1747, reçu sa forme mathématique par Lagrange en
+1788. Dans cette théorie, le système mécanique est contraint par des égalités.
+L'innovation des travaux de Fourier et de Farkas fut l'utilisation
+d'inégalités pour les contraintes, dont le précédent n'est qu'un cas
+particulier. Si les forces forment un système conservatif, c'est-à-dire, qu'il
+existe un potentiel, alors trouver les conditions nécessaires d'équilibre est
+équivalent à minimiser le potentiel en respectant les contraintes. »)
+
+  
+Puis on a les annonces données par Fourier dans ses _Analyse des travaux de
+l’Académie royale des sciences (partie mathématique)_ , pour les années 1823
+et 1824 (en fait publiées séparées en juin de l’année suivante, puis insérées
+avec quelques ajouts dans les volumes d’Histoire de l’Académie royale des
+sciences respectivement quatre[19] et trois[20] ans plus tard). C’est surtout
+dans l’ _Analyse des travaux pendant l’année 1824_ [k] que l’on a de Fourier
+sa « marche de la méthode qui consiste à passer successivement d’une fonction
+extrême à une autre en diminuant de plus en plus la valeur du plus grand écart
+», en progressant le long des arêtes d’un polyèdre, ce qui constitue bien «
+the principle behind the simplex method used today » :
+
+> "The famous mathematician, Fourier, while not going into the subject deeply,
+> appears to have been the first to study linear inequalities systematically
+> and to point out their importance to mechanics and probability theory. He
+> was interested in finding the least maximum deviation fit to a system of
+> linear equations, which he reduced to the problem of finding the lowest
+> point of a polyhedral set. He suggested a solution by a vertex-to-vertex
+> descent to a minimum, which is the principle behind the simplex method used
+> today. This is probably the earliest known instance of a linear programming
+> problem. Later another famous mathematician, de la Vallée Poussin,
+> considered the same problem and proposed a similar solution."
+
+-- G. B. Dantzig, _Linear Programming & Extensions_, The Rand-Princeton U.
+Press, 1963, p. 21.
+
+Traduction: (« Le fameux mathématicien, Fourier, bien que n'ayant pas
+profondément creusé le sujet, apparaît comme étant le premier à avoir étudier
+de façon systématique les inégalités linéaires et à avoir fait remarquer leurs
+importances pour la mécanique et la théorie des probabilités. Il cherchait à
+trouver l'ajustement de déviation minimale d'un système d'équations linéaires,
+ce qu'il réduisit au problème de trouver le point le plus bas d'un ensemble
+polyhédrique. Il suggéra une solution par une descente vertex-par-vertex vers
+le minimum, qui est le principe derrière la méthode du simplexe utilisée
+aujourd'hui. C'est probablement la toute première instance de problème de
+programmation linéaire. Plus tard, un autre mathématicien fameux, de la Vallée
+Poussin, considéra le même problème et proposa une solution similaire. »)
+
+Fourier exposera ensuite sa méthode dans plusieurs articles au Bulletin des
+sciences du Baron de Férussac, au Nouveau bulletin des sciences de la Société
+philomatique (avec un diagramme visualisant la descente le long des arêtes du
+polyèdre). Il finira par en donner la recension dans le synopsis de son
+ouvrage _Analyse des Équations Déterminées_ — publié après sa mort en
+1830-1831 par son ami Navier —, et cette incessante recherche sur les systèmes
+d’inégalités linéaires confirme bien que par « (his) method of solution and
+applications of linear inequalities, Fourier’s remarkable understanding of the
+last subject makes him the great anticipator of linear
+programming.[21],[22],[23],[24],[25],[26],[27],[28] ».
+
+## Autres travaux et
+innovations[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=5
+"Modifier la section : Autres travaux et innovations") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=5 "Modifier la
+section : Autres travaux et innovations")]
+
+En 1816, en page 361 d'un article[29] qui présente la substance du monumental
+traité sur sa Théorie de la chaleur qu'il se propose de publier (mais ce ne
+sera fait que six ans plus tard), il introduit quelques innovations
+mathématiques miraculeuses : celle des bornes de sommation et d'intégration
+aux extrémités des signes ∑ et ∫de ces opérations, rendant ainsi leur usage
+visible et opératoire (notamment pour le critère de linéarité).
+
+##
+Hommages[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=6
+"Modifier la section : Hommages") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=6 "Modifier la
+section : Hommages")]
+
+  * [Baron de l'Empire](/wiki/Noblesse_d%27Empire "Noblesse d'Empire") en 1809.
+  * [![Chevalier de la Légion d'honneur](//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Legion_Honneur_Chevalier_ribbon.svg/50px-Legion_Honneur_Chevalier_ribbon.svg.png)](/wiki/Fichier:Legion_Honneur_Chevalier_ribbon.svg "Chevalier de la Légion d'honneur") [Chevalier de la Légion d'honneur](/wiki/Ordre_national_de_la_L%C3%A9gion_d%27honneur "Ordre national de la Légion d'honneur")(1804) puis [![Officier de la Légion d'honneur](//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Legion_Honneur_Officier_ribbon.svg/50px-Legion_Honneur_Officier_ribbon.svg.png)](/wiki/Fichier:Legion_Honneur_Officier_ribbon.svg "Officier de la Légion d'honneur") [Officier de la Légion d'honneur](/wiki/Ordre_national_de_la_L%C3%A9gion_d%27honneur "Ordre national de la Légion d'honneur").
+  * En 1935, l'[Union astronomique internationale](/wiki/Union_astronomique_internationale "Union astronomique internationale") a donné le nom de [Fourier](/wiki/Fourier_\(crat%C3%A8re\) "Fourier \(cratère\)") à un [cratère lunaire](/wiki/Crat%C3%A8res_lunaires "Cratères lunaires").
+  * Il est inscrit aux commémorations nationales en 2018[30] pour ses 250 ans. À cette occasion, une bande-dessinée lui rend hommage[31].
+  * Son nom [est inscrit sur la Tour Eiffel](/wiki/Liste_des_72_noms_de_savants_inscrits_sur_la_tour_Eiffel "Liste des 72 noms de savants inscrits sur la tour Eiffel") (numéro 67/72).
+  * Son éloge a été prononcé par [François Arago](/wiki/Fran%C3%A7ois_Arago "François Arago"), de l'Académie des sciences, et par [Victor Cousin](/wiki/Victor_Cousin "Victor Cousin"), de l'Académie française.
+  * Avant la fusion de 2015 des trois Universités de Grenoble du campus de [Saint-Martin-d'Hères](/wiki/Saint-Martin-d%27H%C3%A8res "Saint-Martin-d'Hères") qui a donné naissance à l'Université Grenoble-Alpes, l'[Université de Grenoble-I](/wiki/Universit%C3%A9_Joseph-Fourier "Université Joseph-Fourier") était plus connue sous le nom d'Université Joseph Fourier. Encore aujourd'hui un portrait de Joseph Fourier est accroché sur les murs des amphithéâtres du rez-de-chaussée de l'établissement. Un lycée technique, à Auxerre, sa ville natale porte toujours son nom.
+  * Il a inspiré l'un des personnages du roman historique _[Le Secret de Champollion](/wiki/Le_Secret_de_Champollion "Le Secret de Champollion")_.
+  * Nombre d'auteurs de vulgarisation placent l'héritage scientifique de Fourier au tout premier plan de l'histoire des sciences : Stephen Hawking[32], Ian Stewart[33],[34], etc.
+  * Nombre de références scientifiques et techniques au sein desquelles la Transformée de Fourier joue un rôle primordial lui rendent hommage : [Optique de Fourier](/wiki/Optique_de_Fourier "Optique de Fourier"), [Planetary Fourier Spectrometer](https://en.wikipedia.org/wiki/Planetary_Fourier_Spectrometer "en:Planetary Fourier Spectrometer"), Fourier Technologies[35],[36], etc.
+  * En 2012, le Centre de culture scientifique technique et industrielle de Bourgogne lance une souscription nationale[37] pour ériger une nouvelle statue dans la ville natale de Fourier (Auxerre) : l'unique statue existante de Joseph Fourier fut fondue durant la deuxième guerre mondiale lors de l'un des nombreux épisodes de récupération des métaux non-ferreux pour l'effort de guerre. Après la guerre, un simple médaillon vint réparer l'outrage[38].
+  * Une Société Joseph Fourier[39] existe à Auxerre.
+  * Le [prix Atos - Joseph Fourier](/wiki/Prix_Atos_-_Joseph_Fourier "Prix Atos - Joseph Fourier") récompense la contribution d'un chercheur ou d'une équipe de recherche pour leurs travaux dans la parallélisation des applications de simulation numérique.
+  * [(10101) Fourier](/wiki/\(10101\)_Fourier "\(10101\) Fourier"), un [astéroïde](/wiki/Ast%C3%A9ro%C3%AFde "Astéroïde") de la [ceinture principale](/wiki/Ceinture_d%27ast%C3%A9ro%C3%AFdes "Ceinture d'astéroïdes").
+  * Une fonte de caractère créée par Michel Bovani, dérivée d’Utopia porte le nom de Fourier (sans autre précision ; on peut penser à Joseph ou à Charles Fourier).
+
+## Œuvres[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=7
+"Modifier la section : Œuvres") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=7 "Modifier la
+section : Œuvres")]
+
+  * « Préface » de la Description de l'Égypte, 1809, texte original dans Champollion-Figeac (Jean-Jacques). – _Fourier et Napoléon. L’Égypte et les cent jours_. Mémoires et documents inédits. – Paris, Firmin-Didot frères, 1844. In-8°, vii-364 p. (Première rédaction inédite de la préface historique à la _Description de l’Égypte_ , p. 88 à 172, avec indications des variantes de la première et deuxième édition.) Version numérique dans Gallica et dans Google Livre.
+  * Théorie analytique de la chaleur, Paris, 1822 [[détail de l’édition](/wiki/R%C3%A9f%C3%A9rence:Th%C3%A9orie_analytique_de_la_chaleur_\(Fourier\) "Référence:Théorie analytique de la chaleur \(Fourier\)")] ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k1045508v))
+  * « Résumé théorique des propriétés de la chaleur rayonnante », _Annales de chimie et de physique_ , vol. 27, 1824, p. 236-281 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k65708960/f242.image))
+  * « Mémoire sur les températures du globe terrestre et des espaces planétaires », _Mémoires de l'Académie royale des sciences de l'Institut de France_ , vol. 7, 1827, p. 569-604 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k32227/f808.image))
+  * « Mémoire sur la distinction des racines imaginaires, et sur l'application des théorèmes d'analyse algébrique aux équations transcendantes qui dépendent de la théorie de la chaleur », _Mémoires de l'Académie royale des sciences de l'Institut de France_ , vol. 7, 1827, p. 605-624 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k32227/f844.image))
+  * Analyse des équations déterminées, Paris, Firmin Didot frères, 1831 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k1057816b))
+  * « Remarques générales sur l'application du principe de l'analyse algébrique aux équations transcendantes », _Mémoires de l'Académie des sciences de l'Institut de France_ , vol. 10, 1827, p. 119-146 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k32255/f346.image))
+  * « Mémoire d'analyse sur le mouvement de la chaleur dans les fluides », _Mémoires de l'Académie royale des sciences de l'Institut de France_ , vol. 12, 1833, p. 507-530 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k3227s/f620.image))
+  * (avec Lacroix et Poisson), « Rapport sur les Tontines », _Mémoires de l'Académie royale des sciences de l'Institut de France_ , vol. 5, 1821, p. 26-43 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k3220m/f568.image))
+  * Œuvres de Fourier, publiées par les soins de M. Gaston Darboux, vol. 1, Paris, Gauthier-Villard et fils, 1888
+  * Œuvres de Fourier, publiées par les soins de M. Gaston Darboux, vol. 2, Paris, Gauthier-Villard et fils, 1890 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k33707))
+
+## [Armoiries](/wiki/Armoiries
+"Armoiries")[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=8
+"Modifier la section : Armoiries") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=8 "Modifier la
+section : Armoiries")]
+
+**Figure** | **Blasonnement**  
+---|---  
+  
+[![Orn ext baron de l'Empire
+CLH.svg](//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Orn_ext_baron_de_l%27Empire_CLH.svg/210px-
+Orn_ext_baron_de_l%27Empire_CLH.svg.png)](/wiki/Fichier:Orn_ext_baron_de_l%27Empire_CLH.svg)
+
+[![Blason Jean Baptiste Joseph
+Fourier.svg](//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Blason_Jean_Baptiste_Joseph_Fourier.svg/80px-
+Blason_Jean_Baptiste_Joseph_Fourier.svg.png)](/wiki/Fichier:Blason_Jean_Baptiste_Joseph_Fourier.svg)
+
+| **[Armes du baron Fourier et de
+l'Empire](/wiki/Armorial_des_barons_de_l%27Empire "Armorial des barons de
+l'Empire"), [1809](/wiki/1809 "1809")**
+
+_Coupé : au I, parti d'azur à la fasce d'argent et du quartier des Barons
+Préfets ; au II, d'argent à la barre échiquetée d'azur et d'or accompagnée de
+deux coqs d'azur._[40]  
+  
+## Notes et
+références[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=9
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=9 "Modifier la
+section : Notes et références")]
+
+###
+Notes[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=10
+"Modifier la section : Notes") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=10 "Modifier la
+section : Notes")]
+
+  1. ↑ Il rédige un mémoire sur les équations algébriques à 17 ans. Entre décembre 1784 et novembre 1785, il tombe malade du fait de ce surmenage intellectuel, qui le conduit à l'épuisement et lui coûte cher. À partir de ce moment, il souffre d'insomnie, de dyspepsie et d'asthme, des maladies qui le marquent.
+  2. ↑ Décrets des 28 octobre et 2 novembre 1789
+  3. ↑ Il est emprisonné à quelques jours du 9 Thermidor an II — 27 juillet 1794 —, date de la chute de Robespierre. Si la tête de Robespierre n'était pas tombée devant le tribunal révolutionnaire, Fourier aurait été jugé et condamné à la peine capitale. 
+  4. ↑ Au retour de cette expédition, il est chargé de collecter et publier les découvertes réalisées, point de départ de l'œuvre littéraire et scientifique monumentale [Description de l'Égypte](/wiki/Description_de_l%27%C3%89gypte "Description de l'Égypte")
+  5. ↑ Projet d'assainissement de 1 500 Ha réalisé de 1808 à 1814 grâce au décret de 1805 pris par Napoléon et aux qualités de négociateur de Fourier
+  6. ↑ Ministre de l'Intérieur sous [Louis XVIII](/wiki/Louis_XVIII "Louis XVIII") du 20 mars au 22 juin 1815
+  7. ↑ Pour rendre hommage à la modernité de sa démarche, un [Prix Bull-Fourier](http://www.prix-bull-fourier.fr/) était décerné ces dernières années.
+  8. ↑ [Auguste Comte](/wiki/Auguste_Comte "Auguste Comte") (1798-1857), l'un des fondateurs du [positivisme](/wiki/Positivisme "Positivisme") moderne, prend les travaux de Fourier sur la diffusion de la chaleur en tant que paradigme des mathématiques comme de la physique, et lui consacre son cours de philosophie positive quand il commence à enseigner à l'École polytechnique, Fourier se trouvant alors dans l'assistance. 
+  9. ↑ L'[IEEE](/wiki/Institute_of_Electrical_and_Electronics_Engineers "Institute of Electrical and Electronics Engineers") Signal Processing Society décerne par ailleurs un [Fourier Award](http://www.ieee.org/about/awards/tfas/fourier.html).
+  10. ↑ Le Norbert Wiener Center organise tous les ans des [February Fourier Talks](http://www.norbertwiener.umd.edu/FFT/2015/index.html).
+  11. ↑ Publiée séparée au 25 juin 1825, selon Bib. Fr., p. xlvj à lv.
+
+###
+Références[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=11
+"Modifier la section : Références") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=11 "Modifier la
+section : Références")]
+
+  1. ↑ a et b [Aspects de l’œuvre de Fourier](http://www.franceculture.com/emission-continent-sciences-aspects-de-l%E2%80%99oeuvre-de-fourier-les-transformees-2011-02-07.html) émission _Continent Sciences_ sur [France Culture](/wiki/France_Culture "France Culture"), 7 février 2011
+  2. ↑ José María Almira et Simon Prime 2018, p. 18/20
+  3. ↑ José María Almira et Simon Prime 2018, p. 22-24/26/44-46
+  4. ↑ José María Almira et Simon Prime 2018, p. 49/52-55
+  5. ↑ François Arago, Œuvres complètes de François Arago, secrétaire perpétuel de l’académie des sciences, 1, Paris, 1854 ([lire en ligne](https://fr.wikisource.org/wiki/Joseph_Fourier_\(Arago\)/Texte_entier)), Joseph Fourier, p. 367
+  6. ↑ José María Almira et Simon Prime 2018, p. 107-108/111-112/118
+  7. ↑ Œuvres, 1822
+  8. ↑ José María Almira et Simon Prime 2018, p. 91/93
+  9. ↑ cf. par exemple [Journal of Fourier Analysis and Applications](https://www.springer.com/mathematics/analysis/journal/41)
+  10. ↑ [retour de Fourier](http://www.academie-sciences.fr/pdf/dossiers/Fourier/Fourier_pdf/Fourier_Kahane.pdf)
+  11. ↑ José María Almira et Simon Prime 2018, p. 112/114
+  12. ↑ [Des cordes aux ondelettes. L'analyse en temps et en fréquence avant et après Fourier](http://histoire-cnrs.revues.org/414), Publications de l'Université de Provence, 2002.
+  13. ↑ Émile Picard, _[Notice historique sur la vie et l'œuvre de Kelvin](http://www.academie-sciences.fr/pdf/dossiers/Picard/Picard_pdf/Picard_Kelvin.pdf)_ , Académie des sciences.
+  14. ↑ Mémoire sur les températures du globe…, [[lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k32227/f824.image.r=memoires%20de%20l%27academie%20des%20sciences.langFR)], p. 585.
+  15. ↑ [Fourier et la préhistoire de l'effet de serre](http://www.diffusion.ens.fr/index.php?idconf=232&res=conf) Séminaire du laboratoire de météorologie dynamique, École normale supérieure, Savoirs multimédia, 19 mai 2004
+  16. ↑ George B. Dantzig, LINEAR PROGRAMMING, _Operations Research_ , Vol. 50, no 1, January–February 2002, p. 42–47.
+  17. ↑ Fourier, « Mémoire sur la statique, Contenant la démonstration du principe des Vitesses virtuelles, et la théorie des Momens », _Journal de l'École polytechnique, ou bulletin du travail fait à cette école, publié par le conseil d'instruction et administration de cet établissement. Cinquième cahier. Tome II._, prairial, an vi (mai-juin 1798)., p. 20-60
+
+Paris, Imprimerie de la République.
+
+  18. ↑ G. Y. Farkas. _A Fourier-Hele mechanica elv alkalmazai_ (texte en hongrois), Mathematikai es Terleszettudomany Ertesito, 12. 457-472, 1894.
+  19. ↑ Fourier, « Analyse des travaux de l'Académie pendant l'année 1823 (partie mathématique) », _Histoire de l'Académie des sciences de l'Institut de France (T 6)_ , 1827, I-LX ([lire en ligne](http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-3221))
+  20. ↑ Fourier, « Analyse des travaux de l'Académie pendant l'année 1824 (partie mathématique) », _Histoire de l'Académie des sciences de l'Institut de France (T 7)_ , 1827, I-XCI ([lire en ligne](http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-3222))
+  21. ↑ Dictionary of Scientific Biography, V:98
+  22. ↑ (en) G. B. Dantzig, _Linear Programming & Extensions_, The Rand-Princeton U. Press, 1963.
+  23. ↑ (en) A. Schrijver, _Theory of linear and integer programming_ , J. Wiley, 1998. [[1]](https://promathmedia.files.wordpress.com/2013/10/alexander_schrijver_theory_of_linear_and_integerbookfi-org.pdf)
+  24. ↑ (en) Vijay Chandru & M. R. Rao, _175 Years of Linear Programming 1. The French Connection_ , Indian Academy of Sciences, Resonance, Vol. 3, issue 10, October 1998, [[2]](http://www.ias.ac.in/article/fulltext/reso/003/10/0026-0040)
+  25. ↑ J. K. Lenstra, A. H. G. Rinooy Kan & A. Schrijver (editors), _History of Mathematical Programming: A Collection of Personal Reminiscences_ , North Holland, 1991.
+  26. ↑ (en) Andras Prekopa, _On the development of optimisation theory_ , The American Mathematical Monthly, 87 (1980), p. 527-542 [ [lire en ligne](http://rutcor.rutgers.edu/~prekopa/FARKAS.pdf) ].
+  27. ↑ (en) I. Grattan Guiness, _Joseph Fourier’s Anticipation of Linear Programming_ , Operational Research Quarterly, Vol. 21, no 3 (Sep., 1970), p. 361-364
+  28. ↑ (en) D. A. Kohler, _Translation of a Report by Fourier on his work on Linear Inequalities_ , Opsearch 10, p. 38-42, 1973. (Courte traduction en anglais de l’annonce de 1824).
+  29. ↑ Fourier, « Théorie de la chaleur (Extrait) », _Annales de chimie et de physique Tome troisième_ , décembre 1816, p. 350-375 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k65687125.r=fourier?rk=21459;2))
+  30. ↑ [« index »](http://www.mathouriste.eu/), sur www.mathouriste.eu (consulté le 2 janvier 2018)
+  31. ↑ [Les oscillations de Joseph Fourier des éditions Petit à Petit](https://www.petitapetit.fr/produit/joseph-fourier-bd/), bande dessinée d'hommage à Joseph Fourier.
+  32. ↑ [Stephen Hawking](http://www.dunod.com/sciences-et-techniques/culture-scientifique/mathematiques/et-dieu-crea-les-nombres).
+  33. ↑ [Ian Stewart](http://www.laffont.fr/site/17_equations_qui_ont_change_le_monde_&100&9782221133347.html)
+  34. ↑ [Les mathématiciens de l'Antiquité au XXIe siècle](http://www.editions-belin.com/ewb_pages/f/fiche-article-les-mathematiciens-16318.php).
+  35. ↑ [Fourier 300](http://www.bruker.com/fr/products/mr/nmr/fourier/technical-details.html)
+  36. ↑ [Fourier Technologies](http://www.fourier.com.au/about/our-company/fourier-transform-theory/).
+  37. ↑ [souscription nationale](http://www.ccstib.fr/-Fourier,046-.html).
+  38. ↑ [Inauguration d'un médaillon à l'effigie de Joseph Fourier](http://www.academie-sciences.fr/activite/archive/dossiers/Fourier/Fourier_pdf/Fourier_commemoration.pdf), Arnaud Denjoy, Académie des sciences, 1952
+  39. ↑ [Société Joseph Fourier](http://lewebpedagogique.com/josephfourier/).
+  40. ↑ [Vicomte Albert Révérend (1844-1911)](/w/index.php?title=Albert_R%C3%A9v%C3%A9rend&action=edit&redlink=1 "Albert Révérend \(page inexistante\)"), Armorial du Premier Empire : titres, majorats et armoiries concédés par Napoléon Ier, t. 2, Paris, Au bureau de L'Annuaire de la noblesse, 1894, 372 p. ([lire en ligne](https://archive.org/details/armorialdupremie02reve/page/179)), p. 179
+
+## Voir
+aussi[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=12
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=12 "Modifier la
+section : Voir aussi")]
+
+Sur les autres projets Wikimedia :
+
+  * [Joseph Fourier](https://commons.wikimedia.org/wiki/Category:Joseph_Fourier?uselang=fr), sur Wikimedia Commons
+  * [Joseph Fourier](https://fr.wikisource.org/wiki/Auteur:Joseph_Fourier "s:Auteur:Joseph Fourier"), sur Wikisource
+
+###
+Bibliographie[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=13
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=13 "Modifier la
+section : Bibliographie")]
+
+![Document utilisé pour la rédaction de
+l’article](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-
+Icon_flat_design_plume.svg.png) : document utilisé comme source pour la
+rédaction de cet article.
+
+  * [François Arago](/wiki/Fran%C3%A7ois_Arago "François Arago"), _Éloge historique de Joseph Fourier_ , lu le 18 novembre 1833, dans _Mémoires de l'Académie des sciences de l'Institut de France_ , Gauthier-Villars, Paris, 1836, tome 14, p. LXIX-CXXXVIII [( _lire en ligne_ )](https://gallica.bnf.fr/ark:/12148/bpt6k3229d/f73.image).
+  * [Dhombes et Robet 1998] [Jean Dhombres](/wiki/Jean_Dhombres "Jean Dhombres") et [Jean-Bernard Robert](/w/index.php?title=Jean-Bernard_Robert&action=edit&redlink=1 "Jean-Bernard Robert \(page inexistante\)"), Fourier, créateur de la [physique mathématique](/wiki/Physique_math%C3%A9matique "Physique mathématique"), [Belin](/wiki/Belin_%C3%A9diteur "Belin éditeur"), coll. « Un savant, une époque », 1998, 767 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-7011-1213-8](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-7011-1213-8 "Spécial:Ouvrages de référence/978-2-7011-1213-8"))
+  * Robert Timon, [_Joseph Fourier_](https://www.lulu.com/shop/search.ep?keyWords=timon+fourier&type=), éd. Société Joseph-Fourier
+  * [Koppe 2018] Martin Koppe, « Joseph Fourier transforme toujours la science », _[CNRS](/wiki/Centre_national_de_la_recherche_scientifique "Centre national de la recherche scientifique") le journal_, 21 mars 2018 ([lire en ligne](https://lejournal.cnrs.fr/articles/joseph-fourier-transforme-toujours-la-science))
+  * Champollion-Figeac (Jean-Jacques), _Fourier et Napoléon. L’Égypte et les cent jours. Mémoires et documents inédits_ , Paris, Firmin-Didot frères, 1844. In-8°, vii-364 p. (Première rédaction inédite de la préface historique à la _Description de l’Égypte_ , p. 88 à 172, avec indications des variantes de la première et deuxième édition.) en ligne dans Gallica et dans Google Livres ([https://books.google.fr/books?id=fvs5AAAAcAAJ&pg=PA352&dq=Champollion-Figeac+Fourier+et&hl=fr&sa=X&ved=0ahUKEwjtyNmR9ZjYAhVCyaQKHWy1D80Q6AEIJzAA#v=onepage&q=Champollion-Figeac%20Fourier%20et&f=false](https://books.google.fr/books?id=fvs5AAAAcAAJ&pg=PA352&dq=Champollion-Figeac+Fourier+et&hl=fr&sa=X&ved=0ahUKEwjtyNmR9ZjYAhVCyaQKHWy1D80Q6AEIJzAA#v=onepage&q=Champollion-Figeac%20Fourier%20et&f=false))
+  * « Fourier Jean-Baptiste-Joseph », dans Stéphane Baciocchi (dir.), Dictionnaire prosopographique des élèves nommés à l'École normale de l'an III, 2016 ([lire en ligne](http://lakanal-1795.huma-num.fr/w/index.php?title=Fourier_Jean-Baptiste-Joseph)).
+  * José María Almira (trad. Simon Prime), Un mathématicien au service de la physique : Fourier, Barcelone, RBA Coleccionables, 2018, 157 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-84-473-9326-8](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-84-473-9326-8 "Spécial:Ouvrages de référence/978-84-473-9326-8")). ![](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-Icon_flat_design_plume.svg.png)
+  * [« Fourier l'Égyptien : L'éclatante réussite scientifique d'un fiasco militaire »](http://www.mathouriste.eu/Fourier/Fourier-Egyptien.html)
+
+### Articles
+connexes[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=14
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=14 "Modifier la
+section : Articles connexes")]
+
+  * [Série de Fourier](/wiki/S%C3%A9rie_de_Fourier "Série de Fourier") , [Série de Fourier généralisée](/wiki/S%C3%A9rie_de_Fourier_g%C3%A9n%C3%A9ralis%C3%A9e "Série de Fourier généralisée")
+  * [Transformation de Fourier](/wiki/Transformation_de_Fourier "Transformation de Fourier")
+  * [Conduction thermique](/wiki/Conduction_thermique "Conduction thermique")
+  * [Équation de la chaleur](/wiki/%C3%89quation_de_la_chaleur "Équation de la chaleur")
+  * [Nombre de Fourier](/wiki/Nombre_de_Fourier "Nombre de Fourier")
+  * [Description de l'Égypte](/wiki/Description_de_l%27%C3%89gypte "Description de l'Égypte")
+
+### Liens
+externes[[modifier](/w/index.php?title=Joseph_Fourier&veaction=edit&section=15
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Joseph_Fourier&action=edit&section=15 "Modifier la
+section : Liens externes")]
+
+  * [Notices d'autorité](/wiki/Autorit%C3%A9_\(sciences_de_l%27information\) "Autorité \(sciences de l'information\)")[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : 
+    * [Fichier d’autorité international virtuel](http://viaf.org/viaf/24601470)
+    * [International Standard Name Identifier](http://isni.org/isni/0000000108792426)
+    * [Bibliothèque nationale de France](http://catalogue.bnf.fr/ark:/12148/cb11903259s) ([données](http://data.bnf.fr/ark:/12148/cb11903259s))
+    * [Système universitaire de documentation](http://www.idref.fr/026870908)
+    * [Bibliothèque du Congrès](http://id.loc.gov/authorities/n50023126)
+    * [Gemeinsame Normdatei](http://d-nb.info/gnd/118684310)
+    * [Bibliothèque nationale de la Diète](http://id.ndl.go.jp/auth/ndlna/01032316)
+    * [Bibliothèque royale des Pays-Bas](http://data.bibliotheken.nl/id/thes/p068414986)
+    * [Bibliothèque nationale de Pologne](http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=01&IM=05&TX=&NU=01&WI=A19817381)
+    * [Bibliothèque nationale d’Israël](http://uli.nli.org.il/F/?func=direct&doc_number=000048187&local_base=nlx10)
+    * [Bibliothèque universitaire de Pologne](http://viaf.org/processed/NUKAT%7Cn01090899)
+    * [Bibliothèque nationale de Catalogne](http://cantic.bnc.cat/registres/CUCId/a11338064)
+    * [WorldCat](http://www.worldcat.org/identities/lccn-n50-023126)
+
+  * Ressource relative à la littérature[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : 
+    * [Académie française (membres)](http://www.academie-francaise.fr/les-immortels/joseph-fourier)
+  * Ressources relatives à la recherche[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : 
+    * [Biodiversity Heritage Library](http://www.biodiversitylibrary.org/creator/15955)
+    * [ _La France savante_](http://cths.fr/an/prosopo.php?id=103781)
+    * (en) [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/id.php?id=17981)
+  * Notices dans des dictionnaires ou encyclopédies généralistes[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8772?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : [_Brockhaus Enzyklopädie_](https://brockhaus.de/ecs/enzy/article/fourier-jean-baptiste-joseph) • [_Deutsche Biographie_](http://www.deutsche-biographie.de/118684310.html) • [_Encyclopædia Britannica_](https://www.britannica.com/biography/Joseph-Baron-Fourier) • [_Encyclopædia Universalis_](https://www.universalis.fr/encyclopedie/joseph-fourier/) • [_Gran Enciclopèdia Catalana_](https://www.enciclopedia.cat/EC-GEC-0027898.xml) • [_Swedish Nationalencyklopedin_](https://www.ne.se/uppslagsverk/encyklopedi/lång/jean-baptiste-joseph-fourier) • [_Store norske leksikon_](https://snl.no/Joseph_Fourier)
+  * [Éloge historique de Joseph Fourier](http://www.academie-sciences.fr/activite/archive/dossiers/Fourier/Fourier_pdf/Fourier_Arago.pdf) par [François Arago](/wiki/Fran%C3%A7ois_Arago "François Arago"), secrétaire perpétuel de l'Académie des sciences, le 18 novembre 1833
+  * _Mémoire sur les températures du globe terrestre et des espaces planétaires_ (1827), [en ligne et commenté](http://bibnum.education.fr/sciencesdelaterre/climatologie/la-th%C3%A9orie-de-la-chaleur-de-fourier-appliqu%C3%A9e-%C3%A0-la-temp%C3%A9rature-de-la-) sur le site _BibNum_.
+  * _Théorie analytique de la chaleur_ (1822), chap.III (fondements de la transformée de Fourier), en ligne et commenté sur le site _[BibNum](https://www.bibnum.education.fr/mathematiques/analyse/theorie-analytique-de-la-chaleur)_.
+  * [Fourier, de la Révolution Française à la Révolution Numérique](http://www.mathouriste.eu/Fourier/Fourier.html) : sa vie, son œuvre (commentée), son héritage sur le site d'Alain Juhel
+
+[![Voir ce
+modèle.](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Mod%C3%A8le:Palette_Succession/Acad%C3%A9mie_fran%C3%A7aise
+"Voir ce modèle.")
+
+[Fauteuil 5 de l’Académie
+française](/wiki/Liste_des_membres_de_l%27Acad%C3%A9mie_fran%C3%A7aise#Fauteuil_5
+"Liste des membres de l'Académie française")  
+  
+---  
+Précédé par  |  | Suivi par  
+| **[Pierre-Édouard Lémontey](/wiki/Pierre-%C3%89douard_L%C3%A9montey "Pierre-
+Édouard Lémontey")**  
+---  
+| **Joseph Fourier**  
+---  
+1826-1830  
+| **[Victor Cousin](/wiki/Victor_Cousin "Victor Cousin")**  
+---  
+  
+[v](/wiki/Mod%C3%A8le:Palette_Composition_Acad%C3%A9mie_fran%C3%A7aise
+"Modèle:Palette Composition Académie française") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Composition_Acad%C3%A9mie_fran%C3%A7aise&action=edit)
+
+[◀](/wiki/No%C3%ABl-Gabriel-Luce_Villar#deces "Noël-Gabriel-Luce Villar")
+Composition de l'Académie française au jour de son élection (14 décembre 1826)
+[▶](/wiki/Charles-Marie_de_Feletz#election "Charles-Marie de Feletz")  
+  
+---  
+[par numéro de
+fauteuil](/wiki/Liste_des_membres_de_l%27Acad%C3%A9mie_fran%C3%A7aise_par_fauteuil
+"Liste des membres de l'Académie française par fauteuil") | |
+
+1\. [F. A. Parseval-Grandmaison](/wiki/Fran%C3%A7ois-Auguste_Parseval-
+Grandmaison "François-Auguste Parseval-Grandmaison")  
+2\. [Nicolas François de
+Neufchâteau](/wiki/Nicolas_Fran%C3%A7ois_de_Neufch%C3%A2teau "Nicolas François
+de Neufchâteau")  
+3\. [Denis Frayssinous](/wiki/Denis_Frayssinous "Denis Frayssinous")  
+4\. [Alexandre Duval](/wiki/Alexandre_Duval "Alexandre Duval")  
+5\. Joseph Fourier  
+6\. [Pierre-Marc-Gaston de Lévis](/wiki/Pierre-Marc-Gaston_de_L%C3%A9vis
+"Pierre-Marc-Gaston de Lévis")  
+7\. [Pierre Daru](/wiki/Pierre_Daru "Pierre Daru")  
+8\. [Pierre-Simon de Laplace](/wiki/Pierre-Simon_de_Laplace "Pierre-Simon de
+Laplace")  
+9\. [Pierre Baour-Lormian](/wiki/Pierre_Baour-Lormian "Pierre Baour-Lormian")  
+10\. [J. H. J. Lainé](/wiki/Joseph-Henri-Joachim_Lain%C3%A9 "Joseph-Henri-
+Joachim Lainé")
+
+|
+
+11\. [Charles Brifaut](/wiki/Charles_Brifaut "Charles Brifaut")  
+12\. [Charles de Lacretelle](/wiki/Charles_de_Lacretelle "Charles de
+Lacretelle")  
+13\. [Louis-Benoît Picard](/wiki/Louis-Beno%C3%AEt_Picard "Louis-Benoît
+Picard")  
+14\. [Népomucène Lemercier](/wiki/N%C3%A9pomuc%C3%A8ne_Lemercier "Népomucène
+Lemercier")  
+15\. [F. X. de Montesquiou-Fézensac](/wiki/Fran%C3%A7ois-Xavier-Marc-
+Antoine_de_Montesquiou-F%C3%A9zensac "François-Xavier-Marc-Antoine de
+Montesquiou-Fézensac")  
+16\. [B. J. Dacier](/wiki/Bon-Joseph_Dacier "Bon-Joseph Dacier")  
+17\. [A. F. Villemain](/wiki/Abel-Fran%C3%A7ois_Villemain "Abel-François
+Villemain")  
+18\. [J. G. Lacuée](/wiki/Jean-Girard_Lacu%C3%A9e "Jean-Girard Lacuée")  
+19\. [F. R. de Chateaubriand](/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand
+"François-René de Chateaubriand")  
+20\. [F. J. M. Raynouard](/wiki/Fran%C3%A7ois-Juste-Marie_Raynouard "François-
+Juste-Marie Raynouard")
+
+|
+
+21\. [Joseph Droz](/wiki/Joseph_Droz "Joseph Droz")  
+22\. [Louis-Philippe de Ségur](/wiki/Louis-Philippe_de_S%C3%A9gur "Louis-
+Philippe de Ségur")  
+23\. [Vincent Campenon](/wiki/Vincent_Campenon "Vincent Campenon")  
+24\. [Emmanuel de Pastoret](/wiki/Emmanuel_de_Pastoret "Emmanuel de Pastoret")  
+25\. [Jean-Louis Laya](/wiki/Jean-Louis_Laya "Jean-Louis Laya")  
+26\. [François Roger](/wiki/Fran%C3%A7ois_Roger "François Roger")  
+27\. [Alexandre Soumet](/wiki/Alexandre_Soumet "Alexandre Soumet")  
+28\. [Casimir Delavigne](/wiki/Casimir_Delavigne "Casimir Delavigne")  
+29\. [J. F. Michaud](/wiki/Joseph-Fran%C3%A7ois_Michaud "Joseph-François
+Michaud")  
+30\. [Louis de Bonald](/wiki/Louis_de_Bonald "Louis de Bonald")
+
+|
+
+31\. [Gérard de Lally-Tollendal](/wiki/G%C3%A9rard_de_Lally-Tollendal "Gérard
+de Lally-Tollendal")  
+32\. [Louis Simon Auger](/wiki/Louis_Simon_Auger "Louis Simon Auger")  
+33\. [Raymond de Sèze](/wiki/Raymond_de_S%C3%A8ze "Raymond de Sèze")  
+34\. [H. L. de Quélen](/wiki/Hyacinthe-Louis_de_Qu%C3%A9len "Hyacinthe-Louis
+de Quélen")  
+35\. [Georges Cuvier](/wiki/Georges_Cuvier "Georges Cuvier")  
+36\. [Étienne de Jouy](/wiki/%C3%89tienne_de_Jouy "Étienne de Jouy")  
+37\. [Alexandre Guiraud](/wiki/Alexandre_Guiraud "Alexandre Guiraud")  
+38\. [François Andrieux](/wiki/Fran%C3%A7ois_Andrieux "François Andrieux")  
+39\. [C. M. de Feletz](/wiki/Charles-Marie_de_Feletz "Charles-Marie de
+Feletz")  
+40\. [Destutt de Tracy](/wiki/Antoine_Destutt_de_Tracy "Antoine Destutt de
+Tracy")  
+  
+---|---|---|---  
+[par date
+d’élection](/wiki/Liste_des_membres_de_l%27Acad%C3%A9mie_fran%C3%A7aise_par_date_d%27%C3%A9lection
+"Liste des membres de l'Académie française par date d'élection") |
+
+  * 1803 [Nicolas François de Neufchâteau](/wiki/Nicolas_Fran%C3%A7ois_de_Neufch%C3%A2teau "Nicolas François de Neufchâteau")
+  * 1803 [Jean-Girard Lacuée](/wiki/Jean-Girard_Lacu%C3%A9e "Jean-Girard Lacuée")
+  * 1803 [Louis-Philippe de Ségur](/wiki/Louis-Philippe_de_S%C3%A9gur "Louis-Philippe de Ségur")
+  * 1803 [François Andrieux](/wiki/Fran%C3%A7ois_Andrieux "François Andrieux")
+  * 1806 [Pierre Daru](/wiki/Pierre_Daru "Pierre Daru")
+  * 1807 [François-Juste-Marie Raynouard](/wiki/Fran%C3%A7ois-Juste-Marie_Raynouard "François-Juste-Marie Raynouard")
+  * 1807 [Louis-Benoît Picard](/wiki/Louis-Beno%C3%AEt_Picard "Louis-Benoît Picard")
+  * 1808 [Antoine Destutt de Tracy](/wiki/Antoine_Destutt_de_Tracy "Antoine Destutt de Tracy")
+  * 1810 [Népomucène Lemercier](/wiki/N%C3%A9pomuc%C3%A8ne_Lemercier "Népomucène Lemercier")
+  * 1811 [François-Auguste Parseval-Grandmaison](/wiki/Fran%C3%A7ois-Auguste_Parseval-Grandmaison "François-Auguste Parseval-Grandmaison")
+  * 1811 [François-René de Chateaubriand](/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand "François-René de Chateaubriand")
+  * 1811 [Charles de Lacretelle](/wiki/Charles_de_Lacretelle "Charles de Lacretelle")
+  * 1812 [Alexandre Duval](/wiki/Alexandre_Duval "Alexandre Duval")
+  * 1813 [Vincent Campenon](/wiki/Vincent_Campenon "Vincent Campenon")
+  * 1813 [Joseph-François Michaud](/wiki/Joseph-Fran%C3%A7ois_Michaud "Joseph-François Michaud")
+  * 1815 [Étienne de Jouy](/wiki/%C3%89tienne_de_Jouy "Étienne de Jouy")
+  * 1815 [Pierre Baour-Lormian](/wiki/Pierre_Baour-Lormian "Pierre Baour-Lormian")
+  * 1816 [Pierre-Marc-Gaston de Lévis](/wiki/Pierre-Marc-Gaston_de_L%C3%A9vis "Pierre-Marc-Gaston de Lévis")
+  * 1816 [Joseph-Henri-Joachim Lainé](/wiki/Joseph-Henri-Joachim_Lain%C3%A9 "Joseph-Henri-Joachim Lainé")
+  * 1816 [François-Xavier-Marc-Antoine de Montesquiou-Fézensac](/wiki/Fran%C3%A7ois-Xavier-Marc-Antoine_de_Montesquiou-F%C3%A9zensac "François-Xavier-Marc-Antoine de Montesquiou-Fézensac")
+  * 1816 [Louis de Bonald](/wiki/Louis_de_Bonald "Louis de Bonald")
+  * 1816 [Gérard de Lally-Tollendal](/wiki/G%C3%A9rard_de_Lally-Tollendal "Gérard de Lally-Tollendal")
+  * 1816 [Pierre-Simon de Laplace](/wiki/Pierre-Simon_de_Laplace "Pierre-Simon de Laplace")
+  * 1816 [Louis Simon Auger](/wiki/Louis_Simon_Auger "Louis Simon Auger")
+  * 1816 [Raymond de Sèze](/wiki/Raymond_de_S%C3%A8ze "Raymond de Sèze")
+  * 1817 [Jean-Louis Laya](/wiki/Jean-Louis_Laya "Jean-Louis Laya")
+  * 1817 [François Roger](/wiki/Fran%C3%A7ois_Roger "François Roger")
+  * 1818 [Georges Cuvier](/wiki/Georges_Cuvier "Georges Cuvier")
+  * 1820 [Emmanuel de Pastoret](/wiki/Emmanuel_de_Pastoret "Emmanuel de Pastoret")
+  * 1821 [Abel-François Villemain](/wiki/Abel-Fran%C3%A7ois_Villemain "Abel-François Villemain")
+  * 1822 [Denis Frayssinous](/wiki/Denis_Frayssinous "Denis Frayssinous")
+  * 1822 [Bon-Joseph Dacier](/wiki/Bon-Joseph_Dacier "Bon-Joseph Dacier")
+  * 1824 [Hyacinthe-Louis de Quélen](/wiki/Hyacinthe-Louis_de_Qu%C3%A9len "Hyacinthe-Louis de Quélen")
+  * 1824 [Alexandre Soumet](/wiki/Alexandre_Soumet "Alexandre Soumet")
+  * 1824 [Joseph Droz](/wiki/Joseph_Droz "Joseph Droz")
+  * 1825 [Casimir Delavigne](/wiki/Casimir_Delavigne "Casimir Delavigne")
+  * 1826 [Charles Brifaut](/wiki/Charles_Brifaut "Charles Brifaut")
+  * 1826 [Alexandre Guiraud](/wiki/Alexandre_Guiraud "Alexandre Guiraud")
+  * 1826 Joseph Fourier
+  * 1826 [Charles-Marie de Feletz](/wiki/Charles-Marie_de_Feletz "Charles-Marie de Feletz")
+
+  
+  
+[v](/wiki/Mod%C3%A8le:Palette_Composition_Acad%C3%A9mie_fran%C3%A7aise
+"Modèle:Palette Composition Académie française") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Composition_Acad%C3%A9mie_fran%C3%A7aise&action=edit)
+
+[◀](/wiki/Jean-Baptiste_Sanson_de_Pongerville#élection "Jean-Baptiste Sanson
+de Pongerville") Composition de l'Académie française au jour de sa mort (16
+mars 1830) [▶](/wiki/Louis-Philippe_de_S%C3%A9gur#deces "Louis-Philippe de
+Ségur")  
+  
+---  
+[par numéro de
+fauteuil](/wiki/Liste_des_membres_de_l%27Acad%C3%A9mie_fran%C3%A7aise_par_fauteuil
+"Liste des membres de l'Académie française par fauteuil") | |
+
+1\. [F. A. Parseval-Grandmaison](/wiki/Fran%C3%A7ois-Auguste_Parseval-
+Grandmaison "François-Auguste Parseval-Grandmaison")  
+2\. [P. A. Lebrun](/wiki/Pierre-Antoine_Lebrun "Pierre-Antoine Lebrun")  
+3\. [Denis Frayssinous](/wiki/Denis_Frayssinous "Denis Frayssinous")  
+4\. [Alexandre Duval](/wiki/Alexandre_Duval "Alexandre Duval")  
+5\. Joseph Fourier  
+6\. [P. P. de Ségur](/wiki/Philippe-Paul_de_S%C3%A9gur "Philippe-Paul de
+Ségur")  
+7\. [Alphonse de Lamartine](/wiki/Alphonse_de_Lamartine "Alphonse de
+Lamartine")  
+8\. [P. P. Royer-Collard](/wiki/Pierre-Paul_Royer-Collard "Pierre-Paul Royer-
+Collard")  
+9\. [Pierre Baour-Lormian](/wiki/Pierre_Baour-Lormian "Pierre Baour-Lormian")  
+10\. [J. H. J. Lainé](/wiki/Joseph-Henri-Joachim_Lain%C3%A9 "Joseph-Henri-
+Joachim Lainé")
+
+|
+
+11\. [Charles Brifaut](/wiki/Charles_Brifaut "Charles Brifaut")  
+12\. [Charles de Lacretelle](/wiki/Charles_de_Lacretelle "Charles de
+Lacretelle")  
+13\. [A. V. Arnault](/wiki/Antoine-Vincent_Arnault "Antoine-Vincent Arnault")  
+14\. [Népomucène Lemercier](/wiki/N%C3%A9pomuc%C3%A8ne_Lemercier "Népomucène
+Lemercier")  
+15\. [F. X. de Montesquiou-Fézensac](/wiki/Fran%C3%A7ois-Xavier-Marc-
+Antoine_de_Montesquiou-F%C3%A9zensac "François-Xavier-Marc-Antoine de
+Montesquiou-Fézensac")  
+16\. [B. J. Dacier](/wiki/Bon-Joseph_Dacier "Bon-Joseph Dacier")  
+17\. [A. F. Villemain](/wiki/Abel-Fran%C3%A7ois_Villemain "Abel-François
+Villemain")  
+18\. [J. G. Lacuée](/wiki/Jean-Girard_Lacu%C3%A9e "Jean-Girard Lacuée")  
+19\. [F. R. de Chateaubriand](/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand
+"François-René de Chateaubriand")  
+20\. [F. J. M. Raynouard](/wiki/Fran%C3%A7ois-Juste-Marie_Raynouard "François-
+Juste-Marie Raynouard")
+
+|
+
+21\. [Joseph Droz](/wiki/Joseph_Droz "Joseph Droz")  
+22\. [Louis-Philippe de Ségur](/wiki/Louis-Philippe_de_S%C3%A9gur "Louis-
+Philippe de Ségur")  
+23\. [Vincent Campenon](/wiki/Vincent_Campenon "Vincent Campenon")  
+24\. [Emmanuel de Pastoret](/wiki/Emmanuel_de_Pastoret "Emmanuel de Pastoret")  
+25\. [Jean-Louis Laya](/wiki/Jean-Louis_Laya "Jean-Louis Laya")  
+26\. [François Roger](/wiki/Fran%C3%A7ois_Roger "François Roger")  
+27\. [Alexandre Soumet](/wiki/Alexandre_Soumet "Alexandre Soumet")  
+28\. [Casimir Delavigne](/wiki/Casimir_Delavigne "Casimir Delavigne")  
+29\. [J. F. Michaud](/wiki/Joseph-Fran%C3%A7ois_Michaud "Joseph-François
+Michaud")  
+30\. [Louis de Bonald](/wiki/Louis_de_Bonald "Louis de Bonald")
+
+|
+
+31\. [Sanson de Pongerville](/wiki/Jean-Baptiste_Sanson_de_Pongerville "Jean-
+Baptiste Sanson de Pongerville")  
+32\. [C. G. Étienne](/wiki/Charles-Guillaume_%C3%89tienne "Charles-Guillaume
+Étienne")  
+33\. [Prosper de Barante](/wiki/Prosper_de_Barante "Prosper de Barante")  
+34\. [H. L. de Quélen](/wiki/Hyacinthe-Louis_de_Qu%C3%A9len "Hyacinthe-Louis
+de Quélen")  
+35\. [Georges Cuvier](/wiki/Georges_Cuvier "Georges Cuvier")  
+36\. [Étienne de Jouy](/wiki/%C3%89tienne_de_Jouy "Étienne de Jouy")  
+37\. [Alexandre Guiraud](/wiki/Alexandre_Guiraud "Alexandre Guiraud")  
+38\. [François Andrieux](/wiki/Fran%C3%A7ois_Andrieux "François Andrieux")  
+39\. [C. M. de Feletz](/wiki/Charles-Marie_de_Feletz "Charles-Marie de
+Feletz")  
+40\. [Destutt de Tracy](/wiki/Antoine_Destutt_de_Tracy "Antoine Destutt de
+Tracy")  
+  
+---|---|---|---  
+[par date
+d’élection](/wiki/Liste_des_membres_de_l%27Acad%C3%A9mie_fran%C3%A7aise_par_date_d%27%C3%A9lection
+"Liste des membres de l'Académie française par date d'élection") |
+
+  * 1803 [Jean-Girard Lacuée](/wiki/Jean-Girard_Lacu%C3%A9e "Jean-Girard Lacuée")
+  * 1803 [Louis-Philippe de Ségur](/wiki/Louis-Philippe_de_S%C3%A9gur "Louis-Philippe de Ségur")
+  * 1803 [François Andrieux](/wiki/Fran%C3%A7ois_Andrieux "François Andrieux")
+  * 1807 [François-Juste-Marie Raynouard](/wiki/Fran%C3%A7ois-Juste-Marie_Raynouard "François-Juste-Marie Raynouard")
+  * 1808 [Antoine Destutt de Tracy](/wiki/Antoine_Destutt_de_Tracy "Antoine Destutt de Tracy")
+  * 1810 [Népomucène Lemercier](/wiki/N%C3%A9pomuc%C3%A8ne_Lemercier "Népomucène Lemercier")
+  * 1811 [François-Auguste Parseval-Grandmaison](/wiki/Fran%C3%A7ois-Auguste_Parseval-Grandmaison "François-Auguste Parseval-Grandmaison")
+  * 1811 [François-René de Chateaubriand](/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand "François-René de Chateaubriand")
+  * 1811 [Charles de Lacretelle](/wiki/Charles_de_Lacretelle "Charles de Lacretelle")
+  * 1812 [Alexandre Duval](/wiki/Alexandre_Duval "Alexandre Duval")
+  * 1813 [Vincent Campenon](/wiki/Vincent_Campenon "Vincent Campenon")
+  * 1813 [Joseph-François Michaud](/wiki/Joseph-Fran%C3%A7ois_Michaud "Joseph-François Michaud")
+  * 1815 [Étienne de Jouy](/wiki/%C3%89tienne_de_Jouy "Étienne de Jouy")
+  * 1815 [Pierre Baour-Lormian](/wiki/Pierre_Baour-Lormian "Pierre Baour-Lormian")
+  * 1816 [Joseph-Henri-Joachim Lainé](/wiki/Joseph-Henri-Joachim_Lain%C3%A9 "Joseph-Henri-Joachim Lainé")
+  * 1816 [François-Xavier-Marc-Antoine de Montesquiou-Fézensac](/wiki/Fran%C3%A7ois-Xavier-Marc-Antoine_de_Montesquiou-F%C3%A9zensac "François-Xavier-Marc-Antoine de Montesquiou-Fézensac")
+  * 1816 [Louis de Bonald](/wiki/Louis_de_Bonald "Louis de Bonald")
+  * 1817 [Jean-Louis Laya](/wiki/Jean-Louis_Laya "Jean-Louis Laya")
+  * 1817 [François Roger](/wiki/Fran%C3%A7ois_Roger "François Roger")
+  * 1818 [Georges Cuvier](/wiki/Georges_Cuvier "Georges Cuvier")
+  * 1820 [Emmanuel de Pastoret](/wiki/Emmanuel_de_Pastoret "Emmanuel de Pastoret")
+  * 1821 [Abel-François Villemain](/wiki/Abel-Fran%C3%A7ois_Villemain "Abel-François Villemain")
+  * 1822 [Denis Frayssinous](/wiki/Denis_Frayssinous "Denis Frayssinous")
+  * 1822 [Bon-Joseph Dacier](/wiki/Bon-Joseph_Dacier "Bon-Joseph Dacier")
+  * 1824 [Hyacinthe-Louis de Quélen](/wiki/Hyacinthe-Louis_de_Qu%C3%A9len "Hyacinthe-Louis de Quélen")
+  * 1824 [Alexandre Soumet](/wiki/Alexandre_Soumet "Alexandre Soumet")
+  * 1824 [Joseph Droz](/wiki/Joseph_Droz "Joseph Droz")
+  * 1825 [Casimir Delavigne](/wiki/Casimir_Delavigne "Casimir Delavigne")
+  * 1826 [Charles Brifaut](/wiki/Charles_Brifaut "Charles Brifaut")
+  * 1826 [Alexandre Guiraud](/wiki/Alexandre_Guiraud "Alexandre Guiraud")
+  * 1826 Joseph Fourier
+  * 1826 [Charles-Marie de Feletz](/wiki/Charles-Marie_de_Feletz "Charles-Marie de Feletz")
+  * 1827 [Pierre-Paul Royer-Collard](/wiki/Pierre-Paul_Royer-Collard "Pierre-Paul Royer-Collard")
+  * 1828 [Pierre-Antoine Lebrun](/wiki/Pierre-Antoine_Lebrun "Pierre-Antoine Lebrun")
+  * 1828 [Prosper de Barante](/wiki/Prosper_de_Barante "Prosper de Barante")
+  * 1829 [Antoine-Vincent Arnault](/wiki/Antoine-Vincent_Arnault "Antoine-Vincent Arnault")
+  * 1829 [Charles-Guillaume Étienne](/wiki/Charles-Guillaume_%C3%89tienne "Charles-Guillaume Étienne")
+  * 1829 [Alphonse de Lamartine](/wiki/Alphonse_de_Lamartine "Alphonse de Lamartine")
+  * 1830 [Philippe-Paul de Ségur](/wiki/Philippe-Paul_de_S%C3%A9gur "Philippe-Paul de Ségur")
+  * 1830 [Jean-Baptiste Sanson de Pongerville](/wiki/Jean-Baptiste_Sanson_de_Pongerville "Jean-Baptiste Sanson de Pongerville")
+
+  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Circle-icons-physics-logo.svg/24px-Circle-icons-physics-logo.svg.png)](/wiki/Portail:Physique "Portail de la physique") [Portail de la physique](/wiki/Portail:Physique "Portail:Physique")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/R%C3%A9v-fran0.jpg/31px-R%C3%A9v-fran0.jpg)](/wiki/Portail:R%C3%A9volution_fran%C3%A7aise "Portail de la Révolution française") [Portail de la Révolution française](/wiki/Portail:R%C3%A9volution_fran%C3%A7aise "Portail:Révolution française")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Institut_de_France_-_Acad%C3%A9mie_fran%C3%A7aise_et_pont_des_Arts.jpg/36px-Institut_de_France_-_Acad%C3%A9mie_fran%C3%A7aise_et_pont_des_Arts.jpg)](/wiki/Portail:Acad%C3%A9mie_fran%C3%A7aise "Portail de l’Académie française") [Portail de l’Académie française](/wiki/Portail:Acad%C3%A9mie_fran%C3%A7aise "Portail:Académie française")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blason_d%C3%A9partement_fr_Yonne_Officiel.svg/22px-Blason_d%C3%A9partement_fr_Yonne_Officiel.svg.png)](/wiki/Portail:Yonne "Portail de l’Yonne") [Portail de l’Yonne](/wiki/Portail:Yonne "Portail:Yonne")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Joseph_Fourier&oldid=174530778](https://fr.wikipedia.org/w/index.php?title=Joseph_Fourier&oldid=174530778)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Mathématicien français du XVIIIe siècle](/wiki/Cat%C3%A9gorie:Math%C3%A9maticien_fran%C3%A7ais_du_XVIIIe_si%C3%A8cle "Catégorie:Mathématicien français du XVIIIe siècle")
+  * [Mathématicien français du XIXe siècle](/wiki/Cat%C3%A9gorie:Math%C3%A9maticien_fran%C3%A7ais_du_XIXe_si%C3%A8cle "Catégorie:Mathématicien français du XIXe siècle")
+  * [Physicien français du XVIIIe siècle](/wiki/Cat%C3%A9gorie:Physicien_fran%C3%A7ais_du_XVIIIe_si%C3%A8cle "Catégorie:Physicien français du XVIIIe siècle")
+  * [Physicien français du XIXe siècle](/wiki/Cat%C3%A9gorie:Physicien_fran%C3%A7ais_du_XIXe_si%C3%A8cle "Catégorie:Physicien français du XIXe siècle")
+  * [Élève de l'École normale (1795)](/wiki/Cat%C3%A9gorie:%C3%89l%C3%A8ve_de_l%27%C3%89cole_normale_\(1795\) "Catégorie:Élève de l'École normale \(1795\)")
+  * [Membre de l'Académie française](/wiki/Cat%C3%A9gorie:Membre_de_l%27Acad%C3%A9mie_fran%C3%A7aise "Catégorie:Membre de l'Académie française")
+  * [Membre de l'Académie des sciences (France)](/wiki/Cat%C3%A9gorie:Membre_de_l%27Acad%C3%A9mie_des_sciences_\(France\) "Catégorie:Membre de l'Académie des sciences \(France\)")
+  * [Membre de l'Académie royale des sciences de Suède](/wiki/Cat%C3%A9gorie:Membre_de_l%27Acad%C3%A9mie_royale_des_sciences_de_Su%C3%A8de "Catégorie:Membre de l'Académie royale des sciences de Suède")
+  * [Officier de la Légion d'honneur](/wiki/Cat%C3%A9gorie:Officier_de_la_L%C3%A9gion_d%27honneur "Catégorie:Officier de la Légion d'honneur")
+  * [Enseignant à l'université de Grenoble](/wiki/Cat%C3%A9gorie:Enseignant_%C3%A0_l%27universit%C3%A9_de_Grenoble "Catégorie:Enseignant à l'université de Grenoble")
+  * [Professeur à l'École polytechnique](/wiki/Cat%C3%A9gorie:Professeur_%C3%A0_l%27%C3%89cole_polytechnique "Catégorie:Professeur à l'École polytechnique")
+  * [Commission des sciences et des arts](/wiki/Cat%C3%A9gorie:Commission_des_sciences_et_des_arts "Catégorie:Commission des sciences et des arts")
+  * [Membre étranger de la Royal Society](/wiki/Cat%C3%A9gorie:Membre_%C3%A9tranger_de_la_Royal_Society "Catégorie:Membre étranger de la Royal Society")
+  * [Naissance à Auxerre](/wiki/Cat%C3%A9gorie:Naissance_%C3%A0_Auxerre "Catégorie:Naissance à Auxerre")
+  * [Naissance en mars 1768](/wiki/Cat%C3%A9gorie:Naissance_en_mars_1768 "Catégorie:Naissance en mars 1768")
+  * [Décès en mars 1830](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_en_mars_1830 "Catégorie:Décès en mars 1830")
+  * [Décès à 61 ans](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_%C3%A0_61_ans "Catégorie:Décès à 61 ans")
+  * [Scientifique anobli](/wiki/Cat%C3%A9gorie:Scientifique_anobli "Catégorie:Scientifique anobli")
+  * [Biographe de François Viète](/wiki/Cat%C3%A9gorie:Biographe_de_Fran%C3%A7ois_Vi%C3%A8te "Catégorie:Biographe de François Viète")
+  * [Historien de l'algèbre nouvelle](/wiki/Cat%C3%A9gorie:Historien_de_l%27alg%C3%A8bre_nouvelle "Catégorie:Historien de l'algèbre nouvelle")
+  * [Baron de l'Empire](/wiki/Cat%C3%A9gorie:Baron_de_l%27Empire "Catégorie:Baron de l'Empire")
+  * [Savant dont le nom est inscrit sur la tour Eiffel](/wiki/Cat%C3%A9gorie:Savant_dont_le_nom_est_inscrit_sur_la_tour_Eiffel "Catégorie:Savant dont le nom est inscrit sur la tour Eiffel")
+  * [Préfet du Consulat ou du Premier Empire](/wiki/Cat%C3%A9gorie:Pr%C3%A9fet_du_Consulat_ou_du_Premier_Empire "Catégorie:Préfet du Consulat ou du Premier Empire")
+  * [Préfet de l'Isère](/wiki/Cat%C3%A9gorie:Pr%C3%A9fet_de_l%27Is%C3%A8re "Catégorie:Préfet de l'Isère")
+  * [Préfet du Rhône](/wiki/Cat%C3%A9gorie:Pr%C3%A9fet_du_Rh%C3%B4ne "Catégorie:Préfet du Rhône")
+
+Catégories cachées :
+
+  * [Page utilisant P569](/wiki/Cat%C3%A9gorie:Page_utilisant_P569 "Catégorie:Page utilisant P569")
+  * [Page utilisant P19](/wiki/Cat%C3%A9gorie:Page_utilisant_P19 "Catégorie:Page utilisant P19")
+  * [Page utilisant P570](/wiki/Cat%C3%A9gorie:Page_utilisant_P570 "Catégorie:Page utilisant P570")
+  * [Page utilisant P20](/wiki/Cat%C3%A9gorie:Page_utilisant_P20 "Catégorie:Page utilisant P20")
+  * [Page utilisant P119](/wiki/Cat%C3%A9gorie:Page_utilisant_P119 "Catégorie:Page utilisant P119")
+  * [Page utilisant P1477](/wiki/Cat%C3%A9gorie:Page_utilisant_P1477 "Catégorie:Page utilisant P1477")
+  * [Page utilisant P27](/wiki/Cat%C3%A9gorie:Page_utilisant_P27 "Catégorie:Page utilisant P27")
+  * [Page utilisant P69](/wiki/Cat%C3%A9gorie:Page_utilisant_P69 "Catégorie:Page utilisant P69")
+  * [Page utilisant P106](/wiki/Cat%C3%A9gorie:Page_utilisant_P106 "Catégorie:Page utilisant P106")
+  * [Page utilisant P108](/wiki/Cat%C3%A9gorie:Page_utilisant_P108 "Catégorie:Page utilisant P108")
+  * [Page utilisant P101](/wiki/Cat%C3%A9gorie:Page_utilisant_P101 "Catégorie:Page utilisant P101")
+  * [Page utilisant P463](/wiki/Cat%C3%A9gorie:Page_utilisant_P463 "Catégorie:Page utilisant P463")
+  * [Page utilisant P1066](/wiki/Cat%C3%A9gorie:Page_utilisant_P1066 "Catégorie:Page utilisant P1066")
+  * [Page utilisant P184](/wiki/Cat%C3%A9gorie:Page_utilisant_P184 "Catégorie:Page utilisant P184")
+  * [Page utilisant P166](/wiki/Cat%C3%A9gorie:Page_utilisant_P166 "Catégorie:Page utilisant P166")
+  * [Page utilisant P485](/wiki/Cat%C3%A9gorie:Page_utilisant_P485 "Catégorie:Page utilisant P485")
+  * [Page utilisant P800](/wiki/Cat%C3%A9gorie:Page_utilisant_P800 "Catégorie:Page utilisant P800")
+  * [Page utilisant P39](/wiki/Cat%C3%A9gorie:Page_utilisant_P39 "Catégorie:Page utilisant P39")
+  * [Page utilisant P97](/wiki/Cat%C3%A9gorie:Page_utilisant_P97 "Catégorie:Page utilisant P97")
+  * [Page utilisant P18](/wiki/Cat%C3%A9gorie:Page_utilisant_P18 "Catégorie:Page utilisant P18")
+  * [Page utilisant P109](/wiki/Cat%C3%A9gorie:Page_utilisant_P109 "Catégorie:Page utilisant P109")
+  * [Page utilisant P1442](/wiki/Cat%C3%A9gorie:Page_utilisant_P1442 "Catégorie:Page utilisant P1442")
+  * [Article utilisant l'infobox Biographie2](/wiki/Cat%C3%A9gorie:Article_utilisant_l%27infobox_Biographie2 "Catégorie:Article utilisant l'infobox Biographie2")
+  * [Article utilisant une Infobox](/wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox "Catégorie:Article utilisant une Infobox")
+  * [Catégorie Commons avec lien local identique sur Wikidata](/wiki/Cat%C3%A9gorie:Cat%C3%A9gorie_Commons_avec_lien_local_identique_sur_Wikidata "Catégorie:Catégorie Commons avec lien local identique sur Wikidata")
+  * [Article de Wikipédia avec notice d'autorité](/wiki/Cat%C3%A9gorie:Article_de_Wikip%C3%A9dia_avec_notice_d%27autorit%C3%A9 "Catégorie:Article de Wikipédia avec notice d'autorité")
+  * [Page utilisant P4717](/wiki/Cat%C3%A9gorie:Page_utilisant_P4717 "Catégorie:Page utilisant P4717")
+  * [Page pointant vers des bases externes](/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_bases_externes "Catégorie:Page pointant vers des bases externes")
+  * [Page pointant vers des bases relatives à la littérature](/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_bases_relatives_%C3%A0_la_litt%C3%A9rature "Catégorie:Page pointant vers des bases relatives à la littérature")
+  * [Page utilisant P4081](/wiki/Cat%C3%A9gorie:Page_utilisant_P4081 "Catégorie:Page utilisant P4081")
+  * [Page utilisant P2383](/wiki/Cat%C3%A9gorie:Page_utilisant_P2383 "Catégorie:Page utilisant P2383")
+  * [Page utilisant P549](/wiki/Cat%C3%A9gorie:Page_utilisant_P549 "Catégorie:Page utilisant P549")
+  * [Page pointant vers des bases relatives à la recherche](/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_bases_relatives_%C3%A0_la_recherche "Catégorie:Page pointant vers des bases relatives à la recherche")
+  * [Page pointant vers des dictionnaires ou encyclopédies généralistes](/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_dictionnaires_ou_encyclop%C3%A9dies_g%C3%A9n%C3%A9ralistes "Catégorie:Page pointant vers des dictionnaires ou encyclopédies généralistes")
+  * [Page utilisant P5019](/wiki/Cat%C3%A9gorie:Page_utilisant_P5019 "Catégorie:Page utilisant P5019")
+  * [Page utilisant P7902](/wiki/Cat%C3%A9gorie:Page_utilisant_P7902 "Catégorie:Page utilisant P7902")
+  * [Page utilisant P1417](/wiki/Cat%C3%A9gorie:Page_utilisant_P1417 "Catégorie:Page utilisant P1417")
+  * [Page utilisant P3219](/wiki/Cat%C3%A9gorie:Page_utilisant_P3219 "Catégorie:Page utilisant P3219")
+  * [Page utilisant P1296](/wiki/Cat%C3%A9gorie:Page_utilisant_P1296 "Catégorie:Page utilisant P1296")
+  * [Page utilisant P3222](/wiki/Cat%C3%A9gorie:Page_utilisant_P3222 "Catégorie:Page utilisant P3222")
+  * [Page utilisant P4342](/wiki/Cat%C3%A9gorie:Page_utilisant_P4342 "Catégorie:Page utilisant P4342")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Portail:Physique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Physique/Articles_li%C3%A9s "Catégorie:Portail:Physique/Articles liés")
+  * [Portail:Révolution française/Articles liés](/wiki/Cat%C3%A9gorie:Portail:R%C3%A9volution_fran%C3%A7aise/Articles_li%C3%A9s "Catégorie:Portail:Révolution française/Articles liés")
+  * [Portail:France/Articles liés](/wiki/Cat%C3%A9gorie:Portail:France/Articles_li%C3%A9s "Catégorie:Portail:France/Articles liés")
+  * [Portail:Europe/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Europe/Articles_li%C3%A9s "Catégorie:Portail:Europe/Articles liés")
+  * [Portail:XVIIIe siècle/Articles liés](/wiki/Cat%C3%A9gorie:Portail:XVIIIe_si%C3%A8cle/Articles_li%C3%A9s "Catégorie:Portail:XVIIIe siècle/Articles liés")
+  * [Portail:Époque contemporaine/Articles liés](/wiki/Cat%C3%A9gorie:Portail:%C3%89poque_contemporaine/Articles_li%C3%A9s "Catégorie:Portail:Époque contemporaine/Articles liés")
+  * [Portail:Histoire/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Histoire/Articles_li%C3%A9s "Catégorie:Portail:Histoire/Articles liés")
+  * [Portail:Académie française/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Acad%C3%A9mie_fran%C3%A7aise/Articles_li%C3%A9s "Catégorie:Portail:Académie française/Articles liés")
+  * [Portail:Langues/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Langues/Articles_li%C3%A9s "Catégorie:Portail:Langues/Articles liés")
+  * [Portail:Yonne/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Yonne/Articles_li%C3%A9s "Catégorie:Portail:Yonne/Articles liés")
+  * [Portail:Bourgogne/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Bourgogne/Articles_li%C3%A9s "Catégorie:Portail:Bourgogne/Articles liés")
+  * [Portail:Bourgogne-Franche-Comté/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Bourgogne-Franche-Comt%C3%A9/Articles_li%C3%A9s "Catégorie:Portail:Bourgogne-Franche-Comté/Articles liés")
+  * [Bon article en japonais](/wiki/Cat%C3%A9gorie:Bon_article_en_japonais "Catégorie:Bon article en japonais")
+  * [Wikipédia:Article biographique](/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia:Article_biographique "Catégorie:Wikipédia:Article biographique")
+  * [Portail:Biographie/Articles liés/Sciences](/wiki/Cat%C3%A9gorie:Portail:Biographie/Articles_li%C3%A9s/Sciences "Catégorie:Portail:Biographie/Articles liés/Sciences")
+  * [Portail:Biographie/Articles liés/Culture et arts](/wiki/Cat%C3%A9gorie:Portail:Biographie/Articles_li%C3%A9s/Culture_et_arts "Catégorie:Portail:Biographie/Articles liés/Culture et arts")
+  * [Portail:Biographie/Articles liés/Politique](/wiki/Cat%C3%A9gorie:Portail:Biographie/Articles_li%C3%A9s/Politique "Catégorie:Portail:Biographie/Articles liés/Politique")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Joseph_Fourier "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Joseph_Fourier "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Joseph_Fourier&oldid=174530778 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Joseph_Fourier&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Joseph_Fourier&id=174530778&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q8772 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Joseph+Fourier)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Joseph_Fourier&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Joseph_Fourier&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Joseph_Fourier)
+  * [Wikisource](https://fr.wikisource.org/wiki/Auteur:Joseph_Fourier)
+
+###  Dans d’autres langues
+
+  * [Alemannisch](https://als.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — Alemannisch")
+  * [አማርኛ](https://am.wikipedia.org/wiki/%E1%8B%A6%E1%88%B0%E1%8D%8D_%E1%8D%89%E1%88%AD%E1%8B%AC "ዦሰፍ ፉርዬ — amharique")
+  * [Aragonés](https://an.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — aragonais")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D8%B2%D9%8A%D9%81_%D9%81%D9%88%D8%B1%D9%8A%D9%8A%D9%87 "جوزيف فورييه — arabe")
+  * [مصرى](https://arz.wikipedia.org/wiki/%D8%AC%D9%88%D8%B2%D9%8A%D9%81_%D9%81%D9%88%D8%B1%D9%8A%D9%8A%D9%87 "جوزيف فورييه — arabe égyptien")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Jean-Baptiste_Joseph_Fourier "Jean-Baptiste Joseph Fourier — asturien")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Jozef_Furye "Jozef Furye — azéri")
+  * [تۆرکجه](https://azb.wikipedia.org/wiki/%DA%98%D9%88%D8%B2%D9%81_%D9%81%D9%88%D8%B1%DB%8C%D9%87 "ژوزف فوریه — South Azerbaijani")
+  * [Башҡортса](https://ba.wikipedia.org/wiki/%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%A4%D1%83%D1%80%D1%8C%D0%B5 "Жозеф Фурье — bachkir")
+  * [Žemaitėška](https://bat-smg.wikipedia.org/wiki/%C5%BDans_Bapt%C4%97stos_Forj%C4%97 "Žans Baptėstos Forjė — Samogitian")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%96%D0%B0%D0%BD_%D0%91%D0%B0%D1%82%D1%8B%D1%81%D1%82_%D0%96%D0%B0%D0%B7%D0%B5%D1%84_%D0%A4%D1%83%D1%80%E2%80%99%D0%B5 "Жан Батыст Жазеф Фур’е — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%96%D0%B0%D0%BD_%D0%91%D0%B0%D1%82%D1%8B%D1%81%D1%82_%D0%96%D0%B0%D0%B7%D1%8D%D1%84_%D0%A4%D1%83%D1%80%E2%80%99%D0%B5 "Жан Батыст Жазэф Фур’е — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%A4%D1%83%D1%80%D0%B8%D0%B5 "Жозеф Фурие — bulgare")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%8B%E0%A6%B8%E0%A7%87%E0%A6%AB_%E0%A6%AB%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87 "জোসেফ ফুরিয়ে — bengali")
+  * [Brezhoneg](https://br.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — breton")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — bosniaque")
+  * [Català](https://ca.wikipedia.org/wiki/Jean-Baptiste-Joseph_Fourier "Jean-Baptiste-Joseph Fourier — catalan")
+  * [Нохчийн](https://ce.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%8C%D0%B5,_%D0%96%D0%B0%D0%BD_%D0%91%D0%B0%D1%82%D0%B8%D1%81%D1%82_%D0%96%D0%BE%D0%B7%D0%B5%D1%84 "Фурье, Жан Батист Жозеф — tchétchène")
+  * [کوردی](https://ckb.wikipedia.org/wiki/%DA%98%DB%86%D8%B2%DB%8E%D9%81_%D9%81%D9%88%D9%88%D8%B1%DB%8C%DB%8E "ژۆزێف فووریێ — sorani")
+  * [Čeština](https://cs.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — tchèque")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%8C%D0%B5_%D0%96%D0%B0%D0%BD_%D0%91%D0%B0%D1%82%D0%B8%D1%81%D1%82_%D0%96%D0%BE%D0%B7%D0%B5%D1%84 "Фурье Жан Батист Жозеф — tchouvache")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%96%CE%BF%CE%B6%CE%AD%CF%86_%CE%A6%CE%BF%CF%85%CF%81%CE%B9%CE%AD "Ζοζέφ Φουριέ — grec")
+  * [English](https://en.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Jean_Baptiste_Joseph_Fourier "Jean Baptiste Joseph Fourier — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%DA%98%D9%88%D8%B2%D9%81_%D9%81%D9%88%D8%B1%DB%8C%D9%87 "ژوزف فوریه — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Jean_Baptiste_Joseph_Fourier "Jean Baptiste Joseph Fourier — finnois")
+  * [Frysk](https://fy.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — frison occidental")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/Jean-Baptiste_Joseph_Fourier "Jean-Baptiste Joseph Fourier — irlandais")
+  * [Kriyòl gwiyannen](https://gcr.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — créole guyanais")
+  * [Galego](https://gl.wikipedia.org/wiki/Jean-Baptiste_Joseph_Fourier "Jean-Baptiste Joseph Fourier — galicien")
+  * [ગુજરાતી](https://gu.wikipedia.org/wiki/%E0%AA%9C%E0%AB%8B%E0%AA%B8%E0%AB%87%E0%AA%AB_%E0%AA%AB%E0%AB%82%E0%AA%B0%E0%AA%BF%E0%AA%AF%E0%AA%B0 "જોસેફ ફૂરિયર — goudjerati")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%96%27%D7%90%D7%9F-%D7%91%D7%98%D7%99%D7%A1%D7%98_%D7%96%27%D7%95%D7%96%D7%A3_%D7%A4%D7%95%D7%A8%D7%99%D7%99%D7%94 "ז'אן-בטיסט ז'וזף פורייה — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8B%E0%A4%B8%E0%A5%87%E0%A4%AB_%E0%A4%AB%E0%A4%BC%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A5%87 "जोसेफ फ़ूर्ये — hindi")
+  * [Fiji Hindi](https://hif.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — hindi fidjien")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — croate")
+  * [Kreyòl ayisyen](https://ht.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — créole haïtien")
+  * [Magyar](https://hu.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%BA%D5%B8%D5%A6%D5%A5%D6%86_%D5%96%D5%B8%D6%82%D6%80%D5%AB%D5%A5 "Ժոզեֆ Ֆուրիե — arménien")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Jean_Baptiste_Joseph_Fourier "Jean Baptiste Joseph Fourier — indonésien")
+  * [Ilokano](https://ilo.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — ilocano")
+  * [Ido](https://io.wikipedia.org/wiki/Jean_Baptiste_Joseph_Fourier "Jean Baptiste Joseph Fourier — ido")
+  * [Íslenska](https://is.wikipedia.org/wiki/Jean_Baptiste_Joseph_Fourier "Jean Baptiste Joseph Fourier — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Jean_Baptiste_Joseph_Fourier "Jean Baptiste Joseph Fourier — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%BC%E3%83%95%E3%83%BB%E3%83%95%E3%83%BC%E3%83%AA%E3%82%A8 "ジョゼフ・フーリエ — japonais")
+  * [Jawa](https://jv.wikipedia.org/wiki/Jean_Baptiste_Joseph_Fourier "Jean Baptiste Joseph Fourier — javanais")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%9F%E1%83%90%E1%83%9C_%E1%83%91%E1%83%90%E1%83%A2%E1%83%98%E1%83%A1%E1%83%A2_%E1%83%9F%E1%83%9D%E1%83%96%E1%83%94%E1%83%A4_%E1%83%A4%E1%83%A3%E1%83%A0%E1%83%98%E1%83%94 "ჟან ბატისტ ჟოზეფ ფურიე — géorgien")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%A4%D1%83%D1%80%D1%8C%D0%B5 "Жозеф Фурье — kazakh")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%A0%9C%ED%94%84_%ED%91%B8%EB%A6%AC%EC%97%90 "조제프 푸리에 — coréen")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%96%D0%B0%D0%BD-%D0%91%D0%B0%D1%82%D0%B8%D1%81%D1%82_%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%A4%D1%83%D1%80%D1%8C%D0%B5 "Жан-Батист Жозеф Фурье — kirghize")
+  * [Latina](https://la.wikipedia.org/wiki/Ioannes_Baptista_Iosephus_Fourier "Ioannes Baptista Iosephus Fourier — latin")
+  * [Lëtzebuergesch](https://lb.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — luxembourgeois")
+  * [Limburgs](https://li.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — limbourgeois")
+  * [Lumbaart](https://lmo.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — lombard")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/%C5%BDozefs_Furj%C4%93 "Žozefs Furjē — letton")
+  * [Malagasy](https://mg.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — malgache")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%A4%D1%83%D1%80%D1%98%D0%B5 "Жозеф Фурје — macédonien")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%9C%E0%B5%8B%E0%B4%B8%E0%B4%AB%E0%B5%8D_%E0%B4%AB%E0%B5%8A%E0%B4%B1%E0%B4%BF%E0%B4%AF%E0%B5%BC "ജോസഫ് ഫൊറിയർ — malayalam")
+  * [Монгол](https://mn.wikipedia.org/wiki/%D0%96%D0%B0%D0%BD_%D0%91%D0%B0%D1%82%D0%B8%D1%81%D1%82_%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%A4%D1%83%D1%80%D1%8C%D0%B5 "Жан Батист Жозеф Фурье — mongol")
+  * [मराठी](https://mr.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8B%E0%A4%B8%E0%A5%87%E0%A4%AB_%E0%A4%AB%E0%A5%81%E0%A4%B0%E0%A4%BF%E0%A4%8F "जोसेफ फुरिए — marathi")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — malais")
+  * [Mirandés](https://mwl.wikipedia.org/wiki/Jean-Baptiste_Joseph_Fourier "Jean-Baptiste Joseph Fourier — mirandais")
+  * [မြန်မာဘာသာ](https://my.wikipedia.org/wiki/%E1%80%82%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%86%E1%80%80%E1%80%BA_%E1%80%96%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%9B%E1%80%AE%E1%80%9B%E1%80%AC "ဂျိုးဆက် ဖော်ရီရာ — birman")
+  * [नेपाल भाषा](https://new.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8B%E0%A4%B8%E0%A5%87%E0%A4%AB_%E0%A4%AB%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%8F "जोसेफ फोरिए — newari")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Jean_Baptiste_Joseph_Fourier "Jean Baptiste Joseph Fourier — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — norvégien bokmål")
+  * [Occitan](https://oc.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — occitan")
+  * [Oromoo](https://om.wikipedia.org/wiki/Jooseef_Fuuriyee "Jooseef Fuuriyee — oromo")
+  * [ਪੰਜਾਬੀ](https://pa.wikipedia.org/wiki/%E0%A8%9C%E0%A9%8B%E0%A8%9C%E0%A8%BC%E0%A8%BF%E0%A8%AB%E0%A8%BC_%E0%A8%AB%E0%A8%BC%E0%A9%8B%E0%A8%B0%E0%A9%80%E0%A8%8F "ਜੋਜ਼ਿਫ਼ ਫ਼ੋਰੀਏ — pendjabi")
+  * [Picard](https://pcd.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — picard")
+  * [Polski](https://pl.wikipedia.org/wiki/Jean_Baptiste_Joseph_Fourier "Jean Baptiste Joseph Fourier — polonais")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — piémontais")
+  * [پنجابی](https://pnb.wikipedia.org/wiki/%D8%AC%D9%88%D8%B2%D9%81_%D9%81%D9%88%D8%B1%DB%8C%DB%81 "جوزف فوریہ — Western Punjabi")
+  * [Português](https://pt.wikipedia.org/wiki/Jean_Baptiste_Joseph_Fourier "Jean Baptiste Joseph Fourier — portugais")
+  * [Runa Simi](https://qu.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — quechua")
+  * [Română](https://ro.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%8C%D0%B5,_%D0%96%D0%B0%D0%BD-%D0%91%D0%B0%D1%82%D0%B8%D1%81%D1%82_%D0%96%D0%BE%D0%B7%D0%B5%D1%84 "Фурье, Жан-Батист Жозеф — russe")
+  * [Русиньскый](https://rue.wikipedia.org/wiki/%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%A4%D1%83%D1%80%D1%8A%D1%94 "Жозеф Фуръє — ruthène")
+  * [संस्कृतम्](https://sa.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8B%E0%A4%B8%E0%A5%87%E0%A4%AB_%E0%A4%AB%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%8F "जोसेफ फोरिए — sanskrit")
+  * [Scots](https://sco.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — écossais")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Jean_Baptiste_Joseph_Fourier "Jean Baptiste Joseph Fourier — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Jean_Baptiste_Joseph_Fourier "Jean Baptiste Joseph Fourier — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — slovène")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%A4%D1%83%D1%80%D0%B8%D1%98%D0%B5 "Жозеф Фурије — serbe")
+  * [Sunda](https://su.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — soundanais")
+  * [Svenska](https://sv.wikipedia.org/wiki/Jean-Baptiste_Joseph_Fourier "Jean-Baptiste Joseph Fourier — suédois")
+  * [Kiswahili](https://sw.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — swahili")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%9C%E0%AF%8B%E0%AE%9A%E0%AE%AA%E0%AF%8D_%E0%AE%83%E0%AE%AA%E0%AF%82%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AF%87 "ஜோசப் ஃபூரியே — tamoul")
+  * [తెలుగు](https://te.wikipedia.org/wiki/%E0%B0%9C%E0%B1%8B%E0%B0%B8%E0%B1%86%E0%B0%AB%E0%B1%8D_%E0%B0%AB%E0%B1%8B%E0%B0%B0%E0%B0%BF%E0%B0%AF%E0%B0%B0%E0%B1%8D "జోసెఫ్ ఫోరియర్ — télougou")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%8C%E0%B9%81%E0%B8%8B%E0%B9%87%E0%B8%9F_%E0%B8%9F%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A2 "โฌแซ็ฟ ฟูรีเย — thaï")
+  * [Tagalog](https://tl.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — tagalog")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Jean-Baptiste_Joseph_Fourier "Jean-Baptiste Joseph Fourier — turc")
+  * [Татарча/tatarça](https://tt.wikipedia.org/wiki/%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%A4%D1%83%D1%80%D1%8C%D0%B5 "Жозеф Фурье — tatar")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%96%D0%B0%D0%BD_%D0%91%D0%B0%D1%82%D0%B8%D1%81%D1%82_%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%A4%D1%83%D1%80%27%D1%94 "Жан Батист Жозеф Фур'є — ukrainien")
+  * [اردو](https://ur.wikipedia.org/wiki/%D8%AC%D9%88%D8%B2%D9%81_%D9%81%D9%88%D8%B1%D8%A6%DB%8C%DB%81 "جوزف فورئیہ — ourdou")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Furye_Jan_Batist_Jozef "Furye Jan Batist Jozef — ouzbek")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — vietnamien")
+  * [Volapük](https://vo.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — volapük")
+  * [Winaray](https://war.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — waray")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E5%82%85%E9%87%8C%E5%8F%B6 "约瑟夫·傅里叶 — wu")
+  * [მარგალური](https://xmf.wikipedia.org/wiki/%E1%83%9F%E1%83%90%E1%83%9C_%E1%83%91%E1%83%90%E1%83%A2%E1%83%98%E1%83%A1%E1%83%A2_%E1%83%9F%E1%83%9D%E1%83%96%E1%83%94%E1%83%A4_%E1%83%A4%E1%83%A3%E1%83%A0%E1%83%98%E1%83%94 "ჟან ბატისტ ჟოზეფ ფურიე — mingrélien")
+  * [中文](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E5%82%85%E9%87%8C%E5%8F%B6 "约瑟夫·傅里叶 — chinois")
+  * [Bân-lâm-gú](https://zh-min-nan.wikipedia.org/wiki/Joseph_Fourier "Joseph Fourier — Chinese \(Min Nan\)")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E5%82%85%E5%88%A9%E8%91%89 "傅利葉 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q8772#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Joseph+Fourier "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Joseph+Fourier "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Joseph_Fourier "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Joseph_Fourier "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Joseph_Fourier)
+  * [Modifier](/w/index.php?title=Joseph_Fourier&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Joseph_Fourier&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Joseph_Fourier&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 8 septembre 2020 à 07:01.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Joseph_Fourier "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Joseph_Fourier&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[Mgr]: Monseigneur
+  *[III]: 3
+  *[1er]: premier
+  *[XVIII]: 18
+  *[18e]: Dix-huitième
+  *[etc.]: et cetera
+  *[XXe]: 20ᵉ siècle
+  *[p.]: pages
+  *[I]: 1
+  *[vol.]: volume
+  *[II]: 2
+  *[Ha]: hartree
+  *[no]: numéro
+  *[ II]: 2
+  *[vi]: 6
+  *[LX]: 60
+  *[XCI]: 91
+  *[(en)]: Langue : anglais
+  *[XXIe]: 21ᵉ siècle
+  *[t.]: tome
+  *[LXIX]: 69
+  *[CXXXVIII]: 138
+  *[coll.]: collection
+  *[trad.]: traduction
+  *[ (en)]: Langue : anglais
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+

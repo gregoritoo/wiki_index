@@ -1,0 +1,377 @@
+# Cycle
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cette page d’[homonymie](/wiki/Aide:Homonymie "Aide:Homonymie") répertorie les
+différents sujets et articles partageant un même nom.
+
+Sur les autres projets Wikimedia :
+
+  * [cycle](https://fr.wiktionary.org/wiki/cycle "wikt:cycle"), sur le Wiktionnaire
+
+Le mot **cycle** peut désigner :
+
+## Sommaire
+
+  * 1 Véhicule
+  * 2 Unité de temps
+  * 3 Littérature
+  * 4 Sciences
+    * 4.1 Mathématiques
+      * 4.1.1 Théorie des graphes
+      * 4.1.2 Théorie des groupes
+      * 4.1.3 Algèbre
+      * 4.1.4 Systèmes dynamiques
+    * 4.2 Programmation, informatique et automatisme
+    * 4.3 Sciences physiques et mécaniques
+    * 4.4 Chimie
+    * 4.5 Biologie
+  * 5 Sciences sociales
+    * 5.1 Économie
+    * 5.2 Marketing, gestion et organisation
+  * 6 Autres usages
+    * 6.1 Cinéma
+    * 6.2 Éducation
+    * 6.3 Musique
+    * 6.4 Sport
+  * 7 Voir aussi
+
+## Véhicule[[modifier](/w/index.php?title=Cycle&veaction=edit&section=1
+"Modifier la section : Véhicule") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=1 "Modifier la section :
+Véhicule")]
+
+Un [cycle](/wiki/Cycle_\(v%C3%A9hicule\) "Cycle \(véhicule\)") peut faire
+référence à un véhicule :
+
+  * une [bicyclette](/wiki/Bicyclette "Bicyclette")
+  * un [cycle à moteur](/wiki/Cycle_%C3%A0_moteur "Cycle à moteur") comme la [motocyclette](/wiki/Motocyclette "Motocyclette") ou le [cyclomoteur](/wiki/Cyclomoteur "Cyclomoteur").
+
+## Unité de temps[[modifier](/w/index.php?title=Cycle&veaction=edit&section=2
+"Modifier la section : Unité de temps") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=2 "Modifier la section :
+Unité de temps")]
+
+Les [calendriers](/wiki/Calendrier "Calendrier") se fondent sur le respect de
+certains cycles, caractérisés par le retour périodique de configurations
+astrales particulières :
+
+  * le cycle des saisons ([hiver](/wiki/Hiver "Hiver"), [printemps](/wiki/Printemps "Printemps"), [été](/wiki/%C3%89t%C3%A9 "Été"), [automne](/wiki/Automne "Automne")) rythme les années ;
+  * le [cycle de Saros](/wiki/Saros "Saros") pour expliquer les [éclipses solaires](/wiki/%C3%89clipse_solaire "Éclipse solaire") ou [lunaires](/wiki/%C3%89clipses_lunaires "Éclipses lunaires") ;
+  * le [cycle de Méton](/wiki/Cycle_m%C3%A9tonique "Cycle métonique") pour expliquer les [périodes orbitales de la terre ou de la lune](/wiki/P%C3%A9riode_orbitale "Période orbitale").
+
+## Littérature[[modifier](/w/index.php?title=Cycle&veaction=edit&section=3
+"Modifier la section : Littérature") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=3 "Modifier la section :
+Littérature")]
+
+  * Un [cycle littéraire](/wiki/Cycle_\(litt%C3%A9rature\) "Cycle \(littérature\)") désigne un ensemble d'œuvres portant sur la même trame (thème, fait, contexte, période, personnage, famille, etc.) mais non nécessairement écrites par un même auteur.
+
+## Sciences[[modifier](/w/index.php?title=Cycle&veaction=edit&section=4
+"Modifier la section : Sciences") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=4 "Modifier la section :
+Sciences")]
+
+### Mathématiques[[modifier](/w/index.php?title=Cycle&veaction=edit&section=5
+"Modifier la section : Mathématiques") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=5 "Modifier la section :
+Mathématiques")]
+
+#### Théorie des
+graphes[[modifier](/w/index.php?title=Cycle&veaction=edit&section=6 "Modifier
+la section : Théorie des graphes") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=6 "Modifier la section :
+Théorie des graphes")]
+
+  * Un [cycle](/wiki/Cycle_\(th%C3%A9orie_des_graphes\) "Cycle \(théorie des graphes\)") est une chaîne dont les deux sommets extrémités sont identiques.
+  * Le [graphe des cycles](/wiki/Graphe_des_cycles "Graphe des cycles") d'un groupe représente l'ensemble des cycles de ce groupe.
+  * Le [graphe cycle](/wiki/Graphe_cycle "Graphe cycle") est un graphe uniquement constitué d'un cycle.
+  * Un graphe cyclique est un graphe contenant au moins un cycle.
+
+#### Théorie des
+groupes[[modifier](/w/index.php?title=Cycle&veaction=edit&section=7 "Modifier
+la section : Théorie des groupes") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=7 "Modifier la section :
+Théorie des groupes")]
+
+  * Un [groupe cyclique](/wiki/Groupe_cyclique "Groupe cyclique") est un groupe fini engendré par un élément.
+  * Dans le [groupe symétrique](/wiki/Groupe_sym%C3%A9trique "Groupe symétrique"), un cycle est une [permutation circulaire](/wiki/Permutation_circulaire "Permutation circulaire").
+  * Le [graphe des cycles](/wiki/Graphe_des_cycles "Graphe des cycles") d'un groupe fini représente l'ensemble des cycles de ce groupe.
+
+#### Algèbre[[modifier](/w/index.php?title=Cycle&veaction=edit&section=8
+"Modifier la section : Algèbre") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=8 "Modifier la section :
+Algèbre")]
+
+  * Un endomorphisme d'un espace vectoriel _E_ est [cyclique](/wiki/Endomorphisme_cyclique "Endomorphisme cyclique") s'il existe un vecteur de _x_ de _E_ tel que la famille  ( f n ( x ) ) n ∈ N {\displaystyle (f^{n}(x))_{n\in \mathbb {N} }} ![\(f^{n}\(x\)\)_{{n\\in \\mathbb{N} }}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8f9a7a0b1d143b4d6a3a30536660aa08b5ebb3f6) est génératrice.
+  * [Cycle (géométrie algébrique)](/wiki/Cycle_\(g%C3%A9om%C3%A9trie_alg%C3%A9brique\) "Cycle \(géométrie algébrique\)").
+  * Un [cycle](/wiki/Permutation_circulaire "Permutation circulaire") est un cas particulier de [permutation](/wiki/Permutation "Permutation").
+
+#### [Systèmes dynamiques](/wiki/Syst%C3%A8mes_dynamiques "Systèmes
+dynamiques")[[modifier](/w/index.php?title=Cycle&veaction=edit&section=9
+"Modifier la section : Systèmes dynamiques") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=9 "Modifier la section :
+Systèmes dynamiques")]
+
+[Cycle limite](/wiki/Cycle_limite "Cycle limite")
+
+### Programmation, informatique et
+automatisme[[modifier](/w/index.php?title=Cycle&veaction=edit&section=10
+"Modifier la section : Programmation, informatique et automatisme") |
+[modifier le code](/w/index.php?title=Cycle&action=edit&section=10 "Modifier
+la section : Programmation, informatique et automatisme")]
+
+  * Un [cycle](/wiki/Structure_de_contr%C3%B4le#Structures_de_contrôle_itératives "Structure de contrôle") dans l'exécution d'un programme est un retour à une instruction déjà exécutée, ce qui conduit à la répétition d'une action, en général avec des données différentes. Les termes de « boucle » ou d'« itération » paraissent plus appropriés.
+  * Le terme « cycle » est utilisé pour désigner le fonctionnement programmé et séquentiel d'une machine d'usage courant. Par exemple : le [cycle de lavage](/w/index.php?title=Cycle_de_lavage&action=edit&redlink=1 "Cycle de lavage \(page inexistante\)") d'une [machine à laver](/wiki/Machine_%C3%A0_laver "Machine à laver").
+  * Automates cellulaires : on démontre aisément qu'un [automate cellulaire](/wiki/Automate_cellulaire "Automate cellulaire") évoluant sur un espace fini (voir [Jeu de la vie](/wiki/Jeu_de_la_vie "Jeu de la vie")) ne peut déboucher que sur un [état fixe](/wiki/Point_fixe "Point fixe") ou sur un cycle. La détection de cycles peut s'effectuer par des [algorithmes](/wiki/Algorithmique "Algorithmique") tels ceux du [_slow-fast_](/wiki/Pangramme_autodescriptif "Pangramme autodescriptif"). En revanche, rien ne garantit que _toutes_ les configurations connues par l'automate feront partie de ce cycle final. Il peut au contraire se résumer à deux états seulement, par exemple, après un parcours de plusieurs centaines d'états.
+  * Un cycle représente un instant indivisible dans le fonctionnement d'un circuit logique, au cours duquel une opération est réalisée. Par exemple, dans le cas d'un [processeur](/wiki/Processeur "Processeur"), un cycle correspond à l'exécution d'une [instruction](/wiki/Instruction_informatique "Instruction informatique"). Le cycle est rythmé par une [horloge](/wiki/Signal_d%27horloge "Signal d'horloge"), dont le front montant est en général le signal de début de cycle.
+
+### Sciences physiques et
+mécaniques[[modifier](/w/index.php?title=Cycle&veaction=edit&section=11
+"Modifier la section : Sciences physiques et mécaniques") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=11 "Modifier la section :
+Sciences physiques et mécaniques")]
+
+Suite de phénomènes qui se suivent dans un ordre déterminé. Transformation
+d'un système qui revient à son état initial (sens physique).
+
+  * En [thermodynamique](/wiki/Thermodynamique "Thermodynamique"), un cycle désigne la suite des transformations subies par un système et des états atteints par ce système au cours du fonctionnement d'une machine thermique. On distingue les cycles ouverts des [cycles fermés](/wiki/Cycle_ferm%C3%A9 "Cycle fermé").   
+À titre d'exemple on peut citer : le [cycle de Carnot](/wiki/Cycle_de_Carnot
+"Cycle de Carnot"), le [cycle de Beau de Rochas](/wiki/Cycle_de_Beau_de_Rochas
+"Cycle de Beau de Rochas"), le [cycle d'Otto](/wiki/Cycle_d%27Otto "Cycle
+d'Otto"), le [cycle de Joule](/wiki/Cycle_de_Joule "Cycle de Joule"), le
+[cycle de Clausius-Rankine](/w/index.php?title=Cycle_de_Clausius-
+Rankine&action=edit&redlink=1 "Cycle de Clausius-Rankine \(page
+inexistante\)"), le cycle de [Diesel](/wiki/Moteur_Diesel "Moteur Diesel"), le
+[cycle de Hirn](/wiki/Cycle_de_Hirn "Cycle de Hirn"), le [cycle
+d'Ericsson](/wiki/Cycle_d%27Ericsson "Cycle d'Ericsson"), le cycle de
+[Stirling](/wiki/Moteur_Stirling "Moteur Stirling").
+
+  * Le cycle est également synonyme de la **période** de répétition d'un [phénomène périodique](/wiki/Ph%C3%A9nom%C3%A8ne_p%C3%A9riodique "Phénomène périodique").
+  * Le **cycle par seconde** (ou par abus de langage, le « cycle ») est l'ancienne dénomination de l'unité de fréquence, le [hertz](/wiki/Hertz "Hertz") (Hz).
+  * On parle de moteur à cycle _deux temps ou quatre temps_ pour définir un [moteur à combustion interne](/wiki/Moteur_%C3%A0_combustion_interne "Moteur à combustion interne"). Les phases étant : l'admission, la compression, l'explosion et l'échappement. 
+    * Dans le [cycle à deux temps](/wiki/Cycle_%C3%A0_deux_temps "Cycle à deux temps"), les 4 phases sont réalisées pendant un seul tour de [vilebrequin](/wiki/Vilebrequin_\(moteur\) "Vilebrequin \(moteur\)").
+    * Dans le [cycle à quatre temps](/wiki/Cycle_%C3%A0_quatre_temps "Cycle à quatre temps"), les 4 phases sont réalisées pendant deux tours de vilebrequin.
+  * Voir aussi [Cycle du combustible nucléaire](/wiki/Cycle_du_combustible_nucl%C3%A9aire "Cycle du combustible nucléaire").
+
+### Chimie[[modifier](/w/index.php?title=Cycle&veaction=edit&section=12
+"Modifier la section : Chimie") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=12 "Modifier la section :
+Chimie")]
+
+Article détaillé : [Composé cyclique](/wiki/Compos%C3%A9_cyclique "Composé
+cyclique").
+
+Un **cycle** est une représentation imagée d'une chaîne (en général
+[carbonée](/wiki/Chaine_carbon%C3%A9e "Chaine carbonée")) qui serait reliée à
+ses extrémités. On distingue :
+
+  * les _composés homocycliques_ : un même élément (en général le [carbone](/wiki/Carbone "Carbone")) constitue les atomes des chaînons. Les cycles peuvent être constitués d'au moins 5 chaînons (il peut y en avoir 3 ou 4, mais il s'agit de cas exceptionnels, car les [tensions de cycle](/wiki/Tension_de_cycle "Tension de cycle") sont trop élevées). L'exemple typique d'un composé homocyclique (et [aromatique](/wiki/Compos%C3%A9_aromatique "Composé aromatique")) est le [benzène](/wiki/Benz%C3%A8ne "Benzène"), C6H6, très utilisé par l'industrie chimique pour la synthèse de médicaments, plastiques, caoutchoucs synthétiques ou encore de colorants ;
+  * les _composés[hétérocycliques](/wiki/H%C3%A9t%C3%A9rocycle "Hétérocycle")_ : au moins deux éléments différents constituent les atomes des chaînons. On peut trouver, par exemple, l'[oxygène](/wiki/Oxyg%C3%A8ne "Oxygène") ou l'[azote](/wiki/Azote "Azote") (ex. : la [pyridine](/wiki/Pyridine "Pyridine")).
+
+Voir aussi _[Noyau aromatique simple](/wiki/Noyau_aromatique_simple "Noyau
+aromatique simple")_ et les _Cycles géochimiques_ particuliers : [cycle du
+carbone](/wiki/Cycle_du_carbone "Cycle du carbone"), [cycle de
+l'azote](/wiki/Cycle_de_l%27azote "Cycle de l'azote"), [cycle de
+l'eau](/wiki/Cycle_de_l%27eau "Cycle de l'eau"), [cycle de
+l'oxygène](/wiki/Cycle_de_l%27oxyg%C3%A8ne "Cycle de l'oxygène"), etc.
+
+### Biologie[[modifier](/w/index.php?title=Cycle&veaction=edit&section=13
+"Modifier la section : Biologie") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=13 "Modifier la section :
+Biologie")]
+
+  * Le **[cycle de vie](/wiki/Cycle_de_vie_\(biologie\) "Cycle de vie \(biologie\)")** (ou _cycle de développement_ ) est la période de temps pendant laquelle se déroule la vie complète d'un [organisme vivant](/wiki/Organisme_vivant "Organisme vivant").
+  * Cycle reproductif : [reproduction](/wiki/Reproduction_\(biologie\) "Reproduction \(biologie\)").
+  * Cycle individuel d'origine interne : cycle d'intermue ou cycle œstral ou œstrien.
+  * Cycle individuel d'origine externe : [cycle saisonnier](/w/index.php?title=Cycle_saisonnier&action=edit&redlink=1 "Cycle saisonnier \(page inexistante\)"), [hibernation](/wiki/Hibernation "Hibernation"), [chute des feuilles](/w/index.php?title=Chute_des_feuilles&action=edit&redlink=1 "Chute des feuilles \(page inexistante\)"), [cycle de l'oxygène](/wiki/Cycle_de_l%27oxyg%C3%A8ne "Cycle de l'oxygène").
+  * Un **cycle** , ou [verticille](/wiki/Verticille "Verticille"), est en [botanique](/wiki/Botanique "Botanique") une insertion circulaire de [pièces](/wiki/Pi%C3%A8ce_florale "Pièce florale") sur l'axe floral.
+  * Une **[fleur cyclique](/wiki/Fleur_cyclique "Fleur cyclique")** est une fleur dont les [pièces florales](/wiki/Pi%C3%A8ce_florale "Pièce florale") sont disposées en cycles successifs.
+
+## Sciences
+sociales[[modifier](/w/index.php?title=Cycle&veaction=edit&section=14
+"Modifier la section : Sciences sociales") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=14 "Modifier la section :
+Sciences sociales")]
+
+### Économie[[modifier](/w/index.php?title=Cycle&veaction=edit&section=15
+"Modifier la section : Économie") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=15 "Modifier la section :
+Économie")]
+
+  * selon la durée : [cycle de Kitchin](/wiki/Cycle_de_Kitchin "Cycle de Kitchin") (3-4 ans), [cycle de Juglar](/wiki/Cycle_de_Juglar "Cycle de Juglar") (8-10 ans), [cycle Kuznets](/wiki/Cycle_Kuznets "Cycle Kuznets") (15-25 ans), [cycle de Kondratieff](/wiki/Cycle_de_Kondratieff "Cycle de Kondratieff") (40-60 ans), etc. ;
+  * selon l'objet concerné : la [conjoncture](/wiki/Conjoncture_\(%C3%A9conomie\) "Conjoncture \(économie\)") ([cycle conjoncturel](/w/index.php?title=Cycle_conjoncturel&action=edit&redlink=1 "Cycle conjoncturel \(page inexistante\)")), la [monnaie](/wiki/Monnaie "Monnaie") ([cycle monétaire](/w/index.php?title=Cycle_mon%C3%A9taire&action=edit&redlink=1 "Cycle monétaire \(page inexistante\)")), l'[investissement](/wiki/Investissement "Investissement") ([cycle de l'investissement](/w/index.php?title=Cycle_de_l%27investissement&action=edit&redlink=1 "Cycle de l'investissement \(page inexistante\)")), etc.
+
+### Marketing, gestion et
+organisation[[modifier](/w/index.php?title=Cycle&veaction=edit&section=16
+"Modifier la section : Marketing, gestion et organisation") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=16 "Modifier la section :
+Marketing, gestion et organisation")]
+
+  * Les [cycles](/wiki/Cycle_\(gestion\) "Cycle \(gestion\)"), en [gestion](/wiki/Sciences_de_gestion "Sciences de gestion") et en [organisation](/wiki/Organisation "Organisation"), correspondent aux durées de temps nécessaires au déroulement complet de certains processus : [cycle d'exploitation](/w/index.php?title=Cycle_d%27exploitation&action=edit&redlink=1 "Cycle d'exploitation \(page inexistante\)").
+
+## Autres usages[[modifier](/w/index.php?title=Cycle&veaction=edit&section=17
+"Modifier la section : Autres usages") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=17 "Modifier la section :
+Autres usages")]
+
+### Cinéma[[modifier](/w/index.php?title=Cycle&veaction=edit&section=18
+"Modifier la section : Cinéma") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=18 "Modifier la section :
+Cinéma")]
+
+  * _[Cycles](/w/index.php?title=Cycles_\(film\)&action=edit&redlink=1 "Cycles \(film\) \(page inexistante\)")_ est un film américain réalisé par [Suzanne Guacci](/wiki/Suzanne_Guacci "Suzanne Guacci") en [2008](/wiki/2008_au_cin%C3%A9ma "2008 au cinéma").
+
+### Éducation[[modifier](/w/index.php?title=Cycle&veaction=edit&section=19
+"Modifier la section : Éducation") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=19 "Modifier la section :
+Éducation")]
+
+  * [Cycles de l'enseignement primaire français](/wiki/Cycles_de_l%27enseignement_primaire_fran%C3%A7ais "Cycles de l'enseignement primaire français"). En France, un _cycle_ désigne un _cycle des apprentissages_ à l'[école élémentaire](/wiki/%C3%89cole_primaire_en_France "École primaire en France") : à titre d'exemple, le cycle 3 renvoie aux apprentissages spécifiques des classes de CM1, CM2 et 6e.
+
+### Musique[[modifier](/w/index.php?title=Cycle&veaction=edit&section=20
+"Modifier la section : Musique") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=20 "Modifier la section :
+Musique")]
+
+  * Œuvres organisées en cycle (conçues pour être interprétées dans une séquence) : 
+    * [Cycle de mélodies](/wiki/Cycle_de_m%C3%A9lodies "Cycle de mélodies"),
+    * [Préludes](/wiki/Pr%C3%A9lude "Prélude") : notamment les [_24 Préludes_ , op. 28 de Chopin](/wiki/Vingt-quatre_pr%C3%A9ludes_de_Chopin,_opus_28 "Vingt-quatre préludes de Chopin, opus 28") ou les [_24 Préludes_ de Debussy](/wiki/Pr%C3%A9ludes_de_Debussy "Préludes de Debussy").
+
+### Sport[[modifier](/w/index.php?title=Cycle&veaction=edit&section=21
+"Modifier la section : Sport") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=21 "Modifier la section :
+Sport")]
+
+  * [Cycle](/wiki/Cycle_\(baseball\) "Cycle \(baseball\)") désigne, au baseball, la réussite de quatre coups sûrs différents par un joueur au cours d'un match.
+
+## Voir aussi[[modifier](/w/index.php?title=Cycle&veaction=edit&section=22
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Cycle&action=edit&section=22 "Modifier la section :
+Voir aussi")]
+
+  * [Cycle de vie](/wiki/Cycle_de_vie "Cycle de vie") [![Ce lien renvoie vers une page d'homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/15px-Disambig_colour.svg.png)](/wiki/Cycle_de_vie "Cycle de vie")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Cycle&oldid=174286899](https://fr.wikipedia.org/w/index.php?title=Cycle&oldid=174286899)
+».
+
+[Catégorie](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Homonymie](/wiki/Cat%C3%A9gorie:Homonymie "Catégorie:Homonymie")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Cycle "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Cycle "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Cycle&oldid=174286899 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Cycle&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Cycle&id=174286899&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q225014 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Cycle)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Cycle&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Cycle&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [Български](https://bg.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D1%8A%D0%BB "Цикъл — bulgare")
+  * [Deutsch](https://de.wikipedia.org/wiki/Cycle "Cycle — allemand")
+  * [English](https://en.wikipedia.org/wiki/Cycle "Cycle — anglais")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%DA%A9%D9%84 "سیکل — persan")
+  * [日本語](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB "サイクル — japonais")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BB "Цикл — kazakh")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9D%B4%ED%81%B4 "사이클 — coréen")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BB "Цикл — russe")
+  * [Simple English](https://simple.wikipedia.org/wiki/Cycle "Cycle — Simple English")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BB "Цикл — ukrainien")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q225014#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Cycle "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Cycle "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Cycle "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Cycle "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Cycle)
+  * [Modifier](/w/index.php?title=Cycle&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Cycle&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Cycle&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 30 août 2020 à 21:59.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Cycle "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Cycle&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[etc.]: et cetera
+  *[ex. :]: Exemple
+  *[6e]: Sixième
+

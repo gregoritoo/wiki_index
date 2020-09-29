@@ -1,0 +1,1104 @@
+# David Hilbert
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Hilbert » redirige ici. Pour les autres significations, voir [Hilbert
+(homonymie)](/wiki/Hilbert_\(homonymie\) "Hilbert \(homonymie\)").
+
+David Hilbert
+
+[![Description de cette image, également commentée ci-
+après](//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hilbert.jpg/220px-
+Hilbert.jpg)](/wiki/Fichier:Hilbert.jpg "lang=fr")
+
+David Hilbert en 1912.
+
+Données clés Naissance |  [23](/wiki/23_janvier "23 janvier")
+[janvier](/wiki/Janvier_1862 "Janvier 1862") [1862](/wiki/1862 "1862")  
+[Königsberg](/wiki/K%C3%B6nigsberg "Königsberg") ([Province de
+Prusse](/wiki/Province_de_Prusse "Province de Prusse"), [Royaume de
+Prusse](/wiki/Royaume_de_Prusse "Royaume de Prusse"))  
+---|---  
+Décès |  [14](/wiki/14_f%C3%A9vrier "14 février")
+[février](/wiki/F%C3%A9vrier_1943 "Février 1943") [1943](/wiki/1943 "1943") (à
+81 ans)  
+[Göttingen](/wiki/G%C3%B6ttingen "Göttingen") ([Province de
+Hanovre](/wiki/Province_de_Hanovre "Province de Hanovre"), [Reich
+allemand](/wiki/Troisi%C3%A8me_Reich "Troisième Reich"))  
+Nationalité |  Allemande  
+Domaines |  [Mathématicien](/wiki/Math%C3%A9maticien "Mathématicien")  
+Institutions |  [Université de
+Königsberg](/wiki/Universit%C3%A9_de_K%C3%B6nigsberg "Université de
+Königsberg")  
+[Université de Göttingen](/wiki/Universit%C3%A9_de_G%C3%B6ttingen "Université
+de Göttingen")  
+Diplôme |  [Université de Königsberg](/wiki/Universit%C3%A9_de_K%C3%B6nigsberg
+"Université de Königsberg")  
+Renommé pour |  [Théorie des invariants](/wiki/Th%C3%A9orie_des_invariants
+"Théorie des invariants")  
+[Axiomes de Hilbert](/wiki/Axiomes_de_Hilbert "Axiomes de Hilbert")  
+[Espace de Hilbert](/wiki/Espace_de_Hilbert "Espace de Hilbert")  
+[Problèmes de Hilbert](/wiki/Probl%C3%A8mes_de_Hilbert "Problèmes de Hilbert")  
+Distinctions |  [Prix Poncelet](/wiki/Prix_Poncelet "Prix Poncelet") (1903)  
+[Prix Bolyai](/wiki/Prix_Bolyai "Prix Bolyai") (1910)  
+  
+[modifier](https://fr.wikipedia.org/w/index.php?title=David_Hilbert&action=edit)
+[![Consultez la documentation du
+modèle](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Mod%C3%A8le:Infobox_Scientifique "Consultez la
+documentation du modèle")
+
+**David Hilbert** , né en 1862 à [Königsberg](/wiki/K%C3%B6nigsberg
+"Königsberg")[H 1] et mort en [1943](/wiki/1943 "1943") à
+[Göttingen](/wiki/G%C3%B6ttingen "Göttingen"), est un
+[mathématicien](/wiki/Math%C3%A9maticien "Mathématicien")
+[allemand](/wiki/Allemagne "Allemagne"). Il est souvent considéré comme un des
+plus grands mathématiciens du XXe siècle. Il a créé ou développé un large
+éventail d'idées fondamentales, que ce soit la [théorie des
+invariants](/wiki/Th%C3%A9orie_des_invariants "Théorie des invariants"),
+l'[axiomatisation de la géométrie](/wiki/Axiomes_de_Hilbert "Axiomes de
+Hilbert") ou les fondements de l'[analyse
+fonctionnelle](/wiki/Analyse_fonctionnelle_\(math%C3%A9matiques\) "Analyse
+fonctionnelle \(mathématiques\)") (avec les [espaces de
+Hilbert](/wiki/Espace_de_Hilbert "Espace de Hilbert")).
+
+L'un des exemples les mieux connus de sa position de chef de file est sa
+présentation, en 1900, de [ses fameux
+problèmes](/wiki/Probl%C3%A8mes_de_Hilbert "Problèmes de Hilbert") qui ont
+durablement influencé les recherches mathématiques du XXe siècle. Hilbert et
+ses étudiants ont fourni une portion significative de l'infrastructure
+mathématique nécessaire à l'éclosion de la [mécanique
+quantique](/wiki/M%C3%A9canique_quantique "Mécanique quantique") et de la
+[relativité générale](/wiki/Relativit%C3%A9_g%C3%A9n%C3%A9rale "Relativité
+générale").
+
+Il a adopté et défendu avec vigueur les idées de [Georg
+Cantor](/wiki/Georg_Cantor "Georg Cantor") en [théorie des
+ensembles](/wiki/Th%C3%A9orie_des_ensembles "Théorie des ensembles") et sur
+les [nombres transfinis](/wiki/Nombre_transfini "Nombre transfini"). Il est
+aussi connu comme l'un des fondateurs de la [théorie de la
+démonstration](/wiki/Th%C3%A9orie_de_la_d%C3%A9monstration "Théorie de la
+démonstration"), de la [logique mathématique](/wiki/Logique_math%C3%A9matique
+"Logique mathématique") et a clairement distingué les
+[mathématiques](/wiki/Math%C3%A9matiques "Mathématiques") des
+[métamathématiques](/wiki/M%C3%A9tamath%C3%A9matique "Métamathématique").
+
+## Sommaire
+
+  * 1 Biographie
+  * 2 Le maître et ses disciples
+  * 3 La science et la grande guerre
+  * 4 Travaux
+    * 4.1 Le théorème des bases
+    * 4.2 Axiomatisation de la géométrie
+    * 4.3 Les 23 problèmes
+    * 4.4 Formalisme
+      * 4.4.1 Le programme de Hilbert
+      * 4.4.2 L’impact de Gödel
+    * 4.5 Analyse fonctionnelle
+    * 4.6 Physique
+    * 4.7 Théorie des nombres
+  * 5 Notes et références
+    * 5.1 Notes
+    * 5.2 Références
+  * 6 Annexes
+    * 6.1 Bibliographie
+    * 6.2 Articles connexes
+    * 6.3 Liens externes
+
+##
+Biographie[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=1
+"Modifier la section : Biographie") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=1 "Modifier la
+section : Biographie")]
+
+Königsberg. David Hilbert vient au monde le 23 janvier 1862 au sein d'une
+famille protestante de la classe moyenne installée depuis déjà deux
+générations dans la capitale de la [Prusse-Orientale](/wiki/Prusse-
+Orientale#De_1772_à_1919 "Prusse-Orientale"). Le père de Hilbert, qui occupe
+le poste de juge de sa ville, inculque à ses enfants les strictes valeurs
+prussiennes [H 2]. La mère, en revanche, est passionnée par la philosophie,
+l'astronomie et les nombres premiers. Hilbert fréquente le lycée, au cours de
+sa scolarité, il montre déjà un caractère énergique, têtu et déterminé. Il se
+passionne néanmoins très tôt pour les arts et la littérature tout en
+s'intéressant fortement aux mathématiques — sans pour autant être un
+mathématicien précoce —.
+
+En 1880, il passe un examen pour entrer à l'[université de
+Königsberg](/wiki/Universit%C3%A9_de_K%C3%B6nigsberg "Université de
+Königsberg") et choisit la filière mathématique. Il y obtient son doctorat
+sous la supervision de [Ferdinand von Lindemann](/wiki/Ferdinand_von_Lindemann
+"Ferdinand von Lindemann"). En 1885, il remet sa thèse intitulée _Über
+invariante Eigenschaften specieller binärer Formen, insbesondere der
+Kugelfunctionen_ ( _Sur les propriétés invariantes des formes binaires
+spéciales, particulièrement les[fonctions
+circulaires](/wiki/Fonction_circulaire "Fonction circulaire")_). À la même
+période, [Hermann Minkowski](/wiki/Hermann_Minkowski "Hermann Minkowski")
+fréquente la même université. Les deux étudiants deviennent de bons amis et à
+partir de cette époque chacun a, à un moment ou un autre, une influence
+marquée sur la carrière scientifique de l'autre [2].
+
+Le titre de docteur en poche, Hilbert se prépare à passer une habilitation
+afin d'obtenir le statut de _privatdozent_ [H 3]. Pour ce faire, devant
+présenter de façon innovante sa contribution à la recherche, il part à la
+rencontre de [Felix Klein](/wiki/Felix_Klein "Felix Klein"), une des sommités
+des mathématiques de l'époque[H 4]. Sur ses conseils, Hilbert se rend à Paris
+où il fait la connaissance d'[Henri Poincaré](/wiki/Henri_Poincar%C3%A9 "Henri
+Poincaré"), le principal représentant des mathématiques françaises, qui
+cherchaient à supplanter les brillantes mathématiques allemandes. C'est
+d'ailleurs pour cette raison que Poincaré et Hilbert n'ont pas sympathisé, et
+force est de constater que Poincaré et Klein ne s'entendent pas non plus. Au
+cours du voyage qui le ramène à Königsberg, Hilbert s'arrête à l'[université
+de Göttingen](/wiki/Universit%C3%A9_de_G%C3%B6ttingen "Université de
+Göttingen") où Klein vient de s'installer. Par son intermédiaire, il entre en
+contact avec [Paul Gordan](/wiki/Paul_Gordan "Paul Gordan"), l'un des plus
+grands experts de la [théorie des
+invariants](/wiki/Th%C3%A9orie_des_invariants "Théorie des invariants"),
+domaine dans lequel Hilbert connaîtra son premier grand succès.
+
+Dès 1886, Hilbert enseigne à l'université de Königsberg en tant que
+_privatdozent_ , et en 1892, il y est nommé professeur titulaire. Bien qu'il
+soit un excellent professeur, peu d'étudiants viennent suivre ses cours. Loin
+d'en être découragé, il envisage cette période comme un processus de
+maturation lente mais continue. La même année, il épouse Käthe Jerosch
+(1864-1945) et, l'année suivante, ils ont un fils prénommé Franz [H 5]. En
+1895, sur la proposition de Felix Klein, il est nommé à la chaire de
+mathématiques de la prestigieuse [université de
+Göttingen](/wiki/Universit%C3%A9_de_G%C3%B6ttingen "Université de Göttingen"),
+considérée comme le meilleur centre de recherches en mathématiques au monde.
+Hilbert y reste jusqu’à sa retraite en 1930, malgré d'autres offres [3].
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/David_Hilbert_1886.jpg/220px-
+David_Hilbert_1886.jpg)](/wiki/Fichier:David_Hilbert_1886.jpg)
+
+[](/wiki/Fichier:David_Hilbert_1886.jpg "Agrandir")
+
+David Hilbert en 1886.
+
+En 1930, l'année de sa retraite de Göttingen, Hilbert fait une allocution à la
+radio, dénonçant un certain pessimisme dans la pensée allemande, porteuse de
+l' _ignorabimus_ de [Emil du Bois-Reymond](/wiki/Emil_du_Bois-Reymond "Emil du
+Bois-Reymond"). C'est à cette occasion qu'il prononce « Wir müssen wissen, wir
+werden wissen » (« Nous devons savoir, nous saurons »). Un jour avant qu'il ne
+prononce cette phrase, [Kurt Gödel](/wiki/Kurt_G%C3%B6del "Kurt Gödel") remet
+sa thèse qui contient son [théorème de
+complétude](/wiki/Th%C3%A9or%C3%A8me_de_compl%C3%A9tude_de_G%C3%B6del
+"Théorème de complétude de Gödel"), qui concerne la [logique du premier
+ordre](/wiki/Calcul_des_pr%C3%A9dicats "Calcul des prédicats"). L'entreprise
+semble donc sur de bons rails. Ironiquement, un an plus tard, ce même Gödel
+démontre son fameux [théorème
+d'incomplétude](/wiki/Th%C3%A9or%C3%A8me_d%27incompl%C3%A9tude_de_G%C3%B6del
+"Théorème d'incomplétude de Gödel"), résultat qui oblige à relativiser, voire
+à abandonner le [programme de Hilbert](/wiki/Programme_de_Hilbert "Programme
+de Hilbert").
+
+Avec l'arrivée au pouvoir de Hitler en 1933, [Ludwig
+Bieberbach](/wiki/Ludwig_Bieberbach "Ludwig Bieberbach"), affilié au parti
+[nazi](/wiki/Nazi "Nazi"), est propulsé au sommet des mathématiques allemandes
+et encourage des mathématiques "aryennes ou allemandes" _(Deutsche
+Mathematik)_. Les professeurs juifs, désormais exclus de l'enseignement,
+perdent leur poste l'un après l'autre. L'institut de mathématique de Göttingen
+est bientôt démantelé et son prestige international sapé, au grand dam de
+Hilbert. [Hermann Weyl](/wiki/Hermann_Weyl "Hermann Weyl"), qui avait
+finalement été choisi pour lui succéder, doit quitter le pays [H 6], [Emmy
+Noether](/wiki/Emmy_Noether "Emmy Noether"), [Paul Courant](/wiki/Paul_Courant
+"Paul Courant"), [Edmund Landau](/wiki/Edmund_Landau "Edmund Landau") et [Otto
+Blumenthal](/wiki/Otto_Blumenthal "Otto Blumenthal") [H 7] aussi. [Paul
+Bernays](/wiki/Paul_Bernays "Paul Bernays"), collaborateur de Hilbert en
+[logique mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique")
+et coauteur avec lui de _[Grundlagen der
+Mathematik](/wiki/Grundlagen_der_Mathematik "Grundlagen der Mathematik")_ , un
+important livre paru en deux volumes en 1934 et en 1939, quitte l'Allemagne à
+la suite des pressions des nazis. Leur ouvrage était la suite du livre publié
+par Hilbert et [Ackermann](/wiki/Wilhelm_Ackermann "Wilhelm Ackermann") :
+_[Grundzüge der theoretischen
+Logik](/wiki/Grundz%C3%BCge_der_theoretischen_Logik "Grundzüge der
+theoretischen Logik")_ (1928).
+
+Environ une année plus tard, Hilbert, invité à un banquet, est assis à côté du
+ministre nazi de l'Éducation [Bernhard Rust](/wiki/Bernhard_Rust "Bernhard
+Rust"). À la question de Rust : « Comment se trouvent les mathématiques à
+Göttingen maintenant qu'elle est libre de l'influence juive ? », Hilbert
+réplique : « Des mathématiques à Göttingen ? Il n'y en a plus guère[4]. »
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg/220px-G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg)](/wiki/Fichier:G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg)
+
+[](/wiki/Fichier:G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg
+"Agrandir")
+
+Sa tombe à Göttingen avec l'épitaphe :  
+ _Wir müssen wissen  
+Wir werden wissen._
+
+Lorsque Hilbert meurt en 1943, les nazis ont complètement restructuré
+l'université, tous les Juifs et conjoints de Juifs forcés de partir, certains
+ayant réussi à fuir l'Allemagne, d'autres [déportés](/wiki/D%C3%A9portation
+"Déportation"). Environ une douzaine de personnes assistent à ses funérailles,
+deux seulement étant des ex-collègues[5]. Sur sa tombe à Göttingen, on peut
+lire cette [épitaphe](/wiki/%C3%89pitaphe "Épitaphe") : (de) _Wir müssen
+wissen, wir werden wissen_ [6].
+
+## Le maître et ses
+disciples[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=2
+"Modifier la section : Le maître et ses disciples") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=2 "Modifier la
+section : Le maître et ses disciples")]
+
+[Otto Blumenthal](/wiki/Otto_Blumenthal "Otto Blumenthal"), le premier des 69
+élèves qui terminèrent leur doctorat sous sa direction se souvient, 40 ans
+plus tard, de l'impression que Hilbert avait fait à son arrivée à Göttingen :
+« Comparé aux autres professeurs, cet homme vif à l'épaisse barbe rousse et
+aux vêtements assez ordinaires ressemblait bien peu à un universitaire. Ses
+cours étaient très concis. Il enseignait de manière assez ennuyeuse mais la
+richesse du contenu et la clarté de la présentation faisaient oublier la
+forme. Il présentait souvent de nouvelles choses qu'il avait lui-même
+découvertes mais il prenait la peine de vérifier que tout le monde le suivait.
+Il donnait cours pour les élèves, et non pour lui ».
+
+Parmi les autres disciples de Hilbert, citons [Hermann
+Weyl](/wiki/Hermann_Weyl "Hermann Weyl"), [Max Dehn](/wiki/Max_Dehn "Max
+Dehn"), [Erhard Schmidt](/wiki/Erhard_Schmidt "Erhard Schmidt"), [Richard
+Courant](/wiki/Richard_Courant "Richard Courant"), [Ernst
+Zermelo](/wiki/Ernst_Zermelo "Ernst Zermelo"), le célèbre champion du monde
+d'échecs [Emmanuel Lasker](/wiki/Emmanuel_Lasker "Emmanuel Lasker"), [Carl
+Gustav Hempel](/wiki/Carl_Gustav_Hempel "Carl Gustav Hempel"), [Klara
+Löbenstein](/wiki/Klara_L%C3%B6benstein "Klara Löbenstein"), [John von
+Neumann](/wiki/John_von_Neumann "John von Neumann") qui était son assistant.
+[Hermann Weyl](/wiki/Hermann_Weyl "Hermann Weyl") se distingua
+particulièrement puisqu'il termina son doctorat sous la direction de Hilbert
+en 1908 et lui succéda lorsqu'il se retira en 1930.
+
+Hilbert se montra toujours très pédagogue avec ses étudiants, les aidant dès
+qu'il le pouvait. Par exemple, lorsque des voix s'élevèrent contre la
+nomination de la jeune et éminente mathématicienne [Emmy
+Noether](/wiki/Emmy_Noether "Emmy Noether") comme professeur à Göttingen,
+Hilbert se dressa contre ses collègues les plus réactionnaires, déclarant avec
+ironie « Je ne vois pas en quoi le sexe d'un candidat serait une raison à
+opposer à son admission. Après tout, nous sommes dans une université, pas dans
+des bains publics » [H 8].
+
+À l'université de Göttingen, le cercle d'amis de Hilbert était composé des
+meilleurs mathématiciens du XXe siècle, tels [Emmy Noether](/wiki/Emmy_Noether
+"Emmy Noether") et [Alonzo Church](/wiki/Alonzo_Church "Alonzo Church") [7].
+
+## La science et la grande
+guerre[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=3
+"Modifier la section : La science et la grande guerre") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=3 "Modifier la
+section : La science et la grande guerre")]
+
+En 1914, une grande partie des Européens accueillent la [Première Guerre
+mondiale](/wiki/Premi%C3%A8re_Guerre_mondiale "Première Guerre mondiale") avec
+un immense enthousiasme. Hilbert, lui, insiste, depuis les premiers moments,
+sur l'absurdité de ce conflit. En août 1914, 93 intellectuels renommés
+écrivent un manifeste "à l'adresse des nations civilisées" en réaction à
+l'indignation croissante soulevée par les actions de l'armée allemande.
+
+Immergé dans cette atmosphère clairement nationaliste, Felix Klein signe la
+déclaration de soutien à la politique du Kaiser. Hilbert est également
+encouragé à y souscrire, mais il refuse, arguant simplement qu'il ne sait pas
+si les accusations portées contre l'Allemagne sont vraies ou fausses. Cette
+position est proche de celle d'Einstein qui, fidèle à son pacifisme,
+s'abstient de signer le manifeste. En outre, en 1917, au beau milieu du
+conflit, Hilbert publie une nécrologie laudative de [Gaston
+Darboux](/wiki/Gaston_Darboux "Gaston Darboux"), un illustre mathématicien
+français qui venait de décéder. Lorsque des étudiants assiègent sa maison, lui
+demandant de corriger cette note à la mémoire d'un mathématicien ennemi,
+Hilbert répond en exigeant d'eux une excuse formelle — qu'il obtient —.
+
+Pour toutes ces raisons, ses collègues européens le considèrent comme un
+esprit libre, qui ne s'embarrasse pas des convenances et des coutumes. À la
+fin de la guerre, avec la déroute incontestable de l'Allemagne, sa réputation
+n'est pas salie. Lors du premier congrès international des mathématiciens de
+l'entre-deux-guerres — le huitième congrès qui se tient à Bologne en 1928 —,
+il insiste sur l'universalité des mathématiques et souligne que toutes les
+frontières sont contre-nature [8].
+
+## Travaux[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=4
+"Modifier la section : Travaux") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=4 "Modifier la
+section : Travaux")]
+
+On retient de lui notamment [sa liste de 23
+problèmes](/wiki/Probl%C3%A8mes_de_Hilbert "Problèmes de Hilbert"), dont
+certains ne sont toujours pas résolus aujourd'hui, qu'il présenta le 8 août
+1900 à la Sorbonne, au deuxième [congrès international des
+mathématiciens](/wiki/Congr%C3%A8s_international_des_math%C3%A9maticiens
+"Congrès international des mathématiciens") à [Paris](/wiki/Paris "Paris")
+[9].
+
+Ses contributions aux mathématiques sont nombreuses :
+
+  * Consolidation de la [théorie des invariants](/wiki/Th%C3%A9orie_des_invariants "Théorie des invariants"), qui était le sujet de sa thèse.
+  * L'axiomatisation de la [géométrie euclidienne](/wiki/G%C3%A9om%C3%A9trie_euclidienne "Géométrie euclidienne"), pour la rendre [cohérente](/wiki/Logique_math%C3%A9matique#Quelques_résultats_fondamentaux "Logique mathématique"), parue dans son (de) _Grundlagen der Geometrie_ ( _Base de la géometrie_ ).
+  * Travaux sur la [théorie algébrique des nombres](/wiki/Th%C3%A9orie_alg%C3%A9brique_des_nombres "Théorie algébrique des nombres"), reprenant et simplifiant, avec l'aide de [Minkowski](/wiki/Hermann_Minkowski "Hermann Minkowski"), les travaux de [Kummer](/wiki/Ernst_Kummer "Ernst Kummer"), [Kronecker](/wiki/Leopold_Kronecker "Leopold Kronecker"), [Dirichlet](/wiki/Johann_Peter_Gustav_Lejeune_Dirichlet "Johann Peter Gustav Lejeune Dirichlet") et [Dedekind](/wiki/Richard_Dedekind "Richard Dedekind"), et les publiant dans son _[Zahlbericht](/w/index.php?title=Zahlbericht&action=edit&redlink=1 "Zahlbericht \(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/Zahlbericht "en:Zahlbericht")_ ( _Rapport sur les nombres_ ).
+  * Apport des [espaces de Hilbert](/wiki/Espace_de_Hilbert "Espace de Hilbert"), lors de ses travaux en [analyse](/wiki/Analyse_\(math%C3%A9matiques\) "Analyse \(mathématiques\)") sur les [équations intégrales](/wiki/%C3%89quation_int%C3%A9grale "Équation intégrale").
+  * Apport sur les bases mathématiques de la [relativité générale](/wiki/Relativit%C3%A9_g%C3%A9n%C3%A9rale "Relativité générale") d'[Einstein](/wiki/Albert_Einstein "Albert Einstein"), notamment la dérivation de son équation à partir de l'[action d'Einstein-Hilbert](/wiki/Action_d%27Einstein-Hilbert "Action d'Einstein-Hilbert").
+
+### Le théorème des
+bases[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=5
+"Modifier la section : Le théorème des bases") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=5 "Modifier la
+section : Le théorème des bases")]
+
+Les premiers travaux d'Hilbert sur les fonctions invariantes l'amènent à
+démontrer en 1888 son [théorème de la base
+finie](/wiki/Th%C3%A9or%C3%A8me_de_la_base_de_Hilbert "Théorème de la base de
+Hilbert"). Vingt ans plus tôt, à l'aide d'une méthode de calculs complexe,
+[Paul Gordan](/wiki/Paul_Gordan "Paul Gordan") démontre le théorème sur la
+finitude des générateurs des formes binaires. Les tentatives de généraliser sa
+méthode aux fonctions à plusieurs variables échouent à cause de la complexité
+des calculs. Hilbert décide d'emprunter une autre voie. Il démontre ainsi le
+[théorème de la base finie](/wiki/Th%C3%A9or%C3%A8me_de_la_base_de_Hilbert
+"Théorème de la base de Hilbert"), qui affirme l'existence d'un ensemble fini
+de générateurs pour les invariants des formes algébriques pour n'importe quel
+nombre de variables. Il ne construit pas effectivement une telle base ni
+n'indique de moyen d'en construire. Il prouve l'existence formellement en
+montrant que rejeter cette existence conduit à une contradiction.
+
+Hilbert envoie ses résultats au _[Mathematische
+Annalen](/wiki/Mathematische_Annalen "Mathematische Annalen")_. Gordan,
+l'expert maison sur la [théorie des
+invariants](/wiki/Th%C3%A9orie_des_invariants "Théorie des invariants"), ne
+parviendra pas à apprécier la nature révolutionnaire des travaux de Hilbert.
+Il rejette l'article, affirmant qu'il est incompréhensible : « C'est de la
+théologie, pas des mathématiques ! »
+
+[Felix Klein](/wiki/Felix_Klein "Felix Klein"), de son côté, reconnaît
+l'importance du travail et garantit qu'il sera publié sans modification,
+malgré son amitié pour Gordan. Stimulé par Klein et les commentaires de
+Gordan, Hilbert, dans un second article, prolonge ses résultats, donnant une
+estimation sur le degré maximal de l'ensemble minimal des générateurs. Après
+lecture, Klein lui écrit : « Sans aucun doute, il s'agit du plus important
+travail sur l'[algèbre générale](/wiki/Alg%C3%A8bre_g%C3%A9n%C3%A9rale
+"Algèbre générale") jamais publié par les _Annalen_ ».
+
+Plus tard, une fois les méthodes de Hilbert largement reconnues, Gordan lui-
+même affirme : « Je dois admettre que même la théologie a des mérites. »
+
+### Axiomatisation de la
+géométrie[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=6
+"Modifier la section : Axiomatisation de la géométrie") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=6 "Modifier la
+section : Axiomatisation de la géométrie")]
+
+Article détaillé : [Axiomes de Hilbert](/wiki/Axiomes_de_Hilbert "Axiomes de
+Hilbert").
+
+Hilbert publie _Grundlagen der Geometrie_ [10] ( _Les fondements de la
+géométrie_ [11]) en 1899. Il remplace les cinq [axiomes](/wiki/Axiome
+"Axiome") usuels de la [géométrie
+euclidienne](/wiki/G%C3%A9om%C3%A9trie_euclidienne "Géométrie euclidienne")
+par vingt-et-un axiomes. Son système élimine les faiblesses de la géométrie
+d'Euclide, la seule enseignée jusqu'alors.
+
+Son approche est décisive dans l'adoption des [méthodes
+axiomatiques](/wiki/Axiomatisation "Axiomatisation"). Les axiomes ne sont plus
+immuables. La géométrie peut codifier l'intuition que nous avons à propos des
+« objets », mais il n'est pas nécessaire de tout codifier. « On doit toujours
+pouvoir remplacer « [points](/wiki/Point_\(g%C3%A9om%C3%A9trie\) "Point
+\(géométrie\)"), [droites](/wiki/Droite_\(math%C3%A9matiques\) "Droite
+\(mathématiques\)"), [plans](/wiki/Plan_\(math%C3%A9matiques\) "Plan
+\(mathématiques\)") » par « tables, chaises, verres de bière »[12]. » Il faut
+plutôt se concentrer sur leurs relations.
+
+Hilbert axiomatise la géométrie plane selon cinq grands groupes :
+
+  1. Axiomes d'appartenance ou d'incidence : huit axiomes expriment le lien entre les notions de point, de droite et de plan ;
+  2. Axiomes d'ordre : quatre axiomes définissent le terme « entre » et permettent de définir l'ordre des points alignés, [coplanaires](/wiki/Coplanaire "Coplanaire") ou dans l'espace ;
+  3. Axiomes de congruence : cinq axiomes définissent la notion de [congruence](/wiki/Congruence_\(g%C3%A9om%C3%A9trie\) "Congruence \(géométrie\)") et de [déplacement](/wiki/D%C3%A9placement_\(g%C3%A9om%C3%A9trie\) "Déplacement \(géométrie\)") ;
+  4. Axiome des parallèles : il s'agit essentiellement du [cinquième axiome](/wiki/Cinqui%C3%A8me_axiome "Cinquième axiome") d'Euclide ;
+  5. Axiomes de continuité : il contient l'[axiome d'Archimède](/wiki/Axiome_d%27Archim%C3%A8de "Axiome d'Archimède") et celui de l'intégrité linéaire.
+
+Ces axiomes unifient dans un seul système la [géométrie
+plane](/wiki/G%C3%A9om%C3%A9trie_plane "Géométrie plane") et la [géométrie
+dans l'espace](/wiki/G%C3%A9om%C3%A9trie_dans_l%27espace "Géométrie dans
+l'espace"), toutes deux euclidiennes.
+
+### Les 23
+problèmes[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=7
+"Modifier la section : Les 23 problèmes") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=7 "Modifier la
+section : Les 23 problèmes")]
+
+Article détaillé : [Problèmes de Hilbert](/wiki/Probl%C3%A8mes_de_Hilbert
+"Problèmes de Hilbert").
+
+À l'occasion du deuxième congrès international de mathématiciens tenu en août
+1900 à [Paris](/wiki/Paris "Paris"), il propose sa fameuse liste des [23
+problèmes](/wiki/Probl%C3%A8mes_de_Hilbert "Problèmes de Hilbert"). Même au
+XXIe siècle, elle est considérée comme étant la compilation de problèmes ayant
+eu le plus d'influence en mathématiques, faisant suite aux [trois grands
+problèmes de
+l'Antiquité](/wiki/Trois_grands_probl%C3%A8mes_de_l%27Antiquit%C3%A9 "Trois
+grands problèmes de l'Antiquité").
+
+Après avoir proposé de nouvelles fondations à la géométrie classique, Hilbert
+aurait pu s'attacher à extrapoler pour le reste des mathématiques. Il décide
+plutôt de déterminer les problèmes fondamentaux auxquels les mathématiciens
+doivent s'attaquer pour rendre les mathématiques plus cohérentes. Son approche
+s'oppose à celles des [logicistes](/wiki/Logicisme "Logicisme")
+[Russell](/wiki/Bertrand_Russell "Bertrand Russell") et
+[Whitehead](/wiki/Alfred_North_Whitehead "Alfred North Whitehead"), des «
+encyclopédistes » [Bourbaki](/wiki/Nicolas_Bourbaki "Nicolas Bourbaki") et du
+[métamathématicien](/wiki/M%C3%A9tamath%C3%A9matique "Métamathématique")
+[Giuseppe Peano](/wiki/Giuseppe_Peano "Giuseppe Peano"). Sa liste met au défi
+la communauté des mathématiciens au complet, peu importe ses intérêts.
+
+Lors du congrès, son discours commence ainsi :
+
+> « Qui ne soulèverait volontiers le voile qui nous cache l'avenir afin de
+> jeter un coup d'œil sur les progrès de notre Science et les secrets de son
+> développement ultérieur durant les siècles futurs ? Dans ce champ si fécond
+> et si vaste de la Science mathématique, quels seront les buts particuliers
+> que tenteront d'atteindre les guides de la pensée mathématique des
+> générations futures ? Quelles seront, dans ce champ, les nouvelles vérités
+> et les nouvelles méthodes découvertes par le siècle qui commence[13] ? »
+
+À la suggestion de Minkowski, il présente environ une dizaine de problèmes à
+la salle. La liste complète sera publiée dans les actes du congrès. Dans une
+autre publication, il propose une version augmentée, et finale, de sa liste de
+problèmes.
+
+Quelques problèmes ont été rapidement résolus. D'autres ont été discutés
+pendant le XXe siècle ; certains sont maintenant considérés comme étant trop
+vagues pour qu'on puisse leur donner une réponse définitive. Même aujourd'hui,
+il reste quelques problèmes bien définis qui défient les mathématiciens [14].
+
+###
+Formalisme[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=8
+"Modifier la section : Formalisme") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=8 "Modifier la
+section : Formalisme")]
+
+Les problèmes de Hilbert sont aussi une sorte de [manifeste](/wiki/Manifeste
+"Manifeste") qui permet l'éclosion de l'école [formaliste](/wiki/Formalisme
+"Formalisme"), l'une des trois écoles majeures du XXe siècle en mathématiques.
+Selon cette école, les mathématiques existent en dehors de toute intention et
+de toute pensée. Elles sont des symboles qui demandent à être manipulés selon
+des règles formelles. Cependant, il n'est pas certain que Hilbert ait eu une
+vue aussi simple et mécanique des mathématiques.
+
+#### Le programme de
+Hilbert[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=9
+"Modifier la section : Le programme de Hilbert") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=9 "Modifier la
+section : Le programme de Hilbert")]
+
+En 1920, il propose explicitement un programme de recherche en
+[métamathématique](/wiki/M%C3%A9tamath%C3%A9matique "Métamathématique") qui
+sera connu plus tard sous le nom de [programme de
+Hilbert](/wiki/Programme_de_Hilbert "Programme de Hilbert"). Il souhaite que
+les mathématiques soient solidement et complètement formulées en s'appuyant
+sur la logique. Hilbert croit que c'est possible, car :
+
+  1. toutes les mathématiques découlent d'un ensemble fini d'[axiomes](/wiki/Axiome "Axiome") correctement choisis ;
+  2. il peut être démontré que cet ensemble est cohérent.
+
+Il semble que Hilbert s'appuie sur des arguments à la fois techniques et
+philosophique pour proposer un tel programme. Il affirme qu'il déteste l'
+_[ignorabimus](/wiki/Ignorabimus "Ignorabimus")_ relativement courant dans la
+pensée allemande de l'époque (dont l'on peut retracer la formulation à [Emil
+du Bois-Reymond](/wiki/Emil_du_Bois-Reymond "Emil du Bois-Reymond")).
+
+Ce programme est maintenant partie du [formalisme](/wiki/Formalisme
+"Formalisme"). [Bourbaki](/wiki/Nicolas_Bourbaki "Nicolas Bourbaki") a adopté
+une version élaguée et moins formelle pour ses projets :
+
+  1. d’écrire une fondation encyclopédique ;
+  2. de soutenir la [méthode axiomatique](/wiki/Axiomatisation "Axiomatisation") en tant qu'outil de recherche.
+
+Bien que cette approche ait été féconde en [algèbre](/wiki/Alg%C3%A8bre
+"Algèbre") et en [analyse
+fonctionnelle](/wiki/Analyse_fonctionnelle_\(math%C3%A9matiques\) "Analyse
+fonctionnelle \(mathématiques\)"), elle a connu peu de succès ailleurs [15].
+
+#### L’impact de
+Gödel[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=10
+"Modifier la section : L’impact de Gödel") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=10 "Modifier la
+section : L’impact de Gödel")]
+
+Hilbert et les autres mathématiciens qui travaillent à l'entreprise veulent
+réussir. Cependant, leur travail devait se terminer de façon abrupte.
+
+En 1931, [Kurt Gödel](/wiki/Kurt_G%C3%B6del "Kurt Gödel") démontre que tout
+système formel non-contradictoire et suffisamment complet pour inclure au
+moins l'[arithmétique](/wiki/Arithm%C3%A9tique "Arithmétique"), ne peut
+démontrer sa cohérence en s'appuyant sur ses axiomes. Tel que formulé, le
+grand schème de Hilbert est donc voué à l'échec.
+
+Le [théorème d'incomplétude de
+Gödel](/wiki/Th%C3%A9or%C3%A8me_d%27incompl%C3%A9tude_de_G%C3%B6del "Théorème
+d'incomplétude de Gödel") ne dit pas qu'il est impossible de réaliser un tel
+système selon l'esprit du programme de Hilbert. La complétion de la [théorie
+de la démonstration](/wiki/Th%C3%A9orie_de_la_d%C3%A9monstration "Théorie de
+la démonstration") a permis de clarifier la notion de cohérence, qui est
+centrale dans les mathématiques modernes. Le programme de Hilbert a lancé la
+[logique](/wiki/Logique "Logique") sur une voie de clarification. Le désir de
+mieux comprendre le théorème de Gödel a permis le développement de la [théorie
+de la récursion](/wiki/Th%C3%A9orie_de_la_r%C3%A9cursion "Théorie de la
+récursion") et la clarification de la logique. Cette dernière est devenue une
+discipline à part entière dans les décennies de 1930 et de 1940. Elle forme le
+point de départ de ce qui est aujourd'hui appelée l'[informatique
+théorique](/wiki/Informatique_th%C3%A9orique "Informatique théorique"),
+développée par [Alonzo Church](/wiki/Alonzo_Church "Alonzo Church") et [Alan
+Turing](/wiki/Alan_Turing "Alan Turing").
+
+### Analyse
+fonctionnelle[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=11
+"Modifier la section : Analyse fonctionnelle") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=11 "Modifier la
+section : Analyse fonctionnelle")]
+
+Dès 1909, Hilbert étudie de façon méthodique les [équations
+différentielles](/wiki/%C3%89quation_diff%C3%A9rentielle "Équation
+différentielle") et [intégrales](/wiki/%C3%89quation_int%C3%A9grale "Équation
+intégrale"). Ce travail a une incidence marquée sur l'[analyse
+fonctionnelle](/wiki/Analyse_fonctionnelle_\(math%C3%A9matiques\) "Analyse
+fonctionnelle \(mathématiques\)") moderne.
+
+Dans le but de mener à bien sa tâche, il introduit le concept d'[espaces
+euclidiens](/wiki/Espace_euclidien "Espace euclidien") de dimensions infinies,
+appelés plus tard les [espaces de Hilbert](/wiki/Espace_de_Hilbert "Espace de
+Hilbert"). De façon inattendue, ce travail sera repris en physique théorique
+pendant les deux décennies subséquentes.
+
+Plus tard, [Stefan Banach](/wiki/Stefan_Banach "Stefan Banach") généralisera
+le concept pour en faire l'[espace de Banach](/wiki/Espace_de_Banach "Espace
+de Banach").
+
+###
+Physique[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=12
+"Modifier la section : Physique") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=12 "Modifier la
+section : Physique")]
+
+Minkowski semble responsable de la plupart des recherches de Hilbert en
+physique avant 1912, y compris leur séminaire conjoint sur le sujet en 1905.
+En effet, jusqu'en 1912, Hilbert fait exclusivement des [mathématiques
+pures](/wiki/Math%C3%A9matiques_pures "Mathématiques pures").
+
+Cette année-là, il porte son attention sur la [physique](/wiki/Physique
+"Physique"). Il a même engagé un « tuteur en physique[16] ». Il commence par
+étudier la [théorie cinétique des
+gaz](/wiki/Th%C3%A9orie_cin%C3%A9tique_des_gaz "Théorie cinétique des gaz"),
+puis continue avec la théorie des [radiations](/wiki/Rayonnement
+"Rayonnement") et complète avec la théorie
+[moléculaire](/wiki/Mol%C3%A9culaire "Moléculaire") de la matière. Même
+pendant la [Première Guerre mondiale](/wiki/Premi%C3%A8re_Guerre_mondiale
+"Première Guerre mondiale"), il propose séminaires et cours où sont présentés
+les travaux d'[Albert Einstein](/wiki/Albert_Einstein "Albert Einstein") et
+autres physiciens.
+
+Hilbert invite Einstein à Göttingen pour y prononcer une série de conférences
+sur la [relativité générale](/wiki/Relativit%C3%A9_g%C3%A9n%C3%A9rale
+"Relativité générale") en juin et juillet 1915[17],[18]. Les échanges entre
+les deux savants mènent à la création de l'[équation
+d'Einstein](/wiki/%C3%89quation_d%27Einstein "Équation d'Einstein") de la
+relativité générale (c'est-à-dire l'équation du champ d'Einstein et l'[action
+d'Einstein-Hilbert](/wiki/Action_d%27Einstein-Hilbert "Action d'Einstein-
+Hilbert")). Même si Hilbert et Einstein ne se sont jamais disputés à propos de
+la paternité de l'équation, certains ont voulu remettre en cause celle-ci
+(voir [Controverse sur la paternité de la
+relativité](/wiki/Controverse_sur_la_paternit%C3%A9_de_la_relativit%C3%A9
+"Controverse sur la paternité de la relativité")).
+
+De plus, le travail de Hilbert anticipe et appuie les avancées dans la
+formulation mathématique de la [mécanique
+quantique](/wiki/M%C3%A9canique_quantique "Mécanique quantique"). Ses [espaces
+de Hilbert](/wiki/Espace_de_Hilbert "Espace de Hilbert") sont essentiels aux
+travaux de [Hermann Weyl](/wiki/Hermann_Weyl "Hermann Weyl") et [John von
+Neumann](/wiki/John_von_Neumann "John von Neumann") sur l'équivalence
+mathématique entre la [mécanique matricielle](/wiki/M%C3%A9canique_matricielle
+"Mécanique matricielle") de [Heisenberg](/wiki/Werner_Heisenberg "Werner
+Heisenberg") et l'[équation de
+Schrödinger](/wiki/%C3%89quation_de_Schr%C3%B6dinger "Équation de
+Schrödinger"), ainsi qu'à la formulation générale de la mécanique quantique.
+
+En 1926, Neumann démontre que si les états atomiques sont considérés comme des
+vecteurs dans l'espace de Hilbert, alors ils correspondent à la [fonction
+d'onde](/wiki/Fonction_d%27onde "Fonction d'onde") de Schrödinger et à la
+matrice de Heisenberg [H 9],[1].
+
+Dans le cadre de ses travaux en physique, Hilbert s'acharne à rendre plus
+rigoureuses l'utilisation des mathématiques. Alors que leurs travaux dépendent
+entièrement des mathématiques supérieures, les physiciens sont négligents
+lorsqu'ils manipulent les objets mathématiques. Pour un mathématicien du
+calibre de Hilbert, cette situation est difficile à comprendre, allant jusqu’à
+la qualifier de « laide ».
+
+Lorsqu'il parvient à se faire un portrait de l'utilisation des mathématiques
+en physique, il développe une théorie mathématique cohérente à l'usage des
+physiciens, surtout en ce qui concerne les [équations
+intégrales](/wiki/%C3%89quation_int%C3%A9grale "Équation intégrale"). Quand
+[Richard Courant](/wiki/Richard_Courant "Richard Courant") publie _[Methoden
+der mathematischen
+Physik](/w/index.php?title=Methoden_der_mathematischen_Physik&action=edit&redlink=1
+"Methoden der mathematischen Physik \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Methoden_der_mathematischen_Physik
+"en:Methoden der mathematischen Physik")_ en incluant quelques idées de
+Hilbert, il ajoute le nom de Hilbert comme auteur, même si ce dernier n'a pas
+participé à sa rédaction. Hilbert a écrit : « La physique est trop difficile
+pour les physiciens », voulant attirer l'attention sur la difficulté inhérente
+à l'utilisation de mathématiques supérieures. L'ouvrage de Courant et Hilbert
+tente d'aplanir ces difficultés.
+
+### Théorie des
+nombres[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=13
+"Modifier la section : Théorie des nombres") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=13 "Modifier la
+section : Théorie des nombres")]
+
+Hilbert unifie la [théorie algébrique des
+nombres](/wiki/Th%C3%A9orie_alg%C3%A9brique_des_nombres "Théorie algébrique
+des nombres") avec son _Rapport sur les nombres_ (
+_[Zahlbericht](/w/index.php?title=Zahlbericht&action=edit&redlink=1
+"Zahlbericht \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Zahlbericht "en:Zahlbericht")_), publié
+le 10 avril 1897), où il compile toutes les connaissances pertinentes —
+réorganisées selon un nouveau point de vue —, refait des démonstrations et
+reprend les formulations. Il résout le [problème de
+Waring](/wiki/Probl%C3%A8me_de_Waring "Problème de Waring") de façon quasi
+complète. Son traité épuise le sujet, mais l'émergence de la notion de «
+[forme modulaire](/wiki/Forme_modulaire "Forme modulaire") de Hilbert »
+signifie que son nom est attaché encore une fois à une partie majeure des
+mathématiques [19].
+
+Il a fait plusieurs [conjectures](/wiki/Conjecture "Conjecture") sur la
+[théorie des corps de classes](/wiki/Th%C3%A9orie_des_corps_de_classes
+"Théorie des corps de classes"). Les concepts ont une importance remarquable,
+et ses propres contributions apparaissent dans le [corps de classes de
+Hilbert](/wiki/Corps_de_classes_de_Hilbert "Corps de classes de Hilbert") et
+le [symbole de Hilbert](/wiki/Symbole_de_Hilbert "Symbole de Hilbert") de la
+[théorie du corps de classes
+local](/wiki/Th%C3%A9orie_des_corps_de_classes#Théorie_du_corps_de_classes_local
+"Théorie des corps de classes"). Les résultats de ces théories sont presque
+tous prouvés en 1930, après une percée majeure de [Teiji
+Takagi](/wiki/Teiji_Takagi "Teiji Takagi"), ce qui l'établit comme le premier
+mathématicien japonais de calibre international.
+
+Hilbert n'a pas travaillé sur les parties principales de la [théorie
+analytique des nombres](/wiki/Th%C3%A9orie_analytique_des_nombres "Théorie
+analytique des nombres"), mais son nom reste attaché à la [conjecture de
+Hilbert-Pólya](/wiki/Conjecture_de_Hilbert-P%C3%B3lya "Conjecture de Hilbert-
+Pólya") pour des raisons anecdotiques.
+
+## Notes et
+références[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=14
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=14 "Modifier la
+section : Notes et références")]
+
+(en) Cet article est partiellement ou en totalité issu de l’article de
+Wikipédia en [anglais](/wiki/Anglais "Anglais") intitulé « [David
+Hilbert](https://en.wikipedia.org/wiki/David_Hilbert?oldid=95134343) » ([voir
+la liste des
+auteurs](https://en.wikipedia.org/wiki/David_Hilbert?action=history)).
+
+### Notes[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=15
+"Modifier la section : Notes") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=15 "Modifier la
+section : Notes")]
+
+  1. ↑ Certains auteurs, comme Reid[1], donnent la petite ville de [Wehlau](/wiki/Znamensk_\(oblast_de_Kaliningrad\) "Znamensk \(oblast de Kaliningrad\)"), dans le [district de Königsberg](/wiki/District_de_K%C3%B6nigsberg "District de Königsberg"), comme lieu de naissance.
+  2. ↑ C'est-à-dire ponctualité, discipline et sens du devoir. Réf. Carlos M. Madrid Casado et Anne Postel (Trad.) À la recherche des axiomes universels : Hilbert. P.17.
+  3. ↑ Le statut de _privatdozent_ , qui permet de donner des cours à l'université, n'est pas rémunéré par l'institution, mais grâce aux frais d'inscription des étudiants. Réf. Carlos M. Madrid Casado et Anne Postel (Trad.) À la recherche des axiomes universels : Hilbert. P.18.
+  4. ↑ Quelques années plus tard, Klein dira qu'il sut immédiatement que ce jeune homme allait marquer le futur des mathématiques. Réf. Carlos M. Madrid Casado et Anne Postel (Trad.) À la recherche des axiomes universels : Hilbert. P.19.
+  5. ↑ Il souffrit dès la plus tendre enfance d'une grave pathologie mentale. Lorsqu'on lui diagnostiqua une [schizophrénie](/wiki/Schizophr%C3%A9nie "Schizophrénie"), son père l'interna dans un asile où il passa une grande partie de sa vie. Dès lors, Hilbert décida de faire comme s'il n'avait jamais eu d'enfant. Il vécut jusqu'en 1969. Réf. Carlos M. Madrid Casado et Anne Postel (Trad.) À la recherche des axiomes universels : Hilbert. P.24 
+  6. ↑ Il était aryen mais son épouse était juive. Réf. Carlos M. Madrid Casado et Anne Postel (Trad.) À la recherche des axiomes universels : Hilbert. P.168.
+  7. ↑ Le malheureux Blumenthal émigra aux Pays-Bas où il se trouva bloqué, ensuite déporté dans le tristement célèbre ghetto de [Theresienstadt](/wiki/Theresienstadt "Theresienstadt") où il mourut. Réf. Carlos M. Madrid Casado et Anne Postel (Trad.) À la recherche des axiomes universels : Hilbert. P.168
+  8. ↑ Au début du XXe siècle, il est mal vu pour une femme d'enseigner au niveau universitaire en [Prusse](/wiki/Prusse "Prusse"). Vers 1910, Hilbert soutient les efforts d'Emmy Noether, qui souhaite enseigner à l'université de Göttingen. Pour déjouer le système établi, Hilbert prête son nom à Noether qui peut ainsi annoncer l'horaire de ses cours sans entacher la réputation de l'université. Réf.Carlos M. Madrid Casado et Anne Postel (Trad.) À la recherche des axiomes universels : Hilbert. P.67.
+  9. ↑ En 1926, un an après la formulation matricielle de la théorie quantique par [Max Born](/wiki/Max_Born "Max Born") et [Werner Heisenberg](/wiki/Werner_Heisenberg "Werner Heisenberg"), [John von Neumann](/wiki/John_von_Neumann "John von Neumann") devient assistant de David Hilbert à Göttingen. Quand Neumann le quitte en 1932, il publie son livre sur les fondements mathématiques de la mécanique quantique, _Mathematische Grundlagen der Quantenmechanik_ , ouvrage qui s'appuie sur les mathématiques de Hilbert. Ref. Norman Macrae, _John von Neumann : The Scientific Genius Who Pioneered the Modern Computer, Game Theory, Nuclear Deterrence, and Much More_ (réimpression par l'[American Mathematical Society](/wiki/American_Mathematical_Society "American Mathematical Society"), 1999).
+
+###
+Références[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=16
+"Modifier la section : Références") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=16 "Modifier la
+section : Références")]
+
+  1. ↑ a et b Reid 1996. 
+  2. ↑ Carlos M. Madrid Casado et Anne Postel (Trad.) 2018, p. 17-18
+  3. ↑ Carlos M. Madrid Casado et Anne Postel (Trad.) 2018, p. 19/22/24
+  4. ↑ Reid 1996, p. 205\. 
+  5. ↑ Reid 1996, p. 213\. 
+  6. ↑ Carlos M. Madrid Casado et Anne Postel (Trad.) 2018, p. 168
+  7. ↑ Carlos M. Madrid Casado et Anne Postel (Trad.) 2018, p. 65-67
+  8. ↑ Carlos M. Madrid Casado et Anne Postel (Trad.) 2018, p. 91
+  9. ↑ Carlos M. Madrid Casado et Anne Postel (Trad.) 2018, p. 49
+  10. ↑ (en) [Foundations of Geometry](http://www.gutenberg.org/etext/17384) (traduction de 1902) numérisée sur le [Projet Gutenberg](/wiki/Projet_Gutenberg "Projet Gutenberg")
+  11. ↑ David Hilbert, _Les fondements de la géométrie_ , Dunod Paris (1971), rééd. Jacques Gabay (1997) ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-87647-127-6](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-87647-127-6 "Spécial:Ouvrages de référence/978-2-87647-127-6"))
+  12. ↑ (de) [Otto Blumenthal](/wiki/Otto_Blumenthal "Otto Blumenthal"), « Lebensgeschichte », dans David Hilbert, Gesammelte Abhandlungen, vol. 3 ([lire en ligne](http://gdz.sub.uni-goettingen.de/dms/load/img/?PID=PPN237834022)), p. 398-429 (p. 403), cité dans (en) [Ivor Grattan-Guinness](/wiki/Ivor_Grattan-Guinness "Ivor Grattan-Guinness"), The Search for Mathematical Roots, 1870-1940, [PUP](/wiki/Princeton_University_Press "Princeton University Press"), 2011 ([lire en ligne](//books.google.com/books?id=LcCx9MROpbUC&pg=PA208)), p. 208.
+  13. ↑ [_Sur les problèmes futurs des mathématiques_](https://gallica.bnf.fr/ark:/12148/bpt6k29049w/f5) : traduction en français de la conférence de Hilbert, par [Léonce Laugel](/wiki/L%C3%A9once_Laugel "Léonce Laugel").
+  14. ↑ Carlos M. Madrid Casado et Anne Postel (Trad.) 2018, p. 49;53-63
+  15. ↑ Carlos M. Madrid Casado et Anne Postel (Trad.) 2018, p. 147-153
+  16. ↑ Reid 1996, p. 129\. 
+  17. ↑ (en) Tilman Sauer, _[The relativity of discovery: Hilbert's first note on the foundations of physics](https://arxiv.org/abs/physics/9811050), Arch. Hist. Exact Sci._ **53** (1999), 529-75
+  18. ↑ (en) [Albrecht Fölsing](/w/index.php?title=Albrecht_F%C3%B6lsing&action=edit&redlink=1 "Albrecht Fölsing \(page inexistante\)") [(de)](https://de.wikipedia.org/wiki/Albrecht_F%C3%B6lsing "de:Albrecht Fölsing"), _Albert Einstein_ , Penguin, 1998 (1er éd. (de) _Albert Einstein: eine Biographie_ , Suhrkamp Verlag, 1993)
+  19. ↑ Carlos M. Madrid Casado et Anne Postel (Trad.) 2018, p. 24
+
+##
+Annexes[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=17
+"Modifier la section : Annexes") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=17 "Modifier la
+section : Annexes")]
+
+Sur les autres projets Wikimedia :
+
+  * [David Hilbert](https://commons.wikimedia.org/wiki/Category:David_Hilbert?uselang=fr), sur Wikimedia Commons
+
+###
+Bibliographie[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=18
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=18 "Modifier la
+section : Bibliographie")]
+
+![Document utilisé pour la rédaction de
+l’article](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-
+Icon_flat_design_plume.svg.png) : document utilisé comme source pour la
+rédaction de cet article.
+
+  * [Pierre Cassou-Noguès](/wiki/Pierre_Cassou-Nogu%C3%A8s "Pierre Cassou-Noguès"), _Hilbert_ , 2001, Les Belles lettres. coll. Figures du savoir ; 29, 169 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-251-76036-9](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-251-76036-9 "Spécial:Ouvrages de référence/2-251-76036-9")).
+  * (en) [Constance Reid](/wiki/Constance_Reid "Constance Reid"), Hilbert, [Springer Verlag](/wiki/Springer_Verlag "Springer Verlag"), 1996, 228 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-387-94674-0](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-0-387-94674-0 "Spécial:Ouvrages de référence/978-0-387-94674-0"), [lire en ligne](https://books.google.com/books?id=mR4SdJGD7tEC&printsec=frontcover)). ![](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-Icon_flat_design_plume.svg.png)
+  * Carlos M. Madrid Casado et Anne Postel (Trad.), À la recherche des axiomes universels : Hilbert, Barcelone, RBA Coleccionables, 2018, 174 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-84-473-9333-6](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-84-473-9333-6 "Spécial:Ouvrages de référence/978-84-473-9333-6"))
+
+### Articles
+connexes[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=19
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=19 "Modifier la
+section : Articles connexes")]
+
+  * [Science sous le Troisième Reich](/wiki/Science_sous_le_Troisi%C3%A8me_Reich "Science sous le Troisième Reich")
+  * Objets mathématiques nommés d'après Hilbert : 
+    * [Axiomes de Hilbert](/wiki/Axiomes_de_Hilbert "Axiomes de Hilbert")
+    * [Base de Hilbert](/wiki/Base_de_Hilbert "Base de Hilbert")
+    * [Conjecture de Hilbert-Pólya](/wiki/Conjecture_de_Hilbert-P%C3%B3lya "Conjecture de Hilbert-Pólya")
+    * [Corps de classes de Hilbert](/wiki/Corps_de_classes_de_Hilbert "Corps de classes de Hilbert")
+    * [Courbes de Peano-Hilbert](/wiki/Courbe_de_Peano "Courbe de Peano")
+    * [Cube de Hilbert](/wiki/Cube_de_Hilbert "Cube de Hilbert")
+    * [Espace de Hilbert](/wiki/Espace_de_Hilbert "Espace de Hilbert")
+    * [Espace projectif de Hilbert](/wiki/Espace_projectif_de_Hilbert "Espace projectif de Hilbert")
+    * [Forme modulaire de Hilbert](/w/index.php?title=Forme_modulaire_de_Hilbert&action=edit&redlink=1 "Forme modulaire de Hilbert \(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/Hilbert_modular_form "en:Hilbert modular form")
+    * [Hôtel de Hilbert](/wiki/H%C3%B4tel_de_Hilbert "Hôtel de Hilbert")
+    * [Inégalité de Hilbert](/wiki/In%C3%A9galit%C3%A9_de_Hilbert "Inégalité de Hilbert")
+    * [Matrice de Hilbert](/wiki/Matrice_de_Hilbert "Matrice de Hilbert")
+    * [Problèmes de Hilbert](/wiki/Probl%C3%A8mes_de_Hilbert "Problèmes de Hilbert")
+    * [Système à la Hilbert](/wiki/Syst%C3%A8me_%C3%A0_la_Hilbert "Système à la Hilbert")
+    * [Théorème 90 de Hilbert](/wiki/Th%C3%A9or%C3%A8me_90_de_Hilbert "Théorème 90 de Hilbert")
+    * [Théorème de la base de Hilbert](/wiki/Th%C3%A9or%C3%A8me_de_la_base_de_Hilbert "Théorème de la base de Hilbert")
+    * [Théorème de Hilbert-Speiser](/wiki/Th%C3%A9or%C3%A8me_de_Hilbert-Speiser "Théorème de Hilbert-Speiser")
+    * [Théorème des syzygies de Hilbert](/wiki/Th%C3%A9or%C3%A8me_des_syzygies_de_Hilbert "Théorème des syzygies de Hilbert")
+    * [Théorème des zéros de Hilbert](/wiki/Th%C3%A9or%C3%A8me_des_z%C3%A9ros_de_Hilbert "Théorème des zéros de Hilbert")
+    * [Transformée de Hilbert](/wiki/Transform%C3%A9e_de_Hilbert "Transformée de Hilbert")
+
+### Liens
+externes[[modifier](/w/index.php?title=David_Hilbert&veaction=edit&section=20
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=David_Hilbert&action=edit&section=20 "Modifier la
+section : Liens externes")]
+
+  * [Biographie de Hilbert](http://www.bibmath.net/bios/index.php?action=affiche&quoi=hilbert) sur bibmath.net
+  * [« Problèmes mathématiques »](http://retro.seals.ch/digbib/view?rid=ensmat-001:1900:2::123&id=hitlist), _[L'Enseignement mathématique](/wiki/L%27Enseignement_math%C3%A9matique "L'Enseignement mathématique")_ , vol. 2, 1900, p. 349-355
+  * (en) [Hilbert's Program](http://plato.stanford.edu/entries/hilbert-program/) sur la [Stanford Encyclopedia of Philosophy](/wiki/Stanford_Encyclopedia_of_Philosophy "Stanford Encyclopedia of Philosophy")
+  * (de) [« Gesammelte Abhandlungen »](http://gdz.sub.uni-goettingen.de/dms/load/toc/?PID=PPN237820250), sur [Göttinger Digitalisierungszentrum](/wiki/G%C3%B6ttinger_Digitalisierungszentrum "Göttinger Digitalisierungszentrum")
+  * (en) [Irving Kaplansky](/wiki/Irving_Kaplansky "Irving Kaplansky"), _[David Hilbert](http://www.britannica.com/eb/article-9040439/David-Hilbert)_ dans _[Encyclopædia Britannica](/wiki/Encyclop%C3%A6dia_Britannica "Encyclopædia Britannica")_ 2008
+  * (en) [« David Hilbert and Paul Erdös Awards »](http://www.wfnmc.org/awards.html), sur World Federation of National Mathematics Competitions
+  * [Notices d'autorité](/wiki/Autorit%C3%A9_\(sciences_de_l%27information\) "Autorité \(sciences de l'information\)")[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q41585?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : 
+    * [Fichier d’autorité international virtuel](http://viaf.org/viaf/46779749)
+    * [International Standard Name Identifier](http://isni.org/isni/0000000108956224)
+    * [Bibliothèque nationale de France](http://catalogue.bnf.fr/ark:/12148/cb120531861) ([données](http://data.bnf.fr/ark:/12148/cb120531861))
+    * [Système universitaire de documentation](http://www.idref.fr/028762770)
+    * [Bibliothèque du Congrès](http://id.loc.gov/authorities/n50034850)
+    * [Gemeinsame Normdatei](http://d-nb.info/gnd/11855090X)
+    * [Service bibliothécaire national](http://id.sbn.it/af/IT\\ICCU\\CFIV\\060996)
+    * [Bibliothèque nationale de la Diète](http://id.ndl.go.jp/auth/ndlna/00443295)
+    * [Bibliothèque nationale d’Espagne](http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX830461)
+    * [Bibliothèque royale des Pays-Bas](http://data.bibliotheken.nl/id/thes/p068369808)
+    * [Bibliothèque universitaire de Pologne](http://viaf.org/processed/NUKAT%7Cn97086112)
+    * [Bibliothèque nationale de Catalogne](http://cantic.bnc.cat/registres/CUCId/a11071138)
+    * [WorldCat](http://www.worldcat.org/identities/lccn-n50-034850)
+
+  * Ressources relatives à la recherche[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q41585?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : 
+    * [_La France savante_](http://cths.fr/an/prosopo.php?id=119399)
+    * [INSPIRE-HEP](https://inspirehep.net/author/profile/D.Hilbert.1)
+    * (en) [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/id.php?id=7298)
+
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logic.svg/48px-Logic.svg.png)](/wiki/Portail:Logique "Portail de la logique") [Portail de la logique](/wiki/Portail:Logique "Portail:Logique")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Germany_%281867%E2%80%931919%29.svg/33px-Flag_of_Germany_%281867%E2%80%931919%29.svg.png)](/wiki/Portail:Empire_allemand "Portail de l'Empire allemand") [Portail de l'Empire allemand](/wiki/Portail:Empire_allemand "Portail:Empire allemand")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=David_Hilbert&oldid=171661509](https://fr.wikipedia.org/w/index.php?title=David_Hilbert&oldid=171661509)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Mathématicien allemand du XXe siècle](/wiki/Cat%C3%A9gorie:Math%C3%A9maticien_allemand_du_XXe_si%C3%A8cle "Catégorie:Mathématicien allemand du XXe siècle")
+  * [Étudiant de l'université de Königsberg](/wiki/Cat%C3%A9gorie:%C3%89tudiant_de_l%27universit%C3%A9_de_K%C3%B6nigsberg "Catégorie:Étudiant de l'université de Königsberg")
+  * [Professeur à l'université de Göttingen](/wiki/Cat%C3%A9gorie:Professeur_%C3%A0_l%27universit%C3%A9_de_G%C3%B6ttingen "Catégorie:Professeur à l'université de Göttingen")
+  * [Professeur à l'université de Königsberg](/wiki/Cat%C3%A9gorie:Professeur_%C3%A0_l%27universit%C3%A9_de_K%C3%B6nigsberg "Catégorie:Professeur à l'université de Königsberg")
+  * [Personnalité en théorie de la démonstration](/wiki/Cat%C3%A9gorie:Personnalit%C3%A9_en_th%C3%A9orie_de_la_d%C3%A9monstration "Catégorie:Personnalité en théorie de la démonstration")
+  * [Lauréat du prix Poncelet](/wiki/Cat%C3%A9gorie:Laur%C3%A9at_du_prix_Poncelet "Catégorie:Lauréat du prix Poncelet")
+  * [Logicien allemand](/wiki/Cat%C3%A9gorie:Logicien_allemand "Catégorie:Logicien allemand")
+  * [Membre étranger de la Royal Society](/wiki/Cat%C3%A9gorie:Membre_%C3%A9tranger_de_la_Royal_Society "Catégorie:Membre étranger de la Royal Society")
+  * [Membre de l'Académie des Lyncéens](/wiki/Cat%C3%A9gorie:Membre_de_l%27Acad%C3%A9mie_des_Lync%C3%A9ens "Catégorie:Membre de l'Académie des Lyncéens")
+  * [Récipiendaire de la croix Pour le Mérite (ordre civil)](/wiki/Cat%C3%A9gorie:R%C3%A9cipiendaire_de_la_croix_Pour_le_M%C3%A9rite_\(ordre_civil\) "Catégorie:Récipiendaire de la croix Pour le Mérite \(ordre civil\)")
+  * [Naissance en janvier 1862](/wiki/Cat%C3%A9gorie:Naissance_en_janvier_1862 "Catégorie:Naissance en janvier 1862")
+  * [Naissance à Königsberg](/wiki/Cat%C3%A9gorie:Naissance_%C3%A0_K%C3%B6nigsberg "Catégorie:Naissance à Königsberg")
+  * [Décès en février 1943](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_en_f%C3%A9vrier_1943 "Catégorie:Décès en février 1943")
+  * [Décès à Göttingen](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_%C3%A0_G%C3%B6ttingen "Catégorie:Décès à Göttingen")
+  * [Décès à 81 ans](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_%C3%A0_81_ans "Catégorie:Décès à 81 ans")
+
+Catégories cachées :
+
+  * [Article contenant un appel à traduction en allemand](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_allemand "Catégorie:Article contenant un appel à traduction en allemand")
+  * [Article utilisant une Infobox](/wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox "Catégorie:Article utilisant une Infobox")
+  * [Article contenant un appel à traduction en anglais](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais "Catégorie:Article contenant un appel à traduction en anglais")
+  * [Catégorie Commons avec lien local identique sur Wikidata](/wiki/Cat%C3%A9gorie:Cat%C3%A9gorie_Commons_avec_lien_local_identique_sur_Wikidata "Catégorie:Catégorie Commons avec lien local identique sur Wikidata")
+  * [Article de Wikipédia avec notice d'autorité](/wiki/Cat%C3%A9gorie:Article_de_Wikip%C3%A9dia_avec_notice_d%27autorit%C3%A9 "Catégorie:Article de Wikipédia avec notice d'autorité")
+  * [Page utilisant P2383](/wiki/Cat%C3%A9gorie:Page_utilisant_P2383 "Catégorie:Page utilisant P2383")
+  * [Page utilisant P2930](/wiki/Cat%C3%A9gorie:Page_utilisant_P2930 "Catégorie:Page utilisant P2930")
+  * [Page utilisant P549](/wiki/Cat%C3%A9gorie:Page_utilisant_P549 "Catégorie:Page utilisant P549")
+  * [Page pointant vers des bases externes](/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_bases_externes "Catégorie:Page pointant vers des bases externes")
+  * [Page pointant vers des bases relatives à la recherche](/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_bases_relatives_%C3%A0_la_recherche "Catégorie:Page pointant vers des bases relatives à la recherche")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Portail:Logique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Logique/Articles_li%C3%A9s "Catégorie:Portail:Logique/Articles liés")
+  * [Portail:Empire allemand/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Empire_allemand/Articles_li%C3%A9s "Catégorie:Portail:Empire allemand/Articles liés")
+  * [Portail:Époque contemporaine/Articles liés](/wiki/Cat%C3%A9gorie:Portail:%C3%89poque_contemporaine/Articles_li%C3%A9s "Catégorie:Portail:Époque contemporaine/Articles liés")
+  * [Portail:Histoire/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Histoire/Articles_li%C3%A9s "Catégorie:Portail:Histoire/Articles liés")
+  * [Portail:Allemagne/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Allemagne/Articles_li%C3%A9s "Catégorie:Portail:Allemagne/Articles liés")
+  * [Portail:Europe/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Europe/Articles_li%C3%A9s "Catégorie:Portail:Europe/Articles liés")
+  * [Bon article en allemand](/wiki/Cat%C3%A9gorie:Bon_article_en_allemand "Catégorie:Bon article en allemand")
+  * [Wikipédia:Article biographique](/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia:Article_biographique "Catégorie:Wikipédia:Article biographique")
+  * [Portail:Biographie/Articles liés/Sciences](/wiki/Cat%C3%A9gorie:Portail:Biographie/Articles_li%C3%A9s/Sciences "Catégorie:Portail:Biographie/Articles liés/Sciences")
+  * [Portail:Biographie/Articles liés/Culture et arts](/wiki/Cat%C3%A9gorie:Portail:Biographie/Articles_li%C3%A9s/Culture_et_arts "Catégorie:Portail:Biographie/Articles liés/Culture et arts")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/David_Hilbert "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/David_Hilbert "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=David_Hilbert&oldid=171661509 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=David_Hilbert&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=David_Hilbert&id=171661509&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q41585 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=David+Hilbert)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=David_Hilbert&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=David_Hilbert&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:David_Hilbert)
+  * [Wikisource](https://fr.wikisource.org/wiki/Auteur:David_Hilbert)
+
+###  Dans d’autres langues
+
+  * [Afrikaans](https://af.wikipedia.org/wiki/David_Hilbert "David Hilbert — afrikaans")
+  * [Alemannisch](https://als.wikipedia.org/wiki/David_Hilbert "David Hilbert — Alemannisch")
+  * [አማርኛ](https://am.wikipedia.org/wiki/%E1%8B%B3%E1%89%AA%E1%89%B5_%E1%88%95%E1%88%8D%E1%89%A0%E1%88%AD%E1%89%B5 "ዳቪት ሕልበርት — amharique")
+  * [Aragonés](https://an.wikipedia.org/wiki/David_Hilbert "David Hilbert — aragonais")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D9%81%D9%8A%D8%AF_%D9%87%D9%8A%D9%84%D8%A8%D8%B1%D8%AA "ديفيد هيلبرت — arabe")
+  * [مصرى](https://arz.wikipedia.org/wiki/%D8%AF%D9%8A%D9%81%D9%8A%D8%AF_%D9%87%D9%8A%D9%84%D8%A8%D8%B1%D8%AA "ديفيد هيلبرت — arabe égyptien")
+  * [Asturianu](https://ast.wikipedia.org/wiki/David_Hilbert "David Hilbert — asturien")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/David_Hilbert "David Hilbert — azéri")
+  * [تۆرکجه](https://azb.wikipedia.org/wiki/%D8%AF%D8%A7%D9%88%DB%8C%D8%AF_%D9%87%DB%8C%D9%84%D8%A8%D8%B1%D8%AA "داوید هیلبرت — South Azerbaijani")
+  * [Башҡортса](https://ba.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%B8%D0%B4_%D0%93%D0%B8%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82 "Давид Гильберт — bachkir")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D1%96%D0%B4_%D0%93%D1%96%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82 "Давід Гільберт — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D1%96%D0%B4_%D0%93%D1%96%D0%BB%D1%8C%D0%B1%D1%8D%D1%80%D1%82 "Давід Гільбэрт — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%B8%D0%B4_%D0%A5%D0%B8%D0%BB%D0%B1%D0%B5%D1%80%D1%82 "Давид Хилберт — bulgare")
+  * [भोजपुरी](https://bh.wikipedia.org/wiki/%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A4%BF%E0%A4%A1_%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%9F "डेविड हिल्बर्ट — Bhojpuri")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%A1%E0%A6%BE%E0%A6%AD%E0%A6%BF%E0%A6%A1_%E0%A6%B9%E0%A6%BF%E0%A6%B2%E0%A6%AC%E0%A7%87%E0%A6%B0%E0%A7%8D%E0%A6%9F "ডাভিড হিলবের্ট — bengali")
+  * [Brezhoneg](https://br.wikipedia.org/wiki/David_Hilbert "David Hilbert — breton")
+  * [Bosanski](https://bs.wikipedia.org/wiki/David_Hilbert "David Hilbert — bosniaque")
+  * [Català](https://ca.wikipedia.org/wiki/David_Hilbert "David Hilbert — catalan")
+  * [کوردی](https://ckb.wikipedia.org/wiki/%D8%AF%DB%95%DB%8C%DA%A4%D8%AF_%DA%BE%DB%8C%D9%84%D8%A8%DB%8E%D8%B1%D8%AA "دەیڤد ھیلبێرت — sorani")
+  * [Čeština](https://cs.wikipedia.org/wiki/David_Hilbert "David Hilbert — tchèque")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%93%D0%B8%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4 "Гильберт Давид — tchouvache")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/David_Hilbert "David Hilbert — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/David_Hilbert "David Hilbert — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/David_Hilbert "David Hilbert — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%9D%CF%84%CE%AC%CE%B2%CE%B9%CE%BD%CF%84_%CE%A7%CE%AF%CE%BB%CE%BC%CF%80%CE%B5%CF%81%CF%84 "Ντάβιντ Χίλμπερτ — grec")
+  * [English](https://en.wikipedia.org/wiki/David_Hilbert "David Hilbert — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/David_Hilbert "David Hilbert — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/David_Hilbert "David Hilbert — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/David_Hilbert "David Hilbert — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/David_Hilbert "David Hilbert — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D9%88%DB%8C%D8%AF_%D9%87%DB%8C%D9%84%D8%A8%D8%B1%D8%AA "دیوید هیلبرت — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/David_Hilbert "David Hilbert — finnois")
+  * [Føroyskt](https://fo.wikipedia.org/wiki/David_Hilbert "David Hilbert — féroïen")
+  * [Frysk](https://fy.wikipedia.org/wiki/David_Hilbert "David Hilbert — frison occidental")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/David_Hilbert "David Hilbert — irlandais")
+  * [贛語](https://gan.wikipedia.org/wiki/%E4%BE%AF%E5%8B%83 "侯勃 — gan")
+  * [Kriyòl gwiyannen](https://gcr.wikipedia.org/wiki/David_Hilbert "David Hilbert — créole guyanais")
+  * [Galego](https://gl.wikipedia.org/wiki/David_Hilbert "David Hilbert — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%99%D7%93_%D7%94%D7%99%D7%9C%D7%91%D7%A8%D7%98 "דויד הילברט — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A4%BF%E0%A4%A1_%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%9F "डेविड हिल्बर्ट — hindi")
+  * [Fiji Hindi](https://hif.wikipedia.org/wiki/David_Hilbert "David Hilbert — hindi fidjien")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/David_Hilbert "David Hilbert — croate")
+  * [Kreyòl ayisyen](https://ht.wikipedia.org/wiki/David_Hilbert "David Hilbert — créole haïtien")
+  * [Magyar](https://hu.wikipedia.org/wiki/David_Hilbert "David Hilbert — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%B4%D5%A1%D5%BE%D5%AB%D5%A9_%D5%80%D5%AB%D5%AC%D5%A2%D5%A5%D6%80%D5%BF "Դավիթ Հիլբերտ — arménien")
+  * [Interlingua](https://ia.wikipedia.org/wiki/David_Hilbert "David Hilbert — interlingua")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/David_Hilbert "David Hilbert — indonésien")
+  * [Interlingue](https://ie.wikipedia.org/wiki/David_Hilbert "David Hilbert — interlingue")
+  * [Ilokano](https://ilo.wikipedia.org/wiki/David_Hilbert "David Hilbert — ilocano")
+  * [Ido](https://io.wikipedia.org/wiki/David_Hilbert "David Hilbert — ido")
+  * [Íslenska](https://is.wikipedia.org/wiki/David_Hilbert "David Hilbert — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/David_Hilbert "David Hilbert — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%BB%E3%83%92%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88 "ダフィット・ヒルベルト — japonais")
+  * [Patois](https://jam.wikipedia.org/wiki/David_Hilbert "David Hilbert — créole jamaïcain")
+  * [Jawa](https://jv.wikipedia.org/wiki/David_Hilbert "David Hilbert — javanais")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%93_%E1%83%B0%E1%83%98%E1%83%9A%E1%83%91%E1%83%94%E1%83%A0%E1%83%A2%E1%83%98 "დავიდ ჰილბერტი — géorgien")
+  * [Kabɩyɛ](https://kbp.wikipedia.org/wiki/David_Hilbert "David Hilbert — Kabiye")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%B8%D0%B4_%D0%93%D0%B8%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82 "Давид Гильберт — kazakh")
+  * [한국어](https://ko.wikipedia.org/wiki/%EB%8B%A4%EB%B9%84%ED%8A%B8_%ED%9E%90%EB%B2%A0%EB%A5%B4%ED%8A%B8 "다비트 힐베르트 — coréen")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%B8%D0%B4_%D0%93%D0%B8%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82 "Давид Гильберт — kirghize")
+  * [Latina](https://la.wikipedia.org/wiki/David_Hilbert "David Hilbert — latin")
+  * [Lëtzebuergesch](https://lb.wikipedia.org/wiki/David_Hilbert "David Hilbert — luxembourgeois")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/David_Hilbert "David Hilbert — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/D%C4%81vids_Hilberts "Dāvids Hilberts — letton")
+  * [Malagasy](https://mg.wikipedia.org/wiki/David_Hilbert "David Hilbert — malgache")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%B8%D0%B4_%D0%A5%D0%B8%D0%BB%D0%B1%D0%B5%D1%80%D1%82 "Давид Хилберт — macédonien")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%A1%E0%B5%87%E0%B4%B5%E0%B4%BF%E0%B4%A1%E0%B5%8D_%E0%B4%B9%E0%B4%BF%E0%B5%BD%E0%B4%AC%E0%B5%BC%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D "ഡേവിഡ് ഹിൽബർട്ട് — malayalam")
+  * [मराठी](https://mr.wikipedia.org/wiki/%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BF%E0%A4%A1_%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%9F "डेव्हिड हिल्बर्ट — marathi")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/David_Hilbert "David Hilbert — malais")
+  * [Mirandés](https://mwl.wikipedia.org/wiki/David_Hilbert "David Hilbert — mirandais")
+  * [မြန်မာဘာသာ](https://my.wikipedia.org/wiki/%E1%80%92%E1%80%B1%E1%80%B8%E1%80%97%E1%80%85%E1%80%BA_%E1%80%9F%E1%80%AE%E1%80%9C%E1%80%BA%E1%80%98%E1%80%90%E1%80%BA "ဒေးဗစ် ဟီလ်ဘတ် — birman")
+  * [नेपाल भाषा](https://new.wikipedia.org/wiki/%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A4%BF%E0%A4%A1_%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%9F "डेविड हिल्बर्ट — newari")
+  * [Nederlands](https://nl.wikipedia.org/wiki/David_Hilbert "David Hilbert — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/David_Hilbert "David Hilbert — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/David_Hilbert "David Hilbert — norvégien bokmål")
+  * [Occitan](https://oc.wikipedia.org/wiki/David_Hilbert "David Hilbert — occitan")
+  * [Polski](https://pl.wikipedia.org/wiki/David_Hilbert "David Hilbert — polonais")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/David_Hilbert "David Hilbert — piémontais")
+  * [پنجابی](https://pnb.wikipedia.org/wiki/%DA%88%DB%8C%D9%88%DA%88_%DB%81%D9%84%D8%A8%D8%B1%D9%B9 "ڈیوڈ ہلبرٹ — Western Punjabi")
+  * [Português](https://pt.wikipedia.org/wiki/David_Hilbert "David Hilbert — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/David_Hilbert "David Hilbert — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4 "Гильберт, Давид — russe")
+  * [संस्कृतम्](https://sa.wikipedia.org/wiki/%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A4%BF%E0%A4%A1_%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%9F "डेविड हिल्बर्ट — sanskrit")
+  * [Саха тыла](https://sah.wikipedia.org/wiki/%D0%93%D0%B8%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4 "Гильберт Давид — iakoute")
+  * [ᱥᱟᱱᱛᱟᱲᱤ](https://sat.wikipedia.org/wiki/%E1%B1%B0%E1%B1%AE%E1%B1%B5%E1%B1%B7%E1%B1%A4%E1%B1%B0_%E1%B1%A6%E1%B1%A4%E1%B1%9E%E1%B1%B5%E1%B1%9A%E1%B1%A8%E1%B1%B4 "ᱰᱮᱵᱷᱤᱰ ᱦᱤᱞᱵᱚᱨᱴ — santali")
+  * [Scots](https://sco.wikipedia.org/wiki/David_Hilbert "David Hilbert — écossais")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/David_Hilbert "David Hilbert — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/David_Hilbert "David Hilbert — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/David_Hilbert "David Hilbert — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/David_Hilbert "David Hilbert — slovène")
+  * [Shqip](https://sq.wikipedia.org/wiki/David_Hilbert "David Hilbert — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%B8%D0%B4_%D0%A5%D0%B8%D0%BB%D0%B1%D0%B5%D1%80%D1%82 "Давид Хилберт — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/David_Hilbert "David Hilbert — suédois")
+  * [Kiswahili](https://sw.wikipedia.org/wiki/David_Hilbert "David Hilbert — swahili")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%9F%E0%AF%87%E0%AE%B5%E0%AE%BF%E0%AE%9F%E0%AF%81_%E0%AE%87%E0%AE%B2%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81 "டேவிடு இல்பேர்ட்டு — tamoul")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97_%E0%B8%AE%E0%B8%B4%E0%B8%A5%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%97 "ดาวิท ฮิลเบิร์ท — thaï")
+  * [Tagalog](https://tl.wikipedia.org/wiki/David_Hilbert "David Hilbert — tagalog")
+  * [Türkçe](https://tr.wikipedia.org/wiki/David_Hilbert "David Hilbert — turc")
+  * [Татарча/tatarça](https://tt.wikipedia.org/wiki/David_Hilbert "David Hilbert — tatar")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%B8%D0%B4_%D0%93%D1%96%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82 "Давид Гільберт — ukrainien")
+  * [اردو](https://ur.wikipedia.org/wiki/%DA%88%DB%8C%D9%88%DA%88_%DB%81%D9%84%D8%A8%D8%B1%D9%B9 "ڈیوڈ ہلبرٹ — ourdou")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Gilbert "Gilbert — ouzbek")
+  * [Vepsän kel’](https://vep.wikipedia.org/wiki/Gil%27bert_David "Gil'bert David — vepse")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/David_Hilbert "David Hilbert — vietnamien")
+  * [Winaray](https://war.wikipedia.org/wiki/David_Hilbert "David Hilbert — waray")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9 "大卫·希尔伯特 — wu")
+  * [IsiXhosa](https://xh.wikipedia.org/wiki/UDavid_Hilbert "UDavid Hilbert — xhosa")
+  * [ייִדיש](https://yi.wikipedia.org/wiki/%D7%93%D7%95%D7%99%D7%93_%D7%94%D7%99%D7%9C%D7%91%D7%A2%D7%A8%D7%98 "דויד הילבערט — yiddish")
+  * [Yorùbá](https://yo.wikipedia.org/wiki/David_Hilbert "David Hilbert — yoruba")
+  * [中文](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9 "大卫·希尔伯特 — chinois")
+  * [文言](https://zh-classical.wikipedia.org/wiki/%E5%B8%8C%E7%88%BE%E4%BC%AF%E7%89%B9 "希爾伯特 — Classical Chinese")
+  * [Bân-lâm-gú](https://zh-min-nan.wikipedia.org/wiki/David_Hilbert "David Hilbert — Chinese \(Min Nan\)")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E6%89%93%E5%9F%9F%E5%9B%82%E6%8B%94 "打域囂拔 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q41585#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=David+Hilbert "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=David+Hilbert "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/David_Hilbert "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:David_Hilbert "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/David_Hilbert)
+  * [Modifier](/w/index.php?title=David_Hilbert&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=David_Hilbert&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=David_Hilbert&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 4 juin 2020 à 17:45.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/David_Hilbert "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=David_Hilbert&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[XXe]: 20ᵉ siècle
+  *[(de)]: Langue : allemand
+  *[XXIe]: 21ᵉ siècle
+  *[(en)]: Langue : anglais
+  *[p.]: page(s)
+  *[vol.]: volume
+  *[1er]: Premier
+

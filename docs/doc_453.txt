@@ -1,0 +1,447 @@
+# Z
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cette page d’[homonymie](/wiki/Aide:Homonymie "Aide:Homonymie") répertorie les
+différents sujets et articles partageant un même nom.
+
+Significations des lettres  
+de l’[alphabet latin](/wiki/Alphabet_latin "Alphabet latin")  
+---  
+[A](/wiki/A "A") | [B](/wiki/B "B") | [C](/wiki/C "C") | [D](/wiki/D "D") |
+[E](/wiki/E "E") | [F](/wiki/F "F") | [G](/wiki/G "G")  
+[H](/wiki/H "H") | [I](/wiki/I "I") | [J](/wiki/J "J") | [K](/wiki/K "K") |
+[L](/wiki/L "L") | [M](/wiki/M "M") | [N](/wiki/N "N")  
+[O](/wiki/O "O") | [P](/wiki/P "P") | [Q](/wiki/Q "Q") | [R](/wiki/R "R") |
+[S](/wiki/S "S") | [T](/wiki/T "T") | [U](/wiki/U "U")  
+[V](/wiki/V "V") | [W](/wiki/W "W") | [X](/wiki/X "X") | [Y](/wiki/Y "Y") | Z
+|  
+  
+Sur les autres projets Wikimedia :
+
+  * [Z](https://fr.wiktionary.org/wiki/Z "wikt:Z"), sur le Wiktionnaire
+
+**Z** est la 26e et dernière [lettre](/wiki/Lettre_\(%C3%A9criture\) "Lettre
+\(écriture\)"), ainsi que la 20e [consonne](/wiki/Consonne "Consonne") de
+l'[alphabet latin](/wiki/%C3%89criture_latine "Écriture latine").
+
+Article détaillé : [Z (lettre)](/wiki/Z_\(lettre\) "Z \(lettre\)").
+
+## Sommaire
+
+  * 1 Code
+  * 2 Sciences et techniques
+    * 2.1 Astronomie et astrophysique
+    * 2.2 Géographie
+    * 2.3 Informatique
+    * 2.4 Mathématiques
+    * 2.5 Minéralogie et cristallographie
+    * 2.6 Physique et chimie
+    * 2.7 Unités
+  * 3 Sciences humaines et sociales
+    * 3.1 Histoire
+    * 3.2 Phonétique
+  * 4 Culture et société
+    * 4.1 Bande dessinée
+    * 4.2 Cinéma
+    * 4.3 Entreprises et produits
+    * 4.4 Graphisme
+    * 4.5 Littérature
+    * 4.6 Médias
+    * 4.7 Musique
+    * 4.8 Jeux vidéo
+    * 4.9 Sports
+    * 4.10 Transports
+    * 4.11 Vie pratique
+  * 5 Anthroponyme
+  * 6 Notes et références
+
+## Code[[modifier](/w/index.php?title=Z&veaction=edit&section=1 "Modifier la
+section : Code") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=1 "Modifier la section :
+Code")]
+
+  * `Z` est le code de la [province de Saragosse](/wiki/Province_de_Saragosse "Province de Saragosse") ( _Zaragoza_ en castillan), selon la norme [ISO 3166-2:ES](/wiki/ISO_3166-2:ES "ISO 3166-2:ES") [espagnole](/wiki/Espagne "Espagne").
+
+## Sciences et
+techniques[[modifier](/w/index.php?title=Z&veaction=edit&section=2 "Modifier
+la section : Sciences et techniques") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=2 "Modifier la section :
+Sciences et techniques")]
+
+### Astronomie et
+astrophysique[[modifier](/w/index.php?title=Z&veaction=edit&section=3
+"Modifier la section : Astronomie et astrophysique") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=3 "Modifier la section :
+Astronomie et astrophysique")]
+
+  * Le symbole _Z_ peut représenter la [métallicité](/wiki/M%C3%A9tallicit%C3%A9 "Métallicité") d'un objet astronomique.
+  * Le symbole _z_ peut représenter le [décalage vers le rouge](/wiki/D%C3%A9calage_vers_le_rouge "Décalage vers le rouge") :  z = λ o b s − λ 0 λ 0 {\displaystyle z={\frac {\lambda _{\mathrm {obs} }-\lambda _{0}}{\lambda _{0}}}} ![{\\displaystyle z={\\frac {\\lambda _{\\mathrm {obs} }-\\lambda _{0}}{\\lambda _{0}}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/58a2c57da416c54394f89c187a8cb37fca83678d), où  λ o b s {\displaystyle \lambda _{\mathrm {obs} }} ![{\\displaystyle \\lambda _{\\mathrm {obs} }}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ea70cdba144f638413b5f75a0de9aab53a93d2ca) et  λ 0 {\displaystyle \lambda _{0}} ![\\lambda _{0}](https://wikimedia.org/api/rest_v1/media/math/render/svg/cfa5ad1eb6cdaf3d8dfd77991ee9ce7bdf169184) sont une [longueur d'onde](/wiki/Longueur_d%27onde "Longueur d'onde") observée dans le [spectre](/wiki/Spectre_d%27%C3%A9mission "Spectre d'émission") d'un objet céleste et la longueur d'onde de la même [raie](/wiki/Raie_spectrale "Raie spectrale") au laboratoire.
+
+### Géographie[[modifier](/w/index.php?title=Z&veaction=edit&section=4
+"Modifier la section : Géographie") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=4 "Modifier la section :
+Géographie")]
+
+  * La [Cote Z](/wiki/Cote_Z "Cote Z") en [géographie](/wiki/G%C3%A9ographie "Géographie").
+
+### Informatique[[modifier](/w/index.php?title=Z&veaction=edit&section=5
+"Modifier la section : Informatique") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=5 "Modifier la section :
+Informatique")]
+
+  * Contrôle Z ou Ctrl+Z, raccourci clavier permettant d'annuler la dernière modification apportée dans une application ;
+  * on ajoute souvent la lettre Z à la fin des mots faisant référence au piratage, le Z étant le pluriel pirate (par exemple : les Zobz, les [hackerz](/wiki/Hackerz "Hackerz"), le [warez](/wiki/Warez "Warez")) ;
+  * la [notation Z](/wiki/Notation_Z "Notation Z"), langage de spécification formelle servant à décrire et à comprendre le fonctionnement de systèmes informatiques ;
+  * le [Z-buffer](/wiki/Z-buffer "Z-buffer"), en [infographie](/wiki/Infographie "Infographie") ;
+  * le langage de programmation Z de [ZOLA Technologies](/w/index.php?title=ZOLA_Technologies&action=edit&redlink=1 "ZOLA Technologies \(page inexistante\)").
+
+### Mathématiques[[modifier](/w/index.php?title=Z&veaction=edit&section=6
+"Modifier la section : Mathématiques") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=6 "Modifier la section :
+Mathématiques")]
+
+  * La notation  Z {\displaystyle \mathbb {Z} } ![\\mathbb {Z} ](https://wikimedia.org/api/rest_v1/media/math/render/svg/449494a083e0a1fda2b61c62b2f09b6bee4633dc) ([Unicode](/wiki/Unicode "Unicode") U+2124 : ℤ) représente l'ensemble des [nombres entiers relatifs](/wiki/Entier_relatif "Entier relatif") selon un usage qui remonte à [Nicolas Bourbaki](/wiki/Nicolas_Bourbaki "Nicolas Bourbaki"). Il s'agit de l'initiale du mot allemand _[Zahlen](https://fr.wiktionary.org/wiki/Zahlen "wikt:Zahlen")_ ;
+  * z sert couramment de symbole d'inconnue dans le cadre des [nombres complexes](/wiki/Nombre_complexe "Nombre complexe") ;
+  * z, symbole fréquemment utilisé pour désigner la troisième [variable inconnue](/wiki/Inconnue_\(math%C3%A9matiques\) "Inconnue \(mathématiques\)") (après [x](/wiki/X#Sciences_et_techniques "X") et [y](/wiki/Y#Mathématiques "Y")) ;
+  * de même, z sert souvent à désigner la [cote](/wiki/Coordonn%C3%A9es_cart%C3%A9siennes#Coordonnées_cartésiennes_dans_l'espace "Coordonnées cartésiennes") d'un point ;
+  * la [transformée en Z](/wiki/Transform%C3%A9e_en_Z "Transformée en Z"), en [traitement du signal](/wiki/Traitement_du_signal "Traitement du signal"), est l'équivalent discret de la [transformée de Laplace](/wiki/Transform%C3%A9e_de_Laplace "Transformée de Laplace").
+
+### Minéralogie et
+cristallographie[[modifier](/w/index.php?title=Z&veaction=edit&section=7
+"Modifier la section : Minéralogie et cristallographie") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=7 "Modifier la section :
+Minéralogie et cristallographie")]
+
+  * Le symbole _Z_ exprime le nombre de [mailles élémentaires](/wiki/Maille_\(cristallographie\)#Maille_primitive_ou_simple "Maille \(cristallographie\)") contenues dans une [maille conventionnelle](/wiki/Maille_\(cristallographie\)#Maille_conventionnelle "Maille \(cristallographie\)").
+
+### Physique et chimie[[modifier](/w/index.php?title=Z&veaction=edit&section=8
+"Modifier la section : Physique et chimie") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=8 "Modifier la section :
+Physique et chimie")]
+
+  * Z, symbole du [boson Z](/wiki/Boson_Z "Boson Z") ;
+  * Z, variable attribuée à l'[impédance électrique](/wiki/Imp%C3%A9dance_\(%C3%A9lectricit%C3%A9\) "Impédance \(électricité\)") en électrotechnique et en électronique et à l'[impédance acoustique](/wiki/Imp%C3%A9dance_acoustique "Impédance acoustique") ;
+  * la [Z machine](/wiki/Z_machine "Z machine"), le générateur de [rayons X](/wiki/Rayon_X "Rayon X") ;
+  * [Z-pinch](/wiki/Z-pinch "Z-pinch"), une technique de fusion thermonucléaire ;
+  * z désigne le nombre de motifs par [maille](/wiki/Maille_\(cristallographie\) "Maille \(cristallographie\)") en cristallographie ;
+  * Z, symbole du [numéro atomique](/wiki/Num%C3%A9ro_atomique "Numéro atomique") ;
+  * Z désigne une [stéréoisomérie](/wiki/Isom%C3%A9rie#Stéréoisomérie "Isomérie") ;
+  * Z, le groupe [carboxybenzyle](/wiki/Carboxybenzyle "Carboxybenzyle") en biochimie ;
+  * la [protéine Z](/wiki/Prot%C3%A9ine_Z "Protéine Z") est un type de protéine synthétisée par le foie.
+
+### Unités[[modifier](/w/index.php?title=Z&veaction=edit&section=9 "Modifier
+la section : Unités") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=9 "Modifier la section :
+Unités")]
+
+  * z (minuscule), préfixe du [SI](/wiki/Syst%C3%A8me_international_d%27unit%C3%A9s "Système international d'unités") signifiant [zepto](/wiki/Zepto "Zepto") (10-21) ;
+  * Z (majuscule), préfixe du [SI](/wiki/Syst%C3%A8me_international_d%27unit%C3%A9s "Système international d'unités") signifiant [zetta](/wiki/Zetta "Zetta") (1021) ;
+  * Z (majuscule), code signifiant [heure UTC](/wiki/Temps_universel_coordonn%C3%A9 "Temps universel coordonné") ou [heure GMT](/wiki/Greenwich_Mean_Time "Greenwich Mean Time") (bien que ce ne soit pas la même chose à strictement parler). Se prononce « zoulou » (en anglais _[Zulu](/wiki/Z_\(lettre\)#Radio "Z \(lettre\)") time_) ;
+  * Z (majuscule), signifiant le nombre de dents d'une pièce (ex. : pignon, roue dentée).
+
+## Sciences humaines et
+sociales[[modifier](/w/index.php?title=Z&veaction=edit&section=10 "Modifier la
+section : Sciences humaines et sociales") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=10 "Modifier la section :
+Sciences humaines et sociales")]
+
+### Histoire[[modifier](/w/index.php?title=Z&veaction=edit&section=11
+"Modifier la section : Histoire") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=11 "Modifier la section :
+Histoire")]
+
+  * En 1905, pour indiquer le début de la bataille navale de [Tsushima](/wiki/Bataille_de_Tsushima "Bataille de Tsushima"), l'amiral japonais [Heihachirō Tōgō](/wiki/Heihachir%C5%8D_T%C5%8Dg%C5%8D "Heihachirō Tōgō") fit hisser le pavillon signifiant la lettre Z selon le [Code international des signaux maritimes](/wiki/Code_international_des_signaux_maritimes "Code international des signaux maritimes"). En 1941, l'amiral [Isoroku Yamamoto](/wiki/Isoroku_Yamamoto "Isoroku Yamamoto") fit de même avant l'[attaque de Pearl Harbor](/wiki/Attaque_de_Pearl_Harbor "Attaque de Pearl Harbor").
+
+### Phonétique[[modifier](/w/index.php?title=Z&veaction=edit&section=12
+"Modifier la section : Phonétique") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=12 "Modifier la section :
+Phonétique")]
+
+  * [z] est le symbole, en [alphabet phonétique international](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international"), de la [consonne fricative alvéolaire voisée](/wiki/Consonne_fricative_alv%C3%A9olaire_vois%C3%A9e "Consonne fricative alvéolaire voisée").
+  * [ʐ] est le symbole, en alphabet phonétique international, de la [consonne fricative rétroflexe voisée](/wiki/Consonne_fricative_r%C3%A9troflexe_vois%C3%A9e "Consonne fricative rétroflexe voisée").
+
+## Culture et société[[modifier](/w/index.php?title=Z&veaction=edit&section=13
+"Modifier la section : Culture et société") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=13 "Modifier la section :
+Culture et société")]
+
+  * Voir [de Z0 à Z99](/wiki/Sigles_d%27une_lettre_suivie_de_deux_chiffres#Z "Sigles d'une lettre suivie de deux chiffres").
+  * La [génération Z](/wiki/G%C3%A9n%C3%A9ration_Z "Génération Z") est une [génération sociologique](/wiki/G%C3%A9n%C3%A9ration_sociologique "Génération sociologique") qui débute avec l'évolution de naissances de 1995.
+
+### Bande dessinée[[modifier](/w/index.php?title=Z&veaction=edit&section=14
+"Modifier la section : Bande dessinée") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=14 "Modifier la section : Bande
+dessinée")]
+
+  * _[Z comme Zorglub](/wiki/Z_comme_Zorglub "Z comme Zorglub")_ , _[L'Ombre du Z](/wiki/L%27Ombre_du_Z "L'Ombre du Z")_ , _[Le réveil du Z](/wiki/Le_r%C3%A9veil_du_Z "Le réveil du Z")_ et _[Aux sources du Z](/wiki/Aux_sources_du_Z "Aux sources du Z")_ sont quatre albums de la bande dessinée _[Spirou et Fantasio](/wiki/Spirou_et_Fantasio "Spirou et Fantasio")_.
+  * _[Mazinger Z](/wiki/Mazinger_Z "Mazinger Z")_ , [manga](/wiki/Manga "Manga") créée par [Go Nagai](/wiki/Go_Nagai "Go Nagai") ;
+
+### Cinéma[[modifier](/w/index.php?title=Z&veaction=edit&section=15 "Modifier
+la section : Cinéma") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=15 "Modifier la section :
+Cinéma")]
+
+  * Un film de [série Z](/wiki/S%C3%A9rie_Z "Série Z"), film de [série B](/wiki/S%C3%A9rie_B "Série B") poussé à l'extrême, c’est-à-dire un film au budget microscopique, aux moyens minimaux (tenant souvent du bricolage) et au tournage précipité et bâclé ;
+  * _[Z](/wiki/Z_\(film,_1969\) "Z \(film, 1969\)")_ , film franco-algérien de [Costa-Gavras](/wiki/Costa-Gavras "Costa-Gavras"), sorti en [1969](/wiki/1969_au_cin%C3%A9ma "1969 au cinéma") ;
+  * _[The Lost City of Z](/wiki/The_Lost_City_of_Z "The Lost City of Z")_ , film d'aventure historique américain de James Gray, sorti en [2016](/wiki/2016_au_cin%C3%A9ma "2016 au cinéma") ;
+  * Z, personnage principal du film _[Fourmiz](/wiki/Fourmiz "Fourmiz")_ ;
+  * Z, personnage fictif du film _[Snowboarder](/wiki/Snowboarder_\(film\) "Snowboarder \(film\)")_ ;
+  * Z, personnage principal du film _[Zardoz](/wiki/Zardoz "Zardoz")_ ;
+  * Z, signature de _[Zorro](/wiki/Zorro "Zorro")_ ;
+  * Z, personnage dans le film _[Men in Black](/wiki/Men_in_Black_\(univers_de_fiction\) "Men in Black \(univers de fiction\)")_ ;
+  * _[Dragon Ball Z](/wiki/Dragon_Ball_Z "Dragon Ball Z")_ , série télévisée d'animation japonaise ;
+  * Z, personnage dans le film _[Pulp Fiction](/wiki/Pulp_Fiction "Pulp Fiction")_ de [Quentin Tarantino](/wiki/Quentin_Tarantino "Quentin Tarantino") ;
+  * « Z au Bras Noir » est le pseudonyme de [Zephyr](/wiki/Personnages_des_films_One_Piece#Zéphyr "Personnages des films One Piece"), principal antagoniste du film _[One Piece : Z](/wiki/One_Piece_:_Z "One Piece : Z")_, 12e film inspiré par la [série japonaise](/wiki/Manga "Manga") _[One Piece](/wiki/One_Piece "One Piece")_ ;
+  * _Pokemon XY & Z_, série télévisée d'animation japonaise.
+
+### Entreprises et
+produits[[modifier](/w/index.php?title=Z&veaction=edit&section=16 "Modifier la
+section : Entreprises et produits") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=16 "Modifier la section :
+Entreprises et produits")]
+
+  * Z est un luminaire du fabricant [Schréder](/wiki/Schr%C3%A9der "Schréder").
+  * Les vêtements Z sont une marque du [Kidiliz Group](/wiki/Kidiliz_Group "Kidiliz Group").
+
+### Graphisme[[modifier](/w/index.php?title=Z&veaction=edit&section=17
+"Modifier la section : Graphisme") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=17 "Modifier la section :
+Graphisme")]
+
+  * Monsieur Z, pseudonyme de [Richard Zielenkiewicz](/wiki/Richard_Zielenkiewicz "Richard Zielenkiewicz"), graphiste et illustrateur.
+
+### Littérature[[modifier](/w/index.php?title=Z&veaction=edit&section=18
+"Modifier la section : Littérature") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=18 "Modifier la section :
+Littérature")]
+
+  * _[Z](/wiki/Z_\(roman\) "Z \(roman\)")_ , roman de [Vassilis Vassilikos](/wiki/Vassilis_Vassilikos "Vassilis Vassilikos") dont est tiré le [film](/wiki/Z_\(film,_1969\) "Z \(film, 1969\)") de [Costa-Gavras](/wiki/Costa-Gavras "Costa-Gavras") ;
+  * Dans _Le Grain de la voix, Entretiens 1962-1980_ , [Roland Barthes](/wiki/Roland_Barthes "Roland Barthes") écrit que « dans un esprit très balzacien, un peu ésotérique, on doit tenir compte des maléfices de la lettre z, qui est la lettre de la déviance, la lettre déviée ». (Points/Seuil, p. 116–117)
+
+### Médias[[modifier](/w/index.php?title=Z&veaction=edit&section=19 "Modifier
+la section : Médias") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=19 "Modifier la section :
+Médias")]
+
+  * Z, revue itinérante d'enquête et de critique sociale ;
+  * [Z comme Zemmour](/wiki/Z_comme_Zemmour "Z comme Zemmour").
+
+### Musique[[modifier](/w/index.php?title=Z&veaction=edit&section=20 "Modifier
+la section : Musique") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=20 "Modifier la section :
+Musique")]
+
+  * [Z](/w/index.php?title=Z_\(musique\)&action=edit&redlink=1 "Z \(musique\) \(page inexistante\)"), nom de scène de l'auteur-compositeur [Nazim Mokhnachi](/w/index.php?title=Nazim_Mokhnachi&action=edit&redlink=1 "Nazim Mokhnachi \(page inexistante\)"), ex-leader des [Blue Valentines](/w/index.php?title=Blue_Valentines&action=edit&redlink=1 "Blue Valentines \(page inexistante\)") ;
+  * [Z](/wiki/Z_\(Zappa\) "Z \(Zappa\)"), groupe formé par [Ahmet](/wiki/Ahmet_Zappa "Ahmet Zappa") et [Dweezil Zappa](/wiki/Dweezil_Zappa "Dweezil Zappa"), fils de [Frank Zappa](/wiki/Frank_Zappa "Frank Zappa") ;
+  * [Monsieur Z](/w/index.php?title=Monsieur_Z_\(musique\)&action=edit&redlink=1 "Monsieur Z \(musique\) \(page inexistante\)"), artiste de musique ;
+  * [Jay-Z](/wiki/Jay-Z "Jay-Z"), le [rappeur](/wiki/Rap "Rap") [américain](/wiki/%C3%89tats-Unis "États-Unis") ;
+  * [Z-Audio](/w/index.php?title=Z-Audio&action=edit&redlink=1 "Z-Audio \(page inexistante\)"), label de musique indépendant ;
+  * [Z](/wiki/Z_\(ZONE\) "Z \(ZONE\)"), album du groupe [ZONE](/wiki/ZONE "ZONE") ;
+  * Z. est le préfixe choisi par le musicologue [Franklin B. Zimmerman](/w/index.php?title=Franklin_B._Zimmerman&action=edit&redlink=1 "Franklin B. Zimmerman \(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/Franklin_B._Zimmerman "en:Franklin B. Zimmerman") pour son [catalogue](/wiki/Catalogue_th%C3%A9matique "Catalogue thématique")[1] des œuvres du compositeur anglais [Henry Purcell](/wiki/Henry_Purcell "Henry Purcell"). Par exemple, Z.628 correspond à l'opéra _[King Arthur](/wiki/King_Arthur_\(op%C3%A9ra\) "King Arthur \(opéra\)")_ [2].
+
+### Jeux vidéo[[modifier](/w/index.php?title=Z&veaction=edit&section=21
+"Modifier la section : Jeux vidéo") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=21 "Modifier la section : Jeux
+vidéo")]
+
+  * Le Z, symbole de la [Zaibatsu](/wiki/Zaibatsu "Zaibatsu"), dans _[Grand Theft Auto 2](/wiki/Grand_Theft_Auto_2 "Grand Theft Auto 2")_.
+  * _[Z](/wiki/Z_\(jeu_vid%C3%A9o\) "Z \(jeu vidéo\)")_ , jeu vidéo des studios Bitmap Brothers sur PC, PlayStation et Saturn.
+
+### Sports[[modifier](/w/index.php?title=Z&veaction=edit&section=22 "Modifier
+la section : Sports") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=22 "Modifier la section :
+Sports")]
+
+  * Z, « surnom » du marathonien français [Benoît Zwierzchiewski](/wiki/Beno%C3%AEt_Zwierzchiewski "Benoît Zwierzchiewski") ;
+  * [Z](/wiki/%C3%89quipe_cycliste_Z "Équipe cycliste Z"), une ancienne équipe cycliste française.
+
+### Transports[[modifier](/w/index.php?title=Z&veaction=edit&section=23
+"Modifier la section : Transports") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=23 "Modifier la section :
+Transports")]
+
+  * [Ligne Z](/wiki/Ligne_Z "Ligne Z") [![Ce lien renvoie vers une page d'homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/15px-Disambig_colour.svg.png)](/wiki/Ligne_Z "Ligne Z")
+  * Surnom des automotrices [Z 23000](/wiki/Z_23000 "Z 23000") ;
+  * La gamme de roadster 2 places cabriolet ou coupé chez [BMW](/wiki/BMW "BMW") ([Z1](/wiki/BMW_Z1 "BMW Z1"), [Z3](/wiki/BMW_Z3 "BMW Z3"), [Z4](/wiki/BMW_Z4 "BMW Z4"), [Z8](/wiki/BMW_Z8 "BMW Z8"))
+  * Une gamme de voitures de sport chez [Nissan](/wiki/Nissan "Nissan") ;
+  * Une gamme de [moto](/wiki/Motocyclette "Motocyclette") chez le constructeur japonais [Kawasaki](/wiki/Kawasaki_Heavy_Industries "Kawasaki Heavy Industries") (comme la [Z750](/wiki/Kawasaki_Z750 "Kawasaki Z750") ou la [Z1000](/wiki/Kawasaki_Z_1000 "Kawasaki Z 1000")).
+
+### Vie pratique[[modifier](/w/index.php?title=Z&veaction=edit&section=24
+"Modifier la section : Vie pratique") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=24 "Modifier la section : Vie
+pratique")]
+
+  * Le Z, surnom du délégué de classe/promotion dans l'[argot](/wiki/Argot_scolaire "Argot scolaire") des [classes préparatoires](/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles "Classe préparatoire aux grandes écoles") et des [grandes écoles](/wiki/Grande_%C3%A9cole "Grande école") ;
+  * le [Code Z](/wiki/Code_Z "Code Z"), en morse ;
+  * _[Don Z](/wiki/Don_Z "Don Z")_ , revue de bandes dessinées pour la jeunesse ;
+  * _[Télé Z](/wiki/T%C3%A9l%C3%A9_Z "Télé Z")_ , revue de télévision ;
+  * [Ztélé](/wiki/Zt%C3%A9l%C3%A9 "Ztélé"), chaîne de télévision au Québec ;
+  * le Z Café, bar [rue de la Roquette](/wiki/Rue_de_la_Roquette "Rue de la Roquette"), [Paris 11e](/wiki/11e_arrondissement_de_Paris "11e arrondissement de Paris") ;
+  * la lettre Z, sigle distinctif des automobiles immatriculées en [Zambie](/wiki/Zambie "Zambie") ;
+  * la lettre Z était le code de la [province de Saragosse](/wiki/Province_de_Saragosse "Province de Saragosse") ( _Zaragoza_ en castillan), sur les plaques d'immatriculation espagnoles jusqu'en 2000 ;
+  * la lettre z, code de la ville de [Zwickau](/wiki/Zwickau "Zwickau"), Allemagne sur les plaques d'immatriculation allemandes.
+
+## Anthroponyme[[modifier](/w/index.php?title=Z&veaction=edit&section=25
+"Modifier la section : Anthroponyme") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=25 "Modifier la section :
+Anthroponyme")]
+
+  * [Monsieur Z](/wiki/Protais_Zigiranyirazo "Protais Zigiranyirazo") est le surnom que s'était donné [Protais Zigiranyirazo](/wiki/Protais_Zigiranyirazo "Protais Zigiranyirazo"), un des principaux responsables présumés du [génocide rwandais](/wiki/G%C3%A9nocide_au_Rwanda "Génocide au Rwanda").
+  * [-Z-](/wiki/-Z- "-Z-"), artiste tunisien ;
+  * Dr Z…, [rédacteur de la revue _La Nature_](/wiki/Liste_des_r%C3%A9dacteurs_de_la_revue_La_Nature "Liste des rédacteurs de la revue La Nature").
+
+## Notes et
+références[[modifier](/w/index.php?title=Z&veaction=edit&section=26 "Modifier
+la section : Notes et références") | [modifier le
+code](/w/index.php?title=Z&action=edit&section=26 "Modifier la section : Notes
+et références")]
+
+  1. ↑ (en) Franklin B. Zimmerman, Henry Purcell, 1659-1695 : an analytical catalog of his complete works, Philadelphie, P.R.O. Music Publication, 1990, 575 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [0-8443-0068-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/0-8443-0068-3 "Spécial:Ouvrages de référence/0-8443-0068-3"))
+  2. ↑ [Liste des œuvres de Henry Purcell](/wiki/Liste_des_%C5%93uvres_de_Henry_Purcell "Liste des œuvres de Henry Purcell")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Z&oldid=170877026](https://fr.wikipedia.org/w/index.php?title=Z&oldid=170877026)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Homonymie](/wiki/Cat%C3%A9gorie:Homonymie "Catégorie:Homonymie")
+  * [Homonymie de titre](/wiki/Cat%C3%A9gorie:Homonymie_de_titre "Catégorie:Homonymie de titre")
+
+Catégorie cachée :
+
+  * [Article contenant un appel à traduction en anglais](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais "Catégorie:Article contenant un appel à traduction en anglais")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Z "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Z "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Z&oldid=170877026 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Z&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Z&id=170877026&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q28008 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Z)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Z&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Z&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [Беларуская](https://be.wikipedia.org/wiki/Z "Z — biélorusse")
+  * [Deutsch](https://de.wikipedia.org/wiki/Z_\(Begriffskl%C3%A4rung\) "Z \(Begriffsklärung\) — allemand")
+  * [English](https://en.wikipedia.org/wiki/Z_\(disambiguation\) "Z \(disambiguation\) — anglais")
+  * [Español](https://es.wikipedia.org/wiki/Z_\(desambiguaci%C3%B3n\) "Z \(desambiguación\) — espagnol")
+  * [فارسی](https://fa.wikipedia.org/wiki/Z_\(%D8%A7%D8%A8%D9%87%D8%A7%D9%85%E2%80%8C%D8%B2%D8%AF%D8%A7%DB%8C%DB%8C\) "Z \(ابهام‌زدایی\) — persan")
+  * [Nordfriisk](https://frr.wikipedia.org/wiki/Z "Z — frison du Nord")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Z_\(disambiguasi\) "Z \(disambiguasi\) — indonésien")
+  * [Italiano](https://it.wikipedia.org/wiki/Z_\(disambigua\) "Z \(disambigua\) — italien")
+  * [한국어](https://ko.wikipedia.org/wiki/Z_\(%EB%8F%99%EC%9D%8C%EC%9D%B4%EC%9D%98\) "Z \(동음이의\) — coréen")
+  * [Kurdî](https://ku.wikipedia.org/wiki/Z "Z — kurde")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Z_\(reik%C5%A1m%C4%97s\) "Z \(reikšmės\) — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Z_\(noz%C4%ABmju_atdal%C4%AB%C5%A1ana\) "Z \(nozīmju atdalīšana\) — letton")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Z "Z — néerlandais")
+  * [Polski](https://pl.wikipedia.org/wiki/Z_\(ujednoznacznienie\) "Z \(ujednoznacznienie\) — polonais")
+  * [Português](https://pt.wikipedia.org/wiki/Z_\(desambigua%C3%A7%C3%A3o\) "Z \(desambiguação\) — portugais")
+  * [Русский](https://ru.wikipedia.org/wiki/Z_\(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F\) "Z \(значения\) — russe")
+  * [Shqip](https://sq.wikipedia.org/wiki/Z "Z — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/Z "Z — serbe")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Z_\(anlam_ayr%C4%B1m%C4%B1\) "Z \(anlam ayrımı\) — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/Z_\(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F\) "Z \(значення\) — ukrainien")
+  * [中文](https://zh.wikipedia.org/wiki/Z_\(%E6%B6%88%E6%AD%A7%E7%BE%A9\) "Z \(消歧義\) — chinois")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/Z_\(%E6%90%9E%E6%B8%85%E6%A5%9A\) "Z \(搞清楚\) — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q28008#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Z "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Z "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Z "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Z "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Z)
+  * [Modifier](/w/index.php?title=Z&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Z&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Z&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 15 mai 2020 à 01:54.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Z "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Z&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[26e]: Vingt-sixième
+  *[20e]: Vingtième
+  *[ex. :]: Exemple
+  *[12e]: Douzième
+  *[p.]: pages
+  *[11e]: Onzième
+  *[Dr]: Docteur
+  *[(en)]: Langue : anglais
+

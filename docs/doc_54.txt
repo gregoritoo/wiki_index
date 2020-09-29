@@ -1,0 +1,287 @@
+# _Quadrivium_
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+Le terme _**quadrivium**_ désigne l'ensemble des quatre sciences
+[mathématiques](/wiki/Math%C3%A9matiques "Mathématiques") dans la théorie
+antique : [arithmétique](/wiki/Arithm%C3%A9tique "Arithmétique"),
+[géométrie](/wiki/G%C3%A9om%C3%A9trie "Géométrie"), [musique](/wiki/Musique
+"Musique"), [astronomie](/wiki/Astronomie "Astronomie").
+
+## Sommaire
+
+  * 1 Histoire
+  * 2 Notes et références
+  * 3 Voir aussi
+    * 3.1 Bibliographie
+    * 3.2 Articles connexes
+
+## Histoire[[modifier](/w/index.php?title=Quadrivium&veaction=edit&section=1
+"Modifier la section : Histoire") | [modifier le
+code](/w/index.php?title=Quadrivium&action=edit&section=1 "Modifier la section
+: Histoire")]
+
+Le principe de ce rapprochement des sciences mathématiques semble avoir vu le
+jour assez tôt. Un fragment conservé du [
+pythagoricien](/wiki/%C3%89cole_pythagoricienne "École pythagoricienne")
+[Archytas](/wiki/Archytas "Archytas") (vers 360 av. J.-C.) témoigne de
+l'existence de cette idée dans l'enseignement de [Pythagore](/wiki/Pythagore
+"Pythagore"). Fragment 1 d'Archytas :
+
+> « Les mathématiciens, à mon avis, savent bien discerner et comprendre comme
+> il faut (et cela n'est nullement surprenant) la nature de chaque chose
+> (...). Aussi, touchant la vitesse des astres, de leur lever et de leur
+> coucher, nous ont-ils donné une connaissance claire, tout autant qu'en
+> géométrie plane, en arithmétique et en sphérique, sans oublier non plus la
+> musique. Car ces sciences semblent sœurs, puisqu'elles s'occupent des deux
+> premières formes de l'être, qui sont elles-mêmes sœurs. »
+
+— [Porphyre](/wiki/Porphyre_de_Tyr "Porphyre de Tyr"), Commentaire sur les
+Harmoniques de Claude Ptolémée
+
+[Platon](/wiki/Platon "Platon") évoque un rapprochement entre ces sciences :
+science des nombres, géométrie plane, géométrie des solides, science des
+mouvants[1]. Il parle de l'astronomie et de l'harmonique comme «sciences sœurs
+», en expliquant que l'astronomie est faite pour les yeux comme l'harmonique
+pour l'ouïe[2]. Il met en relation [l'harmonie des
+sphères](/wiki/Harmonie_des_sph%C3%A8res#Histoire "Harmonie des sphères") avec
+les orbites célestes.
+
+Ce n'est qu'avec [Boèce](/wiki/Bo%C3%A8ce "Boèce")[3] qu'apparaît le concept
+de _quadriuium_ (ou _quadruuium_ pour garder la graphie de Boèce). Le terme
+forgé par Boèce (qui signifie à proprement parler la « quadruple voie »)
+s'inspire peut-être d'une expression de [Nicomaque de
+Gérase](/wiki/Nicomaque_de_G%C3%A9rase "Nicomaque de Gérase") (sa source
+essentielle pour les sciences mathématiques), qui parlait des τέσσαρες
+μέθοδοι[4], c'est-à-dire des « quatre sciences », mais avec le jeu
+étymologique sur μέθοδος, dont le sens premier est « la voie ».
+
+Le concept de quadrivium aura une postérité extrêmement importante dans
+l'enseignement médiéval.
+
+D'abord, pendant la [Renaissance
+carolingienne](/wiki/Renaissance_carolingienne "Renaissance carolingienne") du
+VIIIe siècle, [Bède le Vénérable](/wiki/B%C3%A8de_le_V%C3%A9n%C3%A9rable "Bède
+le Vénérable") l'inclut, aux côtés du [trivium](/wiki/Trivium_Quadrivium
+"Trivium Quadrivium") (disciplines que nous appellerions littéraires :
+[grammaire](/wiki/Grammaire "Grammaire"), [rhétorique](/wiki/Rh%C3%A9torique
+"Rhétorique"), [dialectique](/wiki/Dialectique "Dialectique")), dans les [sept
+arts libéraux](/wiki/Sept_arts_lib%C3%A9raux "Sept arts libéraux") qui furent
+introduits dans les monastères.
+
+Lors des invasions [viking](/wiki/Viking "Viking"), sarrasine et hongroise
+(820-920), la désorganisation des monastères entraîna un oubli presque total
+du quadrivium.
+
+Ce fut le moine [Gerbert d'Aurillac](/wiki/Gerbert_d%27Aurillac "Gerbert
+d'Aurillac") (v. 945/950-1003) qui réintroduisit le _quadrivium_ dans les
+écoles urbaines d'Occident, après l'avoir appris lui-même dans un monastère en
+[Catalogne](/wiki/Catalogne "Catalogne"). Cette région était en effet au
+contact de la [civilisation islamique](/wiki/Civilisation_islamique
+"Civilisation islamique"), alors en plein développement, et se prêtait bien
+aux échanges culturels. [Gerbert d'Aurillac](/wiki/Gerbert_d%27Aurillac
+"Gerbert d'Aurillac") devint [pape](/wiki/Pape "Pape") sous le nom de
+[Sylvestre II](/wiki/Sylvestre_II "Sylvestre II"). C'est le [pape](/wiki/Pape
+"Pape") de l'[an mille](/wiki/An_mille "An mille").
+
+Le moine Birtferth, aux alentours de l'[an mille](/wiki/An_mille "An mille"),
+pensait que le [comput](/wiki/Comput "Comput"), le calcul des fêtes mobiles,
+était une science complexe, qui s'appuyait sur deux disciplines du
+[trivium](/wiki/Trivium_Quadrivium "Trivium Quadrivium"), et deux disciplines
+du _quadrivium_.
+
+## Notes et
+références[[modifier](/w/index.php?title=Quadrivium&veaction=edit&section=2
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Quadrivium&action=edit&section=2 "Modifier la section
+: Notes et références")]
+
+  1. ↑ Platon, _La République_ , VII, 522b-531c
+  2. ↑ Platon, _La République_ , VII, 530 b
+  3. ↑ Boèce, _Institution arithmétique_ , I, 1, 7
+  4. ↑ Boèce, _Institution arithmétique_ , p. 9,7 Hoche
+
+## Voir aussi[[modifier](/w/index.php?title=Quadrivium&veaction=edit&section=3
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Quadrivium&action=edit&section=3 "Modifier la section
+: Voir aussi")]
+
+###
+Bibliographie[[modifier](/w/index.php?title=Quadrivium&veaction=edit&section=4
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Quadrivium&action=edit&section=4 "Modifier la section
+: Bibliographie")]
+
+  * [Pierre Riché](/wiki/Pierre_Rich%C3%A9 "Pierre Riché"), _Écoles et enseignement dans le haut Moyen Âge_ , Picard, [2000](/wiki/2000 "2000")
+  * [Pierre Riché](/wiki/Pierre_Rich%C3%A9 "Pierre Riché"), _Les Grandeurs de l'an mille_ , Editions Bartillat, [1999](/wiki/1999 "1999").
+
+### Articles
+connexes[[modifier](/w/index.php?title=Quadrivium&veaction=edit&section=5
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Quadrivium&action=edit&section=5 "Modifier la section
+: Articles connexes")]
+
+  * [Boèce](/wiki/Bo%C3%A8ce "Boèce")
+  * [Bède le Vénérable](/wiki/B%C3%A8de_le_V%C3%A9n%C3%A9rable "Bède le Vénérable")
+  * [Arts libéraux](/wiki/Arts_lib%C3%A9raux "Arts libéraux")
+  * [Éducation au Moyen Âge en Occident](/wiki/%C3%89ducation_au_Moyen_%C3%82ge_en_Occident "Éducation au Moyen Âge en Occident")
+  * [An mille](/wiki/An_mille "An mille")
+  * [Sylvestre II](/wiki/Sylvestre_II "Sylvestre II")
+  * [Scientia de ponderibus](/wiki/Scientia_de_ponderibus "Scientia de ponderibus")
+
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Desk_chair_icon.svg/24px-Desk_chair_icon.svg.png)](/wiki/Portail:%C3%89ducation "Portail de l’éducation") [Portail de l’éducation](/wiki/Portail:%C3%89ducation "Portail:Éducation")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Charlemagne_autograph.svg/28px-Charlemagne_autograph.svg.png)](/wiki/Portail:Haut_Moyen_%C3%82ge "Portail du haut Moyen Âge") [Portail du haut Moyen Âge](/wiki/Portail:Haut_Moyen_%C3%82ge "Portail:Haut Moyen Âge")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Quadrivium&oldid=172264036](https://fr.wikipedia.org/w/index.php?title=Quadrivium&oldid=172264036)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Histoire de la géométrie](/wiki/Cat%C3%A9gorie:Histoire_de_la_g%C3%A9om%C3%A9trie "Catégorie:Histoire de la géométrie")
+  * [Éducation dans l'Antiquité](/wiki/Cat%C3%A9gorie:%C3%89ducation_dans_l%27Antiquit%C3%A9 "Catégorie:Éducation dans l'Antiquité")
+  * [Éducation au Moyen Âge](/wiki/Cat%C3%A9gorie:%C3%89ducation_au_Moyen_%C3%82ge "Catégorie:Éducation au Moyen Âge")
+  * [Culture du Moyen Âge](/wiki/Cat%C3%A9gorie:Culture_du_Moyen_%C3%82ge "Catégorie:Culture du Moyen Âge")
+  * [Éducation au haut Moyen Âge](/wiki/Cat%C3%A9gorie:%C3%89ducation_au_haut_Moyen_%C3%82ge "Catégorie:Éducation au haut Moyen Âge")
+
+Catégories cachées :
+
+  * [Portail:Éducation/Articles liés](/wiki/Cat%C3%A9gorie:Portail:%C3%89ducation/Articles_li%C3%A9s "Catégorie:Portail:Éducation/Articles liés")
+  * [Portail:Haut Moyen Âge/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Haut_Moyen_%C3%82ge/Articles_li%C3%A9s "Catégorie:Portail:Haut Moyen Âge/Articles liés")
+  * [Portail:Moyen Âge/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Moyen_%C3%82ge/Articles_li%C3%A9s "Catégorie:Portail:Moyen Âge/Articles liés")
+  * [Portail:Histoire/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Histoire/Articles_li%C3%A9s "Catégorie:Portail:Histoire/Articles liés")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Quadrivium "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Quadrivium "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Quadrivium&oldid=172264036 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Quadrivium&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Quadrivium&id=172264036&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q273822 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Quadrivium)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Quadrivium&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Quadrivium&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [Aragonés](https://an.wikipedia.org/wiki/Quadrivium "Quadrivium — aragonais")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%AA%D8%B9%D8%A7%D9%84%D9%8A%D9%85_\(%D8%B9%D9%84%D9%88%D9%85\) "تعاليم \(علوم\) — arabe")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Quadrivium "Quadrivium — asturien")
+  * [Català](https://ca.wikipedia.org/wiki/Quadrivi "Quadrivi — catalan")
+  * [Čeština](https://cs.wikipedia.org/wiki/Kvadrivium "Kvadrivium — tchèque")
+  * [Deutsch](https://de.wikipedia.org/wiki/Quadrivium "Quadrivium — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/Quadrivium "Quadrivium — grec")
+  * [English](https://en.wikipedia.org/wiki/Quadrivium "Quadrivium — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Quadrivium "Quadrivium — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Artes_liberales#Las_siete_artes:_Trivium_et_Quadrivium "Artes liberales — espagnol")
+  * [Euskara](https://eu.wikipedia.org/wiki/Quadrivium "Quadrivium — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%B9%D9%84%D9%88%D9%85_%D8%A7%D8%B1%D8%A8%D8%B9%D9%87 "علوم اربعه — persan")
+  * [Furlan](https://fur.wikipedia.org/wiki/Quadrivium "Quadrivium — frioulan")
+  * [Galego](https://gl.wikipedia.org/wiki/Cuadrivio "Cuadrivio — galicien")
+  * [Interlingua](https://ia.wikipedia.org/wiki/Quadrivium "Quadrivium — interlingua")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Kuadrivium "Kuadrivium — indonésien")
+  * [Íslenska](https://is.wikipedia.org/wiki/Fj%C3%B3rvegur "Fjórvegur — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Quadrivio "Quadrivio — italien")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%82%AC%EA%B3%BC_\(%EA%B5%90%EC%9C%A1\) "사과 \(교육\) — coréen")
+  * [Latina](https://la.wikipedia.org/wiki/Quadrivium "Quadrivium — latin")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Quadrivium "Quadrivium — néerlandais")
+  * [Novial](https://nov.wikipedia.org/wiki/Quadrivium "Quadrivium — novial")
+  * [Occitan](https://oc.wikipedia.org/wiki/Quadrivium "Quadrivium — occitan")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/Quadrivi "Quadrivi — piémontais")
+  * [Português](https://pt.wikipedia.org/wiki/Quadr%C3%ADvio "Quadrívio — portugais")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B8%D0%B2%D0%B8%D1%83%D0%BC "Квадривиум — russe")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Kvadrivijum "Kvadrivijum — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/Quadrivium "Quadrivium — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Kvadr%C3%ADvium "Kvadrívium — slovaque")
+  * [Shqip](https://sq.wikipedia.org/wiki/Kuadriviumi "Kuadriviumi — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B8%D0%B2%D0%B8%D1%98%D1%83%D0%BC "Квадривијум — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/Quadrivium "Quadrivium — suédois")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C "จตุรศิลปศาสตร์ — thaï")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B8%D0%B2%D1%96%D1%83%D0%BC "Квадривіум — ukrainien")
+  * [中文](https://zh.wikipedia.org/wiki/%E5%9B%9B%E6%9C%AF "四术 — chinois")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q273822#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Quadrivium "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Quadrivium "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Quadrivium "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Quadrivium "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Quadrivium)
+  * [Modifier](/w/index.php?title=Quadrivium&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Quadrivium&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Quadrivium&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 23 juin 2020 à 12:18.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Quadrivium "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Quadrivium&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[VIIIe]: 8ᵉ siècle
+

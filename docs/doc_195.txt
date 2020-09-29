@@ -1,0 +1,1079 @@
+# Georg Cantor
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Cantor](/wiki/Cantor "Cantor").
+
+Georg Cantor
+
+[![Description de cette image, également commentée ci-
+après](//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Georg_Cantor2.jpg/220px-
+Georg_Cantor2.jpg)](/wiki/Fichier:Georg_Cantor2.jpg "lang=fr")
+
+Georg Ferdinand Ludwig Philipp Cantor
+
+Données clés Nom de naissance |  Georg Ferdinand Ludwig Philipp Cantor  
+---|---  
+Naissance |  [3](/wiki/3_mars "3 mars") [mars](/wiki/Mars_1845 "Mars 1845")
+[1845](/wiki/1845 "1845")  
+[Saint-Pétersbourg](/wiki/Saint-P%C3%A9tersbourg "Saint-Pétersbourg")
+([Russie](/wiki/Russie "Russie"))  
+Décès |  [6](/wiki/6_janvier "6 janvier") [janvier](/wiki/Janvier_1918
+"Janvier 1918") [1918](/wiki/1918 "1918") (à 72 ans)  
+[Halle](/wiki/Halle_\(Saxe-Anhalt\) "Halle \(Saxe-Anhalt\)") (Empire allemand)  
+Nationalité |  [![Drapeau de l'Empire
+allemand](//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Germany_%281867%E2%80%931919%29.svg/20px-
+Flag_of_Germany_%281867%E2%80%931919%29.svg.png)](/wiki/Fichier:Flag_of_Germany_\(1867%E2%80%931919\).svg
+"Drapeau de l'Empire allemand") [Empire allemand](/wiki/Empire_allemand
+"Empire allemand")  
+Domaines |  [mathématicien](/wiki/Math%C3%A9maticien "Mathématicien")  
+Institutions |  [Université de Halle](/wiki/Universit%C3%A9_Martin-
+Luther_de_Halle-Wittemberg "Université Martin-Luther de Halle-Wittemberg")  
+Diplôme |  [École polytechnique fédérale de
+Zurich](/wiki/%C3%89cole_polytechnique_f%C3%A9d%C3%A9rale_de_Zurich "École
+polytechnique fédérale de Zurich")  
+[Université de Berlin](/wiki/Universit%C3%A9_Humboldt_de_Berlin "Université
+Humboldt de Berlin")  
+Renommé pour |  [Théorie des ensembles](/wiki/Th%C3%A9orie_des_ensembles
+"Théorie des ensembles")  
+  
+[modifier](https://fr.wikipedia.org/w/index.php?title=Georg_Cantor&action=edit)
+[![Consultez la documentation du
+modèle](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Mod%C3%A8le:Infobox_Scientifique "Consultez la
+documentation du modèle")
+
+**Georg Cantor** est un [mathématicien](/wiki/Math%C3%A9maticien
+"Mathématicien") allemand, né le 3 mars 1845 à [Saint-
+Pétersbourg](/wiki/Saint-P%C3%A9tersbourg "Saint-Pétersbourg") ([Empire
+russe](/wiki/Empire_russe "Empire russe")) et mort le 6 janvier 1918 à
+[Halle](/wiki/Halle-sur-Saale "Halle-sur-Saale") ([Empire
+allemand](/wiki/Empire_allemand "Empire allemand")). Il est connu pour être le
+créateur de la [théorie des ensembles](/wiki/Th%C3%A9orie_des_ensembles
+"Théorie des ensembles").
+
+Il établit l'importance de la [bijection](/wiki/Bijection "Bijection") entre
+les ensembles, définit les [ensembles infinis](/wiki/Ensemble_infini "Ensemble
+infini") et les [ensembles bien ordonnés](/wiki/Ensemble_bien_ordonn%C3%A9
+"Ensemble bien ordonné"). Il prouva également que les nombres réels sont «
+plus nombreux » que les entiers naturels. En fait, le [théorème de
+Cantor](/wiki/Th%C3%A9or%C3%A8me_de_Cantor "Théorème de Cantor") implique
+l'existence d'une « infinité d'infinis ». Il définit les [nombres
+cardinaux](/wiki/Nombre_cardinal "Nombre cardinal"), les [nombres
+ordinaux](/wiki/Nombre_ordinal "Nombre ordinal") et leur arithmétique. Le
+travail de Cantor est d'un grand intérêt philosophique (ce dont il était
+parfaitement conscient) et a donné lieu à maintes interprétations et à maints
+débats.
+
+Cantor a été confronté à la résistance de la part des mathématiciens de son
+époque, en particulier [Kronecker](/wiki/Leopold_Kronecker "Leopold
+Kronecker").
+
+[Poincaré](/wiki/Henri_Poincar%C3%A9 "Henri Poincaré"), bien qu'il connût et
+appréciât les travaux de Cantor, avait de profondes réserves sur son maniement
+de l'infini en tant que totalité achevée[n 1]. Les accès de dépressions
+récurrents de Cantor, de 1884 à la fin de sa vie, ont été parfois attribués à
+l'attitude hostile de certains de ses contemporains, mais ces accès sont
+souvent à présent interprétés comme des manifestations d'un probable [trouble
+bipolaire](/wiki/Trouble_bipolaire "Trouble bipolaire").
+
+Au XXIe siècle, la valeur des travaux de Cantor n'est pas discutée par la
+majorité des mathématiciens qui y voient un changement de
+[paradigme](/wiki/Paradigme "Paradigme"), à l'exception d'une partie du
+[courant constructiviste](/wiki/Constructivisme_\(math%C3%A9matiques\)
+"Constructivisme \(mathématiques\)") qui s'inscrit à la suite de Kronecker.
+Dans le but de contrer les détracteurs de Cantor, [David
+Hilbert](/wiki/David_Hilbert "David Hilbert") a affirmé : « Nul ne doit nous
+exclure du Paradis que Cantor a créé[2]. »
+
+## Sommaire
+
+  * 1 Biographie
+    * 1.1 Enfance et études
+    * 1.2 Début de carrière
+    * 1.3 Hostilités entre Cantor et Kronecker
+    * 1.4 Dépression
+  * 2 Travaux
+  * 3 Notes et références
+    * 3.1 Note
+    * 3.2 Références
+  * 4 Bibliographie
+    * 4.1 Textes de Cantor
+    * 4.2 Ouvrages sur Cantor et son œuvre
+  * 5 Voir aussi
+    * 5.1 Articles connexes
+    * 5.2 Liens externes
+
+##
+Biographie[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=1
+"Modifier la section : Biographie") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=1 "Modifier la
+section : Biographie")]
+
+### Enfance et
+études[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=2
+"Modifier la section : Enfance et études") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=2 "Modifier la
+section : Enfance et études")]
+
+Georg Cantor est né en 1845 à [Saint-Pétersbourg](/wiki/Saint-P%C3%A9tersbourg
+"Saint-Pétersbourg") où son père, Georg Waldemar Cantor, homme d'affaires
+[danois](/wiki/Danemark "Danemark") est courtier à la [bourse de la
+ville](/wiki/Bourse_\(%C3%A9conomie\) "Bourse \(économie\)") ; d’origine juive
+mais converti au protestantisme[3], c'est un
+[luthérien](/wiki/Luth%C3%A9ranisme "Luthéranisme") fervent. Sa mère Maria
+Anna Böhm, de nationalité [autrichienne](/wiki/Autriche "Autriche"), est issue
+d'une famille de musiciens. [Catholique](/wiki/Catholicisme "Catholicisme") de
+naissance, elle se convertit au protestantisme au moment de son mariage. Le
+grand-père maternel de Georg Cantor, [Franz
+Böhm](/w/index.php?title=Franz_B%C3%B6hm_\(musicien_hongrois\)&action=edit&redlink=1
+"Franz Böhm \(musicien hongrois\) \(page inexistante\)") (1788-1846), frère
+aîné du violoniste hongrois [Joseph Böhm](/wiki/Joseph_B%C3%B6hm "Joseph
+Böhm"), était violoniste et soliste réputé de l’orchestre de l'Opéra impérial
+de Saint-Pétersbourg[4].
+
+Georg Cantor fut élevé dans la foi [luthérienne](/wiki/Luth%C3%A9ranisme
+"Luthéranisme"), qu'il conserva toute sa vie. [Violoniste](/wiki/Violon
+"Violon") remarquable, il avait hérité du talent artistique et musical de sa
+famille maternelle.
+
+Lorsque le père de Cantor tomba malade, la famille chercha des hivers moins
+rigoureux que ceux de Saint-Pétersbourg. Elle alla s'installer en
+[Allemagne](/wiki/Allemagne "Allemagne") en [1856](/wiki/1856 "1856"), d'abord
+à [Wiesbaden](/wiki/Wiesbaden "Wiesbaden"), ensuite à
+[Francfort](/wiki/Francfort-sur-le-Main "Francfort-sur-le-Main"). En
+[1860](/wiki/1860 "1860"), Cantor obtint un [diplôme](/wiki/Dipl%C3%B4me
+"Diplôme") avec félicitations à la
+_[Realschule](/wiki/Syst%C3%A8me_%C3%A9ducatif_allemand "Système éducatif
+allemand")_ de [Darmstadt](/wiki/Darmstadt "Darmstadt") où l'on remarqua ses
+qualités exceptionnelles en [mathématiques](/wiki/Math%C3%A9matiques
+"Mathématiques"), notamment en [trigonométrie](/wiki/Trigonom%C3%A9trie
+"Trigonométrie"). En [1862](/wiki/1862 "1862"), suivant le souhait de son
+père, Cantor intégra l'[École polytechnique fédérale de
+Zurich](/wiki/%C3%89cole_polytechnique_f%C3%A9d%C3%A9rale_de_Zurich "École
+polytechnique fédérale de Zurich") où il entama des études supérieures en
+mathématiques.
+
+En [1863](/wiki/1863 "1863"), à la mort de son père, Cantor préféra poursuivre
+ses études à l'[université de Berlin](/wiki/Universit%C3%A9_Humboldt_de_Berlin
+"Université Humboldt de Berlin"). Il suivit les cours de
+[Weierstrass](/wiki/Karl_Weierstrass "Karl Weierstrass"),
+[Kummer](/wiki/Ernst_Kummer "Ernst Kummer") et
+[Kronecker](/wiki/Leopold_Kronecker "Leopold Kronecker"). Il se lia d'amitié
+avec [Hermann Schwarz](/wiki/Hermann_Amandus_Schwarz "Hermann Amandus
+Schwarz"), alors étudiant. Il passa l'été à l'université de Göttingen, qui
+devint par la suite un grand centre de la recherche mathématique. En
+[1867](/wiki/1867 "1867"), Berlin lui accorda le titre de [Philosophiæ
+doctor](/wiki/Philosophi%C3%A6_doctor "Philosophiæ doctor") pour une thèse
+portant sur la [théorie des nombres](/wiki/Th%C3%A9orie_des_nombres "Théorie
+des nombres"), _De aequationibus secundi gradus indeterminatis_.
+
+### Début de
+carrière[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=3
+"Modifier la section : Début de carrière") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=3 "Modifier la
+section : Début de carrière")]
+
+Après avoir enseigné pendant un an dans une école de filles à
+[Berlin](/wiki/Berlin "Berlin"), Cantor accepta en 1870 un poste à
+l'[université de Halle](/wiki/Universit%C3%A9_Martin-Luther_de_Halle-
+Wittemberg "Université Martin-Luther de Halle-Wittemberg"), où il fit toute sa
+carrière. Il obtint l'[habilitation](/wiki/Habilitation_universitaire
+"Habilitation universitaire") requise grâce à un mémoire sur la théorie des
+formes quadratiques à trois variables[5], soumis en 1869 ; il fut promu
+professeur extraordinaire (une position analogue à celle d'un maître de
+conférences) en [1872](/wiki/1872 "1872").
+
+En 1872[6], Cantor fit la connaissance de [Richard
+Dedekind](/wiki/Richard_Dedekind "Richard Dedekind") lors d'un voyage en
+Suisse. Cela devait être le point de départ d'une relation suivie qui devait
+jouer un rôle décisif dans le développement de la théorie des ensembles de
+Cantor. Leur correspondance, qui s'étale de 1872 à 1889, en est un témoignage
+précieux.
+
+[Eduard Heine](/wiki/Eduard_Heine "Eduard Heine") avait posé la question de
+l'unicité de l'écriture d'une fonction périodique d'une variable réelle comme
+[série](/wiki/S%C3%A9rie_\(math%C3%A9matiques\) "Série \(mathématiques\)") de
+fonctions trigonométriques. Intéressé par ce problème, Cantor obtint l'unicité
+pour les fonctions continues. En [1872](/wiki/1872 "1872"), il s'attacha à
+définir l'ensemble des points de discontinuité de ces fonctions, ce qui
+présuppose de manipuler des ensembles infinis. C'est ainsi qu'il commença à
+s'interroger sur l'infini. En 1874, Cantor publia ses premiers travaux sur le
+sujet dans le _[Journal für die reine und angewandte
+Mathematik](/wiki/Journal_f%C3%BCr_die_reine_und_angewandte_Mathematik
+"Journal für die reine und angewandte Mathematik")_ , où il donna la première
+démonstration que l'ensemble des réels n'est pas dénombrable.
+
+Toujours en [1874](/wiki/1874 "1874"), Cantor épousa Vally Guttmann. Ils
+auront six enfants, le dernier étant né en [1886](/wiki/1886 "1886"). Malgré
+un modeste salaire académique, Cantor était en mesure de subvenir aux besoins
+de sa famille grâce à l'héritage de son père[[réf.
+nécessaire]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire "Aide:Référence
+nécessaire").
+
+### Hostilités entre Cantor et
+Kronecker[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=4
+"Modifier la section : Hostilités entre Cantor et Kronecker") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=4 "Modifier la
+section : Hostilités entre Cantor et Kronecker")]
+
+En 1877, Cantor soumit son dernier article au _Journal de Crelle_ , dans
+lequel il démontra qu'une surface est en bijection avec une droite réelle.
+Kronecker, mathématicien réputé, fut en désaccord avec ce qui fondait les
+travaux de Cantor en théorie des ensembles. Kronecker, perçu aujourd'hui comme
+un pionnier du [constructivisme](/wiki/Constructivisme_\(math%C3%A9matiques\)
+"Constructivisme \(mathématiques\)"), ne pensait pas que l'on puisse envisager
+un ensemble infini comme une entité : « Dieu a créé les nombres entiers ; le
+reste est l'œuvre de l'homme ». Kronecker pensait également qu'une preuve
+d'existence d'un objet mathématique satisfaisant à certaines propriétés devait
+donner une construction explicite d'un tel objet.
+
+En [1879](/wiki/1879 "1879"), Cantor obtint une chaire à l'université de
+Halle. Atteindre le plus haut rang à l'âge de 34 ans était une performance
+notable, mais Cantor aurait préféré avoir une chaire dans une université plus
+prestigieuse, en particulier à Berlin où se trouvait la meilleure université
+allemande. Toutefois, [Kronecker](/wiki/Leopold_Kronecker "Leopold Kronecker")
+se trouvait à la tête du secteur de mathématiques à Berlin jusqu'à sa mort en
+[1891](/wiki/1891 "1891") et il ne souhaitait pas avoir Cantor comme collègue.
+
+En [1881](/wiki/1881 "1881"), la mort d'[Eduard Heine](/wiki/Eduard_Heine
+"Eduard Heine"), collègue de Cantor de l'université de Halle, laissa une
+chaire inoccupée. À la suggestion de Cantor, l'université proposa la chaire à
+[Dedekind](/wiki/Richard_Dedekind "Richard Dedekind"), [Heinrich
+Weber](/wiki/Heinrich_Weber_\(math%C3%A9maticien\) "Heinrich Weber
+\(mathématicien\)") et [Franz Mertens](/wiki/Franz_Mertens "Franz Mertens")
+(dans cet ordre), mais tous déclinèrent l'offre. Le manque d'intérêt de la
+part de Dedekind est surprenant, étant donné qu'il enseignait dans une école
+d'ingénieur de faible niveau et portait une lourde charge administrative. Cet
+épisode est révélateur du manque de réputation du département de mathématiques
+de l'université de Halle. [Albert Wangerin](/wiki/Albert_Wangerin "Albert
+Wangerin") fut finalement nommé, mais ne se rapprocha jamais de Cantor.
+
+###
+Dépression[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=5
+"Modifier la section : Dépression") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=5 "Modifier la
+section : Dépression")]
+
+En [1884](/wiki/1884 "1884"), Cantor fut frappé de son premier accès de
+dépression. Selon [Joseph Dauben](/wiki/Joseph_Dauben "Joseph Dauben"), cette
+crise n'aurait pas été causée par les attaques de Kronecker, même si ces
+dernières l'avaient sans doute fortement amplifiée[7].
+
+Cette crise émotionnelle le mena à donner des cours de
+[philosophie](/wiki/Philosophie "Philosophie"), plutôt que de
+[mathématiques](/wiki/Math%C3%A9matiques "Mathématiques"). Chacune des 52
+lettres que Cantor a écrites à [Mittag-Leffler](/wiki/G%C3%B6sta_Mittag-
+Leffler "Gösta Mittag-Leffler") au cours de cette année attaquait Kronecker.
+Cantor se remit rapidement, mais un passage de l'une de ses lettres révèle une
+perte de confiance en lui-même :
+
+« Je ne sais pas quand je pourrai retourner à la poursuite de mes travaux
+scientifiques. Pour le moment, je ne peux absolument rien faire dans ce sens
+et je me limite au strict nécessaire, à savoir donner des cours ; combien je
+voudrais être actif scientifiquement et si seulement j'avais la vivacité
+d'esprit nécessaire. »
+
+Bien qu'il ait produit quelques travaux de valeur après [1884](/wiki/1884
+"1884"), il ne retrouva pas le haut niveau de production des années
+[1874](/wiki/1874 "1874") à 1884. Il proposa une réconciliation avec
+Kronecker, qui accepta sans réticences. Malgré tout, le désaccord
+philosophique et les difficultés qui les séparaient persistèrent. On a dit
+parfois que les accès dépressifs récurrents de Cantor avaient été déclenchés
+par l'opposition que lui manifestait Kronecker, or quoique les difficultés
+relationnelles de Cantor et les troubles de sa production mathématique
+fussent, c'est certain, exacerbés par sa dépression, on peut douter qu'elles
+en fussent la cause[[réf.
+souhaitée]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire "Aide:Référence
+nécessaire").
+
+En [1888](/wiki/1888 "1888"), il publia ses correspondances avec plusieurs
+philosophes au sujet des implications philosophiques de sa [théorie des
+ensembles](/wiki/Th%C3%A9orie_des_ensembles "Théorie des ensembles"). [Edmund
+Husserl](/wiki/Edmund_Husserl "Edmund Husserl") fut un de ses collègues à
+Halle et un ami, entre [1886](/wiki/1886 "1886") et [1901](/wiki/1901 "1901").
+La réputation de Husserl s'est faite en philosophie, mais à l'époque il
+préparait un doctorat de mathématiques dirigé par [Leo
+Königsberger](/wiki/Leo_K%C3%B6nigsberger "Leo Königsberger"), un étudiant de
+[Weierstrass](/wiki/Karl_Weierstrass "Karl Weierstrass"). Cantor écrivit aussi
+sur les implications théologiques de ses travaux en mathématiques ; il aurait
+identifié l'« infini absolu », l'infini d'une classe propre comme celle de
+tous les [cardinaux](/wiki/Nombre_cardinal "Nombre cardinal") ou de tous les
+[ordinaux](/wiki/Ordinal "Ordinal"), à [Dieu](/wiki/Dieu "Dieu")[8].
+
+Pensant que [Francis Bacon](/wiki/Francis_Bacon_\(philosophe\) "Francis Bacon
+\(philosophe\)") était en fait l'auteur de pièces attribuées à
+[Shakespeare](/wiki/William_Shakespeare "William Shakespeare"), il entama,
+pendant sa période de maladie, en [1884](/wiki/1884 "1884"), une étude
+approfondie de la littérature
+[élisabéthaine](/wiki/Th%C3%A9%C3%A2tre_%C3%A9lisab%C3%A9thain "Théâtre
+élisabéthain"), dans le but d'étayer cette hypothèse. Cela le conduisit à
+publier deux articles, en [1896](/wiki/1896 "1896") et [1897](/wiki/1897
+"1897"), qui exposaient ses vues.
+
+En [1890](/wiki/1890 "1890"), Cantor participa à la fondation de la _[Deutsche
+Mathematiker-Vereinigung](/wiki/Deutsche_Mathematiker-Vereinigung "Deutsche
+Mathematiker-Vereinigung")_. Il en organisa la première réunion à Halle en
+[1891](/wiki/1891 "1891") et en fut élu président. Cela montre clairement que
+l'attitude de Kronecker n'a pas été fatale à sa réputation. Malgré l'animosité
+qu'il éprouvait pour Kronecker, Cantor l'invita à prendre la parole lors de
+cette réunion ; Kronecker ne put le faire, car son épouse était à ce moment-là
+à l'article de la mort.
+
+Après le décès de son plus jeune fils, en [1899](/wiki/1899 "1899"), Cantor
+souffrit d'une dépression chronique, qui l'affecta jusqu'à la fin de sa vie et
+pour laquelle il fut dispensé d'enseignement à plusieurs reprises et enfermé
+de manière répétitive en sanatorium. Cependant, il n'abandonna pas
+complètement les mathématiques, car il donna des conférences sur les paradoxes
+de la [théorie des ensembles](/wiki/Th%C3%A9orie_des_ensembles "Théorie des
+ensembles") (attribués à [Burali-Forti](/wiki/Cesare_Burali-Forti "Cesare
+Burali-Forti"), [Russell](/wiki/Bertrand_Russell "Bertrand Russell"), et
+Cantor lui-même) lors d'une réunion de la _Deutsche Mathematiker-Vereinigung_
+, en [1903](/wiki/1903 "1903") et il assista au [Congrès international des
+mathématiciens](/wiki/Congr%C3%A8s_international_des_math%C3%A9maticiens
+"Congrès international des mathématiciens") de [Heidelberg](/wiki/Heidelberg
+"Heidelberg") en [1904](/wiki/1904 "1904").
+
+En [1903](/wiki/1903 "1903"), il fut lauréat de la [médaille
+Sylvester](/wiki/M%C3%A9daille_Sylvester "Médaille Sylvester") de la [Royal
+Society](/wiki/Royal_Society "Royal Society").
+
+Cantor prit sa retraite en [1913](/wiki/1913 "1913") ; il fut confronté à la
+pauvreté et souffrit même de la faim au cours de la [Première Guerre
+mondiale](/wiki/Premi%C3%A8re_Guerre_mondiale "Première Guerre mondiale"). La
+célébration publique de ses 70 ans fut annulée à cause de la guerre et
+quelques mois avant la fin de celle-ci, il mourut en janvier 1918 à l'hôpital
+où il avait passé la dernière année de sa vie.
+
+## Travaux[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=6
+"Modifier la section : Travaux") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=6 "Modifier la
+section : Travaux")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emojione_267B.svg/17px-
+Emojione_267B.svg.png)](/wiki/Fichier:Emojione_267B.svg)
+
+Cette section a besoin d'être **[recyclée](/wiki/Aide:Recyclage
+"Aide:Recyclage")** (26 septembre 2017).  
+**Motif :** Beaucoup de redites, par strates d'ajouts non harmonisés.
+[Améliorez-
+le](https://fr.wikipedia.org/w/index.php?title=Georg_Cantor&action=edit) ou
+[discutez des points à améliorer](/wiki/Discussion:Georg_Cantor
+"Discussion:Georg Cantor").
+
+Cantor fut le fondateur de la [théorie des
+ensembles](/wiki/Th%C3%A9orie_des_ensembles "Théorie des ensembles"), à partir
+de [1874](/wiki/1874 "1874"). Avant lui, le concept d'ensemble était plutôt
+basique, et avait été utilisé implicitement depuis les débuts des
+mathématiques, depuis Aristote. Personne n'avait compris que cette théorie
+avait des éléments non implicites. Avant Cantor, il n'y avait en fait que les
+ensembles finis (qui sont aisés à comprendre) et les ensembles infinis (qui
+étaient plutôt sujets à discussion philosophique). En prouvant qu'il y a une
+infinité de tailles d'ensembles infinis, Cantor a établi que les bases de
+cette théorie étaient non-triviales. La théorie des ensembles joue ainsi le
+rôle d'une théorie fondatrice pour les mathématiques modernes, parce qu'elle
+interprète des propositions relatives à des objets mathématiques (par exemple,
+nombres et fonctions) provenant de toutes les disciplines des mathématiques
+(comme l'[algèbre](/wiki/Alg%C3%A8bre "Algèbre"),
+l'[analyse](/wiki/Analyse_\(math%C3%A9matiques\) "Analyse \(mathématiques\)")
+et la [topologie](/wiki/Topologie "Topologie")) en une seule théorie, et
+fournit un ensemble standard d'axiomes pour les prouver ou les infirmer. Les
+concepts de base de celle-ci sont aujourd'hui utilisés dans toutes les
+disciplines des mathématiques.
+
+Dans une de ses premières publications, Cantor prouve que l'ensemble des
+nombres réels contient plus de nombres que l'ensemble des entiers naturels ;
+ce qui montre, pour la première fois, qu'il existe des ensembles infinis de
+tailles différentes. Il fut aussi le premier à apprécier l'importance des
+correspondances un pour un (les [bijections](/wiki/Bijection "Bijection"))
+dans la théorie des ensembles. Il utilisa ce concept pour définir les
+ensembles finis et infinis, subdivisant ces derniers en ensembles dénombrables
+et non dénombrables.
+
+Cantor introduisit des constructions fondamentales en théorie des ensembles,
+comme l'ensemble composé de tous les sous-ensembles possibles de A, appelé
+ensemble des parties de A. Il prouva plus tard que la taille de cet ensemble
+est strictement supérieure à celle de A, même quand A est un ensemble infini ;
+ce résultat fut bientôt connu sous le nom de [théorème de
+Cantor](/wiki/Th%C3%A9or%C3%A8me_de_Cantor "Théorème de Cantor"). Cantor
+développa une théorie entière (une arithmétique) des ensembles infinis,
+appelés cardinaux et ordinaux, qui étendait l'arithmétique des nombres
+naturels. Il définit une notation des nombres cardinaux à l'aide de la lettre
+de l'alphabet hébreu א ([aleph](/wiki/Aleph_\(nombre\) "Aleph \(nombre\)"),
+convenablement indexée); pour les ordinaux, il employa la lettre grecque ω
+(omega). Cette notation est toujours utilisée aujourd'hui.
+
+L'[hypothèse du continu](/wiki/Hypoth%C3%A8se_du_continu "Hypothèse du
+continu"), introduite par Cantor, fut présentée par [David
+Hilbert](/wiki/David_Hilbert "David Hilbert") en premier parmi une [liste de
+23 problèmes ouverts](/wiki/Probl%C3%A8mes_de_Hilbert "Problèmes de Hilbert")
+lors de son célèbre exposé au Congrès International des mathématiciens de 1900
+de Paris. Le travail de Cantor a aussi attiré d'autres remarques favorables
+que l'éloge d'Hilbert. Le philosophe américain Charles Peirce prisait la
+théorie des ensembles de Cantor, et, à la suite des cours magistraux de Cantor
+au premier congrès international des mathématiciens (à Zurich en 1897),
+Hurwitz et Hadamard aussi exprimèrent leur admiration. À ce congrès, Cantor
+renouvela son amitié et sa correspondance avec Dedekind. Depuis 1905, Cantor
+correspondait avec son admirateur britannique et traducteur Philip Jourdain
+sur l'histoire de la théorie des ensembles et sur ses idées religieuses, ce
+qui fut publié plus tard, comme le furent nombre de ses travaux présentés aux
+congrès.
+
+Certains, comme [Galilée](/wiki/Galil%C3%A9e_\(savant\) "Galilée \(savant\)")
+avaient déjà remarqué qu'un ensemble infini, comme les carrés des nombres
+entiers, pouvait être mis en correspondance avec un ensemble infini le
+contenant strictement, en l'occurrence tous les entiers. Il y a d'une certaine
+façon « autant » de carrés de nombres entiers que de nombres entiers. Cantor
+est le premier à donner un sens précis à cette remarque, à l'aide de la notion
+de [bijection](/wiki/Bijection "Bijection") qu'il introduit (sous un autre
+nom) à l'occasion, puis à la systématiser. Par exemple Cantor montre qu'il y a
+autant de [nombres rationnels](/wiki/Nombre_rationnel "Nombre rationnel")
+(ceux représentés par des fractions) que de nombres entiers. Cantor va plus
+loin et découvre qu'il y a plusieurs infinis, au sens où ils ne peuvent être
+mis en correspondance entre eux par une [bijection](/wiki/Bijection
+"Bijection") : il montre en 1874 que la droite réelle contient plus de
+[nombres réels](/wiki/Nombre_r%C3%A9el "Nombre réel") (« beaucoup plus ») que
+de [nombres algébriques](/wiki/Nombre_alg%C3%A9brique "Nombre algébrique")
+(solutions d'équations polynomiales à coefficients rationnels) ; il découvre
+en 1877 à sa grande surprise (« Je le vois, mais je ne le crois pas », écrit-
+il à Dedekind[9]) que l'on peut mettre en bijection la droite et le plan
+(autrement dit, qu'il y a « autant » de points dans un petit segment que dans
+l'espace entier).
+
+Cantor introduit la notion d'ensemble infini
+[dénombrable](/wiki/Ensemble_d%C3%A9nombrable "Ensemble dénombrable") : un
+ensemble qui peut être mis en bijection avec les nombres entiers, c’est-à-dire
+que l'on peut, d'une certaine façon, numéroter tous ses éléments par des
+entiers (sans répétition mais ce n'est pas essentiel). Il montre que les
+ensembles des nombres entiers relatifs, des nombres rationnels, et des nombres
+algébriques sont tous dénombrables, mais que l'ensemble des [nombres
+réels](/wiki/Nombre_r%C3%A9el "Nombre réel") ne l'est pas.
+
+Il donne une preuve élégante et très courte de ce dernier résultat en 1891, où
+il utilise ce qui est connu maintenant comme l'[argument diagonal de
+Cantor](/wiki/Argument_de_la_diagonale_de_Cantor "Argument de la diagonale de
+Cantor"), et qui a été depuis très utilisé, en particulier en [logique
+mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique") et en
+[théorie de la calculabilité](/wiki/Calculabilit%C3%A9 "Calculabilité"). Il
+utilise cet argument pour montrer que l'ensemble de tous les sous-ensembles
+d'un ensemble _A_ , appelé _[ensemble des
+parties](/wiki/Ensemble_des_parties_d%27un_ensemble "Ensemble des parties d'un
+ensemble")_ de _A_ , a strictement plus d'éléments que _A_ , même si _A_ est
+infini, c’est-à-dire que ces deux ensembles ne peuvent être mis en bijection.
+Cette proposition est aujourd'hui appelée [théorème de
+Cantor](/wiki/Th%C3%A9or%C3%A8me_de_Cantor "Théorème de Cantor"). Elle a pour
+conséquence, l'existence d'une hiérarchie stricte, et elle-même infinie,
+d'ensembles infinis.
+
+Pour étudier l'infini, Cantor introduit deux notions de nombres et leur
+arithmétique particulière (somme, produit, exponentiation). La première est
+celle de [nombre cardinal](/wiki/Nombre_cardinal "Nombre cardinal"), qui
+caractérise une classe d'ensembles pouvant être mis en bijection. Le plus
+petit nombre cardinal infini est celui des entiers naturels, le dénombrable.
+Le cardinal des nombres réels, ou de façon équivalent de l'ensemble des sous-
+ensembles des entiers naturels, est la [puissance du
+continu](/wiki/Puissance_du_continu "Puissance du continu"). Cantor introduit
+la lettre hébraïque א ([aleph](/wiki/Aleph_\(lettre\) "Aleph \(lettre\)"))
+pour désigner les cardinaux, notation toujours en usage aujourd'hui. Ainsi le
+cardinal de l'ensemble des entiers naturels est noté ℵ0 (lire aleph zéro). La
+puissance du continu est un cardinal forcément supérieur ou égal au cardinal
+suivant immédiatement le dénombrable, que l'on note ℵ1. Cantor supposait que
+c'était ℵ1, c'est l'[hypothèse du continu](/wiki/Hypoth%C3%A8se_du_continu
+"Hypothèse du continu").
+
+La seconde est celle de [nombre ordinal](/wiki/Nombre_ordinal "Nombre
+ordinal"), qui généralise les entiers en tant qu'ils sont ordonnés. Il utilise
+pour cela la notion de [bon ordre](/wiki/Ensemble_bien_ordonn%C3%A9 "Ensemble
+bien ordonné"), qu'il introduit en 1883. Cantor note les ordinaux avec des
+lettres grecques, le plus petit ordinal infini, celui de l'ensemble des
+entiers naturels, est noté ω0 (aujourd'hui simplement ω). Pour les nombres
+cardinaux il utilise en fait un ordinal en indice de la lettre ℵ.
+
+Les dix premières productions de Cantor portaient sur la [théorie des
+nombres](/wiki/Th%C3%A9orie_des_nombres "Théorie des nombres"), le sujet de sa
+thèse. Suivant la suggestion du professeur [Eduard Heine](/wiki/Eduard_Heine
+"Eduard Heine"), Cantor s'oriente vers l'analyse. Heine propose à Cantor de
+résoudre un problème dont la solution échappait à
+[Dirichlet](/wiki/Johann_Peter_Gustav_Lejeune_Dirichlet "Johann Peter Gustav
+Lejeune Dirichlet"), [Lipschitz](/wiki/Rudolf_Lipschitz "Rudolf Lipschitz"),
+[Bernhard Riemann](/wiki/Bernhard_Riemann "Bernhard Riemann") et [Eduard
+Heine](/wiki/Eduard_Heine "Eduard Heine") lui-même : l'unicité de la
+représentation d'une fonction par une [série de
+Fourier](/wiki/S%C3%A9rie_de_Fourier "Série de Fourier"). Cantor résout ce
+problème difficile en [1869](/wiki/1869 "1869"). Entre [1870](/wiki/1870
+"1870") et [1872](/wiki/1872 "1872"), Cantor publie d'autres travaux sur les
+[séries trigonométriques](/wiki/S%C3%A9rie_de_Fourier "Série de Fourier"),
+incluant une définition des [nombres irrationnels](/wiki/Nombre_irrationnel
+"Nombre irrationnel") comme des suites convergentes de [nombres
+rationnels](/wiki/Nombre_rationnel "Nombre rationnel"). C'est l'une des deux
+[constructions usuelles des nombres
+réels](/wiki/Construction_des_nombres_r%C3%A9els "Construction des nombres
+réels"). Dedekind, avec qui Cantor s'est lié d'amitié en [1872](/wiki/1872
+"1872"), cite ce travail dans la publication contenant sa propre construction
+des [nombres réels](/wiki/Nombre_r%C3%A9el "Nombre réel"), à partir de ce que
+l'on appelle maintenant les [coupures de Dedekind](/wiki/Coupure_de_Dedekind
+"Coupure de Dedekind").
+
+La naissance de la [théorie des ensembles](/wiki/Th%C3%A9orie_des_ensembles
+"Théorie des ensembles") est souvent marquée par l'article de Cantor de 1874 «
+Sur une propriété du système de tous les nombres algébriques réels[10] » dans
+lequel Cantor démontre que les nombres réels ne sont pas dénombrables. Cette
+démonstration diffère de celle plus familière qui utilise son [argument
+diagonal](/wiki/Argument_de_la_diagonale_de_Cantor "Argument de la diagonale
+de Cantor") de 1891.
+
+L'article de 1874 contient deux constructions. La première montre que les
+[nombres algébriques](/wiki/Nombre_alg%C3%A9brique "Nombre algébrique") réels
+([racines](/wiki/Racine_d%27un_polyn%C3%B4me "Racine d'un polynôme") réelles
+des [polynômes](/wiki/Polyn%C3%B4me "Polynôme") à
+[coefficients](/wiki/Coefficient "Coefficient") entiers) forment une
+[suite](/wiki/Suite_\(math%C3%A9matiques\) "Suite \(mathématiques\)").
+Autrement dit, les nombres algébriques réels sont dénombrables. La seconde
+construction commence par n'importe quelle suite de nombres réels ; utilisant
+cette séquence, Cantor construit des segments emboîtés dont
+[l'intersection](/wiki/Intersection_\(math%C3%A9matiques\) "Intersection
+\(mathématiques\)") contient un nombre réel n'appartenant pas à la suite.
+Puisqu'on peut toujours construire un nombre réel n'appartenant pas à une
+suite donnée, les nombres réels ne peuvent former une suite. Autrement dit,
+les nombres réels ne sont pas dénombrables. Cantor construit un [nombre
+transcendant](/wiki/Nombre_transcendant "Nombre transcendant") (c'est-à-dire
+un nombre non algébrique) en appliquant sa seconde construction à la suite de
+nombres algébriques réels. Il remarque aussi que ses constructions
+redémontrent le théorème de [Liouville](/wiki/Joseph_Liouville "Joseph
+Liouville") : Tout intervalle réel contient une infinité de nombres
+transcendants[11]. En 1878, Cantor publia une construction démontrant qu'il y
+a « autant » de nombres transcendants que de nombres réels[12].
+
+Entre 1879 et 1884, Cantor publia, dans les _[Mathematische
+Annalen](/wiki/Mathematische_Annalen "Mathematische Annalen")_ (éditées par
+[Felix Klein](/wiki/Felix_Klein "Felix Klein")), une série de six articles qui
+constituent une introduction à sa théorie des ensembles. En même temps
+grandissait une opposition croissante à ses idées, menée par
+[Kronecker](/wiki/Leopold_Kronecker "Leopold Kronecker"), qui n'admettait des
+concepts mathématiques que s'ils pouvaient être construits en un nombre fini
+d'étapes à partir des entiers, qu'il considérait comme seuls donnés
+intuitivement. Pour Kronecker, la hiérarchie des infinis de Cantor était
+inadmissible, et accepter le concept d'infini actuel ouvrirait la porte à des
+paradoxes qui mettraient en danger l'édifice mathématique tout entier. Cantor
+découvrit également [l'ensemble qui porte son nom](/wiki/Ensemble_de_Cantor
+"Ensemble de Cantor") durant cette période.
+
+Le cinquième article de cette série, "Grundlagen einer allgemeinen
+Mannigfaltigkeitslehre" ("Fondements d'une théorie générale des agrégats") est
+le plus important des six, et fut aussi publié en monographie séparée. Il
+contenait des réponses de Cantor à ses critiques, et montrait comment les
+nombres transfinis formaient une extension systématique des entiers naturels.
+Il commence par définir les ensembles bien ordonnés ; les nombres ordinaux
+sont alors introduits comme types d'ordre de ces ensembles. Cantor définit
+ensuite l'addition et la multiplication des ordinaux. En 1885, Cantor étendit
+sa théorie des types d'ordre, les ordinaux en devenant simplement un cas
+particulier.
+
+En 1891, il publia un article contenant son élégant "[argument
+diagonal](/wiki/Argument_de_la_diagonale_de_Cantor "Argument de la diagonale
+de Cantor")" pour montrer l'existence d'un ensemble non dénombrable ; il
+appliqua la même idée pour prouver le [théorème de
+Cantor](/wiki/Th%C3%A9or%C3%A8me_de_Cantor "Théorème de Cantor") : le cardinal
+de l'ensemble des parties d'un ensemble A est strictement plus grand que le
+cardinal de A. Ceci établissait la richesse de la hiérarchie des ensembles
+infinis et de l'arithmétique des cardinaux et des ordinaux que Cantor avait
+définie. L'argument diagonal joue un rôle fondamental dans la solution du
+[problème de l'arrêt](/wiki/Probl%C3%A8me_de_l%27arr%C3%AAt "Problème de
+l'arrêt"), et dans la preuve du premier [théorème d'incomplétude de
+Gödel](/wiki/Th%C3%A9or%C3%A8mes_d%27incompl%C3%A9tude_de_G%C3%B6del
+"Théorèmes d'incomplétude de Gödel").
+
+En 1895 et 1897, Cantor publia un article en deux parties dans les
+_Mathematische Annalen_ ; ce furent ses dernières contributions significatives
+à la théorie des ensembles. Le premier article commence par définir ensembles,
+sous-ensembles, etc. d'une manière qui reste largement acceptable aujourd'hui
+; l'arithmétique des cardinaux et des ordinaux y est réexaminée. Cantor aurait
+voulu que le second article contînt une preuve de l'[hypothèse du
+continu](/wiki/Hypoth%C3%A8se_du_continu "Hypothèse du continu"), mais dut se
+contenter d'exposer sa théorie des ensembles bien ordonnés et des ordinaux. Il
+essaie également de démontrer que si A et B sont des ensembles tels que A est
+en bijection avec un sous-ensemble de B et B en bijection avec un sous-
+ensemble de A, alors A et B sont équipotents ; [Ernst
+Schröder](/wiki/Ernst_Schr%C3%B6der "Ernst Schröder") avait énoncé ce théorème
+un peu auparavant, mais sa preuve, tout comme celle de Cantor, présentait des
+lacunes ; [Felix Bernstein](/wiki/Felix_Bernstein "Felix Bernstein") fournit
+une démonstration correcte dans sa thèse de 1898, d'où le nom actuel de
+[théorème de Cantor–Bernstein](/wiki/Th%C3%A9or%C3%A8me_de_Cantor-Bernstein
+"Théorème de Cantor-Bernstein").
+
+## Notes et
+références[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=7
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=7 "Modifier la
+section : Notes et références")]
+
+  * (en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en [anglais](/wiki/Anglais "Anglais") intitulé « [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor?oldid=51359281) » ([voir la liste des auteurs](https://en.wikipedia.org/wiki/Georg_Cantor?action=history)).
+
+### Note[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=8
+"Modifier la section : Note") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=8 "Modifier la
+section : Note")]
+
+  1. ↑ Ces réserves furent reprises plus tard, par [Brouwer](/wiki/Luitzen_Egbertus_Jan_Brouwer "Luitzen Egbertus Jan Brouwer") et dans une moindre mesure [Hermann Weyl](/wiki/Hermann_Weyl "Hermann Weyl"). [Ludwig Wittgenstein](/wiki/Ludwig_Wittgenstein "Ludwig Wittgenstein") avait également des objections de fond[1].
+
+###
+Références[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=9
+"Modifier la section : Références") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=9 "Modifier la
+section : Références")]
+
+  1. ↑ [Christiane Chauviré](/wiki/Christiane_Chauvir%C3%A9 "Christiane Chauviré"), « Les mathématiques à repousse-poil », dans Le grand miroir : essais sur Pierce et sur Wittgenstein, Presses Univ. Franche-Comté, coll. « Annales littéraires de l'Université de Franche-Comté / Agon » (no 11), 1er janvier 2003, 386 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [9782848670447](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9782848670447 "Spécial:Ouvrages de référence/9782848670447"), [lire en ligne](https://books.google.fr/books?id=PIiyIZnMGwAC&pg=PA331)), p. 331-342
+  2. ↑ [« Arithmétique ordinale et cardinale et hiérarchies sur les ensembles »](http://www.hec.unil.ch/logique/recherche/berger.pdf), sur [HEC Lausanne](/wiki/HEC_Lausanne "HEC Lausanne")
+  3. ↑ [« Cantor et les infinis »](https://www.bibnum.education.fr/sites/default/files/cantor-analyse.pdf), sur bibnum.education.fr.
+  4. ↑ [ru: L'encyclopédie musicale (Музыкальная энциклопедия)](http://dic.academic.ru/dic.nsf/enc_music/924/Бём)
+  5. ↑ _De transformatione formarum ternariarum quadraticarum_ , à lire en ligne <http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10479914-5>
+  6. ↑ [Jean Cavaillès](/wiki/Jean_Cavaill%C3%A8s "Jean Cavaillès"), préface de l'édition de la correspondance Cantor-Dedekind, reprise dans _Philosophie mathématique_ , pp 179-185
+  7. ↑ (en) J. W. Dauben, _Georg Cantor, His Mathematics and Philosophy of the Infinite_ , [chap. 6](https://math.dartmouth.edu/~matc/Readers/HowManyAngels/Cantor/Cantor.html).
+  8. ↑ §3.2, (en) Ignacio Jané, « The role of the absolute infinite in Cantor's conception of set », _Erkenntnis_ , vol. 42, no 3, mai 1995, p. 375-402 ([DOI](/wiki/Digital_Object_Identifier "Digital Object Identifier") [10.1007/BF01129011](https://dx.doi.org/10.1007%2FBF01129011))
+  9. ↑ Jean Cavaillès, _Philosophie mathématique_ , p. 211.
+  10. ↑ L'article original : [Über eine Eigenschaft des Inbegriffes aller reellen algebraischen Zahlen](http://www.digizeitschriften.de/main/dms/img/?PPN=GDZPPN002155583). Traduction française : [Sur une propriété du système de tous les nombres algébriques réels](https://gallica.bnf.fr/ark:/12148/bpt6k86243w/f24.item). Pour une analyse détaillée et l'histoire de cet article, voir [Premier article de Cantor sur la théorie des ensembles](/w/index.php?title=Premier_article_de_Cantor_sur_la_th%C3%A9orie_des_ensembles&action=edit&redlink=1 "Premier article de Cantor sur la théorie des ensembles \(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article "en:Cantor's first set theory article") ou [Georg Cantor and Transcendental Numbers](http://mathdl.maa.org/mathDL/22/?pa=content&sa=viewDocument&nodeId=2907) ou encore [Patrick Dehornoy](/wiki/Patrick_Dehornoy "Patrick Dehornoy"), [« Cantor et les infinis »](http://www.bibnum.education.fr/math%C3%A9matiques/th%C3%A9orie-des-nombres/cantor-et-les-infinis), sur [BibNum](/wiki/BibNum "BibNum"), 2009.
+  11. ↑ Joseph Liouville (1809-1882), [« À propos de l'existence des nombres transcendants »](https://www.bibnum.education.fr/mathematiques/theorie-des-nombres/propos-de-l-existence-des-nombres-transcendants), sur BibNum, mai 1844, avec une analyse de [Michel Mendès France](/wiki/Michel_Mend%C3%A8s_France "Michel Mendès France").
+  12. ↑ Dans son article de 1878, Cantor ne construit qu'une bijection entre l'ensemble des nombres irrationnels et l'ensemble des nombres réels (voir [Une contribution à la théorie des ensembles](https://gallica.bnf.fr/ark:/12148/bpt6k86243w/f42.item), p. 323-324). Toutefois, l'année suivante, il indiqua que sa construction s'applique à tout ensemble formé en supprimant dénombrablement beaucoup de nombres d'un intervalle réel (voir [Sur ensembles infinis et linéaires de points](https://gallica.bnf.fr/ark:/12148/bpt6k86243w/f52.item), p. 353).
+
+##
+Bibliographie[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=10
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=10 "Modifier la
+section : Bibliographie")]
+
+### Textes de
+Cantor[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=11
+"Modifier la section : Textes de Cantor") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=11 "Modifier la
+section : Textes de Cantor")]
+
+  * [1872](/wiki/1872 "1872") – Über die Ausdehnung eines Satzes aus der trigonometrischen Reihen, Mathematische Annalen 5, p. 123-132 (Cantor [1932 p. 92-102]).
+  * [1874](/wiki/1874 "1874") – Über eine Eigenschaft des Inbegriffes aller reellen algebraischen Zahlen, Journal de Crelle 77, p. 258-262, (Cantor [1932, p. 115-118]).
+  * [1878](/wiki/1878 "1878") – Ein Beitrag zur Mannigfaltigkeitslehre, Journal de Crelle 84, p. 242-258 (Cantor [1932, p. 119-133]).
+  * [1879](/wiki/1879 "1879")
+    * a – Über einen Satz aus der Theorie der stetigen Mannigfaltigkeiten. (Cantor [1932, p. 134-138]).
+    * b – Über unendliche lineare Punktmannigfaltigkeiten, 1. (Cantor [1932 p. 139-145]).
+  * [1880](/wiki/1880 "1880") – Über unendliche lineare Punktmannigfaltigkeiten, 2. (Cantor [1932 p. 145-148]).
+  * [1882](/wiki/1882 "1882") – Über unendliche lineare Punktmannigfaltigkeiten, 3. (Cantor [1932 p. 149-157]).
+  * [1883](/wiki/1883 "1883")
+    * a – Über unendliche lineare Punktmannigfaltigkeiten, 4. (Cantor [1932 p. 157-164)].
+    * b – Über unendliche lineare Punktmannigfaltigkeiten, 5. Grundlagen einer allgemeinen Mannigfaltigkeitslehre. Ein mathematisch-philosophischer Versuch in der Lehre des Unendlichen (Cantor [1932 p. 165-208]). 
+      * bfr – Fondements d'une théorie générale des ensembles. Leibzig, Teubner. Trad. Milner in Cahiers pour l'Analyse 10. La formalisation, p. 35-52, le Seuil, Paris 1969.
+  * [1884](/wiki/1884 "1884") – Über unendliche lineare Punktmannigfaltigkeiten, 6. (Cantor [1932 p. 210-246]).
+  * [1887](/wiki/1887 "1887")-[1888](/wiki/1888 "1888") – Mitteilungen zur Lehre vom Transfiniten. (Cantor [1932, p. 378-439]).
+  * [1890](/wiki/1890 "1890") – Gesammelte Abhandlungen zur Lehre vom Transfiniten, Halle, C.E.M. Pfeffer (Cantor [1932, p. 370-439]).
+  * [1891](/wiki/1891 "1891") – Über eine elementare Frage zur Mannigfaltigkeitslehre, [Jahresbericht der Deutschen Mathematiker-Vereinigung](/wiki/Jahresbericht_der_Deutschen_Mathematiker-Vereinigung "Jahresbericht der Deutschen Mathematiker-Vereinigung") 1, p. 75-78 (Cantor [1932 p. 278-281]). 
+    * fr - Traduction et introd. [H. Sinaceur](/wiki/Hourya_Sinaceur "Hourya Sinaceur") : Sur une question élémentaire de la théorie des ensembles, in Logique et fondements des mathématiques, Anthologie (1850-1914), Paris, Payot, p. 197-203.
+  * [1895](/wiki/1895 "1895")-[1897](/wiki/1897 "1897") – Beiträge zur Begründung der transfiniten Mengenlehre, Mathematische Annalen 46, p. 481-512; 49, p. 207-246 (Cantor [1932, p. 282-356]). 
+    * fr - Trad. Sur les fondements de la théorie des ensembles transfinis. Trad F. Marotte. In Mémoires de la Société des Sciences physiques et naturelles de Bordeaux, rééd. Gabay, Paris 2000.
+  * [1905](/wiki/1905 "1905") – Ex Oriente Lux, Gespräche eines Meisters mit seinem Schüler über wesentliche Puncte des urkundlichen Christenthums. Berichtet vom Schüler selbst. Halle: C. E. M. Pfeffer.
+  * [1932](/wiki/1932 "1932") – (de) [« _Gesammelte Abhandlungen mathematischen und philosophischen inhalts_ »](http://resolver.sub.uni-goettingen.de/purl?PPN237853094) (consulté le 14 octobre 2014), éd. par [Ernst Zermelo](/wiki/Ernst_Zermelo "Ernst Zermelo"). Presque tous les écrits de Cantor (en allemand).
+  * Correspondance Cantor-Dedekind, Trad. [J. Cavaillès](/wiki/Jean_Cavaill%C3%A8s "Jean Cavaillès"), in Cavaillès J., _Philosophie des mathématiques_ , Paris, Hermann, 1962, p. 179-250.
+
+    Signalons aussi le document électronique disponible sur le site de la BNF ([Lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k86243w)) qui rassemble la majorité des œuvres de Cantor traduites en français : [1872], [1874], [1878], [1879], [1880], [1882], [1883a], [1883b], [1884], avec une introduction par [Pierre Dugac](/wiki/Pierre_Dugac "Pierre Dugac"). Cela dit, si certaines de ces traductions ont été revues par [Poincaré](/wiki/Henri_Poincar%C3%A9 "Henri Poincaré"), d’autres sont souvent mauvaises et éparses, et sont donc à consulter avec toutes les précautions nécessaires (voir la présentation de [Pierre Dugac](/wiki/Pierre_Dugac "Pierre Dugac") pour plus de détails).
+
+### Ouvrages sur Cantor et son
+œuvre[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=12
+"Modifier la section : Ouvrages sur Cantor et son œuvre") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=12 "Modifier la
+section : Ouvrages sur Cantor et son œuvre")]
+
+![Document utilisé pour la rédaction de
+l’article](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-
+Icon_flat_design_plume.svg.png) : document utilisé comme source pour la
+rédaction de cet article.
+
+  * (en) J. J. O'Connor et E.F. Robertson, archive MacTutor ([université de St Andrews](/wiki/Universit%C3%A9_de_St_Andrews "Université de St Andrews")) : 
+    * [Georg Ferdinand Ludwig Philipp Cantor](http://www-history.mcs.st-andrews.ac.uk/Biographies/Cantor.html), biographie.
+    * _[A history of set theory.](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Beginnings_of_set_theory.html)_.
+
+    Ces deux articles sont les principales sources de la version anglaise, et donc de celle-ci.
+
+  * J.P. Belna, _Cantor_ , Paris, Les belles lettres, 2000 ;
+  * N. Charraud, _Infini et inconscient, essai sur Georg Cantor_ , Paris, Economica, 1994 ;
+  * A.-M. Décaillot, _Cantor et la France. Correspondance du mathématicien allemand avec les Français à la fin du XIXe siècle_, Paris, Kimé, 2008 ;
+  * J.L. Gardies, _Pascal entre Eudoxe et Cantor_ , Paris, Vrin, 1984 ;
+  * (en) J.W. Dauben, _Georg Cantor, His Mathematics and Philosophy of the Infinite_ , Princeton University Press, 1979.
+  * Gustavo Ernesto Piñeiro et Magali Mangin (trad.), La formalisation du concept de l'infini : Cantor, Barcelone, RBA Coleccionables, 2018, 175 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-84-473-9317-6](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-84-473-9317-6 "Spécial:Ouvrages de référence/978-84-473-9317-6")). ![](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-Icon_flat_design_plume.svg.png)
+
+## Voir
+aussi[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=13
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=13 "Modifier la
+section : Voir aussi")]
+
+Sur les autres projets Wikimedia :
+
+  * [Georg Cantor](https://commons.wikimedia.org/wiki/Georg_Cantor?uselang=fr), sur Wikimedia Commons
+  * [Georg Cantor](https://fr.wikiquote.org/wiki/Georg_Cantor "q:Georg Cantor"), sur Wikiquote
+
+Il a inspiré le personnage de Singer dans le roman _[Villa des
+hommes](/wiki/Villa_des_hommes "Villa des hommes")_ de [Denis
+Guedj](/wiki/Denis_Guedj "Denis Guedj") ([2007](/wiki/2007_en_litt%C3%A9rature
+"2007 en littérature")).
+
+### Articles
+connexes[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=14
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=14 "Modifier la
+section : Articles connexes")]
+
+  * [Ensemble de Cantor](/wiki/Ensemble_de_Cantor "Ensemble de Cantor")
+  * [Argument de la diagonale de Cantor](/wiki/Argument_de_la_diagonale_de_Cantor "Argument de la diagonale de Cantor")
+  * [Théorème de Cantor](/wiki/Th%C3%A9or%C3%A8me_de_Cantor "Théorème de Cantor")
+  * [Théorème de Cantor (théorie des ordres)](/wiki/Th%C3%A9or%C3%A8me_de_Cantor_\(th%C3%A9orie_des_ordres\) "Théorème de Cantor \(théorie des ordres\)")
+  * [Paradoxe de Cantor](/wiki/Paradoxe_de_Cantor "Paradoxe de Cantor")
+  * [Théorème de Cantor-Bernstein](/wiki/Th%C3%A9or%C3%A8me_de_Cantor-Bernstein "Théorème de Cantor-Bernstein")
+  * [Théorème de Heine](/wiki/Th%C3%A9or%C3%A8me_de_Heine "Théorème de Heine")
+  * [Hypothèse du continu](/wiki/Hypoth%C3%A8se_du_continu "Hypothèse du continu")
+  * [Ensemble dénombrable](/wiki/Ensemble_d%C3%A9nombrable "Ensemble dénombrable")
+  * [Théorie naïve des ensembles](/wiki/Th%C3%A9orie_na%C3%AFve_des_ensembles "Théorie naïve des ensembles")
+  * [Bijection](/wiki/Bijection "Bijection")
+  * [Nombre cardinal](/wiki/Nombre_cardinal "Nombre cardinal")
+  * [Nombre ordinal](/wiki/Nombre_ordinal "Nombre ordinal")
+  * [Ensemble bien ordonné](/wiki/Ensemble_bien_ordonn%C3%A9 "Ensemble bien ordonné")
+  * [Infini](/wiki/Infini "Infini")
+  * [Médaille Cantor](/wiki/M%C3%A9daille_Cantor "Médaille Cantor")
+
+### Liens
+externes[[modifier](/w/index.php?title=Georg_Cantor&veaction=edit&section=15
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Georg_Cantor&action=edit&section=15 "Modifier la
+section : Liens externes")]
+
+  * [Notices d'autorité](/wiki/Autorit%C3%A9_\(sciences_de_l%27information\) "Autorité \(sciences de l'information\)")[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q76420?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : 
+    * [Fichier d’autorité international virtuel](http://viaf.org/viaf/39412881)
+    * [International Standard Name Identifier](http://isni.org/isni/0000000108895716)
+    * [Bibliothèque nationale de France](http://catalogue.bnf.fr/ark:/12148/cb121371602) ([données](http://data.bnf.fr/ark:/12148/cb121371602))
+    * [Système universitaire de documentation](http://www.idref.fr/027894312)
+    * [Bibliothèque du Congrès](http://id.loc.gov/authorities/n82252409)
+    * [Gemeinsame Normdatei](http://d-nb.info/gnd/118518887)
+    * [Bibliothèque nationale de la Diète](http://id.ndl.go.jp/auth/ndlna/00435223)
+    * [Bibliothèque nationale d’Espagne](http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX999360)
+    * [Bibliothèque royale des Pays-Bas](http://data.bibliotheken.nl/id/thes/p070381119)
+    * [Bibliothèque nationale d’Israël](http://uli.nli.org.il/F/?func=direct&doc_number=001434630&local_base=nlx10)
+    * [Bibliothèque universitaire de Pologne](http://viaf.org/processed/NUKAT%7Cn99011834)
+    * [Bibliothèque nationale de Suède](http://libris.kb.se/auth/181008)
+    * [WorldCat](http://www.worldcat.org/identities/lccn-n82-252409)
+
+  * Ressource relative à la recherche[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q76420?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : 
+    * (en) [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/id.php?id=29561)
+  * [Article de 1874 de Cantor sur la non-dénombrabilité des réels](http://www.bibnum.education.fr/mathematiques/theorie-des-nombres/cantor-et-les-infinis), commenté sur le site de BibNum.
+  * [Article de 1895 de Cantor, _Contributions aux fondements de la théorie des ensembles transfinis_](http://www.bibnum.education.fr/math%C3%A9matiques/th%C3%A9orie-des-nombres/contributions-au-fondement-de-la-th%C3%A9orie-des-ensembles-transfinis), commenté sur le site de BibNum.
+
+[v](/wiki/Mod%C3%A8le:Palette_Laur%C3%A9ats_de_la_m%C3%A9daille_Sylvester
+"Modèle:Palette Lauréats de la médaille Sylvester") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Laur%C3%A9ats_de_la_m%C3%A9daille_Sylvester&action=edit)
+
+Lauréats de la [médaille Sylvester](/wiki/M%C3%A9daille_Sylvester "Médaille
+Sylvester")  
+  
+---  
+1901 : [Henri Poincaré](/wiki/Henri_Poincar%C3%A9 "Henri Poincaré") • 1904 :
+Georg Cantor • 1907 : [Wilhelm Wirtinger](/wiki/Wilhelm_Wirtinger "Wilhelm
+Wirtinger") • 1910 : [Henry Frederick Baker](/wiki/Henry_Frederick_Baker
+"Henry Frederick Baker") • 1913 : [James Whitbread Lee
+Glaisher](/wiki/James_Whitbread_Lee_Glaisher "James Whitbread Lee Glaisher") •
+1916 : [Gaston Darboux](/wiki/Gaston_Darboux "Gaston Darboux") • 1919 : [Percy
+Alexander MacMahon](/wiki/Percy_Alexander_MacMahon "Percy Alexander MacMahon")
+• 1922 : [Tullio Levi-Civita](/wiki/Tullio_Levi-Civita "Tullio Levi-Civita") •
+1925 : [Alfred North Whitehead](/wiki/Alfred_North_Whitehead "Alfred North
+Whitehead") • 1928 : [William Henry Young](/wiki/William_Henry_Young "William
+Henry Young") • 1931 : [Edmund Taylor Whittaker](/wiki/Edmund_Taylor_Whittaker
+"Edmund Taylor Whittaker") • 1934 : [Bertrand Russell](/wiki/Bertrand_Russell
+"Bertrand Russell") • 1937 : [Augustus Edward Hough
+Love](/wiki/Augustus_Edward_Hough_Love "Augustus Edward Hough Love") • 1940 :
+[Godfrey Harold Hardy](/wiki/Godfrey_Harold_Hardy "Godfrey Harold Hardy") •
+1943 : [John Edensor Littlewood](/wiki/John_Edensor_Littlewood "John Edensor
+Littlewood") • 1946 : [George Neville Watson](/wiki/George_Neville_Watson
+"George Neville Watson") • 1949 : [Louis Mordell](/wiki/Louis_Mordell "Louis
+Mordell") • 1952 : [Abram Besicovitch](/wiki/Abram_Besicovitch "Abram
+Besicovitch") • 1955 : [Edward Charles
+Titchmarsh](/wiki/Edward_Charles_Titchmarsh "Edward Charles Titchmarsh") •
+1958 : [Max Newman](/wiki/Max_Newman "Max Newman") • 1961 : [Philip
+Hall](/wiki/Philip_Hall "Philip Hall") • 1964 : [Mary
+Cartwright](/wiki/Mary_Cartwright "Mary Cartwright") • 1967 : [Harold
+Davenport](/wiki/Harold_Davenport "Harold Davenport") • 1970 : [George
+Temple](/wiki/George_Temple "George Temple") • 1973 : [John
+Cassels](/wiki/John_Cassels "John Cassels") • 1976 : [David George
+Kendall](/wiki/David_George_Kendall "David George Kendall") • 1979 : [Graham
+Higman](/wiki/Graham_Higman "Graham Higman") • 1982 : [Frank
+Adams](/wiki/Frank_Adams "Frank Adams") • 1985 : [John Griggs
+Thompson](/wiki/John_Griggs_Thompson "John Griggs Thompson") • 1988 : [C. T.
+C. Wall](/wiki/C._T._C._Wall "C. T. C. Wall") • 1991 : [Klaus
+Roth](/wiki/Klaus_Roth "Klaus Roth") • 1994 : [Peter
+Whittle](/wiki/Peter_Whittle "Peter Whittle") • 1997 : [H.S.M.
+Coxeter](/wiki/Harold_Scott_MacDonald_Coxeter "Harold Scott MacDonald
+Coxeter") • 2000 : [Nigel Hitchin](/wiki/Nigel_Hitchin "Nigel Hitchin") • 2003
+: [Lennart Carleson](/wiki/Lennart_Carleson "Lennart Carleson") • 2006 :
+[Peter Swinnerton-Dyer](/wiki/Peter_Swinnerton-Dyer "Peter Swinnerton-Dyer") •
+2009 : [John M. Ball](/wiki/John_M._Ball "John M. Ball") • 2010 : [Graeme
+Segal](/wiki/Graeme_Segal "Graeme Segal") • 2012 : [John
+Toland](/wiki/John_Toland_\(math%C3%A9maticien\) "John Toland
+\(mathématicien\)") • 2014 : [Ben Joseph Green](/wiki/Ben_Joseph_Green "Ben
+Joseph Green") • 2016 : [Timothy Gowers](/wiki/Timothy_Gowers "Timothy
+Gowers") • 2018 : [Dusa McDuff](/wiki/Dusa_McDuff "Dusa McDuff") • 2019 :
+[Peter Sarnak](/wiki/Peter_Sarnak "Peter Sarnak")  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logic.svg/48px-Logic.svg.png)](/wiki/Portail:Logique "Portail de la logique") [Portail de la logique](/wiki/Portail:Logique "Portail:Logique")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Germany_%281867%E2%80%931919%29.svg/33px-Flag_of_Germany_%281867%E2%80%931919%29.svg.png)](/wiki/Portail:Empire_allemand "Portail de l'Empire allemand") [Portail de l'Empire allemand](/wiki/Portail:Empire_allemand "Portail:Empire allemand")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Georg_Cantor&oldid=174083631](https://fr.wikipedia.org/w/index.php?title=Georg_Cantor&oldid=174083631)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Mathématicien allemand du XIXe siècle](/wiki/Cat%C3%A9gorie:Math%C3%A9maticien_allemand_du_XIXe_si%C3%A8cle "Catégorie:Mathématicien allemand du XIXe siècle")
+  * [Personnalité en théorie des ensembles](/wiki/Cat%C3%A9gorie:Personnalit%C3%A9_en_th%C3%A9orie_des_ensembles "Catégorie:Personnalité en théorie des ensembles")
+  * [Philosophe allemand du XIXe siècle](/wiki/Cat%C3%A9gorie:Philosophe_allemand_du_XIXe_si%C3%A8cle "Catégorie:Philosophe allemand du XIXe siècle")
+  * [Étudiant de l'École polytechnique fédérale de Zurich](/wiki/Cat%C3%A9gorie:%C3%89tudiant_de_l%27%C3%89cole_polytechnique_f%C3%A9d%C3%A9rale_de_Zurich "Catégorie:Étudiant de l'École polytechnique fédérale de Zurich")
+  * [Étudiant de l'université Humboldt de Berlin](/wiki/Cat%C3%A9gorie:%C3%89tudiant_de_l%27universit%C3%A9_Humboldt_de_Berlin "Catégorie:Étudiant de l'université Humboldt de Berlin")
+  * [Professeur à l'université Martin-Luther de Halle-Wittemberg](/wiki/Cat%C3%A9gorie:Professeur_%C3%A0_l%27universit%C3%A9_Martin-Luther_de_Halle-Wittemberg "Catégorie:Professeur à l'université Martin-Luther de Halle-Wittemberg")
+  * [Membre de l'Académie des sciences de Göttingen](/wiki/Cat%C3%A9gorie:Membre_de_l%27Acad%C3%A9mie_des_sciences_de_G%C3%B6ttingen "Catégorie:Membre de l'Académie des sciences de Göttingen")
+  * [Personnalité ayant souffert de troubles bipolaires](/wiki/Cat%C3%A9gorie:Personnalit%C3%A9_ayant_souffert_de_troubles_bipolaires "Catégorie:Personnalité ayant souffert de troubles bipolaires")
+  * [Georg Cantor](/wiki/Cat%C3%A9gorie:Georg_Cantor "Catégorie:Georg Cantor")
+  * [Lauréat de la médaille Sylvester](/wiki/Cat%C3%A9gorie:Laur%C3%A9at_de_la_m%C3%A9daille_Sylvester "Catégorie:Lauréat de la médaille Sylvester")
+  * [Naissance en mars 1845](/wiki/Cat%C3%A9gorie:Naissance_en_mars_1845 "Catégorie:Naissance en mars 1845")
+  * [Naissance dans le gouvernement de Saint-Pétersbourg](/wiki/Cat%C3%A9gorie:Naissance_dans_le_gouvernement_de_Saint-P%C3%A9tersbourg "Catégorie:Naissance dans le gouvernement de Saint-Pétersbourg")
+  * [Naissance à Saint-Pétersbourg](/wiki/Cat%C3%A9gorie:Naissance_%C3%A0_Saint-P%C3%A9tersbourg "Catégorie:Naissance à Saint-Pétersbourg")
+  * [Décès en janvier 1918](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_en_janvier_1918 "Catégorie:Décès en janvier 1918")
+  * [Décès à Halle-sur-Saale](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_%C3%A0_Halle-sur-Saale "Catégorie:Décès à Halle-sur-Saale")
+  * [Décès en province de Saxe](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_en_province_de_Saxe "Catégorie:Décès en province de Saxe")
+  * [Décès à 72 ans](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_%C3%A0_72_ans "Catégorie:Décès à 72 ans")
+
+Catégories cachées :
+
+  * [Article contenant un appel à traduction en anglais](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais "Catégorie:Article contenant un appel à traduction en anglais")
+  * [Article utilisant une Infobox](/wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox "Catégorie:Article utilisant une Infobox")
+  * [Article à référence nécessaire](/wiki/Cat%C3%A9gorie:Article_%C3%A0_r%C3%A9f%C3%A9rence_n%C3%A9cessaire "Catégorie:Article à référence nécessaire")
+  * [Article à référence souhaitée](/wiki/Cat%C3%A9gorie:Article_%C3%A0_r%C3%A9f%C3%A9rence_souhait%C3%A9e "Catégorie:Article à référence souhaitée")
+  * [Article avec section à recycler](/wiki/Cat%C3%A9gorie:Article_avec_section_%C3%A0_recycler "Catégorie:Article avec section à recycler")
+  * [Catégorie Commons avec lien local différent sur Wikidata](/wiki/Cat%C3%A9gorie:Cat%C3%A9gorie_Commons_avec_lien_local_diff%C3%A9rent_sur_Wikidata "Catégorie:Catégorie Commons avec lien local différent sur Wikidata")
+  * [Article de Wikipédia avec notice d'autorité](/wiki/Cat%C3%A9gorie:Article_de_Wikip%C3%A9dia_avec_notice_d%27autorit%C3%A9 "Catégorie:Article de Wikipédia avec notice d'autorité")
+  * [Page utilisant P549](/wiki/Cat%C3%A9gorie:Page_utilisant_P549 "Catégorie:Page utilisant P549")
+  * [Page pointant vers des bases externes](/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_bases_externes "Catégorie:Page pointant vers des bases externes")
+  * [Page pointant vers des bases relatives à la recherche](/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_bases_relatives_%C3%A0_la_recherche "Catégorie:Page pointant vers des bases relatives à la recherche")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Portail:Logique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Logique/Articles_li%C3%A9s "Catégorie:Portail:Logique/Articles liés")
+  * [Portail:Empire allemand/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Empire_allemand/Articles_li%C3%A9s "Catégorie:Portail:Empire allemand/Articles liés")
+  * [Portail:Époque contemporaine/Articles liés](/wiki/Cat%C3%A9gorie:Portail:%C3%89poque_contemporaine/Articles_li%C3%A9s "Catégorie:Portail:Époque contemporaine/Articles liés")
+  * [Portail:Histoire/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Histoire/Articles_li%C3%A9s "Catégorie:Portail:Histoire/Articles liés")
+  * [Portail:Allemagne/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Allemagne/Articles_li%C3%A9s "Catégorie:Portail:Allemagne/Articles liés")
+  * [Portail:Europe/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Europe/Articles_li%C3%A9s "Catégorie:Portail:Europe/Articles liés")
+  * [Article de qualité en arménien](/wiki/Cat%C3%A9gorie:Article_de_qualit%C3%A9_en_arm%C3%A9nien "Catégorie:Article de qualité en arménien")
+  * [Article de qualité en anglais](/wiki/Cat%C3%A9gorie:Article_de_qualit%C3%A9_en_anglais "Catégorie:Article de qualité en anglais")
+  * [Article de qualité en vietnamien](/wiki/Cat%C3%A9gorie:Article_de_qualit%C3%A9_en_vietnamien "Catégorie:Article de qualité en vietnamien")
+  * [Wikipédia:Article biographique](/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia:Article_biographique "Catégorie:Wikipédia:Article biographique")
+  * [Portail:Biographie/Articles liés/Sciences](/wiki/Cat%C3%A9gorie:Portail:Biographie/Articles_li%C3%A9s/Sciences "Catégorie:Portail:Biographie/Articles liés/Sciences")
+  * [Portail:Biographie/Articles liés/Culture et arts](/wiki/Cat%C3%A9gorie:Portail:Biographie/Articles_li%C3%A9s/Culture_et_arts "Catégorie:Portail:Biographie/Articles liés/Culture et arts")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Georg_Cantor "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Georg_Cantor "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Georg_Cantor&oldid=174083631 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Georg_Cantor&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Georg_Cantor&id=174083631&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q76420 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Georg+Cantor)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Georg_Cantor&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Georg_Cantor&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Georg_Cantor)
+  * [Wikiquote](https://fr.wikiquote.org/wiki/Georg_Cantor)
+  * [Wikisource](https://fr.wikisource.org/wiki/Auteur:Georg_Cantor)
+
+###  Dans d’autres langues
+
+  * [Aragonés](https://an.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — aragonais")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D8%B1%D8%AC_%D9%83%D8%A7%D9%86%D8%AA%D9%88%D8%B1 "جورج كانتور — arabe")
+  * [مصرى](https://arz.wikipedia.org/wiki/%D8%AC%D9%88%D8%B1%D8%AC_%D9%83%D8%A7%D9%86%D8%AA%D9%88%D8%B1 "جورج كانتور — arabe égyptien")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — asturien")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Georq_Kantor "Georq Kantor — azéri")
+  * [تۆرکجه](https://azb.wikipedia.org/wiki/%D9%82%D8%A6%D9%88%D8%B1%D9%82_%DA%A9%D8%A7%D9%86%D8%AA%D9%88%D8%B1 "قئورق کانتور — South Azerbaijani")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%9A%D0%B0%D0%BD%D1%82%D0%B0%D1%80 "Георг Кантар — biélorusse")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80 "Георг Кантор — bulgare")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%B0%E0%A7%8D%E0%A6%97_%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%B0 "গেয়র্গ কান্টর — bengali")
+  * [Català](https://ca.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — catalan")
+  * [کوردی](https://ckb.wikipedia.org/wiki/%DA%AF%DB%8C%DB%86%D8%B1%DA%AF_%DA%A9%D8%A7%D9%86%D8%AA%DB%86%D8%B1 "گیۆرگ کانتۆر — sorani")
+  * [Čeština](https://cs.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — tchèque")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80_%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%A4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BD%D0%B4_%D0%9B%D1%8E%D0%B4%D0%B2%D0%B8%D0%B3_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF "Кантор Георг Фердинанд Людвиг Филипп — tchouvache")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — allemand")
+  * [Zazaki](https://diq.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — Zazaki")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%93%CE%BA%CE%AD%CE%BF%CF%81%CE%B3%CE%BA_%CE%9A%CE%AC%CE%BD%CF%84%CE%BF%CF%81 "Γκέοργκ Κάντορ — grec")
+  * [English](https://en.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%DA%AF%D8%A6%D9%88%D8%B1%DA%AF_%DA%A9%D8%A7%D9%86%D8%AA%D9%88%D8%B1 "گئورگ کانتور — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — finnois")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — irlandais")
+  * [Galego](https://gl.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%92%D7%90%D7%95%D7%A8%D7%92_%D7%A7%D7%A0%D7%98%D7%95%D7%A8 "גאורג קנטור — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%9C_%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%9F%E0%A5%89%E0%A4%B0 "जॉर्ज कांटॉर — hindi")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — croate")
+  * [Kreyòl ayisyen](https://ht.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — créole haïtien")
+  * [Magyar](https://hu.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%B3%D5%A5%D5%B8%D6%80%D5%A3_%D4%BF%D5%A1%D5%B6%D5%BF%D5%B8%D6%80 "Գեորգ Կանտոր — arménien")
+  * [Interlingua](https://ia.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — interlingua")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — indonésien")
+  * [Ido](https://io.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — ido")
+  * [Íslenska](https://is.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%AA%E3%83%AB%E3%82%AF%E3%83%BB%E3%82%AB%E3%83%B3%E3%83%88%E3%83%BC%E3%83%AB "ゲオルク・カントール — japonais")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%94%E1%83%9D%E1%83%A0%E1%83%92_%E1%83%99%E1%83%90%E1%83%9C%E1%83%A2%E1%83%9D%E1%83%A0%E1%83%98 "გეორგ კანტორი — géorgien")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80 "Георг Кантор — kazakh")
+  * [한국어](https://ko.wikipedia.org/wiki/%EA%B2%8C%EC%98%A4%EB%A5%B4%ED%81%AC_%EC%B9%B8%ED%86%A0%EC%96%B4 "게오르크 칸토어 — coréen")
+  * [Kurdî](https://ku.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — kurde")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80 "Георг Кантор — kirghize")
+  * [Latina](https://la.wikipedia.org/wiki/Georgius_Cantor "Georgius Cantor — latin")
+  * [Lumbaart](https://lmo.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — lombard")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Georgs_Kantors "Georgs Kantors — letton")
+  * [Malagasy](https://mg.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — malgache")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80 "Георг Кантор — macédonien")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%9C%E0%B5%8B%E0%B5%BC%E0%B4%9C%E0%B5%8D_%E0%B4%95%E0%B4%BE%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%BC "ജോർജ് കാന്റർ — malayalam")
+  * [မြန်မာဘာသာ](https://my.wikipedia.org/wiki/%E1%80%82%E1%80%BB%E1%80%B1%E1%80%AC%E1%80%B7_%E1%80%80%E1%80%94%E1%80%BA%E1%80%90%E1%80%AC "ဂျော့ ကန်တာ — birman")
+  * [नेपाली](https://ne.wikipedia.org/wiki/%E0%A4%9C%E0%A4%B0%E0%A5%8D%E0%A4%9C_%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%B0 "जर्ज क्यान्टर — népalais")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — norvégien bokmål")
+  * [Occitan](https://oc.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — occitan")
+  * [ଓଡ଼ିଆ](https://or.wikipedia.org/wiki/%E0%AC%9C%E0%AC%B0%E0%AD%8D%E0%AC%9C_%E0%AC%95%E0%AD%8D%E0%AD%9F%E0%AC%BE%E0%AC%A3%E0%AD%8D%E0%AC%9F%E0%AC%B0 "ଜର୍ଜ କ୍ୟାଣ୍ଟର — odia")
+  * [Polski](https://pl.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — polonais")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — piémontais")
+  * [پنجابی](https://pnb.wikipedia.org/wiki/%D8%AC%D9%88%D8%B1%D8%AC_%DA%A9%D9%86%D9%B9%D9%88%D8%B1 "جورج کنٹور — Western Punjabi")
+  * [Português](https://pt.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3 "Кантор, Георг — russe")
+  * [Scots](https://sco.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — écossais")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Georg_Ferdinand_Cantor "Georg Ferdinand Cantor — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Georg_Ferdinand_Cantor "Georg Ferdinand Cantor — slovène")
+  * [Shqip](https://sq.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80 "Георг Кантор — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — suédois")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%95%E0%AF%87%E0%AE%A9%E0%AF%8D%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B0%E0%AF%8D "கியார்கு கேன்ட்டர் — tamoul")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%84_%E0%B8%84%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C "เกออร์ค คันทอร์ — thaï")
+  * [Tagalog](https://tl.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — tagalog")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80 "Георг Кантор — ukrainien")
+  * [اردو](https://ur.wikipedia.org/wiki/%D8%AC%D9%88%D8%B1%D8%AC_%DA%A9%D9%86%D9%B9%D9%88%D8%B1 "جورج کنٹور — ourdou")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — ouzbek")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — vietnamien")
+  * [Volapük](https://vo.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — volapük")
+  * [Winaray](https://war.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — waray")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E6%A0%BC%E5%A5%A5%E5%B0%94%E6%A0%BC%C2%B7%E5%BA%B7%E6%89%98%E5%B0%94 "格奥尔格·康托尔 — wu")
+  * [Yorùbá](https://yo.wikipedia.org/wiki/Georg_Cantor "Georg Cantor — yoruba")
+  * [中文](https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%A5%A5%E5%B0%94%E6%A0%BC%C2%B7%E5%BA%B7%E6%89%98%E5%B0%94 "格奥尔格·康托尔 — chinois")
+  * [文言](https://zh-classical.wikipedia.org/wiki/%E5%BA%B7%E6%89%98%E7%88%BE "康托爾 — Classical Chinese")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E5%BA%B7%E6%89%98%E7%88%BE "康托爾 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q76420#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Georg+Cantor "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Georg+Cantor "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Georg_Cantor "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Georg_Cantor "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Georg_Cantor)
+  * [Modifier](/w/index.php?title=Georg_Cantor&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Georg_Cantor&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Georg_Cantor&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 24 août 2020 à 07:28.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Georg_Cantor "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Georg_Cantor&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[XXIe]: 21ᵉ siècle
+  *[réf.]: référence
+  *[(en)]: Langue : anglais
+  *[coll.]: collection
+  *[no]: numéro
+  *[1er]: premier
+  *[p.]: pages
+  *[vol.]: volume
+  *[(de)]: Langue : allemand
+  *[ XIXe]: 19ᵉ siècle
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+

@@ -1,0 +1,1293 @@
+# Nicolas Bourbaki
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Bourbaki](/wiki/Bourbaki "Bourbaki").
+
+Association des collaborateurs de Nicolas Bourbaki
+
+[![Logo de
+l’association](//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bourbaki_congress1938.png/220px-
+Bourbaki_congress1938.png)](/wiki/Fichier:Bourbaki_congress1938.png "lang=fr")
+
+Le congrès Bourbaki de 1938. De gauche à droite : [Simone
+Weil](/wiki/Simone_Weil "Simone Weil"), [Charles Pisot](/wiki/Charles_Pisot
+"Charles Pisot"), [André Weil](/wiki/Andr%C3%A9_Weil "André Weil") (caché),
+[Jean Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné"), [Claude
+Chabauty](/wiki/Claude_Chabauty "Claude Chabauty"), [Charles
+Ehresmann](/wiki/Charles_Ehresmann "Charles Ehresmann") et [Jean
+Delsarte](/wiki/Jean_Delsarte "Jean Delsarte").
+
+Cadre Forme juridique  |  [Association loi de
+1901](/wiki/Association_loi_de_1901 "Association loi de 1901")  
+---|---  
+Fondation Fondation  |  le 30 août 1952, il y a 68 ans  
+---|---  
+Fondateurs  |  [Henri Cartan](/wiki/Henri_Cartan "Henri Cartan"), [Claude
+Chevalley](/wiki/Claude_Chevalley "Claude Chevalley"), [Jean
+Coulomb](/wiki/Jean_Coulomb "Jean Coulomb"), [Jean
+Delsarte](/wiki/Jean_Delsarte "Jean Delsarte"), [Jean
+Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné"), [Charles
+Ehresmann](/wiki/Charles_Ehresmann "Charles Ehresmann"), [René de
+Possel](/wiki/Ren%C3%A9_de_Possel "René de Possel"), [Szolem
+Mandelbrojt](/wiki/Szolem_Mandelbrojt "Szolem Mandelbrojt"), [André
+Weil](/wiki/Andr%C3%A9_Weil "André Weil")  
+Identité Siège  |  [École normale
+supérieure](/wiki/%C3%89cole_normale_sup%C3%A9rieure_\(Paris\) "École normale
+supérieure \(Paris\)"), [Paris](/wiki/Paris "Paris")  
+---|---  
+[Site web](/wiki/Site_web "Site web") |  <http://www.bourbaki.ens.fr/>  
+  
+[modifier](https://fr.wikipedia.org/w/index.php?title=Nicolas_Bourbaki&action=edit)
+[![Consultez la documentation du
+modèle](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Mod%C3%A8le:Infobox_Association "Consultez la
+documentation du modèle")
+
+**Nicolas Bourbaki** est un [mathématicien](/wiki/Math%C3%A9maticien
+"Mathématicien") imaginaire, sous le nom duquel un groupe de mathématiciens
+francophones, formé en 1935 à Besse (aujourd'hui [Besse-et-Saint-
+Anastaise](/wiki/Besse-et-Saint-Anastaise "Besse-et-Saint-Anastaise")) en
+[Auvergne](/wiki/Auvergne "Auvergne") sous l'impulsion d'[André
+Weil](/wiki/Andr%C3%A9_Weil "André Weil"), a commencé à écrire et à éditer des
+textes mathématiques à la fin des années 1930. L'objectif premier était la
+rédaction d'un traité d'analyse. Le groupe s'est constitué en association, l'
+_Association des Collaborateurs de Nicolas Bourbaki_ [1], le 30 août 1952. Sa
+composition a évolué avec un renouvellement constant de générations.
+
+Sous le nom _N. Bourbaki_ fut publiée une présentation cohérente des
+mathématiques, appuyée sur la notion de
+[structure](/wiki/Structure_\(math%C3%A9matiques\) "Structure
+\(mathématiques\)"), dans une série d'ouvrages sous le titre _[Éléments de
+mathématique](/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique "Éléments de
+mathématique")_. Cette œuvre est à ce jour inachevée. Elle a eu une influence
+notable sur l'[enseignement des
+mathématiques](/wiki/Enseignement_des_math%C3%A9matiques "Enseignement des
+mathématiques") et sur l'[évolution des
+mathématiques](/wiki/Histoire_des_math%C3%A9matiques "Histoire des
+mathématiques") du XXe siècle. Toutefois, elle connaît de nombreuses critiques
+: incompatibilité[2] entre le formalisme retenu et la [théorie des
+catégories](/wiki/Th%C3%A9orie_des_cat%C3%A9gories "Théorie des catégories"),
+style trop formel[3],[4], rejet de la [théorie des
+probabilités](/wiki/Th%C3%A9orie_des_probabilit%C3%A9s "Théorie des
+probabilités")[5], manque d'exemples, incompréhension des étudiants, etc. À
+ces critiques, on peut opposer l'enthousiasme du grand mathématicien [Emil
+Artin](/wiki/Emil_Artin "Emil Artin") : « Notre époque assiste à la création
+d'un ouvrage monumental : un exposé de la totalité des mathématiques
+d'aujourd'hui. De plus, cet exposé est fait de telle manière que les liens
+entre les diverses branches des mathématiques deviennent clairement
+visibles[6]. »
+
+L'activité du groupe a cependant dépassé la seule rédaction d'ouvrages, par
+exemple avec l'organisation des [séminaires
+Bourbaki](/wiki/S%C3%A9minaire_Nicolas_Bourbaki "Séminaire Nicolas Bourbaki").
+
+## Sommaire
+
+  * 1 Explications sur la biographie (imaginaire)
+    * 1.1 Bourbaki
+    * 1.2 Nicolas
+    * 1.3 Poldévie
+  * 2 Histoire de Bourbaki
+    * 2.1 Origines
+    * 2.2 Les _Éléments de mathématique_
+    * 2.3 L'âge d'or de Bourbaki
+    * 2.4 Les canulars Bourbaki
+      * 2.4.1 _Le mariage de Bourbaki_
+      * 2.4.2 _La mort de Bourbaki_
+  * 3 Héritage et influence en mathématique
+    * 3.1 Notations et terminologie
+    * 3.2 Bourbaki novateur
+      * 3.2.1 Théorie des ensembles
+      * 3.2.2 Algèbre
+      * 3.2.3 Topologie générale
+      * 3.2.4 Espaces vectoriels topologiques
+      * 3.2.5 Intégration
+      * 3.2.6 Algèbre commutative
+    * 3.3 Notes critiques
+      * 3.3.1 Bourbaki et la théorie des probabilités
+      * 3.3.2 Bourbaki et la théorie des catégories
+  * 4 Influences dans d'autres disciplines : structuralisme et Oulipo
+  * 5 Mathématiciens ayant appartenu à Bourbaki
+    * 5.1 Membres fondateurs
+    * 5.2 Membres non fondateurs
+    * 5.3 Membres actuels
+  * 6 Principales publications
+  * 7 Articles de revues signés Nicolas Bourbaki
+  * 8 Notes et références
+    * 8.1 Notes
+    * 8.2 Références
+  * 9 Voir aussi
+    * 9.1 Bibliographie
+    * 9.2 Émission de radio
+    * 9.3 Articles connexes
+    * 9.4 Liens externes
+
+## Explications sur la biographie
+(imaginaire)[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=1
+"Modifier la section : Explications sur la biographie \(imaginaire\)") |
+[modifier le code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=1
+"Modifier la section : Explications sur la biographie \(imaginaire\)")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Nicolas_Bourbaki_naissance_%C3%A0_Besse.jpg/220px-
+Nicolas_Bourbaki_naissance_%C3%A0_Besse.jpg)](/wiki/Fichier:Nicolas_Bourbaki_naissance_%C3%A0_Besse.jpg)
+
+[](/wiki/Fichier:Nicolas_Bourbaki_naissance_%C3%A0_Besse.jpg "Agrandir")
+
+Plaque commémorative de la naissance de Nicolas Bourbaki à
+[Besse](/wiki/Besse-et-Saint-Anastaise "Besse-et-Saint-Anastaise") en juillet
+1935.
+
+###
+Bourbaki[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=2
+"Modifier la section : Bourbaki") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=2 "Modifier la
+section : Bourbaki")]
+
+Le nom de famille Bourbaki était le nom emprunté par [Raoul
+Husson](/wiki/Raoul_Husson "Raoul Husson") en 1923 lors d'un
+[canular](/wiki/Canular "Canular"), alors qu'il était élève en troisième année
+de l'[École normale
+supérieure](/wiki/%C3%89cole_normale_sup%C3%A9rieure_\(Paris\) "École normale
+supérieure \(Paris\)"). Pour présenter la démonstration d'un prétendu «
+théorème de Bourbaki », il avait pris l'apparence d'un mathématicien barbu,
+dénommé professeur Holmgren, pour donner une fausse conférence, volontairement
+incompréhensible et avec des raisonnements subtilement faux[7].
+
+Le choix de ce nom par Husson connaît trois explications possibles :
+
+  * Bourbaki vient du général [Charles-Denis Bourbaki](/wiki/Charles-Denis_Bourbaki "Charles-Denis Bourbaki") sous lequel avaient servi des élèves normaliens durant la [guerre de 1870](/wiki/Guerre_franco-allemande_\(1870\) "Guerre franco-allemande \(1870\)"). Ce nom lui aurait été emprunté, par souvenir ;
+  * Bourbaki est le nom d'un [hérisson](/wiki/H%C3%A9risson "Hérisson") apprivoisé par un personnage du roman d'[Octave Mirbeau](/wiki/Octave_Mirbeau "Octave Mirbeau"), _[Le Journal d'une femme de chambre](/wiki/Le_Journal_d%27une_femme_de_chambre "Le Journal d'une femme de chambre")_ (1900), le [capitaine Mauger](/wiki/Capitaine_Mauger "Capitaine Mauger"). Cette seconde explication a été proposée par le mathématicien Sterling K. Berberian en 1980 mais n'a été confirmée par les propos d'aucun membre du groupe[8].
+  * Bourbaki pourrait aussi être la francisation de (Georgius) Burbachius (une déformation de [Purbachius](/wiki/Georg_von_Peuerbach "Georg von Peuerbach")), nom d'un mathématicien cité dans un ouvrage de 1631 ; le prénom Nicolas serait la francisation de celui de [Nicolaus Copernicus](/wiki/Nicolas_Copernic "Nicolas Copernic"), qui dans l'édition imprimée apparaît juste en dessous du nom précédent[9].
+
+Le nom Bourbaki a été arrêté en juillet 1935 lors du congrès fondateur de
+[Besse-en-Chandesse](/wiki/Besse-et-Saint-Anastaise "Besse-et-Saint-
+Anastaise").
+
+Extrait d'une lettre[10],[11],[12] de [Jean
+Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné") à la rédaction du
+_Cahiers du séminaire d'histoire des mathématiques_ :
+
+> « [Le nom de Bourbaki] est effectivement une idée de
+> [Weil](/wiki/Andr%C3%A9_Weil "André Weil"). À [Aligarh](/wiki/Aligarh
+> "Aligarh"), il s'était lié avec un mathématicien hindou [D.
+> Kosambi](/w/index.php?title=Damodar_Dharmananda_Kosambi&action=edit&redlink=1
+> "Damodar Dharmananda Kosambi \(page inexistante\)")
+> [(en)](https://en.wikipedia.org/wiki/Damodar_Dharmananda_Kosambi "en:Damodar
+> Dharmananda Kosambi"), lequel avait une querelle avec un de ses collègues
+> dont je ne sais pas le nom. Weil lui suggéra pour faire « perdre la face » à
+> son adversaire de publier un article où il ferait référence à un mémoire
+> imaginaire que l'autre évidemment ne connaîtrait pas et en serait humilié !
+> L'article est effectivement paru sous le titre : _On a generalization of the
+> second theorem of Bourbaki_ , Bull. Acad. Sci. Allahabad, vol. 1.,
+> 1931-1932, p. 145-147. [...] Ce dernier a été dûment analysé dans _Jahrbuch_
+> , tome 58, 1932, p. 734, par
+> [Schouten](/w/index.php?title=Jan_Arnoldus_Schouten&action=edit&redlink=1
+> "Jan Arnoldus Schouten \(page inexistante\)")
+> [(en)](https://en.wikipedia.org/wiki/Jan_Arnoldus_Schouten "en:Jan Arnoldus
+> Schouten")[13]. Il est dit en effet qu'un mathématicien russe du nom de D.
+> Bourbaki[a] aurait publié un théorème sur les dérivées covariantes que
+> Kosambi généralise dans l'article ; Kosambi disait dans l'article que le
+> mémoire lui aurait été signalé par [A. Weil](/wiki/Andr%C3%A9_Weil "André
+> Weil"), mais Schouten a cru que c'était une erreur de nom et a dit dans son
+> compte-rendu que c'était [H. Weyl](/wiki/Hermann_Weyl "Hermann Weyl") qui
+> aurait signalé le mémoire russe à Kosambi, et il ajoute qu'il ne sait pas
+> dans quel périodique a paru le mémoire. »
+
+###
+Nicolas[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=3
+"Modifier la section : Nicolas") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=3 "Modifier la
+section : Nicolas")]
+
+Le prénom Nicolas a été choisi par Éveline de Possel[b] à la fin de 1935[14],
+afin que puisse être communiquée une fausse note biographique à l'[Académie
+des sciences](/wiki/Acad%C3%A9mie_des_sciences_\(France\) "Académie des
+sciences \(France\)").
+
+Toutefois, la mention N. Bourbaki, dans les premiers écrits publiés sous ce
+nom, ne renvoie pas à l'initiale de Nicolas. _N_ était écrit tant que le nom
+du professeur était inconnu[15].
+
+Depuis les débuts, les _[Éléments de
+mathématique](/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique "Éléments de
+mathématique")_ sont publiés sous le nom de N. Bourbaki. Le seul ouvrage
+publié sous le nom de Nicolas Bourbaki se trouve être les _[Éléments
+d'histoire des
+mathématiques](/wiki/%C3%89l%C3%A9ments_d%27histoire_des_math%C3%A9matiques
+"Éléments d'histoire des mathématiques")_. On remarquera que si le
+mathématicien N. Bourbaki parle de « mathématique », l'historien Nicolas
+Bourbaki parle des mathématiques.
+
+###
+Poldévie[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=4
+"Modifier la section : Poldévie") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=4 "Modifier la
+section : Poldévie")]
+
+Article détaillé : [Poldévie](/wiki/Pold%C3%A9vie "Poldévie").
+
+En 1935, dans une lettre à [Élie Cartan](/wiki/%C3%89lie_Cartan "Élie
+Cartan"), Weil introduit N. Bourbaki comme un professeur de
+[Poldévie](/wiki/Pold%C3%A9vie "Poldévie"), pays imaginaire d'Europe centrale.
+D'après Maurice Mashaal, ce risque pris fut une nécessité pour pouvoir publier
+des travaux sous ce pseudonyme. Une prétendue nation
+[poldève](/wiki/Pold%C3%A9vie "Poldévie") avait déjà été évoquée en 1929 par
+le journaliste d'[Action française](/wiki/Action_fran%C3%A7aise "Action
+française") [Alain Mellet](/wiki/Alain_Mellet "Alain Mellet") pour mystifier
+les députés républicains de gauche[c].
+
+Le nom Poldévie est resté. Il est notamment mentionné comme le lieu de travail
+de Nicolas Bourbaki dans la _Notice sur la vie et l'œuvre de Nicolas
+Bourbaki_.
+
+## Histoire de
+Bourbaki[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=5
+"Modifier la section : Histoire de Bourbaki") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=5 "Modifier la
+section : Histoire de Bourbaki")]
+
+###
+Origines[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=6
+"Modifier la section : Origines") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=6 "Modifier la
+section : Origines")]
+
+Le groupe Bourbaki s'est constitué dans un contexte où une génération de
+_mathématiciens potentiels_ avait été décimée par la [Première Guerre
+mondiale](/wiki/Premi%C3%A8re_Guerre_mondiale "Première Guerre mondiale"). Les
+jeunes normaliens qui constituèrent le groupe se trouvaient donc sans
+prédécesseurs immédiats au sein de l'université, sauf [Gaston
+Julia](/wiki/Gaston_Julia "Gaston Julia"), et avaient pour interlocuteurs des
+chercheurs du XIXe siècle ([Élie Cartan](/wiki/%C3%89lie_Cartan "Élie
+Cartan"), [Henri Lebesgue](/wiki/Henri-L%C3%A9on_Lebesgue "Henri-Léon
+Lebesgue"), [Jacques Hadamard](/wiki/Jacques_Hadamard "Jacques Hadamard")[d],
+[Émile Picard](/wiki/%C3%89mile_Picard "Émile Picard"), [Édouard
+Goursat](/wiki/%C3%89douard_Goursat "Édouard Goursat")). La critique de
+Bourbaki portait sur :
+
+  * l'émiettement des mathématiques en spécialités étanches ;
+  * la pré-éminence d'une analyse foisonnante mais manquant de rigueur ;
+  * l'ignorance (explicable en partie par le contexte politique) de branches actives à l'étranger, particulièrement l'algèbre développée en Allemagne.
+
+À l'origine, au début de leurs prises de fonction à
+l'[université](/wiki/Universit%C3%A9 "Université") de Strasbourg, [Henri
+Cartan](/wiki/Henri_Cartan "Henri Cartan") et [André
+Weil](/wiki/Andr%C3%A9_Weil "André Weil") se retrouvent à devoir enseigner
+l'intégration et le [calcul différentiel](/wiki/Calcul_infinit%C3%A9simal
+"Calcul infinitésimal"). Ils sont alors peu satisfaits des traités
+disponibles, en particulier du _Traité d'analyse_ d'[Édouard
+Goursat](/wiki/%C3%89douard_Goursat "Édouard Goursat") qu'ils utilisent pour
+leur cours.
+
+Leur vient alors l'idée de réunir des amis, également anciens camarades de
+l'[École normale supérieure de la rue
+d'Ulm](/wiki/%C3%89cole_normale_sup%C3%A9rieure_\(Paris\) "École normale
+supérieure \(Paris\)") (sauf [Szolem Mandelbrojt](/wiki/Szolem_Mandelbrojt
+"Szolem Mandelbrojt")), avec la volonté de rédiger un tel traité les
+satisfaisant. Le groupe d'amis, les membres fondateurs de ce qui deviendra
+Bourbaki, est à cette époque composé d'[André Weil](/wiki/Andr%C3%A9_Weil
+"André Weil")[e] et [Jean Delsarte](/wiki/Jean_Delsarte "Jean Delsarte")
+(promotion 1922), d'[Henri Cartan](/wiki/Henri_Cartan "Henri Cartan"), [Jean
+Coulomb](/wiki/Jean_Coulomb "Jean Coulomb") et [René de
+Possel](/wiki/Ren%C3%A9_de_Possel "René de Possel") (promotion 1923), [Jean
+Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné") et [Charles
+Ehresmann](/wiki/Charles_Ehresmann "Charles Ehresmann") (promotion 1924),
+[Claude Chevalley](/wiki/Claude_Chevalley "Claude Chevalley") (promotion 1926)
+et [Szolem Mandelbrojt](/wiki/Szolem_Mandelbrojt "Szolem Mandelbrojt").
+
+Parmi les règles qui organisent ce groupe secret de mathématiciens, il est
+décidé qu'à l'âge de 50 ans, tout membre de Bourbaki devra céder sa place aux
+jeunes générations. Pour l'anecdote, André Weil, à l'occasion de la fête
+d'anniversaire des 50 ans de Dieudonné (en juillet 1956), fit lire au groupe
+Bourbaki une lettre où il annonçait son retrait du groupe, car il avait lui-
+même dépassé l'âge limite. Cet éclat eut son effet mais les quinquagénaires
+traînèrent un peu les pieds pour partir. Selon Pierre Cartier, Weil, né en
+1906, participa à des congrès à Amboise en 1957 et 1959, notamment pour
+travailler sur la [mesure de Haar](/wiki/Mesure_de_Haar "Mesure de Haar")[16].
+Dieudonné continua, jusqu'à la fin des années 1970, à relire minutieusement
+les épreuves des _Éléments de mathématique_ [17].
+
+### Les _Éléments de mathématique_
+[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=7
+"Modifier la section : Les Éléments de mathématique") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=7 "Modifier la
+section : Les Éléments de mathématique")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bourbaki%2C_Theorie_des_ensembles_maitrier.jpg/220px-
+Bourbaki%2C_Theorie_des_ensembles_maitrier.jpg)](/wiki/Fichier:Bourbaki,_Theorie_des_ensembles_maitrier.jpg)
+
+[](/wiki/Fichier:Bourbaki,_Theorie_des_ensembles_maitrier.jpg "Agrandir")
+
+_[Théorie des ensembles](/wiki/Th%C3%A9orie_des_ensembles "Théorie des
+ensembles")_ , premier tome des _[Éléments de
+mathématique](/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique "Éléments de
+mathématique")_ , 1970, chez Hermann.
+
+Article détaillé : [Éléments de
+mathématique](/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique "Éléments de
+mathématique").
+
+La première réunion de travail a lieu dans un café du quartier latin[f] en
+décembre 1934. En juillet de l'année suivante, le groupe se retrouve pour la
+première fois à [Besse-en-Chandesse](/wiki/Besse-et-Saint-Anastaise "Besse-et-
+Saint-Anastaise"). Ils pensent alors que trois ans seront suffisants pour
+mener la rédaction du traité d'analyse à son terme. En fait, le premier
+chapitre nécessitera quatre ans de travail et, très rapidement, c'est un
+traité sur _la mathématique_ qui devient le projet du groupe : les _[Éléments
+de mathématique](/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique "Éléments de
+mathématique")_ , œuvre collective publiée sous le pseudonyme de N. Bourbaki.
+L'ampleur de la tâche fait qu'elle se poursuit encore...
+
+Le premier volume des _[Éléments de
+mathématique](/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique "Éléments de
+mathématique")_ à être publié, en 1939, fut le _Fascicule de résultats_ (un
+résumé sans démonstration) de la _Théorie des ensembles_. Il fut suivi d'un
+fascicule contenant les deux premiers chapitres de _Topologie générale_ en
+1940, puis, en 1942, de la première édition du premier chapitre d'Algèbre (
+_Structures algébriques_ ) pendant la guerre. La publication des volumes ne
+respectait pas l'ordre de présentation du traité (Théorie des ensembles,
+Algèbre, Topologie générale…). Le premier chapitre rédigé de _Théorie des
+ensembles_ (« _Description de la mathématique formelle_ ») ne parut que dix
+ans plus tard, en 1954, après les premiers chapitres de _Fonctions d'une
+variable réelle_ (1947-1951), d’ _Espaces vectoriels topologiques_ (1953) et
+d' _Intégration_ (1952)[18].
+
+Dans les années 1970, la production des _Éléments_ ralentit du fait d'un
+contentieux avec l'éditeur Hermann, puis s'arrête presque complètement : à
+partir de 1984, le groupe ne publie que des rééditions, au point que le
+journal _[Le Monde](/wiki/Le_Monde "Le Monde")_ croit pouvoir annoncer la mort
+collective du groupe en 1998[7]. Cependant, un nouveau chapitre d'[algèbre
+commutative](/wiki/Alg%C3%A8bre_commutative "Algèbre commutative") paraît
+justement cette année-là, puis un nouveau volume consacré à la [topologie
+algébrique](/wiki/Topologie_alg%C3%A9brique "Topologie algébrique") (les
+quatre premiers chapitres) paraît en 2016, et une réédition refondue des
+premiers chapitres consacrés aux [théories
+spectrales](/wiki/Th%C3%A9orie_spectrale "Théorie spectrale") paraît en 2019.
+
+### L'âge d'or de
+Bourbaki[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=8
+"Modifier la section : L'âge d'or de Bourbaki") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=8 "Modifier la
+section : L'âge d'or de Bourbaki")]
+
+Même si le groupe Nicolas Bourbaki existe toujours aujourd'hui, on considère
+que son influence a atteint son apogée dans les années 1960 et 1970. À cette
+époque, son importance était telle que ses choix ont influencé toute la
+recherche française en mathématiques et, de façon discutée, leur enseignement
+à travers la réforme [Lichnerowicz](/wiki/Andr%C3%A9_Lichnerowicz "André
+Lichnerowicz") de 1969[19].
+
+Nicolas Bourbaki totalise cinq [médailles Fields](/wiki/M%C3%A9daille_Fields
+"Médaille Fields") (la plus importante récompense en mathématiques) à travers
+[Laurent Schwartz](/wiki/Laurent_Schwartz_\(math%C3%A9maticien\) "Laurent
+Schwartz \(mathématicien\)") (1950), [Jean-Pierre Serre](/wiki/Jean-
+Pierre_Serre "Jean-Pierre Serre") (1954), [Alexandre
+Grothendieck](/wiki/Alexandre_Grothendieck "Alexandre Grothendieck") (1966),
+[Alain Connes](/wiki/Alain_Connes "Alain Connes") (1982) et [Jean-Christophe
+Yoccoz](/wiki/Jean-Christophe_Yoccoz "Jean-Christophe Yoccoz") (1994).
+
+### Les canulars
+Bourbaki[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=9
+"Modifier la section : Les canulars Bourbaki") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=9 "Modifier la
+section : Les canulars Bourbaki")]
+
+Bourbaki publiait dans sa revue interne _La Tribu_ des textes humoristiques
+autour de la vie du groupe[20].
+
+#### _Le mariage de Bourbaki_
+[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=10
+"Modifier la section : Le mariage de Bourbaki") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=10 "Modifier la
+section : Le mariage de Bourbaki")]
+
+Ce texte fait partie des productions internes du groupe Bourbaki[21] :
+
+> « Faire-part de mariage
+>
+> Monsieur Nicolas Bourbaki, membre canonique de l'académie royale de
+> Poldévie, grand maître de l'ordre des compacts, conservateur des uniformes,
+> lord protecteur des filtres, et Madame, née Biunivoque, ont l'honneur de
+> vous faire part du mariage de leur fille Betti avec Monsieur Hector Pétard,
+> administrateur délégué de la société des structures induites, membre diplômé
+> de l'institute of class field archeologist, secrétaire de l'oeuvre du sou du
+> lyon.
+>
+> Monsieur Ersatz Stanislasz Pondiczery, complexe de recouvrement de première
+> classe en retraite, président du Hom de rééducation des faiblement
+> convergents, chevalier des quatre U, grand opérateur du groupe hyperbolique,
+> knight of the total order of the golden mean, L.U.B., C.C., H.L.C., et
+> Madame, née Compactensoi, ont l'honneur de vous faire part du mariage de
+> leur fils Hector Pétard avec Mademoiselle Betti Bourbaki, ancienne élève des
+> bien ordonnées de Besse.
+>
+> L'isomorphisme trivial leur sera donné par le P. adique, de l'ordre des
+> diophantiens, en la cohomologie principale de la variété universelle le 3
+> cartembre, an VI, à l'heure habituelle. L'orgue sera tenu par M. Modulo,
+> assistant simplexe de la grâce Mannienne (lemme chanté par la schola
+> cartanorum). Le produit de la quête sera versé intégralement à la maison de
+> retraite des pauvres abstraits. La convergence sera assurée. Après la
+> congruence, M. et Mme Bourbaki recevront dans leurs domaines fondamentaux.
+> Sauterie avec le concours de la fanfare du 7ème corps quotient. Tenues
+> canoniques, idéaux à gauche à la boutonnière, c.q.f.d. »
+
+####  _La mort de Bourbaki_
+[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=11
+"Modifier la section :  La mort de Bourbaki") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=11 "Modifier la
+section :  La mort de Bourbaki")]
+
+Dans la lignée [dadaïste](/wiki/Dada "Dada") de sa naissance, le [faire-
+part](/wiki/Faire-part "Faire-part") de décès suivant, sous forme de canular,
+fut publié en 1968 pour annoncer la « mort » de Nicolas Bourbaki. Dans ce
+texte, attribué à [Jacques Roubaud](/wiki/Jacques_Roubaud "Jacques Roubaud"),
+il s'agissait de critiquer l'évolution prise par le groupe à l'époque[21] :
+
+> « Faire part de décès
+>
+> Les familles [Cantor](/wiki/Georg_Cantor "Georg Cantor"),
+> [Hilbert](/wiki/David_Hilbert "David Hilbert"), [Noether](/wiki/Emmy_Noether
+> "Emmy Noether") ; les familles [Cartan](/wiki/Henri_Cartan "Henri Cartan"),
+> [Chevalley](/wiki/Claude_Chevalley "Claude Chevalley"),
+> [Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné"),
+> [Weil](/wiki/Andr%C3%A9_Weil "André Weil") ; les familles
+> [Bruhat](/wiki/Fran%C3%A7ois_Bruhat "François Bruhat"),
+> [Dixmier](/wiki/Jacques_Dixmier "Jacques Dixmier"),
+> [Samuel](/wiki/Pierre_Samuel "Pierre Samuel"),
+> [Schwartz](/wiki/Laurent_Schwartz_\(math%C3%A9maticien\) "Laurent Schwartz
+> \(mathématicien\)") ; les familles [Cartier](/wiki/Pierre_Cartier "Pierre
+> Cartier"), [Grothendieck](/wiki/Alexandre_Grothendieck "Alexandre
+> Grothendieck"), [Malgrange](/wiki/Bernard_Malgrange "Bernard Malgrange"),
+> [Serre](/wiki/Jean-Pierre_Serre "Jean-Pierre Serre") ; les familles
+> [Demazure](/wiki/Michel_Demazure "Michel Demazure"),
+> [Douady](/wiki/Adrien_Douady "Adrien Douady"),
+> [Giraud](/wiki/Jean_Giraud_\(math%C3%A9maticien\) "Jean Giraud
+> \(mathématicien\)"), [Verdier](/wiki/Jean-Louis_Verdier "Jean-Louis
+> Verdier") ; les familles filtrantes à droite et les épimorphismes stricts,
+> mesdemoiselles Adèle et Idèle ;
+>
+> ont la douleur de vous faire part du décès de M. Nicolas Bourbaki, leur
+> père, frère, fils, petit-fils arrière-petit-fils et petit-cousin
+> respectivement pieusement décédé le 11 novembre 1968, jour anniversaire de
+> la victoire, en son domicile de Nancago[g].
+>
+> L'inhumation aura lieu le samedi 23 novembre 1968 à 15 heures au cimetière
+> des fonctions aléatoires, métro
+> [Markov](/wiki/Andre%C3%AF_Markov_\(math%C3%A9maticien\) "Andreï Markov
+> \(mathématicien\)") et [Gödel](/wiki/Kurt_G%C3%B6del "Kurt Gödel").  
+> On se réunira devant le bar « aux produits directs », carrefour des
+> résolutions projectives, anciennement place [Koszul](/wiki/Jean-Louis_Koszul
+> "Jean-Louis Koszul"). Selon les vœux du défunt, une messe sera célébrée en
+> l'église Notre-Dame des problèmes universels, par son éminence le Cardinal
+> Aleph 1 en présence des représentants de toutes les classes d'équivalence et
+> des corps algébriquement clos constitués. Une minute de silence sera
+> observée par les élèves des [Écoles normales
+> supérieures](/wiki/%C3%89cole_normale_sup%C3%A9rieure_\(France\) "École
+> normale supérieure \(France\)") et des classes de Chern, car « Dieu est le
+> [compactifié d'Alexandrov](/wiki/Compactifi%C3%A9_d%27Alexandrov
+> "Compactifié d'Alexandrov") de l'univers »
+> [Grothendieck](/wiki/Alexandre_Grothendieck "Alexandre Grothendieck") IV,
+> 22. »
+
+## Héritage et influence en
+mathématique[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=12
+"Modifier la section : Héritage et influence en mathématique") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=12 "Modifier la
+section : Héritage et influence en mathématique")]
+
+En 2012, l'éditeur d'origine de cette société secrète, les [éditions
+Hermann](/wiki/Hermann_\(%C3%A9ditions\) "Hermann \(éditions\)"), fait don de
+son fonds Bourbaki au département des manuscrits de la
+[BNF](/wiki/Biblioth%C3%A8que_nationale_de_France "Bibliothèque nationale de
+France"), ces archives étant ainsi rendues accessibles au public qui peut
+découvrir l'héritage de Bourbaki en mathématique[22].
+
+### Notations et
+terminologie[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=13
+"Modifier la section : Notations et terminologie") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=13 "Modifier la
+section : Notations et terminologie")]
+
+Ce que les mathématiques doivent à Bourbaki est essentiellement :
+
+  * un style, une façon d'écrire les mathématiques ;
+  * la vulgarisation en France des symboles [∀](/wiki/Table_de_symboles_math%C3%A9matiques "Table de symboles mathématiques") et [∃](/wiki/Table_de_symboles_math%C3%A9matiques "Table de symboles mathématiques") (l'un venant de [Gentzen](/wiki/Gerhard_Gentzen "Gerhard Gentzen") et l'autre de [Peano](/wiki/Giuseppe_Peano "Giuseppe Peano")) ;
+  * la vulgarisation du symbole [∅](/wiki/Table_de_symboles_math%C3%A9matiques "Table de symboles mathématiques") introduit par André Weil et Claude Chevalley[h] ;
+  * l'utilisation des symboles [⇐](/wiki/Table_de_symboles_math%C3%A9matiques "Table de symboles mathématiques"), [⇒](/wiki/Table_de_symboles_math%C3%A9matiques "Table de symboles mathématiques") et [⇔](/wiki/Table_de_symboles_math%C3%A9matiques "Table de symboles mathématiques") en logique ;
+  * la vulgarisation du [lemme de Zorn](/wiki/Lemme_de_Zorn "Lemme de Zorn") ;
+  * les notions de [structure](/wiki/Structure_\(math%C3%A9matiques\) "Structure \(mathématiques\)") et de [problème universel](/wiki/Probl%C3%A8me_universel "Problème universel") ;
+  * la vulgarisation du symbole ⊗ pour désigner le [produit tensoriel](/wiki/Produit_tensoriel "Produit tensoriel") et l'introduction du terme « [algèbre multilinéaire](/wiki/Alg%C3%A8bre_multilin%C3%A9aire "Algèbre multilinéaire") » ;
+  * les termes [partition](/wiki/Partition_d%27un_ensemble "Partition d'un ensemble"), [surjectif](/wiki/Surjection "Surjection"), [injectif](/wiki/Injection_\(math%C3%A9matiques\) "Injection \(mathématiques\)"), [boule](/wiki/Boule_\(math%C3%A9matiques\) "Boule \(mathématiques\)"), [noethérien](/wiki/Anneau_noeth%C3%A9rien "Anneau noethérien"), [artinien](/wiki/Anneau_artinien "Anneau artinien"), [factoriel](/wiki/Anneau_factoriel "Anneau factoriel") ;
+  * la vulgarisation des notions de « [filtre](/wiki/Filtre_\(math%C3%A9matiques\) "Filtre \(mathématiques\)") » et d'« [ultrafiltre](/wiki/Ultrafiltre "Ultrafiltre") » ;
+  * le terme « [forme sesquilinéaire](/wiki/Forme_sesquilin%C3%A9aire "Forme sesquilinéaire") »[23] ;
+  * l'introduction des termes « chambre » et « appartement » en théorie des [immeubles](/wiki/Immeuble_\(math%C3%A9matiques\) "Immeuble \(mathématiques\)") de [Tits](/wiki/Jacques_Tits "Jacques Tits") et l'introduction des _BN-paires_ en théorie des [groupes de Lie](/wiki/Groupes_de_Lie "Groupes de Lie")[24] ;
+  * une certaine attention à l'[histoire des mathématiques](/wiki/Histoire_des_math%C3%A9matiques "Histoire des mathématiques") développée dans quelques « notes » accompagnant la parution des _Éléments_ [25].
+
+On est redevable à Bourbaki d'un travail de clarification des concepts, de
+précision dans la formulation, d'une recherche — parfois aride — de structure,
+de classification systématique et exhaustive des mathématiques.
+
+### Bourbaki
+novateur[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=14
+"Modifier la section : Bourbaki novateur") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=14 "Modifier la
+section : Bourbaki novateur")]
+
+Les premiers volumes parus des _[Éléments de
+mathématique](/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique "Éléments de
+mathématique")_ ont été novateurs :
+
+#### Théorie des
+ensembles[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=15
+"Modifier la section : Théorie des ensembles") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=15 "Modifier la
+section : Théorie des ensembles")]
+
+La publication des _Éléments_ commence en 1939, avec le fascicule de résultats
+de théorie des ensembles. Il contient la plupart des symboles indiqués plus
+haut ([∅](/wiki/Table_de_symboles_math%C3%A9matiques "Table de symboles
+mathématiques"), [⇐](/wiki/Table_de_symboles_math%C3%A9matiques "Table de
+symboles mathématiques"), [⇒](/wiki/Table_de_symboles_math%C3%A9matiques
+"Table de symboles mathématiques") et
+[⇔](/wiki/Table_de_symboles_math%C3%A9matiques "Table de symboles
+mathématiques")). Bourbaki popularisa le [lemme de Zorn](/wiki/Lemme_de_Zorn
+"Lemme de Zorn").
+
+####
+Algèbre[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=16
+"Modifier la section : Algèbre") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=16 "Modifier la
+section : Algèbre")]
+
+Les livres d'algèbre commencent à paraître en 1942. Le contenu des chapitres 1
+à 3 (« Structures algébriques », « Algèbre linéaire », « Algèbre multilinéaire
+») sera profondément modifié jusqu'à la « nouvelle édition » de 1970, en un
+volume. Voici ce qu'en dit [Pierre Cartier](/wiki/Pierre_Cartier "Pierre
+Cartier")[26] :
+
+> « En algèbre linéaire et tensorielle, il suffit de comparer les premières et
+> les dernières éditions des volumes : Bourbaki a beaucoup ajouté au calcul
+> tensoriel tel qu'il était utilisé par des géomètres comme Ricci.  »
+
+À l'appui de cette déclaration de Pierre Cartier, citons [Pierre
+Samuel](/wiki/Pierre_Samuel "Pierre Samuel") dans la chronique qu'il fait de
+ce volume en 1970 dans les _[Mathematical Reviews](/wiki/Mathematical_Reviews
+"Mathematical Reviews")_ [i] :
+
+> « Si les éditions précédentes visaient à faire un compte-rendu presque
+> parfait des bases des mathématiques actuelles, la présente édition en est
+> une base parfaite ; l'auteur est suffisamment représentatif de la communauté
+> mathématique pour qu'une telle déclaration soit très proche de la réalité.
+> Plus encore, à une époque où l'utilisation abusive des sciences et de la
+> technologie menace l'avenir de l'espèce humaine, ou du moins le futur de ce
+> que l'on appelle de nos jours la « civilisation », il est sûrement essentiel
+> qu'un rapport bien construit de nos efforts mathématiques soit écrit et
+> conservé pour qu'une future « Renaissance » puisse l'utiliser. Comme disait
+> [Thucydide](/wiki/Thucydide "Thucydide") à propos de son « [Histoire de la
+> guerre du Péloponnèse](/wiki/Histoire_de_la_guerre_du_P%C3%A9loponn%C3%A8se
+> "Histoire de la guerre du Péloponnèse") », c'est un κτῆμα εἰς ἀεί, un trésor
+> pour toujours. »
+
+#### Topologie
+générale[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=17
+"Modifier la section : Topologie générale") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=17 "Modifier la
+section : Topologie générale")]
+
+Concernant le livre de topologie générale, les chapitres 1 et 2 (« Structures
+topologiques - Structures uniformes ») paraissent en 1940. Ils utilisent de
+manière systématique et cohérente les notions de filtre et d'espace uniforme.
+Or, ces notions n'ont été introduites qu'en 1937, la première par [Henri
+Cartan](/wiki/Henri_Cartan "Henri Cartan")[27], la seconde par [André
+Weil](/wiki/Andr%C3%A9_Weil "André Weil")[28]. La notion de filtre de Cauchy,
+qui relève à la fois de la théorie des filtres et de celle des espaces
+uniformes, apparaît sous la plume de [Jean
+Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné") en 1939[29], puis,
+l'année suivante, de Bourbaki dans le fascicule cité[j] (ces deux ouvrages
+sont d'ailleurs rédigés parallèlement, et dans son article Dieudonné cite le
+livre de Bourbaki comme étant à paraître). Les notions très nouvelles et
+fécondes de topologies initiales et finales apparaissent également dans ce
+fascicule[30]. En 1941, Bourbaki introduit la notion d'espace complètement
+séparé dans une note de compte rendu à l'Académie des sciences[31] : c'est
+trop tard pour la première édition, mais il incorpore cette notion dans les
+exercices de la seconde édition du chapitre 1 (1950)[32] ; les espaces
+paracompacts, introduits par Jean Dieudonné en 1944[33] s'insèrent également
+dans cette seconde édition. Les chapitres 3 et 4 (« Groupes topologiques -
+Nombres réels ») paraissent en 1942. Ici encore, Bourbaki achève de moderniser
+la présentation des premiers chapitres du livre de [Lev
+Pontriaguine](/wiki/Lev_Pontriaguine "Lev Pontriaguine"), paru en 1939, sur
+les groupes topologiques[34], grâce à la notion de structure uniforme (deux
+années auparavant, il est vrai, André Weil avait fait paraître, avec une
+présentation tout aussi moderne, son livre sur l'intégration dans les groupes
+topologiques[35]). Le chapitre 10 (« Espaces fonctionnels ») paraît en 1949 ;
+il y présente le [théorème de Stone-
+Weierstrass](/wiki/Th%C3%A9or%C3%A8me_de_Stone-Weierstrass "Théorème de Stone-
+Weierstrass") dans toute sa généralité alors que les travaux de [Marshall
+Stone](/wiki/Marshall_Stone "Marshall Stone") sur ce sujet s'étalent entre
+1937 et 1948[36] ; le fascicule de Bourbaki achève de les systématiser.
+
+#### Espaces vectoriels
+topologiques[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=18
+"Modifier la section : Espaces vectoriels topologiques") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=18 "Modifier la
+section : Espaces vectoriels topologiques")]
+
+En ce qui concerne le livre sur les espaces vectoriels topologiques, les
+chapitres 1 et 2 (« Espaces vectoriels topologiques sur un corps valué -
+Ensembles convexes et espaces localement convexes ») paraissent en 1953. La
+théorie des espaces vectoriels topologiques sur un corps valué non discret, au
+chapitre 1, était jusqu'alors inédite[37] (elle comporte dans l'exposé de
+Bourbaki les généralisations du théorème du graphe fermé, du théorème de Riesz
+sur la finitude de la dimension des espaces localement compacts, etc.). Les
+limites inductives, strictes et générales, sont exposées au chapitre 2 d'une
+manière qui s'avèrera quasi définitive. Les premières sont apparues en 1949
+dans un article de Jean Dieudonné et [Laurent
+Schwartz](/wiki/Laurent_Schwartz_\(math%C3%A9maticien\) "Laurent Schwartz
+\(mathématicien\)")[38], les secondes dans les premiers travaux d'[Alexandre
+Grothendieck](/wiki/Alexandre_Grothendieck "Alexandre Grothendieck"), en cours
+de publication[39]. En 1950, Bourbaki publie un article où il généralise
+certaines notions apparues dans l'article de Dieudonné et Schwartz précité[40]
+: il introduit les notions fondamentales d'espace tonnelé et d'application
+bilinéaire hypocontinue, et démontre le [théorème de Banach-
+Steinhaus](/wiki/Th%C3%A9or%C3%A8me_de_Banach-Steinhaus "Théorème de Banach-
+Steinhaus") dans toute sa généralité. Les chapitres 3 à 5 du livre sur les
+espaces vectoriels topologiques paraissent en 1955. Les résultats qui viennent
+d'être cités forment le cœur du chapitre 3 (« Espaces d'applications linéaires
+continues ») ; Bourbaki généralise au chapitre 4 (« La dualité dans les
+espaces vectoriels topologiques ») la notion d'ensemble polaire, le théorème
+des bipolaires, et fait une place de choix aux travaux de [George
+Mackey](/wiki/George_Mackey "George Mackey"), datant alors d'un peu moins
+d'une dizaine d'années[41].
+
+####
+Intégration[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=19
+"Modifier la section : Intégration") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=19 "Modifier la
+section : Intégration")]
+
+Les quatre premiers chapitres du livre sur l'intégration paraissent en 1952.
+Le choix de Bourbaki est de fonder son exposé sur la théorie des « [mesures de
+Radon](/wiki/Mesure_de_Radon "Mesure de Radon") » plutôt que celle des «
+[mesures abstraites](/wiki/Mesure_\(math%C3%A9matiques\) "Mesure
+\(mathématiques\)") ». Ce choix a par la suite été beaucoup critiqué
+(notamment parce qu'en théorie des probabilités, l'intégration ne se fait pas,
+en général, sur un espace localement compact), mais ses raisons sont très
+sérieuses, entre autres : le fait que l'image d'une mesure abstraite par une
+application mesurable ne conserve pas la mesurabilité des ensembles,
+contrairement à ce qui se produit avec une mesure de Radon ; le fait qu'une
+mesure abstraite sur la tribu borélienne n'admet généralement pas de support,
+etc. La synthèse qui permettra d'obtenir à la fois les avantages de la mesure
+de Radon et ceux de la mesure abstraite ne sera publiée qu'en 1969, par
+Bourbaki, au chapitre 9 du livre d'intégration (« Intégration sur les espaces
+topologiques séparés »), puis, de manière plus complète, à l'occasion des
+exposés sur les « applications radonifiantes » du Séminaire Schwartz de
+1969-1970 à l’École polytechnique[42], et enfin, en 1973, dans le livre de
+Laurent Schwartz sur ce sujet[43].
+
+#### Algèbre
+commutative[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=20
+"Modifier la section : Algèbre commutative") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=20 "Modifier la
+section : Algèbre commutative")]
+
+Les chapitres 1 à 7 d'Algèbre commutative paraissent entre 1961 et 1964.
+Bourbaki s'est fixé comme objectif de fournir toutes les bases pour la
+nouvelle Géométrie algébrique construite par Grothendieck (les _Éléments de
+géométrie algébrique_ , rédigés par Grothendieck et Dieudonné, paraissent
+entre 1960 et 1967). Aussi Pierre Cartier dit-il des premières rédactions du
+Groupe Bourbaki, encore proches du livre de Zariski et Samuel, paru en 1958,
+et qui était jusqu'alors la référence[26] :
+
+> « Il y avait plusieurs volumes faisant à peu près quatre cents pages, qui
+> étaient prêts, mais on a tout jeté et on a recommencé en introduisant les
+> nouvelles idées de Serre et Grothendieck sur la localisation, le spectre
+> d'un anneau, les filtrations et topologies, l'algèbre homologique, etc. »
+
+### Notes
+critiques[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=21
+"Modifier la section : Notes critiques") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=21 "Modifier la
+section : Notes critiques")]
+
+#### Bourbaki et la théorie des
+probabilités[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=22
+"Modifier la section : Bourbaki et la théorie des probabilités") | [modifier
+le code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=22 "Modifier
+la section : Bourbaki et la théorie des probabilités")]
+
+Comme il est dit plus haut, Bourbaki a été critiqué pour ne pas avoir pris en
+considération, du moins au début, la [théorie des
+probabilités](/wiki/Th%C3%A9orie_des_probabilit%C3%A9s "Théorie des
+probabilités"). Le groupe Bourbaki a longtemps étudié la [théorie de la
+mesure](/wiki/Th%C3%A9orie_de_la_mesure "Théorie de la mesure") avec les
+[mesures de Radon](/wiki/Mesure_de_Radon "Mesure de Radon") sur les [espaces
+localement compacts](/wiki/Espace_localement_compact "Espace localement
+compact") en délaissant les espaces plus généraux nécessaires à la théorie des
+probabilités[44].
+
+> « Bourbaki s'est écarté des probabilités, les a rejetées, les a considérées
+> comme non rigoureuses et, par son influence considérable, a dirigé la
+> jeunesse hors du sentier des probabilités. Il porte une lourde
+> responsabilité, que je partage, dans le retard de leur développement en
+> France, du moins pour tout ce qui concerne les processus, c'est-à-dire les
+> développements modernes. »
+
+— [Laurent Schwartz](/wiki/Laurent_Schwartz_\(math%C3%A9maticien\) "Laurent
+Schwartz \(mathématicien\)"), [Un mathématicien aux prises avec le
+siècle](/wiki/Un_math%C3%A9maticien_aux_prises_avec_le_si%C3%A8cle "Un
+mathématicien aux prises avec le siècle")[45]
+
+Néanmoins, au chapitre ix et dernier de son livre d'Intégration, paru en 1969,
+Bourbaki présente une synthèse (peu détaillée) des travaux qui ont réalisé
+l'extension de la théorie des mesures de Radon au cas où ces mesures sont
+définies sur des espaces topologiques séparés généraux. Dans les Notes
+historiques de ce chapitre, il mentionne les applications au Calcul des
+Probabilités et à la théorie des processus stochastiques, citant notamment les
+travaux (datant de la fin des années 1950) de
+[Prokhorov](/wiki/Iouri_Prokhorov "Iouri Prokhorov") et [Le
+Cam](/wiki/Lucien_Le_Cam "Lucien Le Cam") ; et il indique le cadre (celui des
+[espaces polonais](/wiki/Espace_polonais "Espace polonais") ou plus
+généralement sousliniens) où la construction ne présente guère plus de
+difficultés que sur un espace localement compact.
+
+#### Bourbaki et la théorie des
+catégories[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=23
+"Modifier la section : Bourbaki et la théorie des catégories") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=23 "Modifier la
+section : Bourbaki et la théorie des catégories")]
+
+Si l'opposition mesure abstraite-mesure de Radon a donc été résolue, _in fine_
+, de manière heureuse dans le Traité, il n'en va pas de même de l'indifférence
+que Bourbaki a affichée à l'égard de la [théorie des
+catégories](/wiki/Th%C3%A9orie_des_cat%C3%A9gories "Théorie des catégories"),
+donnant la prééminence aux [structures](/wiki/Structure_\(math%C3%A9matiques\)
+"Structure \(mathématiques\)"), telles que définies dans le dernier chapitre
+du livre sur la Théorie des ensembles, chapitre publié en 1957. En 1986 et
+1996, [MacLane](/wiki/Saunders_Mac_Lane "Saunders Mac Lane")
+déclarait[46],[47],[k] :
+
+> « Les idées catégoriques auraient pu s'accorder avec le programme général de
+> Nicolas Bourbaki [...]. Cependant, son premier volume sur la notion de
+> structure mathématique avait été préparé en 1939, avant l'avènement des
+> catégories. À leur place, il a utilisé une notion sophistiquée d'échelle de
+> structure qui s'est avérée trop complexe pour être utile. Il en résulta que
+> Bourbaki n'a jamais adopté la théorie des catégories. En 1954, j'ai été
+> invité à une des réunions privées de Bourbaki, peut-être dans l'espoir que
+> je pourrais me faire l'avocat de ces considérations. Malheureusement, mon
+> aisance en français n'était pas suffisante pour catégoriser Bourbaki. […] La
+> présentation adoptée par Bourbaki de la notion de structure mathématique […]
+> est peut-être le pire de ce qu'il a écrit. Personne d'autre n'en fait usage
+> et Bourbaki lui-même mentionne seulement de temps à autre le « transport de
+> structure ». Il était trop conservateur pour reconnaître de meilleures
+> descriptions de la notion de structure lorsqu'elles apparurent
+> ([Eilenberg](/wiki/Samuel_Eilenberg "Samuel Eilenberg")-MacLane, Ehresmann,
+> [Lawvere](/wiki/William_Lawvere "William Lawvere"),
+> [Gabriel](/wiki/Pierre_Gabriel_\(math%C3%A9maticien\) "Pierre Gabriel
+> \(mathématicien\)")-Zisman). »
+
+Bourbaki ne s'est jamais engagé dans la théorie des catégories alors même que
+des membres éminents du Groupe Bourbaki ([Eilenberg](/wiki/Samuel_Eilenberg
+"Samuel Eilenberg") et [Grothendieck](/wiki/Alexandre_Grothendieck "Alexandre
+Grothendieck") entre autres) en étaient des experts. Ce parti pris s'est avéré
+coûteux, notamment au chapitre x du livre d' _Algèbre_ , consacré à l'[algèbre
+homologique](/wiki/Alg%C3%A8bre_homologique "Algèbre homologique"), paru en
+1980, que Bourbaki a dû se contraindre à présenter dans le cadre des
+[modules](/wiki/Module_sur_un_anneau "Module sur un anneau") plutôt que dans
+celui des [catégories abéliennes](/wiki/Cat%C3%A9gorie_ab%C3%A9lienne
+"Catégorie abélienne"). On peut lire dans une note de bas de page du livre
+d'Algèbre Commutative[48] : « Voir la partie de ce Traité consacrée aux
+catégories, et, plus particulièrement, aux catégories abéliennes (en
+préparation) », mais les propos de MacLane qui précèdent laissent penser que
+ce livre « en préparation » ne sera jamais publié.
+
+## Influences dans d'autres disciplines : structuralisme et
+Oulipo[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=24
+"Modifier la section : Influences dans d'autres disciplines : structuralisme
+et Oulipo") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=24 "Modifier la
+section : Influences dans d'autres disciplines : structuralisme et Oulipo")]
+
+En littérature, l'[Oulipo](/wiki/Oulipo "Oulipo") copie indéniablement la «
+méthode » Bourbaki de travail collectif et de mise en évidence systémique des
+structures profondes de la création littéraire. À noter qu'un membre important
+de l'Oulipo, [Jacques Roubaud](/wiki/Jacques_Roubaud "Jacques Roubaud"), est
+un mathématicien qui a été très marqué par Bourbaki. C'est par exemple lui qui
+a écrit l'avis de décès de Bourbaki, sous forme de canular. Le
+[structuralisme](/wiki/Structuralisme "Structuralisme")
+[lacanien](/wiki/Jacques_Lacan "Jacques Lacan") ou celui de [Lévi-
+Strauss](/wiki/Claude_L%C3%A9vi-Strauss "Claude Lévi-Strauss") en ethnologie,
+à la même époque, dénote une quête de structures fondamentales dont on peut
+débattre s'il s'agit de l'influence de Bourbaki ou d'un certain « air du temps
+»[49]. Le philosophe des sciences [Jules Vuillemin](/wiki/Jules_Vuillemin
+"Jules Vuillemin") fut influencé par Bourbaki ( _La philosophie de l'algèbre_
+).
+
+Il est inutile d'imaginer un groupe qui ait influencé les autres groupes.
+[André Weil](/wiki/Andr%C3%A9_Weil "André Weil") (1906) est sensiblement de la
+même génération qu'[André Breton](/wiki/Andr%C3%A9_Breton "André Breton")
+(1896), [Jacques Lacan](/wiki/Jacques_Lacan "Jacques Lacan") (1900), ou
+[Claude Lévi-Strauss](/wiki/Claude_L%C3%A9vi-Strauss "Claude Lévi-Strauss")
+(1908). Tous ces groupes avaient atteint leur apogée en 1964. Une rencontre
+s'est opérée géographiquement au mois de janvier 1964 lorsque le directeur de
+l'École normale, [Robert Flacelière](/wiki/Robert_Flaceli%C3%A8re "Robert
+Flacelière") a mis à la disposition de Jacques Lacan une salle dans les locaux
+de son école. (Séminaire Livre XI, _Les Quatre concepts fondamentaux de la
+psychanalyse_ ). D'un côté Jacques Lacan souhaitait la venue des
+mathématiciens pour formuler les [structures
+algébriques](/wiki/Structure_alg%C3%A9brique "Structure algébrique") et
+[topologiques](/wiki/Espace_topologique "Espace topologique") qu'il
+considérait à l'œuvre dans la [psychanalyse](/wiki/Psychanalyse
+"Psychanalyse") ; de l'autre les [mathématiciens](/wiki/Math%C3%A9maticien
+"Mathématicien") voyaient là, peut-être avec un certain amusement, une
+application concrète des mathématiques fondamentales. C'est sensiblement à
+cette époque que le groupe Bourbaki fit paraître la _Théorie des ensembles_
+dont Lacan fit un très grand usage.
+
+Ce qui distinguerait le groupe des mathématiciens des autres groupes, ce
+serait son côté fermé et réservé aux mathématiciens de haut niveau de l'École
+normale supérieure, alors que le structuralisme prétendrait intéresser tous
+les praticiens des [sciences humaines](/wiki/Sciences_humaines "Sciences
+humaines") : littérature, politique, psychanalyse, ethnologie, linguistique.
+Il y a bien sûr un point commun, qui est le retour aux sources, la recherche
+des fondements et la rupture épistémologique. Mais les deux groupes sont
+néanmoins restés sur leur quant-à-soi.
+
+## Mathématiciens ayant appartenu à
+Bourbaki[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=25
+"Modifier la section : Mathématiciens ayant appartenu à Bourbaki") | [modifier
+le code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=25 "Modifier
+la section : Mathématiciens ayant appartenu à Bourbaki")]
+
+Présentés par ordre de naissance, puisqu’on quitte Bourbaki à 50 ans.
+
+### Membres
+fondateurs[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=26
+"Modifier la section : Membres fondateurs") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=26 "Modifier la
+section : Membres fondateurs")]
+
+  * [Szolem Mandelbrojt](/wiki/Szolem_Mandelbrojt "Szolem Mandelbrojt") (1899-1983)
+  * [Jean Delsarte](/wiki/Jean_Delsarte "Jean Delsarte") (1903-1968)
+  * [Henri Cartan](/wiki/Henri_Cartan "Henri Cartan") (1904-2008)
+  * [Jean Coulomb](/wiki/Jean_Coulomb "Jean Coulomb") (1904-1999)
+  * [René de Possel](/wiki/Ren%C3%A9_de_Possel "René de Possel") (1905-1974)
+  * [Charles Ehresmann](/wiki/Charles_Ehresmann "Charles Ehresmann") (1905-1979)
+  * [André Weil](/wiki/Andr%C3%A9_Weil "André Weil") (1906-1998)
+  * [Jean Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné") (1906-1992)
+  * [Claude Chevalley](/wiki/Claude_Chevalley "Claude Chevalley") (1909-1984)
+
+### Membres non
+fondateurs[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=27
+"Modifier la section : Membres non fondateurs") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=27 "Modifier la
+section : Membres non fondateurs")]
+
+  * [Charles Pisot](/wiki/Charles_Pisot "Charles Pisot") (1910-1984)
+  * [Claude Chabauty](/wiki/Claude_Chabauty "Claude Chabauty") (1910-1990)
+  * [Samuel Eilenberg](/wiki/Samuel_Eilenberg "Samuel Eilenberg") (1913-1998)
+  * [Laurent Schwartz](/wiki/Laurent_Schwartz_\(math%C3%A9maticien\) "Laurent Schwartz \(mathématicien\)") (1915-2002)
+  * [Pierre Samuel](/wiki/Pierre_Samuel "Pierre Samuel") (1921-2009)
+  * [Roger Godement](/wiki/Roger_Godement "Roger Godement") (1921-2016)
+  * [Jean-Louis Koszul](/wiki/Jean-Louis_Koszul "Jean-Louis Koszul") (1921-2018)
+  * [Armand Borel](/wiki/Armand_Borel "Armand Borel") (1923-2003)
+  * [Jacques Dixmier](/wiki/Jacques_Dixmier "Jacques Dixmier") (1924-)
+  * [John Tate](/wiki/John_Tate_\(math%C3%A9maticien\) "John Tate \(mathématicien\)") (1925-2019)
+  * [Jean-Pierre Serre](/wiki/Jean-Pierre_Serre "Jean-Pierre Serre") (1926-)
+  * [Serge Lang](/wiki/Serge_Lang "Serge Lang") (1927-2005)
+  * [Alexandre Grothendieck](/wiki/Alexandre_Grothendieck "Alexandre Grothendieck") (1928-2014)
+  * [François Bruhat](/wiki/Fran%C3%A7ois_Bruhat "François Bruhat") (1929-2007)
+  * [Hyman Bass](/wiki/Hyman_Bass "Hyman Bass") (1932-)
+  * [Pierre Cartier](/wiki/Pierre_Cartier "Pierre Cartier") (1932-)
+  * [Jean-Louis Verdier](/wiki/Jean-Louis_Verdier "Jean-Louis Verdier") (1935-1989)
+  * [Adrien Douady](/wiki/Adrien_Douady "Adrien Douady") (1935-2006)
+  * [Michel Demazure](/wiki/Michel_Demazure "Michel Demazure") (1937-)
+  * [Michel Raynaud](/wiki/Michel_Raynaud "Michel Raynaud") (1938-2018)
+  * [Louis Boutet de Monvel](/wiki/Louis_Boutet_de_Monvel "Louis Boutet de Monvel") (1941-2014)
+  * [André Gramain](/wiki/Andr%C3%A9_Gramain "André Gramain") (1943-)
+  * [Bernard Teissier](/wiki/Bernard_Teissier "Bernard Teissier") (1945-)
+  * [Arnaud Beauville](/wiki/Arnaud_Beauville "Arnaud Beauville") (1947-)
+  * [Alain Connes](/wiki/Alain_Connes "Alain Connes") (1947-)
+  * [Daniel Bennequin](/wiki/Daniel_Bennequin "Daniel Bennequin") (1952-)
+  * [Guy Henniart](/wiki/Guy_Henniart "Guy Henniart") (1953-)
+  * [Gilles Lebeau](/wiki/Gilles_Lebeau "Gilles Lebeau") (1954-)
+  * [Joseph Oesterlé](/wiki/Joseph_Oesterl%C3%A9 "Joseph Oesterlé") (1954-)
+  * [Georges Skandalis](/wiki/Georges_Skandalis "Georges Skandalis") (1955-)
+  * [Gérard Ben Arous](/wiki/G%C3%A9rard_Ben_Arous "Gérard Ben Arous") (1957-)
+  * [Jean-Christophe Yoccoz](/wiki/Jean-Christophe_Yoccoz "Jean-Christophe Yoccoz") (1957-2016)
+  * [Olivier Debarre](/w/index.php?title=Olivier_Debarre&action=edit&redlink=1 "Olivier Debarre \(page inexistante\)") (1959-)
+  * [Antoine Chambert-Loir](/wiki/Antoine_Chambert-Loir "Antoine Chambert-Loir") (1971-)
+
+### Membres
+actuels[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=28
+"Modifier la section : Membres actuels") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=28 "Modifier la
+section : Membres actuels")]
+
+Les noms des membres actuels de Bourbaki sont tenus secrets.
+
+## Principales
+publications[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=29
+"Modifier la section : Principales publications") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=29 "Modifier la
+section : Principales publications")]
+
+  * _[Éléments de mathématique](/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique "Éléments de mathématique")_ [[détail des éditions](/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique#Détail_des_éditions "Éléments de mathématique")]
+  * [Éléments d'histoire des mathématiques](/wiki/%C3%89l%C3%A9ments_d%27histoire_des_math%C3%A9matiques "Éléments d'histoire des mathématiques") [[détail des éditions](/wiki/R%C3%A9f%C3%A9rence:Histoire_des_math%C3%A9matiques_\(Bourbaki\) "Référence:Histoire des mathématiques \(Bourbaki\)")]
+  * _[Séminaire Nicolas Bourbaki](/wiki/S%C3%A9minaire_Nicolas_Bourbaki "Séminaire Nicolas Bourbaki")_
+
+## Articles de revues signés Nicolas
+Bourbaki[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=30
+"Modifier la section : Articles de revues signés Nicolas Bourbaki") |
+[modifier le code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=30
+"Modifier la section : Articles de revues signés Nicolas Bourbaki")]
+
+  * 1935 : _Sur un théorème de Carathéodory et la mesure dans les espaces topologiques_ , Comptes Rendus de l'Académie des Sciences de Paris, 201, 1309-1311, (auteur : André Weil)
+  * 1938 : _Sur les espaces de Banach_ , Comptes Rendus de l'Académie des Sciences de Paris, 206, 1701-1704, (auteur : Jean Dieudonné)
+  * 1939 : _Note de tératopologie II_ , Revue scientifique, (dite "Revue rose ») 180-181 par N. Bourbaki et J. Dieudonné ; 
+
+Cet article est le deuxième d'une série de trois articles dont le premier fut
+signé par J. Dieudonné et le troisième par J. Dieudonné et H. Cartan
+
+  * 1941 : _Espaces minimaux et espaces complètement séparés_ , Comptes Rendus de l'Académie des Sciences de Paris, 212, 215-218, (auteur : J. Dieudonné ou A. Weil)
+  * 1948 : _L'architecture des mathématiques_ in Les grands courants de la pensée mathématique, sous la direction de François Le Lionnais, Paris : Actes Sud, Collection "L'humanisme scientifique de demain", 35-47 (auteur : J. Dieudonné)
+  * 1949 : _Foundations of Mathematics for the Working Mathematician_ Journal of Symbolic Logic, 14, 1-8, (auteur : André Weil)
+  * 1949 : _Sur le théorème de Zorn_ , Archiv der Mathematik, T.2, 433-437, (auteurs : H. Cartan ou J. Dieudonné)
+  * 1951 : _Sur certains espaces vectoriels topologiques_ , Annales de l'Institut Fourrier, T. 3, 5-16, (auteurs : J. Dieudonné et L. Schwartz)
+
+## Notes et
+références[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=31
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=31 "Modifier la
+section : Notes et références")]
+
+###
+Notes[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=32
+"Modifier la section : Notes") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=32 "Modifier la
+section : Notes")]
+
+  1. ↑ On notera que le prénom a pour initiale « D » et non pas « N ».
+  2. ↑ Éveline de Possel se remarie peu après avec André Weil.
+  3. ↑ Dans un article au ton canularesque, [Michèle Audin](/wiki/Mich%C3%A8le_Audin "Michèle Audin") soutient que dès 1910 des normaliens montèrent une mystification qui roulait sur une prétendue nation poldève. (M. Audin, [_La Vérité sur la Poldévie_](http://www-irma.u-strasbg.fr/~maudin/poldevie.pdf), 2009, [PDF] sur le site de l'université de Strasbourg.) Elle donne pour référence [André Weil](/wiki/Andr%C3%A9_Weil "André Weil"), _Souvenirs d’apprentissage_ , Vita Mathematica, vol. 6, Birkhäuser, Basel, 1991, p. 106 sq (passage commençant par : « Vers 1910, à ce que dit l’histoire, des normaliens ramassèrent dans les cafés de Montparnasse des individus d’origine variée dont ils firent, moyennant quelques apéritifs, des représentants de la nation poldève. »). Elle cite aussi L. Beaulieu (« Jeux d’esprit et jeux de mémoire chez N. Bourbaki, in La Mise en mémoire de la science », in _Pour une ethnographie historique des rites commémoratifs_ , P. Abir-Am (dir.), Éditions des Archives contemporaines, Paris, 1998, p. 75-123), qui attribue l'invention de la Poldévie à Alain Mellet et ajoute dans une note de bas de page « que, d’après Weil, il y aurait eu quelque chose en 1910 ». Elle indique au sujet d'André Weil (§ 3. Documents, p. 9) : « Ajoutons qu’André Weil est entré à l'ENS en 1922 ; nul doute que la relation d’événements qui se sont produits douze ans auparavant ait pu se perpétuer jusqu’à lui. »
+  4. ↑ Le séminaire d'Hadamard au [Collège de France](/wiki/Coll%C3%A8ge_de_France "Collège de France") était alors le seul en France où les jeunes mathématiciens pouvaient entendre et faire des exposés sur les mathématiques « vivantes ».
+  5. ↑ Il est le frère de la philosophe [Simone Weil](/wiki/Simone_Weil "Simone Weil").
+  6. ↑ Le café « Capoulade », boulevard Saint-Michel.
+  7. ↑ Nancago est le nom de la villa que possédait Dieudonné près de Nice. Il est la réunion de Nancy, où enseignaient [Delsarte](/wiki/Jean_Delsarte "Jean Delsarte"), Dieudonné, Schwartz, [Godement](/wiki/Roger_Godement "Roger Godement") et [Armand Borel](/wiki/Armand_Borel "Armand Borel") et où est né [Henri Cartan](/wiki/Henri_Cartan "Henri Cartan"), et de Chicago, où travaillaient [André Weil](/wiki/Andr%C3%A9_Weil "André Weil") (de 1947 à 1958) et [Saunders Mac Lane](/wiki/Saunders_Mac_Lane "Saunders Mac Lane"), cf. _[Bourbaki a Nancy](http://www.iecl.univ-lorraine.fr/~Gerald.Tenenbaum/PUBLIC/IECN_2003/IECN2003-031-042.pdf)_ par Liliane Beaulieu.
+  8. ↑ Les deux auteurs en revendiquent la paternité.
+  9. ↑ Texte original : If the preceding editions were meant to represent an almost perfect account of the bases for present day mathematics, this is now the perfect basis; the author is sufficiently representative of the mathematical community to make such a claim quite close to the truth. Furthermore, in a time in which the indiscriminate use of science and technology threatens the future of the human race, or at least the future of what we now call “civilization”, it is surely essential that a well integrated report about our mathematical endeavours be written and kept for the use of a latter day “Renaissance”. As Thucydides said about his “History of the Peloponnesian War”, this is a κτῆμα εἰς ἀεί, a treasure valuable for all times (I.22).
+  10. ↑ Dans sa note de Compte rendu à l'Académie des sciences (Nicolas Bourbaki, « Sur les espaces de Banach », _C. R. Acad. Sc._ , vol. 206, 1938, p. 1701-1704 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k3158p/f1701.image))), Bourbaki n'emploie pas encore le terme « filtre de Cauchy », introduit par Jean Dieudonné l'année suivante.
+  11. ↑ Texte original : « Categorical ideas might well have fitted in with the general program of Nicolas Bourbaki […]. However, his first volume on the notion of mathematical structure was prepared in 1939 before the advent of categories. It chanced to use instead an elaborate notion of an _échelle de structure_ which has proved too complex to be useful. Apparently as a result, Bourbaki never took to category theory. At one time, in 1954, I was invited to attend one of the private meetings of Bourbaki, perhaps in the expectation that I might advocate such matters. However, my facility in the French language was not sufficient to categorize Bourbaki. […] The official Bourbaki discussion of mathematical structure […] is perhaps the ugliest piece of writing to have come from Bourbaki's pen. Nobody else makes much use of this, and Bourbaki himself just mutters from time to time about "transport of structure". He was too conservative to recognize other better descriptions of structure when they arose (Eilenberg-MacLane, Ehresmann, Lawvere, Gabriel-Zisman). »
+
+###
+Références[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=33
+"Modifier la section : Références") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=33 "Modifier la
+section : Références")]
+
+  1. ↑ [Page officielle de l'association](http://www.bourbaki.ens.fr/).
+  2. ↑ A. Rodin, _Categories without structures_ , Philosophia Mathematica, Oxford Univ. Press (2011), vol 19(1), p. 20-46.
+  3. ↑ (en) [Leo Corry](/w/index.php?title=Leo_Corry&action=edit&redlink=1 "Leo Corry \(page inexistante\)") [(de)](https://de.wikipedia.org/wiki/Leo_Corry "de:Leo Corry"), _Modern Algebra and the Rise of Mathematical Structures_ , (Science Networks Vol. 17), Basel and Boston, Birkhäuser Verlag (1996) p. 300, Second, revised edition: 2004.
+  4. ↑ (en) « An Interview with [Michael Atiyah](/wiki/Michael_Atiyah "Michael Atiyah") », _[The Mathematical Intelligencer](/wiki/The_Mathematical_Intelligencer "The Mathematical Intelligencer")_ , vol. 6, 1984, p. 9-19.
+  5. ↑ Laurent Schwartz, Un mathématicien aux prises avec le siècle, [Odile Jacob](/wiki/%C3%89ditions_Odile_Jacob "Éditions Odile Jacob"), 1997, 531 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-7381-0462-2](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-7381-0462-2 "Spécial:Ouvrages de référence/2-7381-0462-2"), [lire en ligne](https://books.google.fr/books?id=Eqc0cyFR0AEC&pg=PA172)), p. 172.
+  6. ↑ _The Collected Papers of Emil Artin_ (edit. S.Lang & J.Tate), Addison-Wesley, 1965, pp.534-538.
+  7. ↑ a et b Maurice Mashaal, Bourbaki, une société secrète de mathématiciens, [Pour la Science](/wiki/Pour_la_Science "Pour la Science"), coll. « [Les Génies de la science](/wiki/Les_G%C3%A9nies_de_la_science "Les Génies de la science") » (no 1), 2002 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-84245-046-5](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-84245-046-5 "Spécial:Ouvrages de référence/978-2-84245-046-5")), p. 25.
+  8. ↑ (en) [Sterling K. Berberian, « Bourbaki, the Omnivorous Hedgedog: A Historical Note? », _The Mathematical Intelligencer_ ,vol. 2, no 2, 1980, p. 104-106.](https://link.springer.com/article/10.1007%2FBF03023383#page-1).
+  9. ↑ (en) François Laubie, « A Mathematician called Bourbaki », _The Mathematical Intelligencer_ , vol. 29, 2007, p. 7-8 ([DOI](/wiki/Digital_Object_Identifier "Digital Object Identifier") [10.1007/BF02985681](https://dx.doi.org/10.1007%2FBF02985681)).
+  10. ↑ [PDF] [Jean Dieudonné, « Lettre à la rédaction », dans _Cahiers du séminaire d'histoire des mathématiques_ , tome 7, 1986, p. 221-222.](http://archive.numdam.org/article/CSHM_1986__7__221_0.pdf).
+  11. ↑ Voir aussi la préface de _D.D. Kosambi Selected Works in Mathematics and Statistics_ , Ramaswamy Ed., Springer (2016), page vi.
+  12. ↑ André Weil, _Souvenirs d'apprentissage_ (Birkhäuser, Basel, Boston (Mass), Berlin, 1991), ISSN 1013-0330.
+  13. ↑ [_Jahrbuch_ , tome 58, 1932, p. 734.](http://www.emis.de/cgi-bin/jfmen/MATH/JFM/quick.html?first=1&maxdocs=20&type=html&an=JFM%2058.0764.01&format=complete).
+  14. ↑ André Weil, _Souvenirs d'apprentissage_ , Birkhaüser, 1991, p. 106.
+  15. ↑ Mashaal 2002, p. 29
+  16. ↑ [Bourbaki et la Touraine](http://academie-de-touraine.com/Tome_20_files/bourbaki.pdf), Jacques Borowczyk, p. 155.
+  17. ↑ [Bourbaki a Nancy](http://www.iecl.univ-lorraine.fr/~Gerald.Tenenbaum/PUBLIC/IECN_2003/IECN2003-031-042.pdf) par Liliane Beaulieu, p. 35.
+  18. ↑ [Liste des éditions des chapitres des Éléments de Mathématiques](http://archives-bourbaki.ahp-numerique.fr/publications) sur archives.bourbaki.
+  19. ↑ Jean-Pierre Despin et Marie-Claude Bartholy, _Le poisson rouge dans le Perrier_ , éditions Critérion, 1983, p. 146-147 : « Cette mathématique-là, si l'on veut, car l'on verra que ce qui sévit à l'école c'est un bourbakisme bricolé, accommodé à la sauce spontanéiste, ce que nous appellerons la « mathématique allégorique » qui est un mélange bâtard de bourbakisme et de psychologie de l'enfant. Cette mathématique-là a été imposée à l'école récemment, en 1969, par le ministère et une équipe de mathématiciens, la Commission Lichnerowicz, qui se sont mis en tête de faire bénéficier l'école de la « synthèse » bourbakiste ».
+  20. ↑ [Bourbaki a Nancy](http://www.iecl.univ-lorraine.fr/~Gerald.Tenenbaum/PUBLIC/IECN_2003/IECN2003-031-042.pdf) par Liliane Beaulieu, p. 39.
+  21. ↑ a et b [Canulars Bourbaki](http://math.univ-angers.fr/~darniere/bourbaki.html), Luck Darnière.
+  22. ↑ [L'imaginaire Nicolas Bourbaki dans les archives de la BNF](http://www.livreshebdo.fr/bibliotheques/actualites/l-imaginaire-nicolas-bourbaki-dans-les-archives-de-la-bnf/9582.aspx) sur livreshebdo.fr.
+  23. ↑ _Algèbre_ , chapitre ix : _Formes sesquilinéaires et formes quadratiques_ , 1959.
+  24. ↑ _Groupes et algèbre de Lie_ , chapitres 4, 5 et 6, 1968.
+  25. ↑ Ces notes ont été rassemblés en un volume intitulé _Éléments d'histoire des mathématiques_ et signé **Nicolas** Bourbaki.
+  26. ↑ a et b Le château des groupes -- Entretien de Javier Fresàn avec Pierre Cartier (23 février 2009) [« Voir en ligne »](https://jfresan.files.wordpress.com/2009/09/entretien-cartier.pdf) p. 10-11.
+  27. ↑ Henri Cartan, « Théorie des filtres », _C. R. Acad. Sc._ , vol. 205, 1937, p. 595-598 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k3157c/f594.image)) ; « Filtres et ultrafiltres », _C. R. Acad. Sc._ , vol. 205, 1937, p. 777-779 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k3157c/f776.image)).
+  28. ↑ André Weil, Sur les espaces à structure uniforme et sur la topologie générale, Hermann, 1937.
+  29. ↑ Jean Dieudonné, « Sur les espaces uniformes complets », _Annales scientifiques de l'É.N.S., 3e série_, vol. 56, 1939, p. 277-291 ([lire en ligne](http://archive.numdam.org/ARCHIVE/ASENS/ASENS_1939_3_56_/ASENS_1939_3_56__277_0/ASENS_1939_3_56__277_0.pdf)).
+  30. ↑ Chap. I, §7, p. 41-42.
+  31. ↑ Nicolas Bourbaki, « Espaces minimaux et espaces complètement séparés », _C. R. Acad. Sc._ , vol. 212, 1941, p. 215-218 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k3164q/f215.image)).
+  32. ↑ Exercice 21, TG I, p. 108-109.
+  33. ↑ Jean Dieudonné, « Une généralisation des espaces compacts », _Journal de Mathématiques Pures et Appliquées, Neuvième Série_ , vol. 23, 1944, p. 65–76 ([lire en ligne](http://archive.numdam.org/ARCHIVE/ASENS/ASENS_1939_3_56_/ASENS_1939_3_56__277_0/ASENS_1939_3_56__277_0.pdf)).
+  34. ↑ Lev Pontryagin, _Topological Groups_ , Princeton Univ. Press, 1939.
+  35. ↑ André Weil, L'intégration dans les groupes topologiques et ses applications, Hermann, 1940.
+  36. ↑ (en) M. H. Stone, « Applications of the theory of Boolean rings to general topology », _[Trans. Amer. Math. Soc.](/wiki/Transactions_of_the_American_Mathematical_Society "Transactions of the American Mathematical Society")_ , vol. 41, no 3, 1937, p. 375-381 ([lire en ligne](http://www.ams.org/journals/tran/1937-041-03/S0002-9947-1937-1501905-7/S0002-9947-1937-1501905-7.pdf)) ; « The generalized Weierstrass approximation theorem », _[Mathematics Magazine](/wiki/Mathematics_Magazine "Mathematics Magazine")_ , vol. 21, 1948, p. 167-184, 237-254 ([lire en ligne](https://www.jstor.org/discover/10.2307/3029750?uid=3738016&uid=2129&uid=2&uid=70&uid=4&sid=21102142904157)).
+  37. ↑ (en) J. L. Kelley, « Bourbaki, N., Eléments de Mathématique. Espaces vectoriels topologiques. Chapitres I et II », _Mathematical Reviews_ , 1953.
+  38. ↑ Jean Dieudonné et [Laurent Schwartz](/wiki/Laurent_Schwartz_\(math%C3%A9maticien\) "Laurent Schwartz \(mathématicien\)"), « La dualité dans les espaces (F) et (LF) », _[Annales de l'Institut Fourier](/wiki/Annales_de_l%27Institut_Fourier "Annales de l'Institut Fourier"),_, vol. 1, 1949, p. 61-101 ([lire en ligne](http://archive.numdam.org/ARCHIVE/AIF/AIF_1949__1_/AIF_1949__1__61_0/AIF_1949__1__61_0.pdf)).
+  39. ↑ Alexandre Grothendieck, « Résumé des résultats essentiels dans la théorie des produits tensoriels topologiques et des espaces nucléaires », _Annales de l'Institut Fourier_ , vol. 4, 1952, p. 73-112 ([lire en ligne](http://archive.numdam.org/ARCHIVE/AIF/AIF_1952__4_/AIF_1952__4__73_0/AIF_1952__4__73_0.pdf)).
+  40. ↑ Nicolas Bourbaki, « Sur certains espaces vectoriels topologiques », _[Annales de l'Institut Fourier](/wiki/Annales_de_l%27Institut_Fourier "Annales de l'Institut Fourier"),_, vol. 2, 1950, p. 5-16 ([lire en ligne](http://archive.numdam.org/ARCHIVE/AIF/AIF_1950__2_/AIF_1950__2__5_0/AIF_1950__2__5_0.pdf)).
+  41. ↑ (en) [George W. Mackey](/wiki/George_Mackey "George Mackey"), « On infinite-dimensional linear spaces », _Trans. Amer. Math. Soc._ , vol. 57, 1945, p. 157-205 ([lire en ligne](http://www.ams.org/journals/tran/1945-057-02/S0002-9947-1945-0012204-1/S0002-9947-1945-0012204-1.pdf)) ; (en) « On convex topological spaces », _Trans. Amer. Math. Soc._ , vol. 60, 1946, p. 519-537 ([lire en ligne](http://www.ams.org/journals/tran/1946-060-00/S0002-9947-1946-0020214-4/S0002-9947-1946-0020214-4.pdf)).
+  42. ↑ Séminaire Laurent Schwartz, École polytechnique, 1969-1970 ([lire en ligne](https://books.google.fr/books/about/S%C3%A9minaire_Laurent_Schwartz.html?id=Fy7vAAAAMAAJ&redir_esc=y)).
+  43. ↑ Laurent Schwartz, Radon Measures on Arbitrary Topological Spaces and Cylindrical Measures, Oxford University Press, 1973 ([lire en ligne](https://books.google.fr/books/about/Radon_measures_on_arbitrary_topological.html?id=19zuAAAAMAAJ&redir_esc=y)).
+  44. ↑ Lire à ce sujet Norbert Meunier, _Sur l'histoire de l'enseignement des probabilités et des statistiques_ , §4, _Le contrepoint Bourbakiste_ , p.255-265 de l'ouvrage _Histoires de probabilités et de Statistiques_ , coordonné par Évelyne Barbin & Jean-Pierre Lamarche, ellipses (2004), ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-7298-1923-1](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-7298-1923-1 "Spécial:Ouvrages de référence/2-7298-1923-1"))
+  45. ↑ Schwartz 1997, p. 172.
+  46. ↑ Saunders MacLane, « Letters to the Editor », _The Mathematical Intelligencer_ , vol. 8, no 2, 1986, p. 5.
+  47. ↑ Sauders MacLane, _The development and prospects for Category Theory_ , Applied Categorical Structures, 4, 129-136, 1996.
+  48. ↑ N. Bourbaki, [Algèbre Commutative, chapitres 1 à 4](/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique "Éléments de mathématique"), [Springer](/wiki/Springer_Verlag "Springer Verlag"), 2006, 364 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-3-540-33937-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-3-540-33937-3 "Spécial:Ouvrages de référence/978-3-540-33937-3")), chap. I, p. 55.
+  49. ↑ (en) David Aubin, « The Withering Immortality of Nicolas Bourbaki: A Cultural Connector at the Confluence of Mathematics », _Science in Context_ , vol. 10, 1997, p. 297-342 ([lire en ligne](http://www.institut.math.jussieu.fr/~daubin/publis/1997.pdf)).
+
+## Voir
+aussi[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=34
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=34 "Modifier la
+section : Voir aussi")]
+
+###
+Bibliographie[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=35
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=35 "Modifier la
+section : Bibliographie")]
+
+  * Frédéric Patras, _La Pensée mathématique contemporaine_ , [PUF](/wiki/PUF "PUF"), coll. « Science, histoire et société », 2001 ; 2e éd. 2002.
+  * Michèle Chouchan, _Nicolas Bourbaki Faits et légendes_ , Éditions du choix, 1995 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-909028-18-6](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-909028-18-6 "Spécial:Ouvrages de référence/2-909028-18-6"))
+  * Amir D. Aczel, _Nicolas Bourbaki, Histoire d'un génie des mathématiques qui n'a jamais existé_ , [JC Lattès](/wiki/%C3%89ditions_Jean-Claude_Latt%C3%A8s "Éditions Jean-Claude Lattès"), 2009
+  * Maurice Mashaal, Bourbaki. Une société secrète de mathématiciens, [Belin](/wiki/Belin_%C3%A9diteur "Belin éditeur"), coll. « Alpha », 2017
+
+### Émission de
+radio[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=36
+"Modifier la section : Émission de radio") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=36 "Modifier la
+section : Émission de radio")]
+
+  * [Nicolas Bourbaki fait son entrée à la BNF !](http://www.franceculture.fr/emission-la-marche-des-sciences-nicolas-bourbaki-fait-son-entree-a-la-bnf-2013-01-17), France Culture, La Marche des sciences, 17/01/2013
+
+### Articles
+connexes[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=37
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=37 "Modifier la
+section : Articles connexes")]
+
+  * [Mathématiques](/wiki/Math%C3%A9matiques "Mathématiques")
+  * [Mathématiques modernes](/wiki/Math%C3%A9matiques_modernes "Mathématiques modernes")
+  * [Bourbakisme](/wiki/Bourbakisme "Bourbakisme")
+
+### Liens
+externes[[modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit&section=38
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Nicolas_Bourbaki&action=edit&section=38 "Modifier la
+section : Liens externes")]
+
+  * [Notices d'autorité](/wiki/Autorit%C3%A9_\(sciences_de_l%27information\) "Autorité \(sciences de l'information\)")[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q190529?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : 
+    * [Fichier d’autorité international virtuel](http://viaf.org/viaf/120155551)
+    * [International Standard Name Identifier](http://isni.org/isni/0000000118813307)
+    * [Bibliothèque nationale de France](http://catalogue.bnf.fr/ark:/12148/cb12002825g) ([données](http://data.bnf.fr/ark:/12148/cb12002825g))
+    * [Système universitaire de documentation](http://www.idref.fr/034831541)
+    * [Bibliothèque du Congrès](http://id.loc.gov/authorities/n50042127)
+    * [Gemeinsame Normdatei](http://d-nb.info/gnd/140993142)
+    * [Bibliothèque nationale de la Diète](http://id.ndl.go.jp/auth/ndlna/00433995)
+    * [Bibliothèque royale des Pays-Bas](http://data.bibliotheken.nl/id/thes/p069582106)
+    * [Bibliothèque nationale d’Israël](http://uli.nli.org.il/F/?func=direct&doc_number=000023520&local_base=nlx10)
+    * [Bibliothèque universitaire de Pologne](http://viaf.org/processed/NUKAT%7Cn96000848)
+    * [Bibliothèque nationale de Catalogne](http://cantic.bnc.cat/registres/CUCId/a10701114)
+    * [Bibliothèque nationale de Suède](http://libris.kb.se/auth/178838)
+    * [WorldCat](http://www.worldcat.org/identities/lccn-n50-042127)
+
+  * Philippe Douroux, « Bourbaki, l’équation collective », _[Libération](/wiki/Lib%C3%A9ration_\(journal\) "Libération \(journal\)")_ , 24 juillet 2012 ([lire en ligne](http://www.ecrans.fr/Bourbaki-l-equation-collective,15079.html))
+  * [Sylvestre Huet](/wiki/Sylvestre_Huet "Sylvestre Huet"), [_Les archives Bourbaki à la BNF_](http://sciences.blogs.liberation.fr/home/2012/11/les-archives-bourbaki-%C3%A0-la-bnf.html), Libération {SCIENCES²}
+  * [« Nicolas Bourbaki (1935 - ?) »](http://www.bibmath.net/bios/index.php?action=affiche&quoi=bourbaki), sur bibmath.net
+  * [« Bourbaki _(Nicolas)_ »](http://images.math.cnrs.fr/spip.php?page=lexique#ini_B), sur [Images des mathématiques](/wiki/Images_des_math%C3%A9matiques "Images des mathématiques")
+  * [« Archives de l'Association des Collaborateurs de Nicolas Bourbaki »](http://math-doc.ujf-grenoble.fr/archives-bourbaki/)
+  * [« Bibliographie de Bourbaki »](http://poincare.univ-nancy2.fr/digitalAssets/190568_B-biblio-B-iii2013.pdf), sur <http://poincare.univ-nancy2.fr>
+  * [« Robert Mainard, _Le Mouvement Bourbaki – Bourbaki à Nancy_ »](http://www.academie-stanislas.org/academiestanislas/images/Publications/TomeXVI/TomeXVI-Mainard01.pdf), sur <http://www.academie-stanislas.org>
+  * [« Liliane Beaulieu, _Bourbaki à Nancy_ »](http://www.iecn.u-nancy.fr/~tenenb/PUBLIC/IECN_2003/IECN2003-031-042.pdf), sur <http://www.iecn.u-nancy.fr>
+  * [« Nicolas Bourbaki »](http://www.apprendre-en-ligne.net/seshat/fiche.php?qui=\(Bourbaki\)), sur apprendre-en-ligne.net
+  * (en) [John J. O'Connor](/wiki/John_J._O%27Connor "John J. O'Connor") et [Edmund F. Robertson](/wiki/Edmund_Robertson "Edmund Robertson"), « Nicolas Bourbaki », dans [MacTutor History of Mathematics archive](/wiki/MacTutor_History_of_Mathematics_archive "MacTutor History of Mathematics archive"), [université de St Andrews](/wiki/Universit%C3%A9_de_St_Andrews "Université de St Andrews") ([lire en ligne](http://www-history.mcs.st-andrews.ac.uk/Biographies/Bourbaki.html)). (voir _Bourbaki: the pre-war years_ et _Bourbaki: the post-war years_ )
+
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/33px-Flag_of_France.svg.png)](/wiki/Portail:France "Portail de la France") [Portail de la France](/wiki/Portail:France "Portail:France")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Nicolas_Bourbaki&oldid=173215833](https://fr.wikipedia.org/w/index.php?title=Nicolas_Bourbaki&oldid=173215833)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Bourbaki](/wiki/Cat%C3%A9gorie:Bourbaki "Catégorie:Bourbaki")
+  * [Société mathématique](/wiki/Cat%C3%A9gorie:Soci%C3%A9t%C3%A9_math%C3%A9matique "Catégorie:Société mathématique")
+  * [Mathématicien français du XXe siècle](/wiki/Cat%C3%A9gorie:Math%C3%A9maticien_fran%C3%A7ais_du_XXe_si%C3%A8cle "Catégorie:Mathématicien français du XXe siècle")
+  * [Mathématicien français du XXIe siècle](/wiki/Cat%C3%A9gorie:Math%C3%A9maticien_fran%C3%A7ais_du_XXIe_si%C3%A8cle "Catégorie:Mathématicien français du XXIe siècle")
+  * [Mathématicien de fiction](/wiki/Cat%C3%A9gorie:Math%C3%A9maticien_de_fiction "Catégorie:Mathématicien de fiction")
+  * [Canular](/wiki/Cat%C3%A9gorie:Canular "Catégorie:Canular")
+  * [Pseudonyme collectif](/wiki/Cat%C3%A9gorie:Pseudonyme_collectif "Catégorie:Pseudonyme collectif")
+  * [Pseudonyme hétéronyme](/wiki/Cat%C3%A9gorie:Pseudonyme_h%C3%A9t%C3%A9ronyme "Catégorie:Pseudonyme hétéronyme")
+
+Catégories cachées :
+
+  * [Article contenant un appel à traduction en allemand](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_allemand "Catégorie:Article contenant un appel à traduction en allemand")
+  * [Article utilisant une Infobox](/wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox "Catégorie:Article utilisant une Infobox")
+  * [Article contenant un appel à traduction en anglais](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais "Catégorie:Article contenant un appel à traduction en anglais")
+  * [Article de Wikipédia avec notice d'autorité](/wiki/Cat%C3%A9gorie:Article_de_Wikip%C3%A9dia_avec_notice_d%27autorit%C3%A9 "Catégorie:Article de Wikipédia avec notice d'autorité")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Portail:France/Articles liés](/wiki/Cat%C3%A9gorie:Portail:France/Articles_li%C3%A9s "Catégorie:Portail:France/Articles liés")
+  * [Portail:Europe/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Europe/Articles_li%C3%A9s "Catégorie:Portail:Europe/Articles liés")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Nicolas_Bourbaki "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Nicolas_Bourbaki "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Nicolas_Bourbaki&oldid=173215833 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Nicolas_Bourbaki&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Nicolas_Bourbaki&id=173215833&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q190529 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Nicolas+Bourbaki)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Nicolas_Bourbaki&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Nicolas_Bourbaki&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Bourbaki)
+
+###  Dans d’autres langues
+
+  * [العربية](https://ar.wikipedia.org/wiki/%D9%86%D9%8A%D9%83%D9%88%D9%84%D8%A7_%D8%A8%D9%88%D8%B1%D8%A8%D8%A7%D9%83%D9%8A "نيكولا بورباكي — arabe")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Nikola_Burbaki "Nikola Burbaki — azéri")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%9D%D1%96%D0%BA%D0%B0%D0%BB%D1%8F_%D0%91%D1%83%D1%80%D0%B1%D0%B0%D0%BA%D1%96 "Нікаля Бурбакі — biélorusse")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%91%D1%83%D1%80%D0%B1%D0%B0%D0%BA%D0%B8 "Никола Бурбаки — bulgare")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%8B%E0%A6%B2%E0%A6%BE_%E0%A6%AC%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A6%BF "নিকোলা বুরবাকি — bengali")
+  * [Català](https://ca.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — catalan")
+  * [Čeština](https://cs.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — tchèque")
+  * [Deutsch](https://de.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — allemand")
+  * [English](https://en.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — anglais")
+  * [Español](https://es.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D9%86%DB%8C%DA%A9%D9%84%D8%A7_%D8%A8%D9%88%D8%B1%D8%A8%D8%A7%DA%A9%DB%8C "نیکلا بورباکی — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — finnois")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — irlandais")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%A0%D7%99%D7%A7%D7%95%D7%9C%D7%90_%D7%91%D7%95%D7%A8%D7%91%D7%90%D7%A7%D7%99 "ניקולא בורבאקי — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A5%8B%E0%A4%B2%E0%A4%BE_%E0%A4%AC%E0%A5%82%E0%A4%B0%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%80 "नीकोला बूरबाकी — hindi")
+  * [Kreyòl ayisyen](https://ht.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — créole haïtien")
+  * [Magyar](https://hu.wikipedia.org/wiki/Bourbaki-csoport "Bourbaki-csoport — hongrois")
+  * [Íslenska](https://is.wikipedia.org/wiki/Nicholas_Bourbaki "Nicholas Bourbaki — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%96%E3%83%AB%E3%83%90%E3%82%AD "ニコラ・ブルバキ — japonais")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%B1%D0%B0%D0%BA%D0%B8_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0 "Бурбаки Никола — kazakh")
+  * [한국어](https://ko.wikipedia.org/wiki/%EB%8B%88%EC%BD%9C%EB%9D%BC_%EB%B6%80%EB%A5%B4%EB%B0%94%ED%82%A4 "니콜라 부르바키 — coréen")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%B1%D0%B0%D0%BA%D0%B8_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0 "Бурбаки Никола — kirghize")
+  * [मराठी](https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%80 "बुर्बाकी — marathi")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — norvégien nynorsk")
+  * [Polski](https://pl.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — polonais")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — piémontais")
+  * [Português](https://pt.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%91%D1%83%D1%80%D0%B1%D0%B0%D0%BA%D0%B8 "Никола Бурбаки — russe")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — sicilien")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — slovaque")
+  * [Shqip](https://sq.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — albanais")
+  * [Svenska](https://sv.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — suédois")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%9D%D1%96%D0%BA%D0%BE%D0%BB%D1%8F_%D0%91%D1%83%D1%80%D0%B1%D0%B0%D0%BA%D1%96 "Ніколя Бурбакі — ukrainien")
+  * [中文](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E5%B8%83%E5%B0%94%E5%B7%B4%E5%9F%BA "尼古拉·布尔巴基 — chinois")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/Bourbaki "Bourbaki — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q190529#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Nicolas+Bourbaki "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Nicolas+Bourbaki "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Nicolas_Bourbaki "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Nicolas_Bourbaki "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Nicolas_Bourbaki)
+  * [Modifier](/w/index.php?title=Nicolas_Bourbaki&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Nicolas_Bourbaki&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Nicolas_Bourbaki&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 24 juillet 2020 à 12:19.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Nicolas_Bourbaki "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Nicolas_Bourbaki&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[XXe]: 20ᵉ siècle
+  *[etc.]: et cetera
+  *[vol.]: volume
+  *[p.]: page(s)
+  *[XIXe]: 19ᵉ siècle
+  *[[PDF]]: Document au format Portable Document Format (PDF) d'Adobe
+  *[(en)]: Langue : anglais
+  *[coll.]: collection
+  *[no]: numéro
+  *[ 3e]: Troisième
+  *[chap.]: chapitre(s)
+  *[2e]: Deuxième
+

@@ -1,0 +1,437 @@
+# Isomorphisme
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Isomorphisme
+(chimie)](/wiki/Isomorphisme_\(chimie\) "Isomorphisme \(chimie\)") et
+[Isomorphisme institutionnel](/wiki/Isomorphisme_institutionnel "Isomorphisme
+institutionnel").
+
+En [mathématiques](/wiki/Math%C3%A9matiques "Mathématiques"), un
+**isomorphisme** entre deux [ensembles](/wiki/Ensemble "Ensemble")
+[structurés](/wiki/Structure_\(math%C3%A9matiques\) "Structure
+\(mathématiques\)") est une
+[application](/wiki/Application_\(math%C3%A9matiques\) "Application
+\(mathématiques\)") [bijective](/wiki/Bijection "Bijection") qui préserve la
+structure, et dont la [réciproque](/wiki/Bijection_r%C3%A9ciproque "Bijection
+réciproque") préserve aussi la structure[1]. Plus généralement, en [théorie
+des catégories](/wiki/Th%C3%A9orie_des_cat%C3%A9gories "Théorie des
+catégories"), un isomorphisme entre deux objets est un
+[morphisme](/wiki/Morphisme "Morphisme") admettant un « morphisme inverse ».
+
+Exemple : sur l'intervalle [1,100] par exemple, des valeurs a, b, c... peuvent
+être remplacées par leur [logarithme](/wiki/Logarithme "Logarithme") x, y,
+z..., et les relations d'ordre entre elles seront parfaitement conservées. On
+peut à tout moment retrouver les valeurs a, b et c en prenant les
+[exponentielles](/wiki/Fonction_exponentielle "Fonction exponentielle") de x,
+y et z.
+
+D'autres termes peuvent être utilisés pour désigner un isomorphisme en
+spécifiant la structure, comme l'[homéomorphisme](/wiki/Hom%C3%A9omorphisme
+"Homéomorphisme") entre [espaces topologiques](/wiki/Espace_topologique
+"Espace topologique") ou le [difféomorphisme](/wiki/Diff%C3%A9omorphisme
+"Difféomorphisme") entre
+[variétés](/wiki/Vari%C3%A9t%C3%A9_\(g%C3%A9om%C3%A9trie\) "Variété
+\(géométrie\)").
+
+Deux objets sont dits **isomorphes** s'il existe un isomorphisme de l'un vers
+l'autre. Dans certains contextes, un isomorphisme d'un objet sur lui-même est
+appelé un [automorphisme](/wiki/Automorphisme "Automorphisme").
+
+## Sommaire
+
+  * 1 Définitions
+    * 1.1 Algèbre
+    * 1.2 Catégorie
+    * 1.3 Théorie des modèles
+  * 2 Exemples
+  * 3 Isomorphismes et morphismes bijectifs
+  * 4 Propriétés
+  * 5 Objets isomorphes
+  * 6 Note
+  * 7 Articles connexes
+
+##
+Définitions[[modifier](/w/index.php?title=Isomorphisme&veaction=edit&section=1
+"Modifier la section : Définitions") | [modifier le
+code](/w/index.php?title=Isomorphisme&action=edit&section=1 "Modifier la
+section : Définitions")]
+
+### Algèbre[[modifier](/w/index.php?title=Isomorphisme&veaction=edit&section=2
+"Modifier la section : Algèbre") | [modifier le
+code](/w/index.php?title=Isomorphisme&action=edit&section=2 "Modifier la
+section : Algèbre")]
+
+En [algèbre](/wiki/Alg%C3%A8bre "Algèbre"), un isomorphisme est un
+[morphisme](/wiki/Morphisme "Morphisme") admettant un inverse qui est lui-même
+un morphisme, ou plus simplement un morphisme bijectif.
+
+C'est donc une [bijection](/wiki/Bijection "Bijection") pour laquelle les
+relations « algébriques » entre les éléments de l'ensemble d'arrivée sont les
+mêmes que celles entre leurs antécédents respectifs (la
+[structure](/wiki/Structure_\(math%C3%A9matiques\) "Structure
+\(mathématiques\)") [algébrique](/wiki/Structure_alg%C3%A9brique "Structure
+algébrique") est préservée). Ce « méta-concept » mathématique admet une
+définition formelle en [théorie des
+catégories](/wiki/Th%C3%A9orie_des_cat%C3%A9gories "Théorie des catégories").
+
+###
+Catégorie[[modifier](/w/index.php?title=Isomorphisme&veaction=edit&section=3
+"Modifier la section : Catégorie") | [modifier le
+code](/w/index.php?title=Isomorphisme&action=edit&section=3 "Modifier la
+section : Catégorie")]
+
+Dans une catégorie donnée, un isomorphisme est un morphisme  f : A -> B
+{\displaystyle f:A\to B} ![f:A\\to
+B](https://wikimedia.org/api/rest_v1/media/math/render/svg/20040a52d9391f2fe271f0aaa300bf7887a0c7b1)
+tel qu'il existe un morphisme  g : B -> A {\displaystyle g:B\to A} ![g:B\\to
+A](https://wikimedia.org/api/rest_v1/media/math/render/svg/83702ca79adb23095c7e6e470827cc2fc749d979)
+qui soit « inverse » de  f {\displaystyle f}
+![f](https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61)
+à la fois à gauche  ( g ∘ f = i d A ) {\displaystyle (g\circ f=\mathrm {id}
+_{A})} ![\(g\\circ f={\\mathrm
+{id}}_{A}\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/0a5947d0a8aa31d6828887931ecace71490c230c)
+et à droite  ( f ∘ g = i d B ) . {\displaystyle (f\circ g=\mathrm {id} _{B}).}
+![\(f\\circ g={\\mathrm
+{id}}_{B}\).](https://wikimedia.org/api/rest_v1/media/math/render/svg/16795edf3a1e8e57fef8dcaf824de44aa85be0cf)
+
+Il suffit pour cela que  f {\displaystyle f}
+![f](https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61)
+possède d'une part un « inverse à gauche »  g {\displaystyle g}
+![g](https://wikimedia.org/api/rest_v1/media/math/render/svg/d3556280e66fe2c0d0140df20935a6f057381d77)
+et d'autre part un « inverse à droite »  h {\displaystyle h}
+![h](https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a).
+En effet, on a alors
+
+     g = g ∘ i d B = g ∘ ( f ∘ h ) = ( g ∘ f ) ∘ h = i d A ∘ h = h , {\displaystyle g=g\circ \mathrm {id} _{B}=g\circ (f\circ h)=(g\circ f)\circ h=\mathrm {id} _{A}\circ h=h,} ![g=g\\circ {\\mathrm  {id}}_{B}=g\\circ \(f\\circ h\)=\(g\\circ f\)\\circ h={\\mathrm  {id}}_{A}\\circ h=h,](https://wikimedia.org/api/rest_v1/media/math/render/svg/67da0192699a87e76aa62f9ce36f7a2d96d59030)
+
+ce qui prouve en outre l'unicité de l'inverse.
+
+En revanche, l'une ou l'autre de ces deux conditions, à elle seule, ne suffit
+pas.
+
+### Théorie des
+modèles[[modifier](/w/index.php?title=Isomorphisme&veaction=edit&section=4
+"Modifier la section : Théorie des modèles") | [modifier le
+code](/w/index.php?title=Isomorphisme&action=edit&section=4 "Modifier la
+section : Théorie des modèles")]
+
+En [théorie des modèles](/wiki/Th%C3%A9orie_des_mod%C3%A8les "Théorie des
+modèles"), un homomorphisme concerne deux structures  A {\displaystyle
+{\mathfrak {A}}} ![{\\mathfrak
+{A}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/34aa92fbdb716183c034a2cfc30dafbaa51cfcd6)
+et  B {\displaystyle {\mathfrak {B}}} ![{\\displaystyle {\\mathfrak
+{B}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f939c87a07b7af23e09792e9edb2c7caebb18864)
+dans un même langage  L {\displaystyle {\mathcal {L}}} ![{\\mathcal
+{L}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/9027196ecb178d598958555ea01c43157d83597c).
+Un homomorphisme  h {\displaystyle h}
+![h](https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a)
+de  A {\displaystyle {\mathfrak {A}}} ![{\\mathfrak
+{A}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/34aa92fbdb716183c034a2cfc30dafbaa51cfcd6)
+dans  B {\displaystyle {\mathfrak {B}}} ![{\\displaystyle {\\mathfrak
+{B}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f939c87a07b7af23e09792e9edb2c7caebb18864)
+est une application de  | A | {\displaystyle |{\mathfrak {A}}|}
+![{\\displaystyle |{\\mathfrak
+{A}}|}](https://wikimedia.org/api/rest_v1/media/math/render/svg/73b0dcbd6a83d740ea7217770085bd29bac044ba)
+(l'univers ou domaine de  A {\displaystyle {\mathfrak {A}}} ![{\\mathfrak
+{A}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/34aa92fbdb716183c034a2cfc30dafbaa51cfcd6))
+dans  | B | {\displaystyle |{\mathfrak {B}}|} ![{\\displaystyle |{\\mathfrak
+{B}}|}](https://wikimedia.org/api/rest_v1/media/math/render/svg/dc3335b4bd0bfcf1f453b3486a8c9288e5f79fc3)
+qui satisfait les conditions suivantes :
+
+  * pour tout entier  n {\displaystyle n} ![n](https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b), pour tout prédicat  P {\displaystyle P} ![P](https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a) de  L {\displaystyle {\mathcal {L}}} ![{\\mathcal {L}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/9027196ecb178d598958555ea01c43157d83597c) d'arité  n {\displaystyle n} ![n](https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b), pour tout  a 1 , … , a n {\displaystyle a_{1},\dots ,a_{n}} ![{\\displaystyle a_{1},\\dots ,a_{n}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/852381be25b656d697c7a4a9634d3dc4c182d833) de  A {\displaystyle {\mathfrak {A}}} ![{\\mathfrak {A}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/34aa92fbdb716183c034a2cfc30dafbaa51cfcd6) : 
+
+     ( a 1 , … , a n ) ∈ P A {\displaystyle (a_{1},\dots ,a_{n})\in P^{\mathfrak {A}}} ![{\\displaystyle \(a_{1},\\dots ,a_{n}\)\\in P^{\\mathfrak {A}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/23123d1a824f6e3813cadb83acf1c98ce6b09d5e) si et seulement si  ( h ( a 1 ) , … , h ( a n ) ) ∈ P B {\displaystyle (h(a_{1}),\dots ,h(a_{n}))\in P^{\mathfrak {B}}} ![{\\displaystyle \(h\(a_{1}\),\\dots ,h\(a_{n}\)\)\\in P^{\\mathfrak {B}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/73d0ef0c78ef97cdd090c34105cbd0cc07e4ea3b) ;
+  * pour tout entier  n {\displaystyle n} ![n](https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b), pour toute fonction  F {\displaystyle F} ![F](https://wikimedia.org/api/rest_v1/media/math/render/svg/545fd099af8541605f7ee55f08225526be88ce57) de  L {\displaystyle {\mathcal {L}}} ![{\\mathcal {L}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/9027196ecb178d598958555ea01c43157d83597c) d'arité  n {\displaystyle n} ![n](https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b), pour tout  a 1 , … , a n {\displaystyle a_{1},\dots ,a_{n}} ![{\\displaystyle a_{1},\\dots ,a_{n}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/852381be25b656d697c7a4a9634d3dc4c182d833) de  A {\displaystyle {\mathfrak {A}}} ![{\\mathfrak {A}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/34aa92fbdb716183c034a2cfc30dafbaa51cfcd6) : 
+
+     h ( F A ( a 1 , … , a n ) ) = F B ( h ( a 1 ) , … , h ( a n ) ) {\displaystyle h(F^{\mathfrak {A}}(a_{1},\dots ,a_{n}))=F^{\mathfrak {B}}(h(a_{1}),\dots ,h(a_{n}))} ![{\\displaystyle h\(F^{\\mathfrak {A}}\(a_{1},\\dots ,a_{n}\)\)=F^{\\mathfrak {B}}\(h\(a_{1}\),\\dots ,h\(a_{n}\)\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/afd45512cca27d95ea1311a08ee94856596f8d19) ;
+  * pour toute constante  c {\displaystyle c} ![c](https://wikimedia.org/api/rest_v1/media/math/render/svg/86a67b81c2de995bd608d5b2df50cd8cd7d92455) de  L {\displaystyle {\mathcal {L}}} ![{\\mathcal {L}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/9027196ecb178d598958555ea01c43157d83597c) : 
+
+     c A = c B {\displaystyle c^{\mathfrak {A}}=c^{\mathfrak {B}}} ![{\\displaystyle c^{\\mathfrak {A}}=c^{\\mathfrak {B}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/750ac76cbb3758e7afee14a2cc2bf62ab3c661b6).
+
+Un homomorphisme bijectif est un isomorphisme. S'il existe un isomorphisme
+entre deux structures, on dit qu'elles sont isomorphes. Un important théorème
+assure qu'alors, pour tout entier  n {\displaystyle n}
+![n](https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b),
+tout prédicat  P {\displaystyle P}
+![P](https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a)
+de  L {\displaystyle {\mathcal {L}}} ![{\\mathcal
+{L}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/9027196ecb178d598958555ea01c43157d83597c)
+d'arité  n {\displaystyle n}
+![n](https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b)
+et toute  L {\displaystyle {\mathcal {L}}} ![{\\mathcal
+{L}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/9027196ecb178d598958555ea01c43157d83597c)-formule
+ϕ {\displaystyle \phi } ![\\phi
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/72b1f30316670aee6270a28334bdf4f5072cdde4)
+:
+
+     ⊨ A ϕ [ a 1 , … , a n ] {\displaystyle \models _{\mathfrak {A}}\phi [a_{1},\dots ,a_{n}]} ![{\\displaystyle \\models _{\\mathfrak {A}}\\phi \[a_{1},\\dots ,a_{n}\]}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ea00f2acc03f0a2abbc37e998eb5be62a42e58d5) si et seulement si  ⊨ B ϕ [ h ( a 1 ) , … , h ( a n ) ] {\displaystyle \models _{\mathfrak {B}}\phi [h(a_{1}),\dots ,h(a_{n})]} ![{\\displaystyle \\models _{\\mathfrak {B}}\\phi \[h\(a_{1}\),\\dots ,h\(a_{n}\)\]}](https://wikimedia.org/api/rest_v1/media/math/render/svg/1d3811412c9747d6b020cb897a5d32f434f64603).
+
+En particulier, les deux structures satisfont les mêmes énoncés. Ainsi, deux
+structures isomorphes sont [élémentairement
+équivalentes](/wiki/%C3%89quivalence_%C3%A9l%C3%A9mentaire "Équivalence
+élémentaire").
+
+## Exemples[[modifier](/w/index.php?title=Isomorphisme&veaction=edit&section=5
+"Modifier la section : Exemples") | [modifier le
+code](/w/index.php?title=Isomorphisme&action=edit&section=5 "Modifier la
+section : Exemples")]
+
+  * Dans la [catégorie des ensembles](/wiki/Cat%C3%A9gorie_des_ensembles "Catégorie des ensembles"), les isomorphismes sont les bijections.
+  * Dans la [catégorie des groupes](/wiki/Cat%C3%A9gorie_des_groupes "Catégorie des groupes"), les isomorphismes sont les [morphismes de groupes](/wiki/Morphisme_de_groupes "Morphisme de groupes") bijectifs.
+  * Dans la [catégorie des espaces topologiques](/wiki/Cat%C3%A9gorie_des_espaces_topologiques "Catégorie des espaces topologiques"), un isomorphisme est une [bijection](/wiki/Bijection "Bijection") continue dont l'[inverse](/wiki/Bijection_r%C3%A9ciproque "Bijection réciproque") est continue, aussi appelée [homéomorphisme](/wiki/Hom%C3%A9omorphisme "Homéomorphisme").
+  * De la même façon, un isomorphisme entre [variétés différentielles](/wiki/Vari%C3%A9t%C3%A9_diff%C3%A9rentielle "Variété différentielle") (par exemple, entre des [ouverts](/wiki/Ouvert_\(topologie\) "Ouvert \(topologie\)") de ℝ _n_ ) est un [difféomorphisme](/wiki/Diff%C3%A9omorphisme "Difféomorphisme"), c'est-à-dire une bijection [différentiable](/wiki/Diff%C3%A9rentiable "Différentiable") dont l'inverse est différentiable. Plus précisément, si l'on considère une structure [C _k_](/wiki/Classe_de_r%C3%A9gularit%C3%A9 "Classe de régularité") sur une variété, alors on parle de C _k_ -difféomorphisme.
+  * Un [isomorphisme d'ensembles ordonnés](/wiki/Isomorphisme_d%27ensembles_ordonn%C3%A9s "Isomorphisme d'ensembles ordonnés") est une bijection croissante dont la réciproque est croissante.
+
+## Isomorphismes et morphismes
+bijectifs[[modifier](/w/index.php?title=Isomorphisme&veaction=edit&section=6
+"Modifier la section : Isomorphismes et morphismes bijectifs") | [modifier le
+code](/w/index.php?title=Isomorphisme&action=edit&section=6 "Modifier la
+section : Isomorphismes et morphismes bijectifs")]
+
+Dans une [catégorie concrète](/wiki/Cat%C3%A9gorie_concr%C3%A8te "Catégorie
+concrète") (c'est-à-dire, _grosso modo_ , une catégorie dont les objets sont
+des ensembles et les morphismes, des applications entre ces ensembles), comme
+la catégorie des espaces topologiques ou les catégories d'objets algébriques
+comme les groupes, les anneaux et les modules, un isomorphisme doit être
+bijectif. Dans les catégories algébriques (en particulier, les catégories des
+[variétés au sens de l'algèbre
+universelle](/wiki/Vari%C3%A9t%C3%A9_\(alg%C3%A8bre\) "Variété \(algèbre\)")),
+un isomorphisme est un homomorphisme bijectif. Toutefois, il existe des
+catégories concrètes dans lesquelles les morphismes bijectifs ne sont pas
+nécessairement des isomorphismes (comme la [catégorie des espaces
+topologiques](/wiki/Cat%C3%A9gorie_des_espaces_topologiques "Catégorie des
+espaces topologiques")), et dans certaines catégories où tout objet admet un
+ensemble sous-jacent, les isomorphismes ne sont pas forcément bijectifs (comme
+la catégorie d'homotopie des [CW-complexes](/wiki/CW-complexe "CW-complexe")).
+
+##
+Propriétés[[modifier](/w/index.php?title=Isomorphisme&veaction=edit&section=7
+"Modifier la section : Propriétés") | [modifier le
+code](/w/index.php?title=Isomorphisme&action=edit&section=7 "Modifier la
+section : Propriétés")]
+
+Un isomorphisme est à la fois un [épimorphisme](/wiki/%C3%89pimorphisme
+"Épimorphisme") et un [monomorphisme](/wiki/Monomorphisme "Monomorphisme"),
+mais la [réciproque](/wiki/R%C3%A9ciproque "Réciproque") est fausse en général
+: il existe des morphismes à la fois épiques et moniques qui ne sont pas des
+isomorphismes.
+
+_Pour plus de détails, voir : [Propriétés des morphismes dans les
+catégories](/wiki/Th%C3%A9orie_des_cat%C3%A9gories#Monomorphismes,_épimorphismes_et_isomorphismes
+"Théorie des catégories")._
+
+## Objets
+isomorphes[[modifier](/w/index.php?title=Isomorphisme&veaction=edit&section=8
+"Modifier la section : Objets isomorphes") | [modifier le
+code](/w/index.php?title=Isomorphisme&action=edit&section=8 "Modifier la
+section : Objets isomorphes")]
+
+Deux objets reliés par un isomorphisme sont dits isomorphes.
+
+Exemple : le [groupe de Klein](/wiki/Groupe_de_Klein "Groupe de Klein") est
+isomorphe à ℤ/2ℤ × ℤ/2ℤ.
+
+Savoir que deux objets sont isomorphes présente un grand intérêt car cela
+permet de transposer des résultats et propriétés démontrés de l'un à l'autre.
+
+Selon certains points de vue, deux objets isomorphes peuvent être considérés
+comme identiques, ou du moins indiscernables. En effet, bien souvent, les
+propriétés intéressantes d'un objet seront partagées par tous les objets
+isomorphes de la catégorie. Ainsi, on parle souvent d'unicité ou d'identité «
+[à un isomorphisme près](/wiki/%C3%80_quelque_chose_pr%C3%A8s "À quelque chose
+près") ».
+
+## Note[[modifier](/w/index.php?title=Isomorphisme&veaction=edit&section=9
+"Modifier la section : Note") | [modifier le
+code](/w/index.php?title=Isomorphisme&action=edit&section=9 "Modifier la
+section : Note")]
+
+  1. ↑ Si, pour beaucoup de structures en [algèbre](/wiki/Alg%C3%A8bre "Algèbre"), cette seconde condition est automatiquement remplie, ce n'est pas le cas en [topologie](/wiki/Topologie "Topologie") par exemple où une bijection peut être [continue](/wiki/Continuit%C3%A9_\(math%C3%A9matiques\) "Continuité \(mathématiques\)") sans que sa réciproque le soit.
+
+## Articles
+connexes[[modifier](/w/index.php?title=Isomorphisme&veaction=edit&section=10
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Isomorphisme&action=edit&section=10 "Modifier la
+section : Articles connexes")]
+
+  * [Théorèmes d'isomorphisme](/wiki/Th%C3%A9or%C3%A8mes_d%27isomorphisme "Théorèmes d'isomorphisme")
+  * [Isomorphisme de graphes](/wiki/Isomorphisme_de_graphes "Isomorphisme de graphes")
+  * [Quasi-isomorphisme](/wiki/Quasi-isomorphisme "Quasi-isomorphisme")
+
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Isomorphisme&oldid=167842245](https://fr.wikipedia.org/w/index.php?title=Isomorphisme&oldid=167842245)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Algèbre générale](/wiki/Cat%C3%A9gorie:Alg%C3%A8bre_g%C3%A9n%C3%A9rale "Catégorie:Algèbre générale")
+  * [Théorie des catégories](/wiki/Cat%C3%A9gorie:Th%C3%A9orie_des_cat%C3%A9gories "Catégorie:Théorie des catégories")
+  * [Théorie des modèles](/wiki/Cat%C3%A9gorie:Th%C3%A9orie_des_mod%C3%A8les "Catégorie:Théorie des modèles")
+
+Catégories cachées :
+
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Isomorphisme "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Isomorphisme "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Isomorphisme&oldid=167842245 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Isomorphisme&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Isomorphisme&id=167842245&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q189112 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Isomorphisme)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Isomorphisme&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Isomorphisme&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%AA%D8%B3%D8%A7%D9%88%D9%8A_%D8%A7%D9%84%D8%B4%D9%83%D9%84 "تساوي الشكل — arabe")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Isomorfismu "Isomorfismu — asturien")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/%C4%B0zomorfluq "İzomorfluq — azéri")
+  * [Башҡортса](https://ba.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC "Изоморфизм — bachkir")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%86%D0%B7%D0%B0%D0%BC%D0%B0%D1%80%D1%84%D1%96%D0%B7%D0%BC "Ізамарфізм — biélorusse")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D1%8A%D0%BC "Изоморфизъм — bulgare")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Izomorfizam "Izomorfizam — bosniaque")
+  * [Català](https://ca.wikipedia.org/wiki/Isomorfisme "Isomorfisme — catalan")
+  * [Čeština](https://cs.wikipedia.org/wiki/Izomorfismus "Izomorfismus — tchèque")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Isomorffedd "Isomorffedd — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/Isomorfi "Isomorfi — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Isomorphismus "Isomorphismus — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%99%CF%83%CE%BF%CE%BC%CE%BF%CF%81%CF%86%CE%B9%CF%83%CE%BC%CF%8C%CF%82 "Ισομορφισμός — grec")
+  * [English](https://en.wikipedia.org/wiki/Isomorphism "Isomorphism — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Izomorfio "Izomorfio — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Isomorfismo "Isomorfismo — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Isomorfism "Isomorfism — estonien")
+  * [فارسی](https://fa.wikipedia.org/wiki/%DB%8C%DA%A9%E2%80%8C%D8%B1%DB%8C%D8%AE%D8%AA%DB%8C "یک‌ریختی — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Isomorfismi "Isomorfismi — finnois")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/Iseamorfacht "Iseamorfacht — irlandais")
+  * [Galego](https://gl.wikipedia.org/wiki/Isomorfismo "Isomorfismo — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%96%D7%95%D7%9E%D7%95%D7%A8%D7%A4%D7%99%D7%96%D7%9D "איזומורפיזם — hébreu")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Izomorfizam "Izomorfizam — croate")
+  * [Magyar](https://hu.wikipedia.org/wiki/Izomorfia "Izomorfia — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%BB%D5%A6%D5%B8%D5%B4%D5%B8%D6%80%D6%86%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6_\(%D5%B4%D5%A1%D5%A9%D5%A5%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1\) "Իզոմորֆություն \(մաթեմատիկա\) — arménien")
+  * [Interlingua](https://ia.wikipedia.org/wiki/Isomorphismo "Isomorphismo — interlingua")
+  * [Italiano](https://it.wikipedia.org/wiki/Isomorfismo "Isomorfismo — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E5%90%8C%E5%9E%8B%E5%86%99%E5%83%8F "同型写像 — japonais")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC_\(%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0\) "Изоморфизм \(Математика\) — kazakh")
+  * [한국어](https://ko.wikipedia.org/wiki/%EB%8F%99%ED%98%95_%EC%82%AC%EC%83%81 "동형 사상 — coréen")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC "Изоморфизм — kirghize")
+  * [Latina](https://la.wikipedia.org/wiki/Isomorphismus "Isomorphismus — latin")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Izomorfizmas "Izomorfizmas — lituanien")
+  * [Монгол](https://mn.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D0%BC%D0%BE%D1%80%D1%84 "Изоморф — mongol")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Isomorfisme "Isomorfisme — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Isomorfi "Isomorfi — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Isomorfisme "Isomorfisme — norvégien bokmål")
+  * [ਪੰਜਾਬੀ](https://pa.wikipedia.org/wiki/%E0%A8%86%E0%A8%87%E0%A8%B8%E0%A9%8B%E0%A8%AE%E0%A9%8C%E0%A8%B0%E0%A8%AB%E0%A8%BF%E0%A8%9C%E0%A8%BC%E0%A8%AE "ਆਇਸੋਮੌਰਫਿਜ਼ਮ — pendjabi")
+  * [Polski](https://pl.wikipedia.org/wiki/Izomorfizm "Izomorfizm — polonais")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/Isomorfism "Isomorfism — piémontais")
+  * [Português](https://pt.wikipedia.org/wiki/Isomorfismo "Isomorfismo — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/Izomorfism "Izomorfism — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC "Изоморфизм — russe")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Izomorfizam "Izomorfizam — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/Isomorphism "Isomorphism — Simple English")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Izomorfizem "Izomorfizem — slovène")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%B0%D0%BC_\(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0\) "Изоморфизам \(математика\) — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/Isomorfi "Isomorfi — suédois")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%90%E0%AE%9A%E0%AF%8B%E0%AE%AE%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%B8%E0%AE%AE%E0%AF%8D "ஐசோமார்பிஸம் — tamoul")
+  * [Türkçe](https://tr.wikipedia.org/wiki/%C4%B0zomorfizma "İzomorfizma — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%86%D0%B7%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D1%96%D0%B7%D0%BC "Ізоморфізм — ukrainien")
+  * [اردو](https://ur.wikipedia.org/wiki/%D9%85%D8%B4%D8%A7%DA%A9%D9%84%D8%AA "مشاکلت — ourdou")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Izomorfizm "Izomorfizm — ouzbek")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Ph%C3%A9p_%C4%91%E1%BA%B3ng_c%E1%BA%A5u "Phép đẳng cấu — vietnamien")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E5%90%8C%E6%9E%84 "同构 — wu")
+  * [中文](https://zh.wikipedia.org/wiki/%E5%90%8C%E6%9E%84 "同构 — chinois")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E5%90%8C%E6%A7%8B "同構 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q189112#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Isomorphisme "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Isomorphisme "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Isomorphisme "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Isomorphisme "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Isomorphisme)
+  * [Modifier](/w/index.php?title=Isomorphisme&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Isomorphisme&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Isomorphisme&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 26 février 2020 à 16:50.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Isomorphisme "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Isomorphisme&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+

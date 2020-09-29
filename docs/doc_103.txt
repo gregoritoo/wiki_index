@@ -1,0 +1,1544 @@
+# Latin
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Latin
+(homonymie)](/wiki/Latin_\(homonymie\) "Latin \(homonymie\)").
+
+Latin  
+ _Lingua Latīna_ ou _Latīna lingua_  
+---  
+Langues filles  | [Langues romanes](/wiki/Langues_romanes "Langues romanes")  
+Pays  | [Vatican](/wiki/Vatican "Vatican")  
+[Typologie](/wiki/Typologie_linguistique "Typologie linguistique") |
+[SOV](/wiki/Langue_SOV "Langue SOV"), [flexionnelle](/wiki/Langue_flexionnelle
+"Langue flexionnelle"), [accusative](/wiki/Langue_accusative "Langue
+accusative")  
+Classification par famille  
+  
+  * - [langues indo-européennes](/wiki/Langues_indo-europ%C3%A9ennes "Langues indo-européennes")
+    * - [langues italiques](/wiki/Langues_italiques "Langues italiques")
+      * - [langues latino-falisques](/wiki/Langues_latino-falisques "Langues latino-falisques")
+        * - **latin**
+
+  
+Statut officiel  
+[Langue officielle](/wiki/Langue_officielle "Langue officielle") | [![Drapeau
+du
+Vatican](//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/18px-
+Flag_of_the_Vatican_City.svg.png)](/wiki/Fichier:Flag_of_the_Vatican_City.svg
+"Drapeau du Vatican") [Vatican](/wiki/Vatican "Vatican")  
+Codes de langue  
+[ISO 639-1](/wiki/ISO_639-1 "ISO 639-1") | `la`  
+[ISO 639-2](/wiki/ISO_639-2 "ISO 639-2") | `lat`  
+[ISO 639-3](/wiki/ISO_639-3 "ISO 639-3") |
+`[lat](http://www-01.sil.org/iso639-3/documentation.asp?id=lat)`  
+[IETF](/wiki/%C3%89tiquette_d%27identification_de_langues_IETF "Étiquette
+d'identification de langues IETF") | `la`  
+Échantillon  
+  
+  * Article premier de la Déclaration universelle des droits de l'homme ([voir le texte en français](https://www.un.org/fr/universal-declaration-human-rights/index.html))  
+  
+
+**Article 1**  
+Omnes homines liberi æquique dignitate atque iuribus nascuntur. Ratione
+conscientiaque præditi sunt et alii erga alios cum fraternitate se gerere
+debent.  
+  
+
+  * Texte du _[Notre Père](/wiki/Notre_P%C3%A8re "Notre Père")_
+
+  
+**Notre père**  
+
+    Pater noster, qui es in cælis
+    Sanctificetur nomen tuum ;
+    Adueniat regnum tuum ;
+    Fiat voluntas tua
+    sicut in cælo et in terra.
+    Panem nostrum quotidianum da nobis hodie,
+    et dimitte nobis debita nostra
+    sicut et nos dimittimus debitoribus nostris
+    et ne nos inducas in tentationem
+    sed libera nos a malo.
+    Amen.  
+[modifier](https://fr.wikipedia.org/w/index.php?title=Latin&action=edit&section=0)
+[![Consultez la documentation du
+modèle](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Mod%C3%A8le:Infobox_Langue "Consultez la
+documentation du modèle")  
+  
+Le **latin** (en latin : _lingua Latīna_ ou _Latīna lingua_ ) est une [langue
+italique](/wiki/Langues_italiques "Langues italiques") de la famille des
+[langues indo-européennes](/wiki/Langues_indo-europ%C3%A9ennes "Langues indo-
+européennes"), parlée à l'origine par les [Latins](/wiki/Latins "Latins") dans
+le [Latium](/wiki/Latium "Latium") de la [Rome antique](/wiki/Rome_antique
+"Rome antique"). Bien qu'il soit souvent considéré comme une [langue
+morte](/wiki/Langue_morte "Langue morte")[note 1], sa connaissance, voire son
+usage, se sont maintenus à l'université et dans le clergé. De nombreuses
+écoles et universités continuent à l'enseigner[1],[note 2]. Le latin est
+toujours utilisé pour la production de [néologismes](/wiki/N%C3%A9ologisme
+"Néologisme") dans de nombreuses familles de langues. Le latin, ainsi que les
+[langues romanes](/wiki/Langues_romanes "Langues romanes") (dites parfois néo-
+latines), sont la seule branche des langues italiques à avoir survécu. Les
+autres branches sont attestées dans des documents datant de l'[Italie
+préromaine](/wiki/Italie_pr%C3%A9romaine "Italie préromaine"), mais ont été
+assimilées durant la [période républicaine](/wiki/R%C3%A9publique_romaine
+"République romaine") ou au début de l'[époque impériale](/wiki/Empire_romain
+"Empire romain").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Arco_Sisto_V_targa_M.jpg/220px-
+Arco_Sisto_V_targa_M.jpg)](/wiki/Fichier:Arco_Sisto_V_targa_M.jpg)
+
+[](/wiki/Fichier:Arco_Sisto_V_targa_M.jpg "Agrandir")
+
+Arc de Sisto le V à Rome, plaque et inscription en latin
+
+[Langue flexionnelle](/wiki/Langue_flexionnelle "Langue flexionnelle"), elle
+comporte sept [cas](/wiki/Cas_grammatical "Cas grammatical"), deux
+[nombres](/wiki/Nombre_grammatical "Nombre grammatical") et trois
+[genres](/wiki/Genre_\(grammaire\) "Genre \(grammaire\)"). L'[alphabet
+latin](/wiki/Alphabet_latin "Alphabet latin") est dérivé des alphabets
+[étrusque](/wiki/Alphabet_%C3%A9trusque "Alphabet étrusque") et
+[grec](/wiki/Alphabet_grec "Alphabet grec"). Enrichi de lettres
+supplémentaires et de [signes diacritiques](/wiki/Diacritique "Diacritique"),
+il est utilisé aujourd'hui par de nombreuses langues vivantes et comportait à
+l'[époque classique](/wiki/%C3%89poque_classique "Époque classique") 23
+lettres, dont 4 voyelles, 2 semi-voyelles et 17 consonnes.
+
+## Sommaire
+
+  * 1 Histoire
+    * 1.1 Origines
+    * 1.2 Latin archaïque
+    * 1.3 Latin classique
+    * 1.4 Bas-latin
+    * 1.5 Latin médiéval
+    * 1.6 Latin humaniste
+    * 1.7 Néolatin
+    * 1.8 Latin contemporain
+      * 1.8.1 Répartition géographique
+  * 2 Écriture
+  * 3 Prononciation
+    * 3.1 Prononciation ancienne restituée
+    * 3.2 Prononciation médiévale
+    * 3.3 Prononciation ecclésiastique
+  * 4 Grammaire
+    * 4.1 Morphologie
+      * 4.1.1 Système nominal
+      * 4.1.2 Pronoms personnels
+      * 4.1.3 Système verbal
+        * 4.1.3.1 Présent
+    * 4.2 Syntaxe
+      * 4.2.1 Déclinaison
+      * 4.2.2 Le comparatif et le superlatif
+  * 5 Lexique
+    * 5.1 Lexique hérité de l'indo-européen
+    * 5.2 Lexique emprunté aux langues non italiques voisines
+    * 5.3 Lexique emprunté aux langues italiques voisines
+    * 5.4 Évolution du lexique latin vers le lexique français
+    * 5.5 Exemples
+  * 6 Notes et références
+    * 6.1 Notes
+    * 6.2 Références
+  * 7 Voir aussi
+    * 7.1 Bibliographie
+    * 7.2 Articles connexes
+    * 7.3 Liens externes
+
+## Histoire[[modifier](/w/index.php?title=Latin&veaction=edit&section=1
+"Modifier la section : Histoire") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=1 "Modifier la section :
+Histoire")]
+
+Article détaillé : [Histoire du latin](/wiki/Histoire_du_latin "Histoire du
+latin").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rome_Colosseum_inscription_2.jpg/220px-
+Rome_Colosseum_inscription_2.jpg)](/wiki/Fichier:Rome_Colosseum_inscription_2.jpg)
+
+[](/wiki/Fichier:Rome_Colosseum_inscription_2.jpg "Agrandir")
+
+Inscription latine au [Colisée](/wiki/Colis%C3%A9e "Colisée") à
+[Rome](/wiki/Rome "Rome").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Calligraphy.malmesbury.bible.arp.jpg/220px-
+Calligraphy.malmesbury.bible.arp.jpg)](/wiki/Fichier:Calligraphy.malmesbury.bible.arp.jpg)
+
+[](/wiki/Fichier:Calligraphy.malmesbury.bible.arp.jpg "Agrandir")
+
+Calligraphie d'une bible en latin en 1407.
+
+### Origines[[modifier](/w/index.php?title=Latin&veaction=edit&section=2
+"Modifier la section : Origines") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=2 "Modifier la section :
+Origines")]
+
+Articles détaillés : [Indo-européen commun](/wiki/Indo-europ%C3%A9en_commun
+"Indo-européen commun") et [Langues italiques](/wiki/Langues_italiques
+"Langues italiques").
+
+Les langues italiques formaient, à côté des langues
+[celtiques](/wiki/Langues_celtiques "Langues celtiques"),
+[germaniques](/wiki/Langues_germaniques "Langues germaniques") et
+[helléniques](/wiki/Langues_hell%C3%A9niques "Langues helléniques"), une sous-
+famille [« centum »](/wiki/Langues_satem/centum "Langues satem/centum") des
+[langues indo-européennes](/wiki/Langues_indo-europ%C3%A9ennes "Langues indo-
+européennes") qui incluait le latin, parlé par la population du
+[Latium](/wiki/Latium "Latium") en [Italie centrale](/wiki/Italie_centrale
+"Italie centrale") (les [Latins](/wiki/Latins "Latins")), et d'autres parlers
+comme l'[ombrien](/wiki/Ombrien "Ombrien") et l'[osque](/wiki/Osque "Osque"),
+au voisinage immédiat d'une langue [étrusque](/wiki/%C3%89trusque "Étrusque")
+non indo-européenne mais dont le latin a subi l'influence culturelle. De nos
+jours, les [langues italiques](/wiki/Langues_italiques "Langues italiques")
+sont représentées par les [langues romanes](/wiki/Langues_romanes "Langues
+romanes"), issues du [latin populaire](/wiki/Latin_populaire "Latin
+populaire") (l'[italien](/wiki/Italien "Italien"), le [roumain](/wiki/Roumain
+"Roumain")/[moldave](/wiki/Moldave "Moldave"), l'[aroumain](/wiki/Aroumain
+"Aroumain"), le [français](/wiki/Fran%C3%A7ais "Français"),
+l'[occitan](/wiki/Occitan "Occitan"), le
+[francoprovençal](/wiki/Francoproven%C3%A7al "Francoprovençal"), le
+[catalan](/wiki/Catalan "Catalan"), l'[espagnol](/wiki/Espagnol "Espagnol"),
+le [portugais](/wiki/Portugais "Portugais"), le [sarde](/wiki/Sarde "Sarde"),
+le [ladin](/wiki/Ladin "Ladin"), le [corse](/wiki/Corse_\(langue\) "Corse
+\(langue\)"), etc., ainsi que des langues aujourd'hui éteintes, comme le
+[dalmate](/wiki/Dalmate "Dalmate") ou le [mozarabe](/wiki/Langue_mozarabe
+"Langue mozarabe")).
+
+### Latin
+archaïque[[modifier](/w/index.php?title=Latin&veaction=edit&section=3
+"Modifier la section : Latin archaïque") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=3 "Modifier la section :
+Latin archaïque")]
+
+Article détaillé : [Latin archaïque](/wiki/Latin_archa%C3%AFque "Latin
+archaïque").
+
+On appelle **latin archaïque** ( _prisca latinitas_ ) l'état du latin en usage
+de l'origine jusqu'au tout début du [Ier siècle av.
+J.-C.](/wiki/Ier_si%C3%A8cle_av._J.-C. "Ier siècle av. J.-C.")
+
+### Latin
+classique[[modifier](/w/index.php?title=Latin&veaction=edit&section=4
+"Modifier la section : Latin classique") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=4 "Modifier la section :
+Latin classique")]
+
+Article détaillé : [Latin classique](/wiki/Latin_classique "Latin classique").
+
+L'expansion territoriale de la [Rome antique](/wiki/Rome_antique "Rome
+antique") assure au latin une diffusion de plus en plus large à partir du
+[IIIe siècle av. J.-C.](/wiki/IIIe_si%C3%A8cle_av._J.-C. "IIIe siècle av.
+J.-C.") Langue officielle de l'[Empire romain](/wiki/Empire_romain "Empire
+romain"), elle se répand dans la majeure partie de l'[Europe
+occidentale](/wiki/Europe_de_l%27Ouest "Europe de l'Ouest"), de l'[Afrique du
+nord](/wiki/Afrique_romaine "Afrique romaine"), de l'[Asie
+Mineure](/wiki/Asie_Mineure "Asie Mineure") et des [régions
+danubiennes](/wiki/Danube "Danube"). Sous l'[Empire](/wiki/Empire_romain
+"Empire romain"), le latin est la langue du droit, de l'administration romaine
+et de l'armée ainsi que des nombreuses [colonies
+romaines](/wiki/Colonie_romaine "Colonie romaine"), coexistant avec le
+[grec](/wiki/Grec_ancien "Grec ancien") et les parlers locaux.
+
+### Bas-latin[[modifier](/w/index.php?title=Latin&veaction=edit&section=5
+"Modifier la section : Bas-latin") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=5 "Modifier la section :
+Bas-latin")]
+
+Articles détaillés : [Bas-latin](/wiki/Bas-latin "Bas-latin"), [Latin
+vulgaire](/wiki/Latin_vulgaire "Latin vulgaire") et [Langues
+romanes](/wiki/Langues_romanes "Langues romanes").
+
+Après la [chute de l'Empire romain
+d'Occident](/wiki/Chute_de_l%27Empire_romain_d%27Occident "Chute de l'Empire
+romain d'Occident") au [Ve siècle](/wiki/Ve_si%C3%A8cle "Ve siècle"), les
+envahisseurs [germaniques](/wiki/Germaniques "Germaniques") adoptent
+progressivement le mode de pensée romain et la langue latine afin d'asseoir
+leur légitimité. Seule la [Bretagne romaine](/wiki/Bretagne_romaine "Bretagne
+romaine") sera lentement germanisée par les envahisseurs [anglo-
+saxons](/wiki/Anglo-saxons "Anglo-saxons") qui conserveront leur langue
+germanique, celle-ci se répandant progressivement au détriment du celtique
+parlé par les brito-romains qui toutefois parviendra à se maintenir jusqu'à
+nos jours. Tout au long du haut [Moyen Âge](/wiki/Moyen_%C3%82ge "Moyen Âge"),
+bien qu'il ne soit pas une [langue vernaculaire](/wiki/Langue_vernaculaire
+"Langue vernaculaire"), le latin reste la langue des actes officiels, de la
+diplomatie, de la liturgie et de la littérature savante (théologie,
+philosophie, sciences).
+
+Durant la suite du Moyen Âge, les langues locales s'affirment sur le plan
+littéraire et intérieur, et tandis qu'il donne naissance à de nombreuses
+langues vernaculaires dérivées (les [langues romanes](/wiki/Langues_romanes
+"Langues romanes")) et que des langues non romanes (comme
+l'[anglais](/wiki/Anglais "Anglais") ou l'[allemand](/wiki/Allemand
+"Allemand")) lui empruntent du vocabulaire, le latin reste influent aux plans
+diplomatique, juridique, scientifique et philosophique.
+
+### Latin médiéval[[modifier](/w/index.php?title=Latin&veaction=edit&section=6
+"Modifier la section : Latin médiéval") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=6 "Modifier la section :
+Latin médiéval")]
+
+Article détaillé : [Latin médiéval](/wiki/Latin_m%C3%A9di%C3%A9val "Latin
+médiéval").
+
+Le latin est réformé vers [800](/wiki/800 "800"), puis au [XIe
+siècle](/wiki/XIe_si%C3%A8cle "XIe siècle"), sur le modèle du latin classique,
+afin d'éviter une dérive vers les [langues
+vernaculaires](/wiki/Langues_vernaculaires "Langues vernaculaires") qui en
+étaient issues.
+
+Pendant tout le [Moyen Âge](/wiki/Moyen_%C3%82ge "Moyen Âge"), le latin fait
+office de [langue liturgique](/wiki/Langue_liturgique "Langue liturgique") de
+l'[Église catholique romaine](/wiki/%C3%89glise_catholique "Église
+catholique"). Presque toutes les [bibles](/wiki/Bible "Bible") utilisées à
+cette époque en [Occident](/wiki/Occident "Occident") sont écrites en latin,
+sur le modèle de la [Vulgate](/wiki/Vulgate "Vulgate") de [saint
+Jérôme](/wiki/Saint_J%C3%A9r%C3%B4me "Saint Jérôme"), de même que les autres
+livres liturgiques. L' _Historia scholastica_ de [Pierre le
+Mangeur](/wiki/Pierre_le_Mangeur "Pierre le Mangeur"), texte de base pour
+l'étude de la Bible à partir des [années 1170](/wiki/Ann%C3%A9es_1170 "Années
+1170"), est écrit en latin. La traduction de la Bible en langues vernaculaires
+est même interdite à la fin du [XIIe siècle](/wiki/XIIe_si%C3%A8cle "XIIe
+siècle") par des lettres du [pape](/wiki/Pape "Pape") [Innocent
+III](/wiki/Innocent_III "Innocent III"), puis par plusieurs
+[conciles](/wiki/Concile "Concile") au début du [XIIIe
+siècle](/wiki/XIIIe_si%C3%A8cle "XIIIe siècle")[2]. Les lettrés s'expriment
+toujours en latin. La langue des
+[universités](/wiki/Universit%C3%A9_m%C3%A9di%C3%A9vale "Université
+médiévale") est le latin, dès la création de celles-ci vers la fin du XIIe
+siècle. Les intellectuels du Moyen Âge écrivent tous leurs traités en latin.
+Par exemple, l'encyclopédie (pour employer un terme contemporain) de [Vincent
+de Beauvais](/wiki/Vincent_de_Beauvais "Vincent de Beauvais"), le _[Speculum
+maius](/wiki/Vincent_de_Beauvais#Speculum_maius "Vincent de Beauvais")_ , est
+écrite en latin. Toutefois, à partir du [concile de
+Tours](/wiki/Concile_de_Tours_\(813\) "Concile de Tours \(813\)")
+([813](/wiki/813 "813")), dans les territoires correspondant à la France et
+l'Allemagne actuelles, les [homélies](/wiki/Hom%C3%A9lie "Homélie") ne sont
+plus prononcées en latin mais en « langue romane rustique » ([gallo-
+roman](/wiki/Gallo-roman_\(langue\) "Gallo-roman \(langue\)")), ou dans la «
+langue tudesque » (germanique).
+
+Pendant le Moyen Âge, on désigne par le mot _litteratus_ une personne qui
+maîtrise le latin. L' _illiteratus_ est celui qui l'ignore, ce qui ne signifie
+pas qu'il n'est pas « lettré »[3].
+
+### Latin
+humaniste[[modifier](/w/index.php?title=Latin&veaction=edit&section=7
+"Modifier la section : Latin humaniste") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=7 "Modifier la section :
+Latin humaniste")]
+
+Article détaillé : [Latin humaniste](/wiki/Latin_humaniste "Latin humaniste").
+
+À la [Renaissance](/wiki/Renaissance "Renaissance"), la fonction scientifique
+et philosophique de la langue latine commence à décliner, tout comme sa
+fonction diplomatique ([Ordonnance de Villers-
+Cotterêts](/wiki/Ordonnance_de_Villers-Cotter%C3%AAts "Ordonnance de Villers-
+Cotterêts"), 1539). Cela n'empêchera pas [Érasme](/wiki/%C3%89rasme "Érasme")
+de publier une quantité de textes en un latin redevenu classique et très riche
+; de même, [René Descartes](/wiki/Ren%C3%A9_Descartes "René Descartes") (1596
+– 1650) écrit volontiers en latin… surtout lorsqu'il est pressé (même s'il
+publie son _[Discours de la méthode](/wiki/Discours_de_la_m%C3%A9thode
+"Discours de la méthode")_ d'abord en français pour des raisons particulières
+; les ouvrages de son époque sont souvent imprimés en latin pour être diffusés
+dans toute l'Europe). Dans la partie germanique de l'Europe (où le [droit
+romain](/wiki/Droit_romain "Droit romain") reste en vigueur jusqu'à la fin de
+l'[Empire](/wiki/Saint-Empire_romain_germanique "Saint-Empire romain
+germanique")), le latin restera plus longtemps la langue des publications
+importantes ou scientifiques, tandis que du côté français, d'énormes efforts
+sont accomplis (surtout avec [Louis XIV](/wiki/Louis_XIV "Louis XIV")) pour le
+remplacer par un français châtié et remanié. Le latin reste toutefois la
+[langue](/wiki/Langue "Langue") [liturgique](/wiki/Liturgie "Liturgie") et
+officielle du catholicisme (textes [doctrinaux](/wiki/Doctrine "Doctrine") ou
+[disciplinaires](/wiki/Discipline_eccl%C3%A9siastique "Discipline
+ecclésiastique"), [droit](/wiki/Droit "Droit"), etc.).
+
+### Néolatin[[modifier](/w/index.php?title=Latin&veaction=edit&section=8
+"Modifier la section : Néolatin") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=8 "Modifier la section :
+Néolatin")]
+
+Article détaillé : [Néolatin](/wiki/N%C3%A9olatin "Néolatin").
+
+Le terme **néolatin** s'est répandu vers la fin des [années
+1890](/wiki/Ann%C3%A9es_1890 "Années 1890") parmi les
+[linguistes](/wiki/Linguiste "Linguiste") et les
+[scientifiques](/wiki/Scientifique "Scientifique"). Il sert aux spécialistes
+des [lettres classiques](/wiki/Lettres_classiques "Lettres classiques") à
+désigner l'utilisation de la langue latine après la
+[Renaissance](/wiki/Renaissance_\(p%C3%A9riode_historique\) "Renaissance
+\(période historique\)"), dans un but aussi bien scientifique que littéraire.
+Le début de la période est imprécis mais le développement de l'éducation chez
+les laïcs, l'acceptation des normes littéraires humanistes, ainsi que la
+grande disponibilité de textes latins qui a suivi l'invention de
+l'[imprimerie](/wiki/Imprimerie "Imprimerie"), marquent une transition vers
+une ère nouvelle à la fin du XVe siècle. Au XIVe siècle, le latin est une
+langue privilégiée dans l'enseignement tant ouest-européen (heures de cours,
+rédaction des thèses) qu'est-européen, bien qu'il ne soit guère plus utilisé
+que par les commentateurs et éditeurs de textes antiques[[réf.
+nécessaire]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire "Aide:Référence
+nécessaire"). En [Belgique](/wiki/Belgique "Belgique"), l'usage de la langue
+vulgaire dans les universités n'a été toléré qu'à partir de 1835 environ. La
+fin de la période néo-latine est également indéterminée, mais l'usage normal
+du latin pour communiquer les idées est devenu rare après quelques décennies
+au [XIXe siècle](/wiki/XIXe_si%C3%A8cle "XIXe siècle") et, vers 1900, c'est
+dans le vocabulaire scientifique international de la
+[cladistique](/wiki/Cladistique "Cladistique") et de la
+[systématique](/wiki/Syst%C3%A9matique "Systématique") qu'il survivait
+essentiellement.
+
+### Latin
+contemporain[[modifier](/w/index.php?title=Latin&veaction=edit&section=9
+"Modifier la section : Latin contemporain") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=9 "Modifier la section :
+Latin contemporain")]
+
+Article détaillé : [Latin contemporain](/wiki/Latin_contemporain "Latin
+contemporain").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Vatican_ATM_in_Latin.jpg/220px-
+Vatican_ATM_in_Latin.jpg)](/wiki/Fichier:Vatican_ATM_in_Latin.jpg)
+
+[](/wiki/Fichier:Vatican_ATM_in_Latin.jpg "Agrandir")
+
+[Guichet automatique bancaire](/wiki/Guichet_automatique_bancaire "Guichet
+automatique bancaire") en latin au [Vatican](/wiki/Vatican "Vatican").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Former_logo_of_the_European_Council_and_Council_of_the_European_Union_%282009%29.svg/220px-
+Former_logo_of_the_European_Council_and_Council_of_the_European_Union_%282009%29.svg.png)](/wiki/Fichier:Former_logo_of_the_European_Council_and_Council_of_the_European_Union_\(2009\).svg)
+
+[](/wiki/Fichier:Former_logo_of_the_European_Council_and_Council_of_the_European_Union_\(2009\).svg
+"Agrandir")
+
+Logo du [Conseil de l'Union
+européenne](/wiki/Conseil_de_l%27Union_europ%C3%A9enne "Conseil de l'Union
+européenne").
+
+Au [XXe siècle](/wiki/XXe_si%C3%A8cle "XXe siècle"), c’est avant tout une
+langue de culture, qui reste revendiquée par l’[Église catholique
+romaine](/wiki/%C3%89glise_catholique "Église catholique") depuis l’époque de
+l’Empire romain, bien que seuls quelques
+[cardinaux](/wiki/Cardinal_\(religion\) "Cardinal \(religion\)") et
+[théologiens](/wiki/Th%C3%A9ologie "Théologie") ainsi que le [pape](/wiki/Pape
+"Pape") le parlent réellement. C’est l'une des quatre [langues
+officielles](/wiki/Langue_officielle "Langue officielle") de l'État du
+[Vatican](/wiki/Vatican "Vatican") (avec l'[italien](/wiki/Italien "Italien"),
+le [français](/wiki/Fran%C3%A7ais "Français") et l'[allemand](/wiki/Allemand
+"Allemand")) partiellement langue d'enseignement dans les [universités
+pontificales](/wiki/Universit%C3%A9_pontificale "Université pontificale")
+romaines. Le latin est maîtrisé sans être pratiqué par des
+[évêques](/wiki/%C3%89v%C3%AAque "Évêque"),
+[prêtres](/wiki/Pr%C3%AAtre_catholique "Prêtre catholique"),
+[diacres](/wiki/Diacre_\(catholicisme\) "Diacre \(catholicisme\)") et
+[chanoines](/wiki/Chanoine "Chanoine") catholiques. Des publications latines
+profanes sont également réalisées tout au long du XXe siècle, comme celles des
+communistes russes, qui publient tous leurs ouvrages de botanique en latin
+pendant la période de la guerre froide[[réf.
+nécessaire]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire "Aide:Référence
+nécessaire"), des traductions en latin de certains albums de la bande dessinée
+_[Astérix](/wiki/Ast%C3%A9rix "Astérix")_ ou, plus récemment, des deux
+premiers tomes du best-seller _[Harry Potter](/wiki/Harry_Potter "Harry
+Potter")_.
+
+Il reste de plus dans l’Église catholique romaine divers [mouvements
+traditionalistes](/wiki/Catholicisme_traditionaliste "Catholicisme
+traditionaliste"), comme les fraternités sacerdotales [Saint-
+Pierre](/wiki/Fraternit%C3%A9_sacerdotale_Saint-Pierre "Fraternité sacerdotale
+Saint-Pierre") ou [Saint-Pie-X](/wiki/Fraternit%C3%A9_sacerdotale_Saint-Pie-X
+"Fraternité sacerdotale Saint-Pie-X"), qui célèbrent la messe suivant le [rite
+tridentin](/wiki/Rite_tridentin "Rite tridentin"), en latin, forme ordinaire
+dans l'Église romaine avant la réforme liturgique de 1969 adossée au [concile
+Vatican II](/wiki/IIe_concile_%C5%93cum%C3%A9nique_du_Vatican "IIe concile
+œcuménique du Vatican"). Celui-ci, dans la constitution sur la liturgie
+_Sacrosanctum Concilium_ , demande une participation active des fidèles dans
+la liturgie et, pour ce faire, introduit une série de modifications, dont un
+usage plus important des langues vernaculaires (SC 36), même si celles-ci ne
+sont pas originellement censées se substituer totalement au latin. Le pape
+[Benoît XVI](/wiki/Beno%C3%AEt_XVI "Benoît XVI") rétablit l'usage
+complémentaire du rite tridentin sans limitations en 2007, par le _motu
+proprio_ _[Summorum Pontificum](/wiki/Summorum_Pontificum_\(motu_proprio\)
+"Summorum Pontificum \(motu proprio\)")_. Sous la forme ordinaire, la messe
+devrait aussi être dite en latin, quoique ce soit rarement le cas dans les
+faits.
+
+De nos jours, de nombreux mouvements, tels le [Vivarium
+Novum](/wiki/Vivarium_Novum "Vivarium Novum") de Rome, la Schola Nova de
+Belgique, la Domus Latina de Bruxelles ou l'ALF prônent son maintien comme
+langue de communication européenne, et l'utilisent notamment lors de congrès :
+il s'agit de promouvoir le latin classique comme une véritable langue moderne
+grâce aux ajouts de vocabulaire. Dans _[Le Monde](/wiki/Le_Monde "Le Monde")_
+, Pierre Georges mentionne soixante mille mots ou expressions ajoutés au latin
+au cours du siècle écoulé, dont _res inexplicata volans_ pour
+[OVNI](/wiki/Objet_volant_non_identifi%C3%A9 "Objet volant non identifié") ou
+_vis atomica_ pour [puissance nucléaire](/wiki/Puissance_nucl%C3%A9aire
+"Puissance nucléaire")[4]. Des revues et des sites Web sont édités en latin
+(par exemple le magazine de mots croisés _Hebdomada Aenigmatum_ ), tandis que
+la [radio finlandaise](/wiki/YLE "YLE") a émis en latin trois fois par semaine
+pendant plus de vingt ans jusqu'en juin 2019[note 3]. [Radio
+F.R.E.I.](/wiki/Radio_F.R.E.I. "Radio F.R.E.I.") de [Erfurt](/wiki/Erfurt
+"Erfurt") ([Allemagne](/wiki/Allemagne "Allemagne")) a une émission en latin
+chaque semaine[5]. La prononciation contemporaine qui semble s'imposer est la
+prononciation ancienne restituée. [Radio Vatican](/wiki/Radio_Vatican "Radio
+Vatican") émet une fois par semaine un journal d'actualité radiophonique
+_Hebdomada Papæ_ , d'une durée de cinq minutes dont la prononciation utilisée
+est italienne. Radio Vatican retransmet également quotidiennement des offices
+divins catholiques en latin (Completorium, Laudes, Vesperæ) et la Sainte-
+Messe. Enfin, Radio Vatican consacre une émission dénommée _Anima Latina_ sur
+l'approfondissement de la connaissance du latin, la langue officielle de
+l'Église catholique et de la liturgie (avec les langues vernaculaires depuis
+le Concile Vatican II) dans l'Église latine.
+
+#### Répartition
+géographique[[modifier](/w/index.php?title=Latin&veaction=edit&section=10
+"Modifier la section : Répartition géographique") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=10 "Modifier la section :
+Répartition géographique")]
+
+Article détaillé : [Vatican](/wiki/Vatican "Vatican").
+
+Le latin est toujours aujourd'hui la langue officielle de l'[Église
+catholique](/wiki/%C3%89glise_catholique_romaine "Église catholique romaine").
+Par exemple, le [Code de droit canonique de
+1983](/wiki/Code_de_droit_canonique_de_1983 "Code de droit canonique de 1983")
+et même le [Code des canons des Églises
+orientales](/wiki/Code_des_canons_des_%C3%89glises_orientales "Code des canons
+des Églises orientales") (qui pourtant n'ont jamais utilisé le latin comme
+langue liturgique) de 1990 sont écrits en latin, et les spécialistes font
+constamment référence au texte latin[[réf.
+nécessaire]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire "Aide:Référence
+nécessaire").
+
+## Écriture[[modifier](/w/index.php?title=Latin&veaction=edit&section=11
+"Modifier la section : Écriture") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=11 "Modifier la section :
+Écriture")]
+
+Article détaillé : [Alphabet latin](/wiki/Alphabet_latin "Alphabet latin").
+
+Les Romains sont les créateurs de l'alphabet latin qui comportait, à l'époque
+classique, les lettres suivantes :
+
+A | B | C | D | E  | F | G | H | I | L | M  | N | O  | P | Q(V) | R | S | T |
+V | X  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+a | b | c | d | e  | f | g | h | i | l | m  | n | o  | p | q(u) | r | s | t |
+u | x  
+  
+Les lettres _k_ , _y_ et _z_ sont rares : _k_ n'existait pas dans l'alphabet
+latin (on ne peut guère signaler que les noms communs « Kalenda » et «
+Kalumniator » et les noms propres « Kaeso » et « Karthago »
+([Carthage](/wiki/Civilisation_carthaginoise "Civilisation carthaginoise"))),
+mais était initialement utilisé un _c_ devant _a_ , _o_ et les consonnes ; _y_
+et _z_ ont été ajoutées pour transcrire les mots grecs à partir de l'époque
+classique. [Quintilien](/wiki/Quintilien "Quintilien") se plaint que cet
+enrichissement de l'alphabet permette de mieux transcrire les mots grecs que
+les mots latins[note 4].
+
+## Prononciation[[modifier](/w/index.php?title=Latin&veaction=edit&section=12
+"Modifier la section : Prononciation") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=12 "Modifier la section :
+Prononciation")]
+
+### Prononciation ancienne
+restituée[[modifier](/w/index.php?title=Latin&veaction=edit&section=13
+"Modifier la section : Prononciation ancienne restituée") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=13 "Modifier la section :
+Prononciation ancienne restituée")]
+
+Article détaillé : [latin
+classique#Phonologie](/wiki/Latin_classique#Phonologie "Latin classique").
+
+On ne connaît pas avec une précision totale la prononciation du latin
+classique, malgré les nombreux témoignages laissés par les auteurs latins et
+les moyens mis en œuvre par la [méthode
+comparatiste](/wiki/Linguistique_compar%C3%A9e "Linguistique comparée") (cf.
+remarque de Quintilien ci-dessus).
+
+L'une des modifications les plus importantes depuis l'[indo-européen
+commun](/wiki/Indo-europ%C3%A9en_commun "Indo-européen commun") est le
+[rhotacisme](/wiki/Rhotacisme "Rhotacisme") (passage de [[s](/wiki/API_s "API
+s")] à [[r](/wiki/API_r "API r")] dans certaines conditions ; principalement
+entre voyelles). La prononciation d'une langue n'étant pas figée, tant que le
+latin a été parlé, ses [phonèmes](/wiki/Phon%C3%A8me "Phonème") ont évolué.
+Les évolutions les plus flagrantes ont été :
+
+  * _ae_ ([diphtongue](/wiki/Diphtongue "Diphtongue")) : initialement [ae̯], puis se monophtongue en [ɛ] ( _e_ ouvert) à partir du IIe siècle apr. J.-C., confondant ainsi son évolution avec celle de _ĕ_ ( _e_ bref) ;
+  * _au_ (diphtongue) : [au̯] ; cette diphtongue, hormis dans certaines prononciations dialectales, s'est conservée tout au long du latin ; en Gaule du Nord, par exemple, elle ne se monophtonguera en [ɔ] qu'à partir de la deuxième moitié du Ve siècle ;
+  * _c_ : [k] (toujours dur) ; dans les inscriptions archaïques (et, à l'époque classique, dans les prénoms _Gaius_ et _Gnaeus_ ), _c_ pouvait servir à noter [g] ;
+  * _ch_ : [kʰ] ([aspiré](/wiki/Aspiration_\(phon%C3%A9tique\) "Aspiration \(phonétique\)"), comme en [grec ancien](/wiki/Grec_ancien "Grec ancien")) ;
+  * _g_ : [g] (toujours dur) ;
+  * _h_ : initialement [h] (comme en [anglais](/wiki/Anglais "Anglais") ou en [allemand](/wiki/Allemand "Allemand")) puis très rapidement simple légère [aspiration](/wiki/Aspiration_\(phon%C3%A9tique\) "Aspiration \(phonétique\)"), dès les premiers textes littéraires et jusqu'à la fin de l'époque républicaine, époque où il s'amuïra dans la langue populaire. Il se maintient toutefois à l'école et dans la langue cultivée jusqu'à la fin de l'Empire romain d'Occident.
+  * _i_ : note à la fois la voyelle [i], [longue ou brève](/wiki/Quantit%C3%A9_vocalique "Quantité vocalique"), et la semi-consonne [j] ([jj] entre deux voyelles) ; dans les éditions scolaires, quand _i_ vaut [j], il est souvent écrit _j_ , distinction que les Romains ne pratiquaient pas (pour cause : la lettre _j_ n'est apparue que bien après) : ils écrivaient _I_ en toute position ;
+  * _m_ : [m] ; amuï de bonne heure en fin de mot : si bien que _rosam_ se prononçait comme _rosa_. Toutefois, cet amuïssement ne touche pas les monosyllabes : _rem_ et _quem_ ont donné respectivement _rien_ en français et _quien_ en espagnol.
+  * _oe_ (diphtongue) : [oe̯] puis se monophtongue en [e] ( _e_ fermé) à partir du IIe siècle apr. J.-C., confondant ainsi son évolution avec celle de _ē_ ( _e_ long) ;
+  * _ph_ : [pʰ] (aspiré ; emprunté au grec ancien) ;
+  * _qu_ : [kʷ] ;
+  * _r_ : [r] [vibrante apico-alvéolaire](/wiki/Consonne_roul%C3%A9e_alv%C3%A9olaire_vois%C3%A9e "Consonne roulée alvéolaire voisée") (« _r_ roulé ») ;
+  * _s_ : toujours [s] ; le latin ne connaissait pas le son [z], remplacé par [r] ([rhotacisme](/wiki/Rhotacisme "Rhotacisme")) ;
+  * _th_ : [tʰ] (aspiré ; emprunté au grec ancien) ;
+  * _u_ : note à la fois la voyelle [u] [longue ou brève](/wiki/Quantit%C3%A9_vocalique "Quantité vocalique"), et la semi-consonne [w] ; la distinction entre _u_ et _v_ en minuscules est relativement récente et ne s'emploie plus que dans les éditions scolaires. Les Romains écrivaient _V_ en toute position. Dans toute l'aire gallo-romane, _ū_ ( _u_ long) évoluera par la suite en [y] ;
+  * _x_ : [ks]; non pas un [phonème](/wiki/Phon%C3%A8me "Phonème"), mais une convention orthographique pour une séquence de deux consonnes [k]+[s] – ex. : _exire_ [ek.ˈsiː.re] ;
+  * _y_ : [y] ; emprunté au grec ancien, se prononce [y] suivant le modèle grec ; toutefois, plus tard, en bas latin, il s'articule soit [u], soit [i], selon les cas ;
+  * _z_ : [dz] (emprunté au grec ancien) ; consonne double ne se trouvant que dans quelques mots grecs ;
+  * l'existence de voyelles nasales reste controversée.
+
+Chaque voyelle ( _a_ , _e_ , _i_ , _o_ , _u_ , _y_ ) peut être [brève ou
+longue](/wiki/Quantit%C3%A9_vocalique "Quantité vocalique") (distinguées
+aujourd'hui par le [diacritique](/wiki/Diacritique "Diacritique") ˘ ou ¯). Le
+latin antique était une langue à [accent de hauteur](/wiki/Accent_tonique
+"Accent tonique") aussi dotée d'un [accent
+d'intensité](/wiki/Accent_d%27intensit%C3%A9 "Accent d'intensité") secondaire.
+
+Certaines consonnes peuvent être géminées, c'est-à-dire doubles, et sonnent, à
+l'oreille, comme une suite de deux consonnes phonétiquement identiques ; ex :
+« si **cc** us », « ste **ll** a », « a **nn** us », « te **rr** a », « gro
+**ss** us », « li **tt** era », etc.
+
+Le latin enseigné actuellement en France (et dans beaucoup de pays à travers
+le monde) correspond la plupart du temps à cette prononciation restituée du
+Ier siècle av. J.-C. : c'est cette prononciation qu'il faut pratiquer pour
+lire à peu près convenablement un texte latin et qui est presque généralisée
+actuellement dans les congrès internationaux qui choisissent cette langue.
+
+### Prononciation
+médiévale[[modifier](/w/index.php?title=Latin&veaction=edit&section=14
+"Modifier la section : Prononciation médiévale") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=14 "Modifier la section :
+Prononciation médiévale")]
+
+  * _ae_ et _oe_ , donnent [e] ; ex : ( _caelum_ , class. [ˈkae̯lum] ; méd. [ˈtselum] ; _le ciel_ ).
+  * _h_ : initialement [[h](/wiki/API_h "API h")] (comme en [anglais](/wiki/Anglais "Anglais") ou en [allemand](/wiki/Allemand "Allemand")) puis très rapidement simple légère [aspiration](/wiki/Aspiration_\(phon%C3%A9tique\) "Aspiration \(phonétique\)") (dès les premiers textes littéraires) ;
+  * _c_ se prononce [ts] devant les voyelles _e_ et _i_ et devant les diphtongues _ae_ et _oe_ : « Caesar » [tsesar], « Cicero » [tsitsero], etc.;
+  * _g_ : [[g](/wiki/API_g "API g")] (toujours dur) : « Graecia » [ˈgretsia], « genus » [ˈgenus], etc. ;
+  * _r_ : [[r](/wiki/API_r "API r")] (« _r_ roulé ») ;
+  * _sc_ se prononce [ **sts** ] devant les voyelles _e_ et _i_ et devant les diphtongues _ae_ et _oe_ : « scientia » [stsiˈentsia] ;
+  * le digramme **ph** se prononce [f] ( _philosophia_ [filoˈzofia]) ;
+  * _ti_ se prononce devant les voyelles [tsi] : « ratio » (« la raison »), en latin class. [ˈratioː], en latin méd. [ratsio] ;
+  * _sti_ , _tti_ , _xti_ valent toujours [sti], [tti], [ksti] : « mixtio » [ˈmixtio] « Attius _ » [ˈattius];_
+  * _x_ se prononce [ks] ; ex : ( _ex_ , [ɛks] ; _de_ ).
+
+### Prononciation
+ecclésiastique[[modifier](/w/index.php?title=Latin&veaction=edit&section=15
+"Modifier la section : Prononciation ecclésiastique") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=15 "Modifier la section :
+Prononciation ecclésiastique")]
+
+Article détaillé : [Latin ecclésiastique](/wiki/Latin_eccl%C3%A9siastique
+"Latin ecclésiastique").
+
+Une autre prononciation du latin est celle du « latin ecclésiastique », ou «
+latin d'église », qui est assez proche du bas-latin, voire de
+l'[italien](/wiki/Italien "Italien"), avec quelques exceptions. Cette
+prononciation, qui n'est fondée sur aucune base philologique sérieuse, est
+celle définie par [Érasme](/wiki/%C3%89rasme "Érasme") dans son ouvrage
+_Dialogus de recta latini graecique sermonis pronuntiatione_ écrit en 1528.
+
+  * _ae_ et _oe_ , donnent [e] ; ex : ( _caelum_ , class. [kaelum] ; eccl. [t͡ʃelum] ; _le ciel_ ).
+  * _h_ est généralement ignoré ;
+  * _c_ se prononce [t͡ʃ] devant les voyelles _e_ et _i_ et devant les diphtongues _ae_ et _oe_ ;
+  * _g_ se prononce [d͡ʒ] devant les voyelles _e_ et _i_ et devant les diphtongues _ae_ et _oe_ ;
+  * _sc_ se prononce [ʃ] devant les voyelles _e_ et _i_ et devant les diphtongues _ae_ et _oe_ ;
+  * le digramme _ph_ se prononce [f] ( _philosophia_ [filosofia]) ;
+  * _tio_ se prononce [t͡sio] (mais _stio_ , _ttio_ , _xtio_ restent [stio], [ttio], [kstio]) ; ex :( _ratio_ , class. [ratio] ; eccl. [rat͡sio]) ;
+  * _x_ se prononce [ks] ; ex : ( _ex_ , [eks] ; _de_ ).
+
+## Grammaire[[modifier](/w/index.php?title=Latin&veaction=edit&section=16
+"Modifier la section : Grammaire") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=16 "Modifier la section :
+Grammaire")]
+
+Voici quelques généralités sur la grammaire du [latin
+classique](/wiki/Latin_classique "Latin classique").
+
+### Morphologie[[modifier](/w/index.php?title=Latin&veaction=edit&section=17
+"Modifier la section : Morphologie") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=17 "Modifier la section :
+Morphologie")]
+
+La [morphologie](/wiki/Morphologie_\(linguistique\) "Morphologie
+\(linguistique\)") du latin est celle d'une langue hautement
+[flexionnelle](/wiki/Langue_flexionnelle "Langue flexionnelle").
+
+#### Système
+nominal[[modifier](/w/index.php?title=Latin&veaction=edit&section=18 "Modifier
+la section : Système nominal") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=18 "Modifier la section :
+Système nominal")]
+
+Article détaillé : [Déclinaisons latines](/wiki/D%C3%A9clinaisons_latines
+"Déclinaisons latines").
+
+On compte dans le système nominal autant les noms que les adjectifs, qui
+suivent des flexions proches, sinon similaires. La flexion nominale comporte :
+
+  * deux [nombres](/wiki/Nombre_grammatical "Nombre grammatical") : singulier et pluriel, avec des survivances de duel (dans les formes des adjectifs numéraux _duo, duae, duo_ et _ambo, ambae, ambo_ ) ;
+  * trois [genres](/wiki/Genre_grammatical "Genre grammatical") : masculin, féminin et neutre ;
+  * cinq types de [déclinaisons](/wiki/D%C3%A9clinaison_\(grammaire\) "Déclinaison \(grammaire\)")[note 5] pour le nom. Ces cinq types, que tous les livres de grammaire latine distinguent classiquement, ne sont en fait que des catégories qui elles-mêmes se subdivisent en différentes sous-catégories avec pour chacune un tableau de déclinaisons associé. Ainsi, dans la 3e déclinaison, on distingue les thèmes consonantiques ( _leo, leonis_ , m., « le lion » a pour thème _leon-_ ) des thèmes en -i ( _civis, -is_ , m., « le citoyen » a pour thème _civi-_ ), etc. ; en outre, pour les 3 premières déclinaisons, il existe des variantes pour les noms d'origine grecque. La déclinaison offrant le plus d'irrégularités est de loin la 3e déclinaison ( _rete, -is_ , n., « le filet, le piège » ; _os, ossis_ , n., « le visage » ; _securis, -is_ , f. « la hache », etc.). Quelques noms, typiquement d'origine étrangère, sont indéclinables ou ont une déclinaison qui leur est propre, comme « _[Iesus](/wiki/J%C3%A9sus_de_Nazareth "Jésus de Nazareth")_ » ;
+  * deux classes d'adjectifs : la première se forme à partir des deux premières déclinaisons de noms, la seconde à partir de la troisième déclinaison de noms. La classe offrant le plus d'irrégularités est la 2e classe. Certains adjectifs tels « _nequam_ », « _frugi_ » sont indéclinables ;
+  * trois [degrés de l'adjectif](/wiki/Degr%C3%A9_de_comparaison#En_latin "Degré de comparaison") : positif, comparatif (de supériorité, ainsi qu'à valeur intensive ou excessive) et superlatif (à valeur à la fois relative et absolue), marqués par des suffixes. Il y a des exceptions pour certains adjectifs courants, comme « _bonus, a, um_ », « bon » qui donne « _melior, ior, ius_ » au comparatif et « _optimus, a, um_ » au superlatif (cf. meilleur, meilleure, mieux)
+  * sept [cas](/wiki/Cas_grammatical "Cas grammatical") : [nominatif](/wiki/Nominatif "Nominatif"), [vocatif](/wiki/Vocatif "Vocatif"), [accusatif](/wiki/Accusatif "Accusatif"), [génitif](/wiki/G%C3%A9nitif "Génitif"), [datif](/wiki/Datif "Datif"), [ablatif](/wiki/Ablatif "Ablatif"), [locatif](/wiki/Locatif "Locatif"). Le nominatif, l'accusatif, le génitif, le datif et l'ablatif existent pour la quasi-totalité des noms à quelques noms défectifs près tels « _vicis_ » (« tour, retour »). Le vocatif n'est différencié du nominatif que dans la 2e déclinaison ; quant au locatif, il est limité aux noms propres de villes et de petites îles des deux premières déclinaisons (« _Romae_ » : « À Rome ») et à quelques noms communs isolés. Ces derniers sont « _domī_ » (« à la maison »), « _humī_ » (« par terre »), « _rurī »_ (« à la campagne ») et « _bellī_ » (« à la guerre ») [6].
+
+#### Pronoms
+personnels[[modifier](/w/index.php?title=Latin&veaction=edit&section=19
+"Modifier la section : Pronoms personnels") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=19 "Modifier la section :
+Pronoms personnels")]
+
+Article détaillé : [Liste des pronoms en
+latin](/wiki/Liste_des_pronoms_en_latin "Liste des pronoms en latin").
+
+#### Système
+verbal[[modifier](/w/index.php?title=Latin&veaction=edit&section=20 "Modifier
+la section : Système verbal") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=20 "Modifier la section :
+Système verbal")]
+
+Article détaillé : [Conjugaison latine](/wiki/Conjugaison_latine "Conjugaison
+latine").
+
+La conjugaison du verbe latin repose tout entière sur l'opposition de deux
+thèmes, celui du présent ( _infectum_ ) et celui du parfait ( _perfectum_
+)[7]. Le système verbal latin s'organise donc sur trois radicaux[8] :
+
+  * _Infectum_
+    * Radical du présent
+  * _Perfectum_
+    * Radical du parfait (qui ne concerne pas les [verbes déponents](/wiki/Verbe_d%C3%A9ponent "Verbe déponent"))
+    * Radical du [supin](/wiki/Supin "Supin")
+
+La classification scolaire en 4 ou 5 conjugaisons, basée sur la voyelle finale
+du thème, n'est valable que pour la série de l' _infectum_ , construite sur le
+radical du présent. À la série du _perfectum_ , construite sur les radicaux du
+parfait et du [supin](/wiki/Supin "Supin"), cette distinction est
+inappropriée[9],[10].
+
+##### Présent[[modifier](/w/index.php?title=Latin&veaction=edit&section=21
+"Modifier la section : Présent") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=21 "Modifier la section :
+Présent")]
+
+Le radical du présent s'obtient en enlevant à l'infinitif présent sa désinence
+_-re_ [note 6].
+
+  * 1re conjugaison : thèmes en _-ā-_
+    * _amā-re, -o, -ās, -at, -āmus, -ātis, -ant._ (aimer)
+  * 2e conjugaison : thèmes en _-ē-_
+    * _monē-re, -eo, -ēs, -et, -ēmus, -ētis, -ent._ (avertir)
+  * 3e conjugaison : thèmes consonantiques (+ thèmes en _-u_ , comme _statu-ĕ-re_ ), avec voyelle thématique _-ĭ-_
+    * _legӗ-re_ (de _leg-ĭ-se_ , avec [rhotacisme](/wiki/Rhotacisme "Rhotacisme")) _, -o, -is, -it, -imus, -itis, -unt._ (lire)
+  * 4e conjugaison : thèmes en _-ī-_
+    * _audī-re, -io, -īs, -it, -īmus, -ītis, -iunt._ (entendre)
+  * 4e conjugaison _bis_ : thèmes en _-ĭ-_
+    * _capӗ-re_ (de _capĭ-se_ ) _, -io, -is, -it, -imus, -itis, -iunt._ (prendre)
+  * Il existe également quelques verbes irréguliers au thème du présent – d'anciens verbes athématiques pour la plupart[11] –, qui ne sont pas classés dans ces groupes, par exemple : 
+    * _esse, sum, es, est, sumus, estis, sunt_ (être) et ses composés ( _posse_ , _abesse_ , etc.)
+    * _ferre, fero, fers, fert, ferimus, fertis, ferunt_ (porter) et ses composés ( _conferre_ , _auferre_ , etc.), dont la conjugaison est identique à celle de _lego_ (3e conjugaison), à l'exception de quelques formes [athématiques](/wiki/Voyelle_th%C3%A9matique "Voyelle thématique") ( _fers_ au lieu de _*ferĭs_ , _ferre_ au lieu de _*ferĕre_ , etc.).
+
+### Syntaxe[[modifier](/w/index.php?title=Latin&veaction=edit&section=22
+"Modifier la section : Syntaxe") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=22 "Modifier la section :
+Syntaxe")]
+
+Les phrases principales latines se composent comme en français de :
+
+  * Un sujet au nominatif (plus des épithètes éventuels)
+  * Un verbe conjugué
+  * Un/des complément(s)
+
+Exemples :
+
+  * Caesar consul fuit = César fut consul.
+  * Puer stultus fructum edit = L'enfant stupide mange un fruit.
+
+Remarque :
+
+  * Le verbe conjugué est souvent placé en fin de proposition principale (voir ex. plus haut).
+  * Le sujet est souvent sous-entendu dans la conjugaison du verbe : on trouvera « edo/edis/edit/edimus/editis/edunt fructum = Je/tu/il/nous/vous/ils mange(s)/(eons)/(ez)/(eont) un fruit ».
+
+Les phrases secondaires latines sont :
+
+  * Les propositions infinitives. Elles contiennent : 
+    * Un verbe conjugué à l'indicatif (verbe de la phrase principale se construisant avec une proposition infinitive).
+    * Un sujet à l'accusatif.
+    * Un verbe à l'infinitif (base de la proposition infinitive).
+
+    Exemple : _dico_ _eum_ (pronom-déterminant à l'accusatif) _puerum esse_ = _Je dis qu'il est un enfant_.
+    Remarque : la conjonction de subordination se place en français entre le verbe principal et le sujet de la proposition infinitive.
+    L'infinitif utilisé dans les propositions varie selon le sens et la concordance des temps (voir infinitifs latins).
+  * Les propositions subordonnées relatives. 
+    * Elles se forment comme en français, avec le pronom relatif qui, quae, quod, qui s'accorde avec le nom dont la relative est le complément.
+    * Ex : Caesar, qui consul fuit, pulcher erat = César, qui fut consul, était beau.
+    * Capit res quae Caesari erant = Il a pris des choses qui étaient à César.
+
+#### Déclinaison[[modifier](/w/index.php?title=Latin&veaction=edit&section=23
+"Modifier la section : Déclinaison") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=23 "Modifier la section :
+Déclinaison")]
+
+  * masculin singulier : nominatif : qui ; Acc : quem; Gén : cuius ; Datif : cui ; Ablatif : quo
+  * masculin pluriel : qui ; quos ; quorum ; quibus ; quibus
+  * féminin singulier : quae ; quam ; cuius ; cui ;qua
+  * féminin pluriel : quae; quas ; quarum ; quibus ; quibus
+  * neutre singulier : quod ; quod ; cuius ; cui ; quo
+  * neutre pluriel : quae ; quae ; quorum ; quibus ; quibus
+
+Les propositions subordonnées complétives / COD
+
+  * Exprimant la demande, la volonté, l'effort : 
+    * verbe de phrase principale se construisant avec une proposition COD de demande
+    * ut (négation ut ne) + verbe conjugué au subjonctif présent/imparfait.
+    * ex: Opto ut (ne) sanes = Je souhaite que tu (ne) guérisses (pas
+  * Exprimant l'empêchement : 
+    * verbe de phrase principale se construisant avec une proposition COD d'empêchement
+    * ne/quominus + verbe conjugué au subjonctif présent/imparfait, si la principale est affirmative.
+    * OU quin+ verbe conjugué au subjonctif présent/imparfait, si la principale est négative.
+    * Ex : Prohibeo ne videat = J'empêche qu'il voie/ Je l'empêche de voir.
+    * Non prohibeo quin videat = je n'empêche pas qu'il voie/ Je ne l'empêche pas de voir.
+  * Exprimant la crainte : 
+    * verbe de phrase principale se construisant avec une proposition COD de crainte
+    * ne + verbe conjugué au subjonctif (si l'on craint que le fait ne se produise)
+    * ne...non + verbe conjugué au subjonctif (si l'on craint que le fait ne se produise pas)
+  * Exprimant le doute ou l'interrogation : 
+    * un verbe de questionnement
+    * un mot interrogatif (quis, quis, quid)(qui, quae, quod)(quo (où/quand), quomodo (comment) )
+    * OU une particule interrogative (simple: ne/nonne/num // double: utrum...an / utrum annon/necne)
+    * un verbe conjugué au subjonctif. Choix du subjonctif selon la concordance des temps.
+
+#### Le comparatif et le
+superlatif[[modifier](/w/index.php?title=Latin&veaction=edit&section=24
+"Modifier la section : Le comparatif et le superlatif") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=24 "Modifier la section :
+Le comparatif et le superlatif")]
+
+Le comparatif
+
+Le comparatif de supériorité se forme à partir du radical d'un adjectif (ex
+clarus ⇒ clar) + ior, ior, ius. Le comparatif de clarus est donc clarior, ior,
+ius.
+
+  * Le comparatif de supériorité. 
+    * Le comparatif peut servir à comparer des choses :
+
+    ex: Pierre est plus grand que Paul = Petrus maior est quam Paulus.
+
+  *     * Le comparatif de supériorité utilisé seul se traduit par _assez_ / _trop_ / _un peu_ (dans un sens ironique.)
+
+    ex: cette chose est assez grande = Haec res maior est.
+
+  * Le comparatif d'égalité.
+
+    ex: Pierre est aussi célèbre que Paul = Petrus tam clarus est quam Paulus.
+
+  * Le comparatif d'infériorité.
+
+    ex: Pierre est moins célèbre que Paul = Petrus minus clarus est quam Paulus.
+
+Le superlatif.
+
+Il a le même usage qu'en français.
+
+Pour le former, on prend le radical d'un adjectif (ex clarus ⇒ clar) +
+issimus, issima, issimum.
+
+Donc, le superlatif de clarus, a, um est clarissimus, issima, issimum.
+
+  * Le superlatif de supériorité.
+
+    ex: Paulus clarissimus est inter omnes/ex omnibus/omnium = Paul est le plus célèbre de tous.
+
+  * Le superlatif de supériorité employé seul.
+
+    ex: Paulus clarissimus est = Paul est très célèbre.
+
+  * Le superlatif d'infériorité.
+
+    ex: Paulus minime clarus est inter omnes/ex omnibus/omnium = Paul est le moins célèbre de tous.
+
+Attention: certains comparatifs et superlatifs sont irréguliers.
+
+Article connexe : [Ablatif absolu](/wiki/Ablatif_absolu "Ablatif absolu").
+
+## Lexique[[modifier](/w/index.php?title=Latin&veaction=edit&section=25
+"Modifier la section : Lexique") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=25 "Modifier la section :
+Lexique")]
+
+### Lexique hérité de l'indo-
+européen[[modifier](/w/index.php?title=Latin&veaction=edit&section=26
+"Modifier la section : Lexique hérité de l'indo-européen") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=26 "Modifier la section :
+Lexique hérité de l'indo-européen")]
+
+Articles détaillés : [racine indo-européenne](/wiki/Racine_indo-
+europ%C3%A9enne "Racine indo-européenne") et [vocabulaire indo-
+européen](/wiki/Vocabulaire_indo-europ%C3%A9en "Vocabulaire indo-européen").
+
+Comme toute [langue indo-européenne](/wiki/Langue_indo-europ%C3%A9enne "Langue
+indo-européenne"), le latin hérite d'un certain nombre de termes du
+[lexique](/wiki/Lexique "Lexique") [indo-européen commun](/wiki/Indo-
+europ%C3%A9en_commun "Indo-européen commun"). Ainsi, à
+_[agnus](https://fr.wiktionary.org/wiki/agnus "wikt:agnus")_ , « agneau »,
+correspondent le [vieux-slave](/wiki/Vieux-slave "Vieux-slave")
+_[агнѧ](https://fr.wiktionary.org/wiki/%D0%B0%D0%B3%D0%BD%D1%A7 "wikt:агнѧ")_
+(agnę), le [russe](/wiki/Russe "Russe")
+_[ягнёнок](https://fr.wiktionary.org/wiki/%D1%8F%D0%B3%D0%BD%D1%91%D0%BD%D0%BE%D0%BA
+"wikt:ягнёнок")_ (iagnionok), le [grec ancien](/wiki/Grec_ancien "Grec
+ancien")
+[ἀμνός](https://fr.wiktionary.org/wiki/%E1%BC%80%CE%BC%CE%BD%CF%8C%CF%82
+"wikt:ἀμνός")/ _amnós_ , le [breton](/wiki/Breton "Breton")
+_[oan](https://fr.wiktionary.org/wiki/oan#Breton "wikt:oan")_ , etc., qui
+descendent tous de l'étymon _*h₂egʷʰno_.
+
+### Lexique emprunté aux langues non italiques
+voisines[[modifier](/w/index.php?title=Latin&veaction=edit&section=27
+"Modifier la section : Lexique emprunté aux langues non italiques voisines") |
+[modifier le code](/w/index.php?title=Latin&action=edit&section=27 "Modifier
+la section : Lexique emprunté aux langues non italiques voisines")]
+
+Le latin [emprunte](/wiki/Emprunt_lexical "Emprunt lexical") ensuite aux
+langues non italiques voisines :
+
+  * au [grec](/wiki/Grec_ancien "Grec ancien"), qui a fourni, tout au long de l'histoire de la langue latine, le plus d'emprunts, dans tous les domaines de la vie ;
+  * au [gaulois](/wiki/Gaulois_\(langue\) "Gaulois \(langue\)") ;
+  * à l'[étrusque](/wiki/%C3%89trusque "Étrusque"), pour des mots comme _kalendae_ , « [calendes](/wiki/Calendes "Calendes") » (d'où _calendrier_ ), ou _uerna_ , « esclave né à la maison » (d'où _vernaculaire_ ) du lexique courant et religieux.
+
+### Lexique emprunté aux langues italiques
+voisines[[modifier](/w/index.php?title=Latin&veaction=edit&section=28
+"Modifier la section : Lexique emprunté aux langues italiques voisines") |
+[modifier le code](/w/index.php?title=Latin&action=edit&section=28 "Modifier
+la section : Lexique emprunté aux langues italiques voisines")]
+
+Enfin, le latin emprunte aux langues italiques voisines : [osque](/wiki/Osque
+"Osque"), [ombrien](/wiki/Ombrien "Ombrien").
+
+Cette section est vide, insuffisamment détaillée ou incomplète. [Votre
+aide](/wiki/Sp%C3%A9cial:EditPage/Latin "Spécial:EditPage/Latin") est la
+bienvenue ! [Comment faire ?](/wiki/Aide:Comment_modifier_une_page
+"Aide:Comment modifier une page")
+
+### Évolution du lexique latin vers le lexique [français](/wiki/Fran%C3%A7ais
+"Français")[[modifier](/w/index.php?title=Latin&veaction=edit&section=29
+"Modifier la section : Évolution du lexique latin vers le lexique français") |
+[modifier le code](/w/index.php?title=Latin&action=edit&section=29 "Modifier
+la section : Évolution du lexique latin vers le lexique français")]
+
+Articles détaillés : [Langues romanes](/wiki/Langues_romanes "Langues
+romanes") et [étymologie latine en
+français](/wiki/%C3%89tymologie_latine_en_fran%C3%A7ais "Étymologie latine en
+français").
+
+Un mot latin peut avoir directement engendré un mot français ; c'est le cas
+pour _ala_ / _aile_ , _amare_ / _aimer_ , _barba_ / _barbe_ , _carpa_ /
+_carpe_ , etc.
+
+Dans d'autres cas, la situation n'est pas si simple et le mot a évolué d'une
+manière moins linéaire : _aqua_ , « eau », donne _eau_ mais après une autre
+[évolution phonétique](/wiki/Phon%C3%A9tique_historique "Phonétique
+historique"), le même étymon _aqua_ a donné le [doublet](/wiki/Doublet_lexical
+"Doublet lexical") _ève_ , encore présent dans le doublet populaire _évier_ de
+_aquarium_. _Fagus_ , « hêtre », se voit évincé par un mot germanique et
+_crus_ , « jambe », ne se retrouve qu'indirectement dans _crural_.
+
+### Exemples[[modifier](/w/index.php?title=Latin&veaction=edit&section=30
+"Modifier la section : Exemples") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=30 "Modifier la section :
+Exemples")]
+
+Mot latin | Traduction | Prononciation classique (avec
+[API](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique
+international")) | Dérivé savant français  
+---|---|---|---  
+_aqua_ | eau | **a** kwa
+[[ˈa.kʷa](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique
+international")] | aquarium  
+_bibӗre_ | boire | **bi** béré
+[[ˈbi.be.re](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique
+international")] | imbiber  
+_caelum_ | ciel | **kaé** loum
+[[ˈkae̯.lum](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique
+international")] | céleste  
+_diēs_ | jour | **di** éés
+[[ˈdi.eːs](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique
+international")] | diurne  
+_ӗdӗre_ | manger | **é** déré
+[[ˈe.de.re](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique
+international")] | postprandial  
+_fēmĭna_ | femme | **féé** mina
+[[ˈfeː.mi.na](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet
+phonétique international")] | féminin  
+_hŏmo_ | homme | **ho** mo
+[[ˈho.mo](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique
+international")] | hominidé  
+_hŭmus_ | sol | **hou** mouss
+[[ˈhu.mus](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique
+international")] | inhumer  
+_ignis_ | feu | **iig** nis
+[[ˈiːŋ.nis](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique
+international")] | ignifuge  
+_magnus_ | grand | **maag** nouss
+[[ˈmaːŋ.nus](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique
+international")] | magnanime  
+_nox_ | nuit | noks [[noks](/wiki/Alphabet_phon%C3%A9tique_international
+"Alphabet phonétique international")] | nocturne  
+_parvus_ | petit | **paar** wouss
+[[ˈpaːr.wus](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique
+international")] |  
+_sōl_ | soleil | sool [[soːl](/wiki/Alphabet_phon%C3%A9tique_international
+"Alphabet phonétique international")] | solaire  
+_terra_ | terre (en tant qu'élément) | **ter** ra
+[[teː.ra](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique
+international")] | terrestre  
+  
+## Notes et
+références[[modifier](/w/index.php?title=Latin&veaction=edit&section=31
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=31 "Modifier la section :
+Notes et références")]
+
+### Notes[[modifier](/w/index.php?title=Latin&veaction=edit&section=32
+"Modifier la section : Notes") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=32 "Modifier la section :
+Notes")]
+
+  1. ↑ Certains préfèrent parler à son égard de langue ancienne. Voir : [Quelques idées reçues à propos des langues anciennes](http://www.normalesup.org/~pcuvelier/wwwlanguesanciennes/ideesrecuesLA.html).
+  2. ↑ Certaines écoles se consacrent même à l'étude du latin vivant. Voir : [Schola Nova - Ecole internationale d'humanités classiques](http://www.scholanova.be/).
+  3. ↑ _Nuntii Latini, conspectus rerum internationalium hebdomadalis, est programma Radiophoniae Finnicae Generalis (YLE) in terrarum orbe unicum._ [Nuntii Latini](http://yle.fi/radio1/tiede/nuntii_latini/)
+  4. ↑ _Aut grammatici saltem omnes in hanc descendent rerum tenuitatem, desintne aliquae nobis necessariae litterae, non cum Graeca scribimus (tum enim ab isdem duas mutuamur), sed proprie in Latinis: ut in his "servus" et "vulgus" Aeolicum digammon desideratur, et medius est quidam_ u _et_ i _litterae sonus (non enim sic "optimum" dicimus ut "opimum"), et in "here" neque_ e _plane neque_ i _auditur ; an rursus aliae redundent, praeter illam adspirationis, quae si necessaria est, etiam contrariam sibi poscit, et _k _, quae et ipsa quorundam nominum nota est, et_ q _, cuius similis effectu specieque, nisi quod paulum a nostris obliquatur,_ coppa _apud Graecos nunc tantum in numero manet, et nostrarum ultima, qua tam carere potuimus quam_ psi _non quaerimus?_
+
+    Quintilien, _De l'Institution Oratoire_ , livre I, IV, 7-9
+    [M. FABII QVINTILIANI INSTITVTIO ORATORIA LIBER PRIMVS](http://www.thelatinlibrary.com/quintilian/quintilian.institutio1.shtml)
+    [Quintilien/sur l'orthographe](http://cercamon.wikia.com/wiki/Quintilien/sur_l'orthographe)
+  5. ↑ Traditionnellement, on dit simplement « déclinaisons » pour « types de déclinaisons »[[réf. nécessaire]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire "Aide:Référence nécessaire")
+  6. ↑ Pour la troisième conjugaison, il reste encore à retrancher la voyelle thématique -ĕ pour obtenir le radical à proprement parler.
+
+### Références[[modifier](/w/index.php?title=Latin&veaction=edit&section=33
+"Modifier la section : Références") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=33 "Modifier la section :
+Références")]
+
+  1. ↑ (en) Winnie Hu, [« A Dead Language That's Very Much Alive »](https://www.nytimes.com/2008/10/07/nyregion/07latin.html), sur The New York Times, 6 octobre 2008
+  2. ↑ [Bible et Histoire, opposition aux traductions de la Bible en langues vulgaires](http://www.bible-et-histoire.com/la-bible-3000-ans-de-manuscrits1.html#opposition-traductions)
+  3. ↑ Isabelle Heullant-Donat, « Ce que savoir lire (et écrire) veut dire », _L'Histoire_ , septembre 2019, p. 54
+  4. ↑ [Pour que le latin ne meure](https://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=286689)
+  5. ↑ [Présentation en plusieurs langues sur le site de la station de radio](http://radiofrei.de/index.php?iid=1&ksubmit_show=sendung_gruppe&kgruppe_id=152)
+  6. ↑ Lavency (1997), p. 154
+  7. ↑ Ernout (2002), p. 113.
+  8. ↑ Lavency (1997), pp. 73-74.
+  9. ↑ Lavency (1997), p. 76.
+  10. ↑ Ernout (2002), p. 117
+  11. ↑ Ernout (2002), p. 175.
+
+## Voir aussi[[modifier](/w/index.php?title=Latin&veaction=edit&section=34
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=34 "Modifier la section :
+Voir aussi")]
+
+Sur les autres projets Wikimedia :
+
+  * [Latin](https://fr.wikiversity.org/wiki/D%C3%A9partement:Latin "v:Département:Latin"), sur Wikiversity
+  * [Le latin](https://fr.wikibooks.org/wiki/M%C3%A9thode_latine "b:Méthode latine"), sur Wikibooks
+  * [Latin](https://fr.wikiquote.org/wiki/Latin "q:Latin"), sur Wikiquote
+
+![](//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-
+logo-v2.svg/45px-Wikipedia-logo-v2.svg.png)
+
+**[Wikipédia en latin](https://la.wikipedia.org/wiki/ "la:")**.
+
+### Bibliographie[[modifier](/w/index.php?title=Latin&veaction=edit&section=35
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=35 "Modifier la section :
+Bibliographie")]
+
+  * Jean-Paul Brachet, « Le Latin », dans _Dictionnaire des langues_ , Paris, PUF, 2011, p. 521–540.
+  * Marius Lavency, VSVS. Grammaire latine. Description du latin classique en vue de la lecture des auteurs, Louvain-la-Neuve, [Peeters](/wiki/Peeters_Publishers "Peeters Publishers"), 1997, 2e éd., 358 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [90-6831-904-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/90-6831-904-3 "Spécial:Ouvrages de référence/90-6831-904-3"), [lire en ligne](https://books.google.com/books?id=zDN0Gj3P5u8C&printsec=frontcover))
+  * Alfred Ernout, Morphologie historique du latin, Paris, [Klincksieck](/wiki/Klincksieck "Klincksieck"), 2002 (1953), 3e éd., 256 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-252-03396-8](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-252-03396-8 "Spécial:Ouvrages de référence/978-2-252-03396-8") et [2-252-03396-7](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-252-03396-7 "Spécial:Ouvrages de référence/2-252-03396-7"))
+  * Jean-Marie Pierret, Phonétique historique du français et notions de phonétique générale, [Peeters](/wiki/Peeters_Publishers "Peeters Publishers"), 1994, 247 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [90-6831-608-7](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/90-6831-608-7 "Spécial:Ouvrages de référence/90-6831-608-7"), [lire en ligne](https://books.google.com/books?id=mP4JUXoFLBoC&pg=PA1))
+  * (en) Michael Weiss, Outline of the Historical and Comparative Grammar of Latin, Beech Stave Press, 2009, 635 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-9747927-5-0](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-0-9747927-5-0 "Spécial:Ouvrages de référence/978-0-9747927-5-0"))
+  * Alain Meurant, Ad honorem per ardorem. Manuel de latin à l'usage des grands débutants, Bruxelles, [Safran (éditions)](/wiki/Safran_\(%C3%A9ditions\) "Safran \(éditions\)"), coll. « Langues et cultures anciennes, 18 », 2011 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-87457-041-4](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-87457-041-4 "Spécial:Ouvrages de référence/978-2-87457-041-4"), [présentation en ligne](http://www.safran.be/proddetail.php?prod=LCA18))
+  * Alain Meurant, Ad honorem per ardorem. Exercices de latin à l'usage des grands débutants, Bruxelles, [Safran (éditions)](/wiki/Safran_\(%C3%A9ditions\) "Safran \(éditions\)"), coll. « Langues et cultures anciennes, 19 », 2011 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-87457-042-1](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-87457-042-1 "Spécial:Ouvrages de référence/978-2-87457-042-1"), [présentation en ligne](http://www.safran.be/proddetail.php?prod=LCA19))
+  * [Pierre Monteil](/wiki/Pierre_Monteil "Pierre Monteil"), _Éléments de phonétique et de morphologie du latin_ , Nathan, 1970.
+  * (en) E. H. Sturtevant, _The Pronunciation of Greek and Latin_ , Philadelphie, 1940 ; 2e éd., Groningen, 1968.
+  * (it) A. Traina, _L'alfabeto e la pronunzia del latino_ , Bologna, 3e éd. 1967.
+
+### Articles
+connexes[[modifier](/w/index.php?title=Latin&veaction=edit&section=36
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=36 "Modifier la section :
+Articles connexes")]
+
+  * [Déclinaisons latines](/wiki/D%C3%A9clinaisons_latines "Déclinaisons latines")
+  * [Conjugaison latine](/wiki/Conjugaison_latine "Conjugaison latine")
+  * [Liste des pronoms en latin](/wiki/Liste_des_pronoms_en_latin "Liste des pronoms en latin")
+  * [Indo-européen commun](/wiki/Indo-europ%C3%A9en_commun "Indo-européen commun")
+  * [Étymologie latine](/wiki/%C3%89tymologie_latine_en_fran%C3%A7ais "Étymologie latine en français")
+  * [Expression latine](/wiki/Expression_latine "Expression latine") et [Liste des proverbes latins](/wiki/Liste_des_locutions_latines "Liste des locutions latines")
+  * [Ablatif absolu](/wiki/Ablatif_absolu "Ablatif absolu")
+  * [Liste de noms latins de villes (catégorie)](/wiki/Cat%C3%A9gorie:Liste_de_noms_latins_de_villes "Catégorie:Liste de noms latins de villes")
+  * [Bas-latin](/wiki/Bas-latin "Bas-latin")
+  * [Latin vulgaire](/wiki/Latin_vulgaire "Latin vulgaire")
+  * [Latin ecclésiastique](/wiki/Latin_eccl%C3%A9siastique "Latin ecclésiastique")
+  * [Prononciation traditionnelle du latin](https://de.wikipedia.org/wiki/Franz%C3%B6sische_Aussprache_des_Lateins "de:Französische Aussprache des Lateins") (de)
+  * [Phonologie du latin](https://it.wikipedia.org/wiki/Fonologia_della_lingua_latina "it:Fonologia della lingua latina") (it)
+  * [Écriture et prononciation du latin](https://it.wikipedia.org/wiki/Scrittura_e_pronuncia_del_latino "it:Scrittura e pronuncia del latino") (it)
+  * [Langues romanes](/wiki/Langues_romanes "Langues romanes")
+  * [Lettres classiques](/wiki/Lettres_classiques "Lettres classiques") et [grec ancien](/wiki/Grec_ancien "Grec ancien")
+  * [Langues paléo-balkaniques](/wiki/Langues_pal%C3%A9o-balkaniques "Langues paléo-balkaniques")
+  * [Influence du latin sur la langue allemande](/wiki/Influence_du_latin_sur_la_langue_allemande "Influence du latin sur la langue allemande")
+  * [Langue morte](/wiki/Langue_morte "Langue morte")
+
+### Liens
+externes[[modifier](/w/index.php?title=Latin&veaction=edit&section=37
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Latin&action=edit&section=37 "Modifier la section :
+Liens externes")]
+
+  * [Dictionnaire en ligne](http://www.prima-elementa.fr/Dico.htm)
+  * [Dictionnaire en ligne avec conjugueur](http://www.grand-dictionnaire-latin.com)
+  * [_Parler latin dans l'Europe moderne. L'épreuve de la prononciation_ par Françoise Waquet](http://www.persee.fr/web/revues/home/prescript/article/mefr_1123-9891_1996_num_108_1_4433?luceneQuery=%28%2B%28content%3AParler+title%3AParler%5E2.0+fullContent%3AParler%5E100.0+fullTitle%3AParler%5E140.0+summary%3AParler+authors%3AParler%5E5.0+illustrations%3AParler%5E4.0+bibrefs%3AParler%5E4.0+toctitles%3AParler%5E4.0+toctitles1%3AParler%5E3.0+toctitles2%3AParler%5E2.0+toctitles3%3AParler%29+%2B%28content%3Alatin+title%3Alatin%5E2.0+fullContent%3Alatin%5E100.0+fullTitle%3Alatin%5E140.0+summary%3Alatin+authors%3Alatin%5E5.0+illustrations%3Alatin%5E4.0+bibrefs%3Alatin%5E4.0+toctitles%3Alatin%5E4.0+toctitles1%3Alatin%5E3.0+toctitles2%3Alatin%5E2.0+toctitles3%3Alatin%29%29+AND+%28+%2Bpole%3A%28revue%29+%2Baccess_right%3A%28free%29+%29&words=Parler&words=100&words=140&words=latin&words=revue&words=free)
+  * [Manuels, grammaires et dictionnaires de latin](http://cerclelatin.org/wiki) publiés gratuitement par le Cercle latin de la Nouvelle-France]
+
+[v](/wiki/Mod%C3%A8le:Palette_Histoire_du_latin "Modèle:Palette Histoire du
+latin") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Histoire_du_latin&action=edit)
+
+[Histoire du latin](/wiki/Histoire_du_latin "Histoire du latin")  
+  
+---  
+| **jusqu’à 75 av. J.-C.**|  **75 av. J.-C. – Ier siècle**|  **II e – VIIIe
+siècle**|  **IX e – XVe siècle**|  **XV e – XVIe siècle**|  **XVII e – XIXe
+siècle**|  **XX e – XXIe siècle**  
+---|---|---|---|---|---|---  
+  
+[latin archaïque](/wiki/Latin_archa%C3%AFque "Latin archaïque")
+
+|
+
+[latin classique](/wiki/Latin_classique "Latin classique")
+
+|
+
+[bas latin](/wiki/Bas_latin "Bas latin")
+
+|
+
+[latin médiéval](/wiki/Latin_m%C3%A9di%C3%A9val "Latin médiéval")
+
+|
+
+[latin humaniste](/wiki/Latin_humaniste "Latin humaniste")
+
+|
+
+[néolatin](/wiki/N%C3%A9olatin "Néolatin")
+
+|
+
+[latin contemporain](/wiki/Latin_contemporain "Latin contemporain")  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nuvola_apps_gaim.png/24px-Nuvola_apps_gaim.png)](/wiki/Portail:Langues "Portail des langues") [Portail des langues](/wiki/Portail:Langues "Portail:Langues")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Romulus_et_Remus_%28transparent%29.png/29px-Romulus_et_Remus_%28transparent%29.png)](/wiki/Portail:Rome_antique "Portail de la Rome antique") [Portail de la Rome antique](/wiki/Portail:Rome_antique "Portail:Rome antique")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Amate-monogram-Koch.svg/42px-Amate-monogram-Koch.svg.png)](/wiki/Portail:Langue_latine "Portail de la langue latine") [Portail de la langue latine](/wiki/Portail:Langue_latine "Portail:Langue latine")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Latin&oldid=174979764](https://fr.wikipedia.org/w/index.php?title=Latin&oldid=174979764)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Langue SOV](/wiki/Cat%C3%A9gorie:Langue_SOV "Catégorie:Langue SOV")
+  * [Langue flexionnelle](/wiki/Cat%C3%A9gorie:Langue_flexionnelle "Catégorie:Langue flexionnelle")
+  * [Langue accusative](/wiki/Cat%C3%A9gorie:Langue_accusative "Catégorie:Langue accusative")
+  * [Inventaire de langues](/wiki/Cat%C3%A9gorie:Inventaire_de_langues "Catégorie:Inventaire de langues")
+  * [Langue latine](/wiki/Cat%C3%A9gorie:Langue_latine "Catégorie:Langue latine")
+  * [Langue morte](/wiki/Cat%C3%A9gorie:Langue_morte "Catégorie:Langue morte")
+  * [Langue véhiculaire](/wiki/Cat%C3%A9gorie:Langue_v%C3%A9hiculaire "Catégorie:Langue véhiculaire")
+  * [Langue officielle](/wiki/Cat%C3%A9gorie:Langue_officielle "Catégorie:Langue officielle")
+  * [Langue du Vatican](/wiki/Cat%C3%A9gorie:Langue_du_Vatican "Catégorie:Langue du Vatican")
+
+Catégories cachées :
+
+  * [Article à référence nécessaire](/wiki/Cat%C3%A9gorie:Article_%C3%A0_r%C3%A9f%C3%A9rence_n%C3%A9cessaire "Catégorie:Article à référence nécessaire")
+  * [Article à illustrer Langue](/wiki/Cat%C3%A9gorie:Article_%C3%A0_illustrer_Langue "Catégorie:Article à illustrer Langue")
+  * [Article utilisant une Infobox](/wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox "Catégorie:Article utilisant une Infobox")
+  * [Article avec une section vide ou incomplète](/wiki/Cat%C3%A9gorie:Article_avec_une_section_vide_ou_incompl%C3%A8te "Catégorie:Article avec une section vide ou incomplète")
+  * [Portail:Langues/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Langues/Articles_li%C3%A9s "Catégorie:Portail:Langues/Articles liés")
+  * [Portail:Langues/Articles liés directement](/wiki/Cat%C3%A9gorie:Portail:Langues/Articles_li%C3%A9s_directement "Catégorie:Portail:Langues/Articles liés directement")
+  * [Portail:Rome antique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Rome_antique/Articles_li%C3%A9s "Catégorie:Portail:Rome antique/Articles liés")
+  * [Portail:Italie/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Italie/Articles_li%C3%A9s "Catégorie:Portail:Italie/Articles liés")
+  * [Portail:Monde antique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Monde_antique/Articles_li%C3%A9s "Catégorie:Portail:Monde antique/Articles liés")
+  * [Portail:Histoire/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Histoire/Articles_li%C3%A9s "Catégorie:Portail:Histoire/Articles liés")
+  * [Portail:Langue latine/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Langue_latine/Articles_li%C3%A9s "Catégorie:Portail:Langue latine/Articles liés")
+  * [Bon article en espagnol](/wiki/Cat%C3%A9gorie:Bon_article_en_espagnol "Catégorie:Bon article en espagnol")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Latin "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Latin "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Latin&oldid=174979764 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Latin&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Latin&id=174979764&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q397 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Latin)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Latin&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Latin&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Latin_language)
+  * [Wikilivres](https://fr.wikibooks.org/wiki/Latin)
+  * [Wikiquote](https://fr.wikiquote.org/wiki/Latin)
+  * [Wikiversité](https://fr.wikiversity.org/wiki/D%C3%A9partement:Latin)
+
+###  Dans d’autres langues
+
+  * [Аҧсшәа](https://ab.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0%D2%AD%D1%8B%D0%BD_%D0%B1%D1%8B%D0%B7%D1%88%D3%99%D0%B0 "Алаҭын бызшәа — abkhaze")
+  * [Afrikaans](https://af.wikipedia.org/wiki/Latyn "Latyn — afrikaans")
+  * [Alemannisch](https://als.wikipedia.org/wiki/Lateinische_Sprache "Lateinische Sprache — Alemannisch")
+  * [አማርኛ](https://am.wikipedia.org/wiki/%E1%88%AE%E1%88%9B%E1%8B%AD%E1%88%B5%E1%8C%A5 "ሮማይስጥ — amharique")
+  * [Aragonés](https://an.wikipedia.org/wiki/Lat%C3%ADn "Latín — aragonais")
+  * [Ænglisc](https://ang.wikipedia.org/wiki/L%C7%A3den "Lǣden — ancien anglais")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D9%84%D8%A7%D8%AA%D9%8A%D9%86%D9%8A%D8%A9 "اللغة اللاتينية — arabe")
+  * [ܐܪܡܝܐ](https://arc.wikipedia.org/wiki/%DC%A0%DC%AB%DC%A2%DC%90_%DC%A0%DC%90%DC%9B%DC%9D%DC%A2%DC%9D%DC%90 "ܠܫܢܐ ܠܐܛܝܢܝܐ — araméen")
+  * [مصرى](https://arz.wikipedia.org/wiki/%D9%84%D8%A7%D8%AA%D9%8A%D9%86%D9%89 "لاتينى — arabe égyptien")
+  * [অসমীয়া](https://as.wikipedia.org/wiki/%E0%A6%B2%E0%A7%87%E0%A6%9F%E0%A6%BF%E0%A6%A8_%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE "লেটিন ভাষা — assamais")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Idioma_llat%C3%ADn "Idioma llatín — asturien")
+  * [Авар](https://av.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD_%D0%BC%D0%B0%D1%86%D0%86 "Латин мацІ — avar")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Lat%C4%B1n_dili "Latın dili — azéri")
+  * [تۆرکجه](https://azb.wikipedia.org/wiki/%D9%84%D8%A7%D8%AA%DB%8C%D9%86_%D8%AF%DB%8C%D9%84%DB%8C "لاتین دیلی — South Azerbaijani")
+  * [Башҡортса](https://ba.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD_%D1%82%D0%B5%D0%BB%D0%B5 "Латин теле — bachkir")
+  * [Basa Bali](https://ban.wikipedia.org/wiki/Basa_Latin "Basa Latin — balinais")
+  * [Boarisch](https://bar.wikipedia.org/wiki/Latein "Latein — bavarois")
+  * [Žemaitėška](https://bat-smg.wikipedia.org/wiki/Luot%C4%ABnu_kalba "Luotīnu kalba — Samogitian")
+  * [Bikol Central](https://bcl.wikipedia.org/wiki/Tataramon_na_Latin "Tataramon na Latin — Central Bikol")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%9B%D0%B0%D1%86%D1%96%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B2%D0%B0 "Лацінская мова — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%9B%D0%B0%D1%86%D1%96%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B2%D0%B0 "Лацінская мова — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8_%D0%B5%D0%B7%D0%B8%D0%BA "Латински език — bulgare")
+  * [भोजपुरी](https://bh.wikipedia.org/wiki/%E0%A4%B2%E0%A5%88%E0%A4%9F%E0%A4%BF%E0%A4%A8 "लैटिन — Bhojpuri")
+  * [Bamanankan](https://bm.wikipedia.org/wiki/Latin "Latin — bambara")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%B2%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%A8_%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE "লাতিন ভাষা — bengali")
+  * [བོད་ཡིག](https://bo.wikipedia.org/wiki/%E0%BD%A3%E0%BC%8B%E0%BD%8F%E0%BD%B2%E0%BD%93%E0%BC%8B%E0%BD%A6%E0%BE%90%E0%BD%91%E0%BC%8D "ལ་ཏིན་སྐད། — tibétain")
+  * [Brezhoneg](https://br.wikipedia.org/wiki/Latin "Latin — breton")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Latinski_jezik "Latinski jezik — bosniaque")
+  * [Буряад](https://bxr.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B0_%D1%85%D1%8D%D0%BB%D1%8D%D0%BD "Лата хэлэн — Russia Buriat")
+  * [Català](https://ca.wikipedia.org/wiki/Llat%C3%AD "Llatí — catalan")
+  * [Chavacano de Zamboanga](https://cbk-zam.wikipedia.org/wiki/Lengua_Latin "Lengua Latin — Chavacano")
+  * [Mìng-dĕ̤ng-ngṳ̄](https://cdo.wikipedia.org/wiki/L%C3%A1-d%C4%ADng-ng%E1%B9%B3%CC%84 "Lá-dĭng-ngṳ̄ — Min Dong Chinese")
+  * [Нохчийн](https://ce.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D0%B0%D0%BD_%D0%BC%D0%BE%D1%82%D1%82 "Латинан мотт — tchétchène")
+  * [Cebuano](https://ceb.wikipedia.org/wiki/Linatin "Linatin — cebuano")
+  * [ᏣᎳᎩ](https://chr.wikipedia.org/wiki/%E1%8E%A0%E1%8F%82%E1%8E%B6%E1%8E%BB_%E1%8E%A4%E1%8F%82%E1%8F%AC%E1%8F%82%E1%8E%AF%E1%8F%8D%E1%8F%97 "ᎠᏂᎶᎻ ᎤᏂᏬᏂᎯᏍᏗ — cherokee")
+  * [کوردی](https://ckb.wikipedia.org/wiki/%D8%B2%D9%85%D8%A7%D9%86%DB%8C_%D9%84%D8%A7%D8%AA%DB%8C%D9%86%DB%8C "زمانی لاتینی — sorani")
+  * [Corsu](https://co.wikipedia.org/wiki/Lingua_latina "Lingua latina — corse")
+  * [Qırımtatarca](https://crh.wikipedia.org/wiki/Latin_tili "Latin tili — turc de Crimée")
+  * [Čeština](https://cs.wikipedia.org/wiki/Latina "Latina — tchèque")
+  * [Kaszëbsczi](https://csb.wikipedia.org/wiki/%C5%81acy%C5%84sczi_j%C3%A3z%C3%ABk "Łacyńsczi jãzëk — kachoube")
+  * [Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ](https://cu.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%8C%D1%81%D0%BA%D1%8A_%D1%A9%EA%99%81%EA%99%91%D0%BA%D1%8A "Латиньскъ ѩꙁꙑкъ — slavon d’église")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD_%D1%87%C4%95%D0%BB%D1%85%D0%B8 "Латин чĕлхи — tchouvache")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Lladin "Lladin — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/Latin "Latin — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Latein "Latein — allemand")
+  * [Zazaki](https://diq.wikipedia.org/wiki/Latinki "Latinki — Zazaki")
+  * [Dolnoserbski](https://dsb.wikipedia.org/wiki/%C5%81aty%C5%84%C5%A1%C4%87ina "Łatyńšćina — bas-sorabe")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%9B%CE%B1%CF%84%CE%B9%CE%BD%CE%B9%CE%BA%CE%AE_%CE%B3%CE%BB%CF%8E%CF%83%CF%83%CE%B1 "Λατινική γλώσσα — grec")
+  * [Emiliàn e rumagnòl](https://eml.wikipedia.org/wiki/Lat%C3%A8in "Latèin — Emiliano-Romagnolo")
+  * [English](https://en.wikipedia.org/wiki/Latin "Latin — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Latina_lingvo "Latina lingvo — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Lat%C3%ADn "Latín — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Ladina_keel "Ladina keel — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Latin "Latin — basque")
+  * [Estremeñu](https://ext.wikipedia.org/wiki/Luenga_latina "Luenga latina — estrémègne")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D8%AA%DB%8C%D9%86 "لاتین — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Latina "Latina — finnois")
+  * [Võro](https://fiu-vro.wikipedia.org/wiki/Ladina_kiil "Ladina kiil — Võro")
+  * [Føroyskt](https://fo.wikipedia.org/wiki/Lat%C3%ADnskt_m%C3%A1l "Latínskt mál — féroïen")
+  * [Arpetan](https://frp.wikipedia.org/wiki/Latin "Latin — francoprovençal")
+  * [Nordfriisk](https://frr.wikipedia.org/wiki/Latiinsk_spriak "Latiinsk spriak — frison du Nord")
+  * [Furlan](https://fur.wikipedia.org/wiki/Lenghe_latine "Lenghe latine — frioulan")
+  * [Frysk](https://fy.wikipedia.org/wiki/Latyn "Latyn — frison occidental")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/An_Laidin "An Laidin — irlandais")
+  * [Gagauz](https://gag.wikipedia.org/wiki/Latin_dili "Latin dili — gagaouze")
+  * [贛語](https://gan.wikipedia.org/wiki/%E6%8B%89%E4%B8%81%E8%AA%9E "拉丁語 — gan")
+  * [Kriyòl gwiyannen](https://gcr.wikipedia.org/wiki/Laten "Laten — créole guyanais")
+  * [Gàidhlig](https://gd.wikipedia.org/wiki/Laideann "Laideann — gaélique écossais")
+  * [Galego](https://gl.wikipedia.org/wiki/Lingua_latina "Lingua latina — galicien")
+  * [Avañe'ẽ](https://gn.wikipedia.org/wiki/Lasio%C3%B1e%27%E1%BA%BD "Lasioñe'ẽ — guarani")
+  * [𐌲𐌿𐍄𐌹𐍃𐌺](https://got.wikipedia.org/wiki/%F0%90%8C%BB%F0%90%8C%B0%F0%90%8D%84%F0%90%8C%B9%F0%90%8C%BD%F0%90%8C%B9%F0%90%8D%83%F0%90%8C%BA%F0%90%8C%B0%F0%90%8D%82%F0%90%8C%B0%F0%90%8C%B6%F0%90%8C%B3%F0%90%8C%B0 "𐌻𐌰𐍄𐌹𐌽𐌹𐍃𐌺𐌰𐍂𐌰𐌶𐌳𐌰 — gotique")
+  * [Gaelg](https://gv.wikipedia.org/wiki/Ladjyn "Ladjyn — mannois")
+  * [Hausa](https://ha.wikipedia.org/wiki/Harshen_Latin "Harshen Latin — haoussa")
+  * [客家語/Hak-kâ-ngî](https://hak.wikipedia.org/wiki/L%C3%A2-t%C3%AAn-ng%C3%AE "Lâ-tên-ngî — hakka")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%9C%D7%98%D7%99%D7%A0%D7%99%D7%AA "לטינית — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%A4%E0%A4%BF%E0%A4%A8_%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE "लातिन भाषा — hindi")
+  * [Fiji Hindi](https://hif.wikipedia.org/wiki/Latin "Latin — hindi fidjien")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Latinski_jezik "Latinski jezik — croate")
+  * [Hornjoserbsce](https://hsb.wikipedia.org/wiki/%C5%81a%C4%87on%C5%A1%C4%87ina "Łaćonšćina — haut-sorabe")
+  * [Kreyòl ayisyen](https://ht.wikipedia.org/wiki/Laten "Laten — créole haïtien")
+  * [Magyar](https://hu.wikipedia.org/wiki/Latin_nyelv "Latin nyelv — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%BC%D5%A1%D5%BF%D5%AB%D5%B6%D5%A5%D6%80%D5%A5%D5%B6 "Լատիներեն — arménien")
+  * [Interlingua](https://ia.wikipedia.org/wiki/Lingua_latin "Lingua latin — interlingua")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Bahasa_Latin "Bahasa Latin — indonésien")
+  * [Interlingue](https://ie.wikipedia.org/wiki/Latin "Latin — interlingue")
+  * [Ilokano](https://ilo.wikipedia.org/wiki/Pagsasao_a_Latin "Pagsasao a Latin — ilocano")
+  * [ГӀалгӀай](https://inh.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D0%B9_%D0%BC%D0%BE%D1%82%D1%82 "Латиний мотт — ingouche")
+  * [Ido](https://io.wikipedia.org/wiki/Latina_linguo "Latina linguo — ido")
+  * [Íslenska](https://is.wikipedia.org/wiki/Lat%C3%ADna "Latína — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Lingua_latina "Lingua latina — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E8%AA%9E "ラテン語 — japonais")
+  * [Patois](https://jam.wikipedia.org/wiki/Latn "Latn — créole jamaïcain")
+  * [Jawa](https://jv.wikipedia.org/wiki/Basa_Latin "Basa Latin — javanais")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%9A%E1%83%90%E1%83%97%E1%83%98%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%94%E1%83%9C%E1%83%90 "ლათინური ენა — géorgien")
+  * [Qaraqalpaqsha](https://kaa.wikipedia.org/wiki/Lat%C4%B1n_tili "Latın tili — karakalpak")
+  * [Taqbaylit](https://kab.wikipedia.org/wiki/Talatint "Talatint — kabyle")
+  * [Адыгэбзэ](https://kbd.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%8B%D0%B1%D0%B7%D1%8D "Латиныбзэ — kabarde")
+  * [Kabɩyɛ](https://kbp.wikipedia.org/wiki/Lat%C9%9B%C5%8B_k%CA%8An%CA%8A%C5%8B "Latɛŋ kʊnʊŋ — Kabiye")
+  * [Kongo](https://kg.wikipedia.org/wiki/Kilatini "Kilatini — kikongo")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%8B%D0%BD_%D1%82%D1%96%D0%BB%D1%96 "Латын тілі — kazakh")
+  * [Kalaallisut](https://kl.wikipedia.org/wiki/Latiinerisut "Latiinerisut — groenlandais")
+  * [ភាសាខ្មែរ](https://km.wikipedia.org/wiki/%E1%9E%97%E1%9E%B6%E1%9E%9F%E1%9E%B6%E1%9E%A1%E1%9E%B6%E1%9E%8F%E1%9E%B6%E1%9F%86%E1%9E%84 "ភាសាឡាតាំង — khmer")
+  * [ಕನ್ನಡ](https://kn.wikipedia.org/wiki/%E0%B2%B2%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%9F%E0%B2%BF%E0%B2%A8%E0%B3%8D "ಲ್ಯಾಟಿನ್ — kannada")
+  * [한국어](https://ko.wikipedia.org/wiki/%EB%9D%BC%ED%8B%B4%EC%96%B4 "라틴어 — coréen")
+  * [Къарачай-малкъар](https://krc.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD_%D1%82%D0%B8%D0%BB "Латин тил — karatchaï balkar")
+  * [Ripoarisch](https://ksh.wikipedia.org/wiki/Latting "Latting — francique ripuaire")
+  * [Kurdî](https://ku.wikipedia.org/wiki/Ziman%C3%AA_lat%C3%AEn%C3%AE "Zimanê latînî — kurde")
+  * [Коми](https://kv.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD_%D0%BA%D1%8B%D0%B2 "Латин кыв — komi")
+  * [Kernowek](https://kw.wikipedia.org/wiki/Latin "Latin — cornique")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%8B%D0%BD_%D1%82%D0%B8%D0%BB%D0%B8 "Латын тили — kirghize")
+  * [Latina](https://la.wikipedia.org/wiki/Lingua_Latina "Lingua Latina — latin")
+  * [Ladino](https://lad.wikipedia.org/wiki/Lat%C3%ADn "Latín — ladino")
+  * [Lëtzebuergesch](https://lb.wikipedia.org/wiki/Lat%C3%A4in "Latäin — luxembourgeois")
+  * [Лакку](https://lbe.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D3%80%D0%B8%D0%BD_%D0%BC%D0%B0%D0%B7 "ЛатӀин маз — Lak")
+  * [Лезги](https://lez.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD_%D1%87I%D0%B0%D0%BB "Латин чIал — lezghien")
+  * [Lingua Franca Nova](https://lfn.wikipedia.org/wiki/Latina_\(lingua\) "Latina \(lingua\) — lingua franca nova")
+  * [Limburgs](https://li.wikipedia.org/wiki/Latien "Latien — limbourgeois")
+  * [Ligure](https://lij.wikipedia.org/wiki/L%C3%A9ngoa_lat%C3%ACnn-a "Léngoa latìnn-a — ligure")
+  * [Ladin](https://lld.wikipedia.org/wiki/Lingaz_latin "Lingaz latin — Ladin")
+  * [Lumbaart](https://lmo.wikipedia.org/wiki/Latin "Latin — lombard")
+  * [Lingála](https://ln.wikipedia.org/wiki/Latina "Latina — lingala")
+  * [ລາວ](https://lo.wikipedia.org/wiki/%E0%BA%9E%E0%BA%B2%E0%BA%AA%E0%BA%B2%E0%BA%A5%E0%BA%B2%E0%BB%81%E0%BA%95%E0%BA%B1%E0%BA%87 "ພາສາລາແຕັງ — lao")
+  * [لۊری شومالی](https://lrc.wikipedia.org/wiki/%D8%B2%DB%8A%D9%86_%D9%84%D8%A7%D8%AA%D9%8A%D9%86 "زۊن لاتين — lori du Nord")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Lotyn%C5%B3_kalba "Lotynų kalba — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Lat%C4%AB%C5%86u_valoda "Latīņu valoda — letton")
+  * [Мокшень](https://mdf.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D0%BE%D0%BD%D1%8C_%D0%BA%D1%8F%D0%BB%D1%8C "Латинонь кяль — mokcha")
+  * [Malagasy](https://mg.wikipedia.org/wiki/Fiteny_latina "Fiteny latina — malgache")
+  * [Олык марий](https://mhr.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD_%D0%B9%D1%8B%D0%BB%D0%BC%D0%B5 "Латин йылме — Eastern Mari")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D0%BA "Латински јазик — macédonien")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%B2%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B5%BB "ലാറ്റിൻ — malayalam")
+  * [Монгол](https://mn.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD_%D1%85%D1%8D%D0%BB "Латин хэл — mongol")
+  * [मराठी](https://mr.wikipedia.org/wiki/%E0%A4%B2%E0%A5%85%E0%A4%9F%E0%A4%BF%E0%A4%A8_%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE "लॅटिन भाषा — marathi")
+  * [Кырык мары](https://mrj.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD_%D0%B9%D3%B9%D0%BB%D0%BC%D3%B9 "Латин йӹлмӹ — mari occidental")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/Bahasa_Latin "Bahasa Latin — malais")
+  * [Malti](https://mt.wikipedia.org/wiki/Lingwa_Latina "Lingwa Latina — maltais")
+  * [Mirandés](https://mwl.wikipedia.org/wiki/Lh%C3%A9ngua_lhatina "Lhéngua lhatina — mirandais")
+  * [မြန်မာဘာသာ](https://my.wikipedia.org/wiki/%E1%80%9C%E1%80%80%E1%80%BA%E1%80%90%E1%80%84%E1%80%BA%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC%E1%80%85%E1%80%80%E1%80%AC%E1%80%B8 "လက်တင်ဘာသာစကား — birman")
+  * [Эрзянь](https://myv.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%8D%D0%BD%D1%8C_%D0%BA%D0%B5%D0%BB%D1%8C "Латинэнь кель — erzya")
+  * [مازِرونی](https://mzn.wikipedia.org/wiki/%D9%84%D8%A7%D8%AA%DB%8C%D9%86 "لاتین — mazandérani")
+  * [Dorerin Naoero](https://na.wikipedia.org/wiki/Dorerin_Latin "Dorerin Latin — nauruan")
+  * [Nāhuatl](https://nah.wikipedia.org/wiki/Latintlahtolli "Latintlahtolli — Nāhuatl")
+  * [Napulitano](https://nap.wikipedia.org/wiki/Lengua_latina "Lengua latina — napolitain")
+  * [Plattdüütsch](https://nds.wikipedia.org/wiki/Latiensche_Spraak "Latiensche Spraak — bas-allemand")
+  * [Nedersaksies](https://nds-nl.wikipedia.org/wiki/Latien "Latien — bas-saxon néerlandais")
+  * [नेपाली](https://ne.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%AE%E0%A4%A8_%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE "रोमन भाषा — népalais")
+  * [नेपाल भाषा](https://new.wikipedia.org/wiki/%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9F%E0%A4%BF%E0%A4%A8_%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE "ल्याटिन भाषा — newari")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Latijn "Latijn — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Latin "Latin — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Latin "Latin — norvégien bokmål")
+  * [Novial](https://nov.wikipedia.org/wiki/Latinum "Latinum — novial")
+  * [Nouormand](https://nrm.wikipedia.org/wiki/Lat%C3%AEn "Latîn — Norman")
+  * [Chi-Chewa](https://ny.wikipedia.org/wiki/Chilatini "Chilatini — chewa")
+  * [Occitan](https://oc.wikipedia.org/wiki/Latin "Latin — occitan")
+  * [Livvinkarjala](https://olo.wikipedia.org/wiki/Latinan_kieli "Latinan kieli — Livvi-Karelian")
+  * [ଓଡ଼ିଆ](https://or.wikipedia.org/wiki/%E0%AC%B2%E0%AC%BE%E0%AC%9F%E0%AC%BF%E0%AC%A8_%E0%AC%AD%E0%AC%BE%E0%AC%B7%E0%AC%BE "ଲାଟିନ ଭାଷା — odia")
+  * [Ирон](https://os.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D0%B0%D0%B3_%C3%A6%D0%B2%D0%B7%D0%B0%D0%B3 "Латинаг æвзаг — ossète")
+  * [ਪੰਜਾਬੀ](https://pa.wikipedia.org/wiki/%E0%A8%B2%E0%A8%BE%E0%A8%A4%E0%A9%80%E0%A8%A8%E0%A9%80_%E0%A8%AD%E0%A8%BE%E0%A8%B8%E0%A8%BC%E0%A8%BE "ਲਾਤੀਨੀ ਭਾਸ਼ਾ — pendjabi")
+  * [Pangasinan](https://pag.wikipedia.org/wiki/Salitan_Latino "Salitan Latino — pangasinan")
+  * [Papiamentu](https://pap.wikipedia.org/wiki/Latin "Latin — papiamento")
+  * [Picard](https://pcd.wikipedia.org/wiki/Latin "Latin — picard")
+  * [Pälzisch](https://pfl.wikipedia.org/wiki/Latein "Latein — allemand palatin")
+  * [Norfuk / Pitkern](https://pih.wikipedia.org/wiki/Leten "Leten — Norfuk / Pitkern")
+  * [Polski](https://pl.wikipedia.org/wiki/%C5%81acina "Łacina — polonais")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/Lenga_latin-a "Lenga latin-a — piémontais")
+  * [پنجابی](https://pnb.wikipedia.org/wiki/%D9%84%D8%A7%D8%B7%DB%8C%D9%86%DB%8C "لاطینی — Western Punjabi")
+  * [پښتو](https://ps.wikipedia.org/wiki/%D9%84%D8%A7%D8%AA%DB%8C%D9%86%D9%8A_%DA%98%D8%A8%D9%87 "لاتیني ژبه — pachto")
+  * [Português](https://pt.wikipedia.org/wiki/Latim "Latim — portugais")
+  * [Runa Simi](https://qu.wikipedia.org/wiki/Latin_simi "Latin simi — quechua")
+  * [Rumantsch](https://rm.wikipedia.org/wiki/Latin "Latin — romanche")
+  * [Română](https://ro.wikipedia.org/wiki/Limba_latin%C4%83 "Limba latină — roumain")
+  * [Armãneashti](https://roa-rup.wikipedia.org/wiki/Latinica "Latinica — Aromanian")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA "Латинский язык — russe")
+  * [Русиньскый](https://rue.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%8C%D1%81%D0%BA%D1%8B%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA "Латиньскый язык — ruthène")
+  * [Kinyarwanda](https://rw.wikipedia.org/wiki/Ikilatini "Ikilatini — kinyarwanda")
+  * [संस्कृतम्](https://sa.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%A4%E0%A4%BF%E0%A4%A8%E0%A5%80 "लातिनी — sanskrit")
+  * [Саха тыла](https://sah.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%8B%D1%8B%D0%BD_%D1%82%D1%8B%D0%BB%D0%B0 "Латыын тыла — iakoute")
+  * [ᱥᱟᱱᱛᱟᱲᱤ](https://sat.wikipedia.org/wiki/%E1%B1%9E%E1%B1%9F%E1%B1%B4%E1%B1%A4%E1%B1%B1_%E1%B1%AF%E1%B1%9F%E1%B1%B9%E1%B1%A8%E1%B1%A5%E1%B1%A4 "ᱞᱟᱴᱤᱱ ᱯᱟᱹᱨᱥᱤ — santali")
+  * [Sardu](https://sc.wikipedia.org/wiki/Limba_latina "Limba latina — sarde")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/Lingua_latina "Lingua latina — sicilien")
+  * [Scots](https://sco.wikipedia.org/wiki/Laitin "Laitin — écossais")
+  * [سنڌي](https://sd.wikipedia.org/wiki/%D9%84%D8%A7%D8%B7%D9%8A%D9%86%D9%8A "لاطيني — sindhi")
+  * [Davvisámegiella](https://se.wikipedia.org/wiki/L%C3%A1htengiella "Láhtengiella — same du Nord")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Latinski_jezik "Latinski jezik — serbo-croate")
+  * [සිංහල](https://si.wikipedia.org/wiki/%E0%B6%BD%E0%B6%AD%E0%B7%92%E0%B6%B1%E0%B7%8A "ලතින් — cingalais")
+  * [Simple English](https://simple.wikipedia.org/wiki/Latin "Latin — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Latin%C4%8Dina "Latinčina — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Latin%C5%A1%C4%8Dina "Latinščina — slovène")
+  * [Soomaaliga](https://so.wikipedia.org/wiki/Af-Laatiin "Af-Laatiin — somali")
+  * [Shqip](https://sq.wikipedia.org/wiki/Gjuha_latine "Gjuha latine — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA "Латински језик — serbe")
+  * [Seeltersk](https://stq.wikipedia.org/wiki/Latiensk "Latiensk — saterlandais")
+  * [Sunda](https://su.wikipedia.org/wiki/Basa_Latin "Basa Latin — soundanais")
+  * [Svenska](https://sv.wikipedia.org/wiki/Latin "Latin — suédois")
+  * [Kiswahili](https://sw.wikipedia.org/wiki/Kilatini "Kilatini — swahili")
+  * [Ślůnski](https://szl.wikipedia.org/wiki/%C5%81a%C4%87ina "Łaćina — silésien")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%B2%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%80%E0%AE%A9%E0%AF%8D "இலத்தீன் — tamoul")
+  * [తెలుగు](https://te.wikipedia.org/wiki/%E0%B0%B2%E0%B0%BE%E0%B0%9F%E0%B0%BF%E0%B0%A8%E0%B1%8D "లాటిన్ — télougou")
+  * [Тоҷикӣ](https://tg.wikipedia.org/wiki/%D0%97%D0%B0%D0%B1%D0%BE%D0%BD%D0%B8_%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D3%A3 "Забони лотинӣ — tadjik")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%A5%E0%B8%B0%E0%B8%95%E0%B8%B4%E0%B8%99 "ภาษาละติน — thaï")
+  * [Türkmençe](https://tk.wikipedia.org/wiki/Latyn_dili "Latyn dili — turkmène")
+  * [Tagalog](https://tl.wikipedia.org/wiki/Wikang_Latin "Wikang Latin — tagalog")
+  * [Tok Pisin](https://tpi.wikipedia.org/wiki/Tok_Latin "Tok Latin — tok pisin")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Latince "Latince — turc")
+  * [Татарча/tatarça](https://tt.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD_%D1%82%D0%B5%D0%BB%D0%B5 "Латин теле — tatar")
+  * [Тыва дыл](https://tyv.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD_%D0%B4%D1%8B%D0%BB "Латин дыл — touvain")
+  * [Удмурт](https://udm.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD_%D0%BA%D1%8B%D0%BB "Латин кыл — oudmourte")
+  * [ئۇيغۇرچە / Uyghurche](https://ug.wikipedia.org/wiki/%D9%84%D8%A7%D8%AA%D9%89%D9%86_%D8%AA%D9%89%D9%84%D9%89 "لاتىن تىلى — ouïghour")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B2%D0%B0 "Латинська мова — ukrainien")
+  * [اردو](https://ur.wikipedia.org/wiki/%D9%84%D8%A7%D8%B7%DB%8C%D9%86%DB%8C_%D8%B2%D8%A8%D8%A7%D9%86 "لاطینی زبان — ourdou")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Lotin_tili "Lotin tili — ouzbek")
+  * [Vèneto](https://vec.wikipedia.org/wiki/%C5%81%C3%A9ngoa_latina "Łéngoa latina — vénitien")
+  * [Vepsän kel’](https://vep.wikipedia.org/wiki/Latinan_kel%27 "Latinan kel' — vepse")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Latinh "Tiếng Latinh — vietnamien")
+  * [West-Vlams](https://vls.wikipedia.org/wiki/Latyn "Latyn — flamand occidental")
+  * [Volapük](https://vo.wikipedia.org/wiki/Lat%C3%A4nap%C3%BCk "Latänapük — volapük")
+  * [Walon](https://wa.wikipedia.org/wiki/Lat%C3%A9n "Latén — wallon")
+  * [Winaray](https://war.wikipedia.org/wiki/Linatin "Linatin — waray")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E6%8B%89%E4%B8%81%E6%96%87 "拉丁文 — wu")
+  * [Хальмг](https://xal.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD_%D0%BA%D0%B5%D0%BB%D0%BD "Латин келн — kalmouk")
+  * [მარგალური](https://xmf.wikipedia.org/wiki/%E1%83%9A%E1%83%90%E1%83%97%E1%83%98%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%9C%E1%83%98%E1%83%9C%E1%83%90 "ლათინური ნინა — mingrélien")
+  * [ייִדיש](https://yi.wikipedia.org/wiki/%D7%9C%D7%90%D7%98%D7%99%D7%99%D7%9F "לאטיין — yiddish")
+  * [Yorùbá](https://yo.wikipedia.org/wiki/%C3%88d%C3%A8_L%C3%A1t%C3%ACn%C3%AC "Èdè Látìnì — yoruba")
+  * [Zeêuws](https://zea.wikipedia.org/wiki/Latijn "Latijn — zélandais")
+  * [中文](https://zh.wikipedia.org/wiki/%E6%8B%89%E4%B8%81%E8%AF%AD "拉丁语 — chinois")
+  * [文言](https://zh-classical.wikipedia.org/wiki/%E6%8B%89%E4%B8%81%E8%AA%9E "拉丁語 — Classical Chinese")
+  * [Bân-lâm-gú](https://zh-min-nan.wikipedia.org/wiki/Latin-g%C3%AD "Latin-gí — Chinese \(Min Nan\)")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E6%8B%89%E4%B8%81%E6%96%87 "拉丁文 — Cantonese")
+  * [IsiZulu](https://zu.wikipedia.org/wiki/ILatin "ILatin — zoulou")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q397#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Latin "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Latin "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Latin "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Latin "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Latin)
+  * [Modifier](/w/index.php?title=Latin&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Latin&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Latin&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 23 septembre 2020 à 22:10.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Latin "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Latin&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[Ier]: 1ᵉʳ siècle
+  *[av. J.-C.]: avant Jésus-Christ
+  *[IIIe]: 3ᵉ siècle
+  *[Ve]: 5ᵉ siècle
+  *[XIe]: 11ᵉ siècle
+  *[XIIe]: 12ᵉ siècle
+  *[XIIIe]: 13ᵉ siècle
+  *[etc.]: et cetera
+  *[XVe]: 15ᵉ siècle
+  *[XIVe]: 14ᵉ siècle
+  *[XIXe]: 19ᵉ siècle
+  *[XXe]: 20ᵉ siècle
+  *[IIe]: 2ᵉ siècle
+  *[apr. J.-C.]: après Jésus-Christ
+  *[3e]: troisième
+  *[2e]: deuxième
+  *[1re]: Première
+  *[4e]: Quatrième
+  *[(en)]: Langue : anglais
+  *[p.]: pages
+  *[éd.]: édition
+  *[coll.]: collection
+  *[(it)]: Langue : italien
+  *[(de)]: Langue : allemand
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+  *[ Ier]: 1ᵉʳ siècle
+  *[II e]: 2ᵉ siècle
+  *[VIIIe]: 8ᵉ siècle
+  *[IX e]: 9ᵉ siècle
+  *[XV e]: 15ᵉ siècle
+  *[XVIe]: 16ᵉ siècle
+  *[XVII e]: 17ᵉ siècle
+  *[XX e]: 20ᵉ siècle
+  *[XXIe]: 21ᵉ siècle
+

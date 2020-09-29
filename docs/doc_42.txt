@@ -1,0 +1,1269 @@
+# Logique
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir
+plus sur les
+bandeaux.](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Aide:Bandeau "Si ce bandeau n'est plus pertinent,
+retirez-le. Cliquez ici pour en savoir plus sur les bandeaux.")
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2017-fr.wp-orange-
+source.svg/45px-2017-fr.wp-orange-source.svg.png)](/wiki/Fichier:2017-fr.wp-
+orange-source.svg)
+
+**Certaines informations figurant dans cet article ou cette section devraient
+être mieux reliées aux sources mentionnées dans les sections « Bibliographie
+», « Sources » ou « Liens externes »** (octobre 2019).
+
+Améliorez sa [vérifiabilité](/wiki/Wikip%C3%A9dia:V%C3%A9rifiabilit%C3%A9
+"Wikipédia:Vérifiabilité") en les [associant par des
+références](/wiki/Mod%C3%A8le:Sources_%C3%A0_lier/Explication "Modèle:Sources
+à lier/Explication") à l'aide d'[appels de notes](/wiki/Aide:Note
+"Aide:Note").
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Logique
+(homonymie)](/wiki/Logique_\(homonymie\) "Logique \(homonymie\)").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gregor_Reisch%2C_Margarita_Philosophica%2C_Typus_Logice.jpg/220px-
+Gregor_Reisch%2C_Margarita_Philosophica%2C_Typus_Logice.jpg)](/wiki/Fichier:Gregor_Reisch,_Margarita_Philosophica,_Typus_Logice.jpg)
+
+[](/wiki/Fichier:Gregor_Reisch,_Margarita_Philosophica,_Typus_Logice.jpg
+"Agrandir")
+
+[Gregor Reisch](/wiki/Gregor_Reisch "Gregor Reisch"), « La logique présente
+ses thèmes centraux », _[Margarita
+Philosophica](/w/index.php?title=Margarita_Philosophica&action=edit&redlink=1
+"Margarita Philosophica \(page inexistante\)")
+[(de)](https://de.wikipedia.org/wiki/Margarita_Philosophica "de:Margarita
+Philosophica")_, 1503/08 (?). Les deux chiens _veritas_ et _falsitas_ courent
+derrière le lièvre _problema_ , la logique se presse armée de son épée
+_syllogismus_. En bas à gauche se trouve [Parménide](/wiki/Parm%C3%A9nide
+"Parménide") dans une grotte, grâce auquel la logique aurait été introduite
+dans la philosophie.
+
+La **logique** , du [grec](/wiki/Grec_ancien "Grec ancien") [λογική /
+_logikê_](https://fr.wiktionary.org/wiki/%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE
+"wikt:λογική"), est un terme dérivé de [λόγος /
+_lógos_](https://fr.wiktionary.org/wiki/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82
+"wikt:λόγος") — signifiant à la fois « [raison](/wiki/Raison "Raison") », «
+[langage](/wiki/Langage "Langage") » et « [raisonnement](/wiki/Raisonnement
+"Raisonnement") » — est, dans une première approche, l'étude des règles
+formelles que doit respecter toute [argumentation](/wiki/Argumentation
+"Argumentation") correcte. Le terme aurait été utilisé pour la première fois
+par [Xénocrate](/wiki/X%C3%A9nocrate "Xénocrate")[1].
+
+Elle est depuis l'[Antiquité](/wiki/Antiquit%C3%A9 "Antiquité") l'une des
+grandes [disciplines](/wiki/Discipline_\(sp%C3%A9cialit%C3%A9\) "Discipline
+\(spécialité\)") de la [philosophie](/wiki/Philosophie "Philosophie"), avec
+l'[éthique](/wiki/%C3%89thique "Éthique") (philosophie morale) et la
+[physique](/wiki/Physique "Physique") (science de la nature). Au [Moyen
+Âge](/wiki/Moyen_%C3%82ge "Moyen Âge"), elle ne figure pas explicitement parmi
+les sept [arts libéraux](/wiki/Arts_lib%C3%A9raux "Arts libéraux") (
+_[trivium](/wiki/Trivium_\(%C3%A9ducation\) "Trivium \(éducation\)")_ :
+[grammaire](/wiki/Grammaire "Grammaire"), [dialectique](/wiki/Dialectique
+"Dialectique") et [rhétorique](/wiki/Rh%C3%A9torique "Rhétorique") ;
+_[quadrivium](/wiki/Quadrivium "Quadrivium")_ :
+[arithmétique](/wiki/Arithm%C3%A9tique "Arithmétique"),
+[géométrie](/wiki/G%C3%A9om%C3%A9trie "Géométrie"),
+[astronomie](/wiki/Astronomie "Astronomie") et [musique](/wiki/Musique
+"Musique")). En outre, on a assisté depuis le [XIXe
+siècle](/wiki/XIXe_si%C3%A8cle "XIXe siècle") ([George
+Boole](/wiki/George_Boole "George Boole"),
+[Jevons](/wiki/William_Stanley_Jevons "William Stanley Jevons")) au
+développement fulgurant d'une approche [mathématique](/wiki/Math%C3%A9matiques
+"Mathématiques") de la logique. Sa convergence opérée avec
+l'[informatique](/wiki/Informatique "Informatique") depuis la fin du [XXe
+siècle](/wiki/XXe_si%C3%A8cle "XXe siècle") lui a donné un regain de vitalité.
+Elle trouve depuis le [XXe siècle](/wiki/XXe_si%C3%A8cle "XXe siècle") de
+nombreuses applications en [ingénierie](/wiki/Ing%C3%A9nierie "Ingénierie"),
+en [linguistique](/wiki/Linguistique "Linguistique"), en [psychologie
+cognitive](/wiki/Psychologie_cognitive "Psychologie cognitive"), en
+[philosophie analytique](/wiki/Philosophie_analytique "Philosophie
+analytique") ou en [communication](/wiki/Communication "Communication"). La
+logique antique se décompose en [dialectique](/wiki/Dialectique
+"Dialectique"), [rhétorique](/wiki/Rh%C3%A9torique "Rhétorique").
+
+## Sommaire
+
+  * 1 Définition
+  * 2 Histoire
+    * 2.1 Antiquité
+    * 2.2 Ère contemporaine
+  * 3 Les différentes approches
+    * 3.1 Historique
+    * 3.2 Mathématique
+    * 3.3 Philosophique
+    * 3.4 Informatique
+  * 4 Grands domaines de la logique
+    * 4.1 Logique syllogistique
+    * 4.2 Logique propositionnelle
+    * 4.3 Calcul des prédicats
+    * 4.4 Logique modale
+    * 4.5 Logique philosophique
+  * 5 Notions élémentaires de logique formelle
+    * 5.1 Syntaxes
+    * 5.2 Quantification
+    * 5.3 Égalité
+  * 6 Logique non binaire
+  * 7 Bibliographie
+  * 8 Notes et références
+  * 9 Voir aussi
+    * 9.1 Articles connexes
+    * 9.2 Liens externes
+
+## Définition[[modifier](/w/index.php?title=Logique&veaction=edit&section=1
+"Modifier la section : Définition") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=1 "Modifier la section :
+Définition")]
+
+La logique est l’étude de l’[inférence](/wiki/Inf%C3%A9rence_\(logique\)
+"Inférence \(logique\)").
+
+## Histoire[[modifier](/w/index.php?title=Logique&veaction=edit&section=2
+"Modifier la section : Histoire") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=2 "Modifier la section :
+Histoire")]
+
+Article détaillé : [Histoire de la logique](/wiki/Histoire_de_la_logique
+"Histoire de la logique").
+
+### Antiquité[[modifier](/w/index.php?title=Logique&veaction=edit&section=3
+"Modifier la section : Antiquité") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=3 "Modifier la section :
+Antiquité")]
+
+La logique est à l'origine la recherche de règles générales et formelles
+permettant de distinguer un [raisonnement](/wiki/Raisonnement "Raisonnement")
+concluant de celui qui ne l'est pas. Elle trouve ses premiers tâtonnements
+dans les [mathématiques](/wiki/Math%C3%A9matiques "Mathématiques") et surtout
+dans la [géométrie](/wiki/G%C3%A9om%C3%A9trie "Géométrie") mais c'est
+principalement sous l'impulsion des
+[Mégariques](/wiki/%C3%89cole_m%C3%A9garique "École mégarique") et ensuite
+d'[Aristote](/wiki/Aristote "Aristote") qu'elle prit son envol.
+
+La logique a très tôt été utilisée contre elle-même, c'est-à-dire contre les
+conditions mêmes du discours : le [sophiste](/wiki/Sophisme "Sophisme")
+[Gorgias](/wiki/Gorgias "Gorgias") l'utilise dans son _[Traité du non-
+être](/w/index.php?title=Trait%C3%A9_du_non-%C3%AAtre&action=edit&redlink=1
+"Traité du non-être \(page inexistante\)")_ [2] afin de prouver qu'il n'y a
+pas d'[ontologie](/wiki/Ontologie_\(philosophie\) "Ontologie \(philosophie\)")
+possible : « ce n'est pas l'être qui est l'objet de nos pensées » : la
+[vérité](/wiki/V%C3%A9rit%C3%A9 "Vérité") matérielle de la logique est ainsi
+ruinée. Le langage acquiert ainsi sa propre loi, celle de la logique,
+indépendante de la réalité. Mais les sophistes ont été écartés de l'[histoire
+de la philosophie](/wiki/Histoire_de_la_philosophie_\(discipline\) "Histoire
+de la philosophie \(discipline\)") ( _sophiste_ a pris un sens péjoratif), si
+bien que la logique, dans la compréhension qu'on en a eu par exemple au [Moyen
+Âge](/wiki/Moyen_%C3%82ge "Moyen Âge"), est restée soumise à la pensée de
+l'[être](/wiki/%C3%8Atre "Être").
+
+### Ère
+contemporaine[[modifier](/w/index.php?title=Logique&veaction=edit&section=4
+"Modifier la section : Ère contemporaine") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=4 "Modifier la section :
+Ère contemporaine")]
+
+Au [XVIIe siècle](/wiki/XVIIe_si%C3%A8cle "XVIIe siècle"), le philosophe
+[Gottfried Wilhelm Leibniz](/wiki/Leibniz "Leibniz") réalise des recherches
+fondamentales en logique qui révolutionnent profondément la logique
+aristotélicienne. Il se réclame constamment de la tradition des
+[syllogismes](/wiki/Syllogisme "Syllogisme") d'[Aristote](/wiki/Aristote
+"Aristote")[3] et tente de l'intégrer à son propre système[4]. Il est le
+premier à imaginer et à développer une logique entièrement formelle.
+
+[Emmanuel Kant](/wiki/Emmanuel_Kant "Emmanuel Kant"), quant à lui, définit la
+logique comme « une science qui expose dans le détail et démontre avec rigueur
+les règles formelles de toute pensée »[5]. Les six œuvres
+d’[Aristote](/wiki/Aristote "Aristote") regroupées sous le titre d’
+_[Organon](/wiki/Organon "Organon")_ , où figurent notamment les
+_[Catégories](/wiki/Cat%C3%A9gories "Catégories")_ et l'étude du
+[syllogisme](/wiki/Syllogisme "Syllogisme"), furent longtemps considérées
+comme la référence sur ce sujet.
+
+En 1847 est publié le livre de [George Boole](/wiki/George_Boole "George
+Boole"), intitulé _Mathematical Analysis of Logic_ [6], puis _[An
+Investigation Into the Laws of Thought, on Which are Founded the Mathematical
+Theories of Logic and Probabilities](/wiki/Les_Lois_de_la_pens%C3%A9e "Les
+Lois de la pensée")_ [7]. [Boole](/wiki/George_Boole "George Boole") y
+développe une nouvelle forme de logique, à la fois symbolique et mathématique.
+Son but est de traduire des [idées](/wiki/Id%C3%A9e "Idée") et des
+[concepts](/wiki/M%C3%A9taphysique "Métaphysique") en
+[expressions](/wiki/Alg%C3%A8bre "Algèbre") et [équations](/wiki/%C3%89quation
+"Équation"), de leur appliquer certains calculs et de traduire le résultat en
+termes logiques, marquant ainsi le début de la logique moderne, fondée sur une
+approche [algébrique](/wiki/Alg%C3%A8bre "Algèbre") et
+[sémantique](/wiki/S%C3%A9mantique "Sémantique"), que l'on a appelée plus tard
+[algèbre de Boole](/wiki/Alg%C3%A8bre_de_Boole_\(logique\) "Algèbre de Boole
+\(logique\)") en son honneur.
+
+## Les différentes
+approches[[modifier](/w/index.php?title=Logique&veaction=edit&section=5
+"Modifier la section : Les différentes approches") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=5 "Modifier la section :
+Les différentes approches")]
+
+De manière très générale, il existe quatre approches de la logique :
+
+### Historique[[modifier](/w/index.php?title=Logique&veaction=edit&section=6
+"Modifier la section : Historique") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=6 "Modifier la section :
+Historique")]
+
+    Cette première approche met l'accent sur l’évolution et le développement de la logique, en insistant tout particulièrement sur la [syllogistique](/wiki/Syllogisme "Syllogisme") [aristotélicienne](/wiki/Aristote "Aristote") et les tentatives, depuis [Leibniz](/wiki/Leibniz "Leibniz"), de faire de la logique un véritable [calcul algorithmique](/wiki/Algorithmique "Algorithmique"). Cette approche historique est tout particulièrement intéressante pour la [philosophie](/wiki/Philosophie "Philosophie") car aussi bien [Aristote](/wiki/Aristote "Aristote"), les [Stoïciens](/wiki/Sto%C3%AFciens "Stoïciens") ou [Leibniz](/wiki/Leibniz "Leibniz") ont travaillé comme philosophes et comme logiciens, tout au long de l'[histoire de la logique](/wiki/Histoire_de_la_logique "Histoire de la logique").
+
+### Mathématique[[modifier](/w/index.php?title=Logique&veaction=edit&section=7
+"Modifier la section : Mathématique") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=7 "Modifier la section :
+Mathématique")]
+
+    La [logique mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique") contemporaine est liée aux [mathématiques](/wiki/Math%C3%A9matiques "Mathématiques"), à l’[informatique](/wiki/Informatique "Informatique") et à l'[ingénierie](/wiki/Ing%C3%A9nierie "Ingénierie"). L’approche mathématique a une position qui est un peu particulière d'un point de vue [épistémologique](/wiki/%C3%89pist%C3%A9mologie "Épistémologie"), puisqu'elle est à la fois un outil de définition des [mathématiques](/wiki/Math%C3%A9matiques "Mathématiques"), et une branche de ces mêmes mathématiques, donc un objet.
+
+###
+Philosophique[[modifier](/w/index.php?title=Logique&veaction=edit&section=8
+"Modifier la section : Philosophique") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=8 "Modifier la section :
+Philosophique")]
+
+    La [philosophie](/wiki/Philosophie "Philosophie"), et surtout la [philosophie analytique](/wiki/Philosophie_analytique "Philosophie analytique") qui étudie essentiellement le [langage](/wiki/Langage "Langage") [propositionnel](/wiki/Calcul_des_propositions "Calcul des propositions"), reposent sur un outillage d’analyse et argumentatif provenant, d'une part des développements logiques réalisés au cours de l'histoire de la philosophie et, d'autre part, des développements récents de la logique mathématique. Par ailleurs, la philosophie et surtout la [philosophie de la logique](/wiki/Philosophie_de_la_logique "Philosophie de la logique") se donnent pour tâche d’éclairer les [concepts fondamentaux](/wiki/%C3%89pist%C3%A9mologie_de_la_logique "Épistémologie de la logique") et les méthodes de la logique.
+
+### Informatique[[modifier](/w/index.php?title=Logique&veaction=edit&section=9
+"Modifier la section : Informatique") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=9 "Modifier la section :
+Informatique")]
+
+    L'approche informatique étudie l'[automatisation des calculs](/wiki/Logiciel_de_calcul_formel "Logiciel de calcul formel") et des démonstrations, les [fondements théoriques](/wiki/Informatique_th%C3%A9orique "Informatique théorique") de la conception des systèmes, la [programmation](/wiki/Programmation_informatique "Programmation informatique") et l'[intelligence artificielle](/wiki/Intelligence_artificielle "Intelligence artificielle")[8]. L'approche informatique est aujourd'hui cruciale car, en essayant de [mécaniser les raisonnements](/wiki/Assistant_de_preuve "Assistant de preuve"), voire de les automatiser, la logique et les mathématiques vivent une véritable révolution depuis la fin du XXe siècle. Et notamment suite à l'exploitation de la [correspondance preuve-programme](/wiki/Correspondance_de_Curry-Howard "Correspondance de Curry-Howard"). Les conséquences [épistémologiques](/wiki/%C3%89pist%C3%A9mologie "Épistémologie") de ces développements sont encore largement insoupçonnées[9].
+
+## Grands domaines de la
+logique[[modifier](/w/index.php?title=Logique&veaction=edit&section=10
+"Modifier la section : Grands domaines de la logique") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=10 "Modifier la section :
+Grands domaines de la logique")]
+
+### Logique
+syllogistique[[modifier](/w/index.php?title=Logique&veaction=edit&section=11
+"Modifier la section : Logique syllogistique") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=11 "Modifier la section :
+Logique syllogistique")]
+
+Articles détaillés : [Logique traditionnelle](/wiki/Logique_traditionnelle
+"Logique traditionnelle"), [Syllogisme](/wiki/Syllogisme "Syllogisme") et
+[Aristote](/wiki/Aristote "Aristote").
+
+L' _[Organon](/wiki/Organon "Organon")_ est le principal ouvrage de logique
+d'[Aristote](/wiki/Aristote "Aristote"), comprenant notamment les _[Premiers
+Analytiques](/wiki/Premiers_Analytiques "Premiers Analytiques")_ ; il
+constitue le premier travail explicite de [logique
+formelle](/wiki/Logique_formelle "Logique formelle"), avec notamment
+l'introduction de la [syllogistique](/wiki/Syllogisme "Syllogisme")[10].
+
+Les travaux d'Aristote  sont considérés en Europe et au Moyen-Orient à
+l'époque classique, médiévale comme l'image même d'un système entièrement
+élaboré[[réf. nécessaire]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire
+"Aide:Référence nécessaire"). Cependant, Aristote n'a pas été le seul, ni le
+premier : les [stoïciens](/wiki/Sto%C3%AFcisme "Stoïcisme") ont proposé un
+système de [logique propositionnelle](/wiki/Calcul_des_propositions "Calcul
+des propositions") qui a été étudiée par les logiciens médiévaux. En outre, le
+[problème de généralité
+multiple](/wiki/Probl%C3%A8me_de_g%C3%A9n%C3%A9ralit%C3%A9_multiple "Problème
+de généralité multiple") a été reconnu à l'[époque
+médiévale](/wiki/Moyen_%C3%82ge "Moyen Âge").
+
+### Logique
+propositionnelle[[modifier](/w/index.php?title=Logique&veaction=edit&section=12
+"Modifier la section : Logique propositionnelle") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=12 "Modifier la section :
+Logique propositionnelle")]
+
+Article détaillé : [Calcul des propositions](/wiki/Calcul_des_propositions
+"Calcul des propositions").
+
+Le calcul des propositions est un [système formel](/wiki/Syst%C3%A8me_formel
+"Système formel") dans lequel les formules représentent des propositions qui
+peuvent être formées en combinant les [propositions
+atomiques](/wiki/Atomisme_logique "Atomisme logique")[11] et en utilisant les
+[connecteurs logiques](/wiki/Connecteur_logique "Connecteur logique"), et dans
+lequel un système de règles de [démonstration
+formelle](/wiki/D%C3%A9monstration_formelle "Démonstration formelle") établit
+certains «[théorèmes](/wiki/Th%C3%A9or%C3%A8me "Théorème")».
+
+### Calcul des
+prédicats[[modifier](/w/index.php?title=Logique&veaction=edit&section=13
+"Modifier la section : Calcul des prédicats") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=13 "Modifier la section :
+Calcul des prédicats")]
+
+Article détaillé : [Calcul des prédicats](/wiki/Calcul_des_pr%C3%A9dicats
+"Calcul des prédicats").
+
+[![Le Begriffschrift de Gottlob Frege a introduit la notion de quantificateurs
+dans une notation
+logique.](//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BS-12-Begriffsschrift_Quantifier1-svg.svg/220px-
+BS-12-Begriffsschrift_Quantifier1-svg.svg.png)](/wiki/Fichier:BS-12-Begriffsschrift_Quantifier1-svg.svg)
+
+[](/wiki/Fichier:BS-12-Begriffsschrift_Quantifier1-svg.svg "Agrandir")
+
+Le _[Begriffschrift](/wiki/Id%C3%A9ographie "Idéographie")_ de [Gottlob
+Frege](/wiki/Gottlob_Frege "Gottlob Frege") a introduit la notion de
+[quantificateurs](/wiki/Quantificateur_\(logique\) "Quantificateur
+\(logique\)") dans une notation logique, qui représente ici la formule  ∀ x .
+F ( x ) {\displaystyle \forall x.F(x)} ![{\\displaystyle \\forall
+x.F\(x\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ba23799cf40a6e9b0a427c429dc89fbb8a74bfee),qui
+est vrai.
+
+Un calcul des prédicats est un [système formel](/wiki/Syst%C3%A8me_formel
+"Système formel"), qui peut être soit la [logique du premier
+ordre](/wiki/Logique_du_premier_ordre "Logique du premier ordre"), soit la
+[logique du second ordre](/wiki/Logique_d%27ordre_sup%C3%A9rieur "Logique
+d'ordre supérieur"), soit la [logique d'ordre
+supérieur](/wiki/Logique_d%27ordre_sup%C3%A9rieur "Logique d'ordre
+supérieur"), soit la [logique infinitaire](/wiki/Logique_infinitaire "Logique
+infinitaire"). Il exprime par la
+[quantification](/wiki/Quantificateur_\(logique\) "Quantificateur
+\(logique\)") un large échantillon de propositions du [langage
+naturel](/wiki/Langage_naturel "Langage naturel"). Par exemple, le [paradoxe
+du barbier](/wiki/Paradoxe_du_barbier "Paradoxe du barbier") de [Bertrand
+Russell](/wiki/Bertrand_Russell "Bertrand Russell"), «il y a un homme qui rase
+tous les hommes, qui ne se rasent pas » peut être formalisé par la
+[formule](/wiki/Calcul_des_pr%C3%A9dicats#Syntaxe "Calcul des prédicats") : (
+∃ x ) ( homme ( x ) ∧ ( ∀ y ) ( homme ( y ) -> ( rase ( x , y ) ↔ ¬ rase ( y ,
+y ) ) ) ) {\displaystyle (\exists x)({\text{homme}}(x)\wedge (\forall
+y)({\text{homme}}(y)\rightarrow ({\text{rase}}(x,y)\leftrightarrow \neg
+{\text{rase}}(y,y))))} ![{\\displaystyle \(\\exists
+x\)\({\\text{homme}}\(x\)\\wedge \(\\forall
+y\)\({\\text{homme}}\(y\)\\rightarrow \({\\text{rase}}\(x,y\)\\leftrightarrow
+\\neg
+{\\text{rase}}\(y,y\)\)\)\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a1db27afbc5132420b86a9ccc3f0a5b012a18de0)
+en utilisant le prédicat  homme ( x ) {\displaystyle {\text{homme}}(x)}
+![{\\displaystyle
+{\\text{homme}}\(x\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/70513eeb148320555d9e73bad18b149bc7cd5a2d)
+pour indiquer que  x {\displaystyle x}
+![x](https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4)
+est un homme, la [relation binaire](/wiki/Relation_binaire "Relation binaire")
+rase ( x , y ) {\displaystyle {\text{rase}}(x,y)} ![{\\displaystyle
+{\\text{rase}}\(x,y\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8a4945803b35d41d31ee57e4b0a50668e2a31c39)
+pour indiquer que  y {\displaystyle y}
+![y](https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d)
+est rasé par  x {\displaystyle x}
+![x](https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4)
+et d'autres symboles pour exprimer la
+[quantification](/wiki/Quantificateur_\(logique\) "Quantificateur
+\(logique\)"), la [conjonction](/wiki/Conjonction_logique "Conjonction
+logique"), l'[implication](/wiki/Implication_\(logique\) "Implication
+\(logique\)"), la [négation](/wiki/N%C3%A9gation_logique "Négation logique"),
+et l'[équivalence](/wiki/%C3%89quivalence_logique "Équivalence logique").
+
+### Logique
+modale[[modifier](/w/index.php?title=Logique&veaction=edit&section=14
+"Modifier la section : Logique modale") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=14 "Modifier la section :
+Logique modale")]
+
+Article détaillé : [Logique modale](/wiki/Logique_modale "Logique modale").
+
+Dans le langage naturel, une
+[modalité](/wiki/Modalit%C3%A9_\(linguistique_et_logique\) "Modalité
+\(linguistique et logique\)") est une [flexion](/wiki/Flexion_\(linguistique\)
+"Flexion \(linguistique\)") ou un ajout pour modifier la
+[sémantique](/wiki/S%C3%A9mantique "Sémantique") d'une
+[proposition](/wiki/Proposition_\(grammaire\) "Proposition \(grammaire\)").
+
+Par exemple, la proposition « Nous allons aux jeux » peut être modifiée pour
+donner « Nous devrions aller aux jeux », ou « Nous pouvons aller aux jeux » ou
+« Nous irons aux jeux » ou « Il faut que nous allions aux jeux ».
+
+Plus abstraitement, la modalité affecte le cadre dans lequel une affirmation
+est satisfaite.
+
+En [logique formelle](/wiki/Logique_formelle "Logique formelle"), une logique
+modale est une logique étendue par l'adjonction
+d'[opérateurs](/wiki/Morphologie_math%C3%A9matique "Morphologie
+mathématique"), qui sont appliqués aux propositions pour en modifier le sens.
+
+### Logique
+philosophique[[modifier](/w/index.php?title=Logique&veaction=edit&section=15
+"Modifier la section : Logique philosophique") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=15 "Modifier la section :
+Logique philosophique")]
+
+La [logique philosophique](/wiki/Logique_philosophique "Logique
+philosophique") traite des descriptions formelles du [langage
+naturel](/wiki/Langage_naturel "Langage naturel"). Ces
+[philosophes](/wiki/Philosophe "Philosophe") considèrent que l'essentiel du
+[raisonnement](/wiki/Raisonnement "Raisonnement") quotidien peut être
+transcrit en logique, si une ou des méthode(s) parvient (parviennent) à
+traduire le langage ordinaire dans cette logique. La logique philosophique est
+essentiellement une extension de la logique traditionnelle antérieure à la
+[logique mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique")
+et s'intéresse à la connexion entre le langage naturel et la logique.
+
+Par conséquent, les logiciens philosophiques ont grandement contribué au
+développement des logiques non-standard (par exemple, les [logiques
+libres](/w/index.php?title=Logiques_libres&action=edit&redlink=1 "Logiques
+libres \(page inexistante\)"), les [logiques
+temporelles](/wiki/Logique_temporelle "Logique temporelle")) ainsi qu'aux
+diverses extensions de la logique (par exemple les [logiques
+modales](/wiki/Logique_modale "Logique modale")) et à la sémantique de ces
+logiques (par exemple, le
+[supervaluationisme](/w/index.php?title=Supervaluationisme&action=edit&redlink=1
+"Supervaluationisme \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/supervaluationism "en:supervaluationism")
+de [Kripke](/wiki/Saul_Kripke "Saul Kripke") dans la sémantique de la
+logique).
+
+## Notions élémentaires de logique
+formelle[[modifier](/w/index.php?title=Logique&veaction=edit&section=16
+"Modifier la section : Notions élémentaires de logique formelle") | [modifier
+le code](/w/index.php?title=Logique&action=edit&section=16 "Modifier la
+section : Notions élémentaires de logique formelle")]
+
+Un [langage](/wiki/Langage "Langage") logique est défini par une
+[syntaxe](/wiki/Syntaxe "Syntaxe"), c'est-à-dire un système de
+[symboles](/wiki/Symbole "Symbole") et de règles pour les combiner sous formes
+de [formules](/wiki/Formule "Formule"). De plus, une
+[sémantique](/wiki/S%C3%A9mantique "Sémantique") est associée au langage. Elle
+permet de l'interpréter, c'est-à-dire d'attacher à ces formules ainsi qu'aux
+symboles une signification. Un système de déduction permet de raisonner en
+construisant des démonstrations.
+
+La logique comprend classiquement :
+
+  * la logique des [propositions](/wiki/Proposition_\(math%C3%A9matiques\) "Proposition \(mathématiques\)") (aussi appelée [calcul des propositions](/wiki/Calcul_des_propositions "Calcul des propositions")),
+  * la logique des [prédicats](/wiki/Pr%C3%A9dicat_\(logique_math%C3%A9matique\) "Prédicat \(logique mathématique\)"), qui contient des notations pour des entités avec des quantifications sur ces entités
+
+Auxquelles s'ajoute :
+
+  * la [logique combinatoire](/wiki/Logique_combinatoire "Logique combinatoire") basée sur les notions de fonction et d'application, en lien avec le [lambda-calcul](/wiki/Lambda-calcul "Lambda-calcul") et la [logique intuitionniste](/wiki/Logique_intuitionniste "Logique intuitionniste").
+
+### Syntaxes[[modifier](/w/index.php?title=Logique&veaction=edit&section=17
+"Modifier la section : Syntaxes") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=17 "Modifier la section :
+Syntaxes")]
+
+La [syntaxe](/wiki/Syntaxe "Syntaxe") de la logique des propositions est
+fondée sur des variables de propositions appelées également
+[atomes](/wiki/Atome "Atome") que nous notons avec des lettres minuscules (p,
+q, r, s, etc.) Ces symboles représentent des propositions sur lesquelles on ne
+porte pas de jugement vis-à-vis de leur vérité : elles peuvent être soit
+vraies, soit fausses, mais on peut aussi ne rien vouloir dire sur leur statut.
+Ces variables sont combinées au moyen de [connecteurs
+logiques](/wiki/Connecteur_logique_\(linguistique\) "Connecteur logique
+\(linguistique\)") qui sont, par exemple :
+
+  1. Le connecteur binaire [disjonctif](/wiki/Disjonction_logique "Disjonction logique") (ou), de symbole : ∨ ;
+  2. Le connecteur binaire [conjonctif](/wiki/Conjonction_logique "Conjonction logique") (et), de symbole : ∧ ;
+  3. Le connecteur binaire de l'[implication](/wiki/Implication_\(logique\) "Implication \(logique\)"), de symbole : → ;
+  4. Le connecteur unaire ou monadique de la [négation](/wiki/N%C3%A9gation_logique "Négation logique") (non), de symbole : ¬.
+
+Ces variables forment alors des formules complexes.
+
+La syntaxe de la [logique du deuxième
+ordre](/wiki/Logique_d%27ordre_sup%C3%A9rieur "Logique d'ordre supérieur"),
+contrairement à celle du [premier ordre](/wiki/Calcul_des_pr%C3%A9dicats
+"Calcul des prédicats"), considère :
+
+  * les termes : représentant les objets étudiés,
+  * les formules : propriétés de ces objets étudiés.
+
+Dans la suite nous noterons V l'ensemble des variables (x, y, z...), F
+l'ensemble des symboles de fonctions (f, g...) et P l'ensemble des symboles de
+prédicats (P, Q...).  On dispose également d'une application dite
+d'[arité](/wiki/Arit%C3%A9 "Arité") _m_[[pas
+clair]](/wiki/Wikip%C3%A9dia:Style_encyclop%C3%A9dique#Clair "Wikipédia:Style
+encyclopédique"). La signification des formules fait l'objet de la sémantique
+et diffère selon le langage envisagé.
+
+En logique traditionnelle (appelée aussi [logique
+classique](/wiki/Logique_classique "Logique classique") ou logique du « tiers
+exclus »), une formule est soit vraie, soit fausse. Plus formellement,
+l'ensemble des valeurs de vérité est un ensemble B de deux
+[booléens](/wiki/Alg%C3%A8bre_de_Boole_\(logique\) "Algèbre de Boole
+\(logique\)") : le vrai et le faux. La signification des connecteurs est
+définie à l'aide de fonctions de booléens vers des booléens. Ces fonctions
+peuvent être représentées sous la forme de [table de
+vérité](/wiki/Table_de_v%C3%A9rit%C3%A9 "Table de vérité").
+
+La signification d'une formule dépend donc de la valeur de vérité de ses
+variables. On parle d'interprétation ou d'affectation. Toutefois, il est
+difficile, au sens de la complexité [algorithmique](/wiki/Algorithmique
+"Algorithmique"), d'utiliser la sémantique pour
+[décider](/wiki/D%C3%A9cidabilit%C3%A9 "Décidabilité") si une formule est
+satisfaisante (ou non) voire valide (ou non). Il faudrait pour cela pouvoir
+[énumérer toutes les interprétations](/wiki/V%C3%A9rification_de_mod%C3%A8les
+"Vérification de modèles") qui sont
+[exponentielles](/wiki/Fonction_exponentielle "Fonction exponentielle") en
+nombre.
+
+Une alternative à la sémantique consiste à examiner les preuves bien formées
+et à considérer leurs conclusions. Cela se fait dans un [système de
+déduction](/wiki/Th%C3%A9orie_de_la_d%C3%A9monstration "Théorie de la
+démonstration"). Un système de déduction est un couple (A, R), où A est un
+ensemble de formules appelées [axiomes](/wiki/Axiome "Axiome") et R un
+ensemble de règles d'[inférence](/wiki/Inf%C3%A9rence_\(logique\) "Inférence
+\(logique\)"), c'est-à-dire de relations entre des ensembles de formules (les
+prémisses) et des formules (la conclusion).
+
+On appelle [dérivation](/wiki/Style_de_Fitch_pour_la_d%C3%A9duction_naturelle
+"Style de Fitch pour la déduction naturelle") à partir d'un ensemble donné
+d'[hypothèses](/wiki/Hypoth%C3%A8se "Hypothèse") une suite non vide de
+formules qui sont : soit des [axiomes](/wiki/Axiome "Axiome"), soit des
+formules déduites des formules précédentes de la suite. Une démonstration
+d'une formule ϕ à partir d'un ensemble de formules Γ est une dérivation à
+partir de Γ dont la dernière formule est ϕ.
+
+###
+Quantification[[modifier](/w/index.php?title=Logique&veaction=edit&section=18
+"Modifier la section : Quantification") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=18 "Modifier la section :
+Quantification")]
+
+Article détaillé : [Calcul des prédicats](/wiki/Calcul_des_pr%C3%A9dicats
+"Calcul des prédicats").
+
+On introduit essentiellement deux
+[quantificateurs](/wiki/Quantificateur_\(logique\) "Quantificateur
+\(logique\)") dans la logique moderne :
+
+  * ∃ : il existe au moins un, appelé « [quantificateur existentiel](/wiki/Quantification_existentielle "Quantification existentielle") » ;
+  * ∀ : pour tout, appelé « [quantificateur universel](/wiki/Quantificateur_\(logique\) "Quantificateur \(logique\)") ».
+
+Grâce à la négation, les quantificateurs existentiels et universels jouent des
+rôles duaux et donc, en [logique classique](/wiki/Logique_classique "Logique
+classique"), on peut fonder le [calcul des
+prédicats](/wiki/Calcul_des_pr%C3%A9dicats "Calcul des prédicats") sur un seul
+quantificateur.
+
+### Égalité[[modifier](/w/index.php?title=Logique&veaction=edit&section=19
+"Modifier la section : Égalité") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=19 "Modifier la section :
+Égalité")]
+
+Un prédicat binaire, que l'on appelle _égalité_ , énonce le fait que deux
+termes sont égaux quand ils représentent le même objet. Il est géré par des
+axiomes ou schémas d'axiomes spécifiques. Cependant parmi les prédicats
+binaires c'est un prédicat très particulier, dont l'interprétation usuelle
+n'est pas seulement contrainte par ses propriétés énoncées par les axiomes :
+en particulier il n'y a usuellement qu'un prédicat d'égalité possible par
+modèle, celui qui correspond à l'interprétation attendue (l'identité). Son
+adjonction à la théorie préserve certaines bonnes propriétés comme le
+[théorème de complétude](/wiki/Th%C3%A9or%C3%A8me_de_compl%C3%A9tude "Théorème
+de complétude") du calcul des prédicats classique. On considère donc très
+souvent que l'égalité fait partie de la logique de base et l'on étudie alors
+le _calcul des prédicats égalitaire_.
+
+Dans une théorie qui contient l'égalité, un quantificateur, qui peut être
+défini à partir des quantificateurs précédents et de l'égalité, est souvent
+introduit :
+
+  * ∃! (il existe un et un seul).
+
+D'autres quantificateurs peuvent être introduits en calcul des prédicats
+égalitaires (il existe au plus un objet vérifiant telle propriété, il existe
+deux objets...), mais des quantificateurs utiles en mathématiques, comme « il
+existe une infinité... » ou « il existe un nombre fini... » ne peuvent s'y
+représenter et nécessitent d'autres axiomes (comme ceux de la [théorie des
+ensembles](/wiki/Th%C3%A9orie_des_ensembles "Théorie des ensembles")).
+
+## Logique non
+binaire[[modifier](/w/index.php?title=Logique&veaction=edit&section=20
+"Modifier la section : Logique non binaire") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=20 "Modifier la section :
+Logique non binaire")]
+
+Il a fallu attendre le début du [XXe siècle](/wiki/XXe_si%C3%A8cle "XXe
+siècle") pour que le [principe de bivalence](/wiki/Principe_de_bivalence
+"Principe de bivalence") soit clairement remis en question de plusieurs façons
+différentes :
+
+  * La première façon considère des logiques trivalentes qui ajoutent une valeur indéterminée, elles sont dues à [Stephen Cole Kleene](/wiki/Stephen_Cole_Kleene "Stephen Cole Kleene"), [Jan Łukasiewicz](/wiki/Jan_%C5%81ukasiewicz "Jan Łukasiewicz") et [Bochvar](/w/index.php?title=Bochvar&action=edit&redlink=1 "Bochvar \(page inexistante\)") et se généralisent en [logiques polyvalentes](/wiki/Logique_polyvalente "Logique polyvalente").
+  * La deuxième façon insiste sur le _[démontrable](/wiki/Th%C3%A9orie_de_la_d%C3%A9monstration "Théorie de la démonstration")_. Il y a donc ce qui est démontrable et le reste. Dans ce « reste », il peut y avoir des propositions _réfutables_ , c'est-à-dire dont la négation est démontrable et des propositions au statut incertain, ni démontrable, ni réfutable. Cette approche, due en particulier à [Gödel](/wiki/Kurt_G%C3%B6del "Kurt Gödel"), est tout à fait compatible avec la logique classique bivalente, et on peut même dire que l'un des apports de la logique du [XXe siècle](/wiki/XXe_si%C3%A8cle "XXe siècle") est d'avoir analysé clairement la différence entre la démontrabilité et la validité, qui, elle, repose sur une interprétation en termes de valeurs de vérité. Mais la [logique intuitionniste](/wiki/Logique_intuitionniste "Logique intuitionniste") se fonde elle sur une interprétation des démonstrations, la sémantique de [Heyting](/wiki/Arend_Heyting "Arend Heyting") — ainsi une preuve de l'implication s'interprète par une fonction qui à une preuve de l'hypothèse associe une preuve de la conclusion, plutôt que sur une interprétation des énoncés par des valeurs de vérité. On a pu cependant après coup donner des sémantiques qui interprètent les énoncés, comme celle de Beth, ou celle de Kripke dans laquelle le concept de base est celui de _monde possible_. La logique intuitionniste est également utilisée pour analyser le caractère constructif des démonstrations en logique classique. La [logique linéaire](/wiki/Logique_lin%C3%A9aire "Logique linéaire") va encore plus loin dans l'analyse des démonstrations.
+  * La troisième façon est due à [Lotfi Zadeh](/wiki/Lotfi_Zadeh "Lotfi Zadeh") qui élabore une [logique floue](/wiki/Logique_floue "Logique floue") ( _fuzzy logic_ ), dans laquelle une proposition est vraie selon un certain degré de probabilité (degré auquel on assigne lui-même un degré de probabilité). Voir aussi l'article sur la [théorie de la complexité algorithmique](/wiki/Th%C3%A9orie_de_la_complexit%C3%A9_algorithmique "Théorie de la complexité algorithmique").
+  * La quatrième façon, est celle de la [logique modale](/wiki/Logique_modale "Logique modale") qui par exemple atténue (possible) ou renforce (nécessaire) des propositions. Si [Aristote](/wiki/Aristote "Aristote") s'intéresse déjà aux modalités, le [XXe siècle](/wiki/XXe_si%C3%A8cle "XXe siècle"), sous l'impulsion initiale de [Clarence Irving Lewis](/wiki/Clarence_Irving_Lewis "Clarence Irving Lewis"), apporte une étude plus approfondie de celles-ci, et [Saul Aaron Kripke](/wiki/Saul_Kripke "Saul Kripke") donne une [interprétation](/wiki/S%C3%A9mantique_de_Kripke "Sémantique de Kripke") des énoncés des logiques modales utilisant des mondes possibles.
+
+##
+Bibliographie[[modifier](/w/index.php?title=Logique&veaction=edit&section=21
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=21 "Modifier la section :
+Bibliographie")]
+
+Article détaillé : [Bibliographie de logique et de philosophie du
+langage](/wiki/Bibliographie_de_logique_et_de_philosophie_du_langage
+"Bibliographie de logique et de philosophie du langage").
+
+  * _Image de Platon et lectures de ses œuvres_ , de [Jacques Follon](/wiki/Jacques_Follon "Jacques Follon"), [Éditions Peeters](/wiki/Peeters_Publishers "Peeters Publishers") ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-87723-305-7](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-87723-305-7 "Spécial:Ouvrages de référence/2-87723-305-7")) (1997)
+  * Jean-Pierre Belna, _Histoire de la logique_ , [2005](/wiki/2005 "2005")
+  * [Robert Blanché](/wiki/Robert_Blanch%C3%A9 "Robert Blanché") et Jacques Dubucs, _La logique et son histoire : d'[Aristote](/wiki/Aristote "Aristote") à [Russell](/wiki/Bertrand_Russell "Bertrand Russell")_, [Paris](/wiki/Paris "Paris"), Armand Colin, 1996
+  * François Chenique, _Éléments de Logique Classique_ , Paris, L'Harmattan, 2006
+  * Bruno Couillaud, _Traité de Logique - analytique, dialectique, rhétorique, sophistique_ , 2e éd., De Guibert, 2007
+  * [Pascal Engel](/wiki/Pascal_Engel "Pascal Engel"), _La Norme du vrai, philosophie de la logique_ , Paris, Gallimard, 1989
+  * (en) Michael R. Genesereth et Nils J. Nilsson, Logical Foundations of Artificial Intelligence, Morgan Kaufmann, 1987 [[détail de l’édition](/wiki/R%C3%A9f%C3%A9rence:Logical_Foundations_of_Artificial_Intelligence "Référence:Logical Foundations of Artificial Intelligence")]
+  * [Paul Gochet](/wiki/Paul_Gochet "Paul Gochet") et Pascal Gribomont, _Logique. Vol. 1 : méthodes pour l'informatique fondamentale_, Paris, Hermès, 1990
+  * Paul Gochet et Pascal Gribomont, _Logique. Vol. 2: méthode formelle pour l'étude des programmes_ , Paris, Hermès, 1994
+  * Paul Gochet, Pascal Gribomont et André Thayse, _Logique. Vol. 3: méthodes pour l'intelligence artificielle_ , Paris, Hermès, 2000
+  * (en) William Kneale & Martha Kneale, _The development of logic_ , Oxford, Clarendon Press, 1962
+  * François Lepage, _Éléments de logique contemporaine_ , Presses de l'université de Montréal, 1991
+  * Dirk Pereboom, _Logique et logistique_ , Genève, INU PRESS, 1995 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-88155-002-9](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-88155-002-9 "Spécial:Ouvrages de référence/2-88155-002-9")).
+  * Xavier Verley, Logique symbolique, Ellipses, 1999
+  * [Serge Druon](/w/index.php?title=Serge_Druon&action=edit&redlink=1 "Serge Druon \(page inexistante\)"), _L'être et la logique_ , Edilivre, ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-8121-2258-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-8121-2258-3 "Spécial:Ouvrages de référence/978-2-8121-2258-3")), 2009
+  * [Alfred North Whitehead](/wiki/Alfred_North_Whitehead "Alfred North Whitehead") et [Bertrand Russell](/wiki/Bertrand_Russell "Bertrand Russell"), _[Principia Mathematica](/wiki/Principia_Mathematica "Principia Mathematica")_ , 3 vol., Merchant Books, 2001 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-1603861823](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-1603861823 "Spécial:Ouvrages de référence/978-1603861823")) (vol. 1), ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-1603861830](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-1603861830 "Spécial:Ouvrages de référence/978-1603861830")) (vol. 2), ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-1603861847](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-1603861847 "Spécial:Ouvrages de référence/978-1603861847")) (vol. 3)
+
+## Notes et
+références[[modifier](/w/index.php?title=Logique&veaction=edit&section=22
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=22 "Modifier la section :
+Notes et références")]
+
+  1. ↑ [Jean-Baptiste Gourinat](/wiki/Jean-Baptiste_Gourinat "Jean-Baptiste Gourinat"), « La logique : une création de la Grèce antique », _[Pour la Science](/wiki/Pour_la_Science "Pour la Science")_ , no 49, 2005 ([présentation en ligne](http://www.pourlascience.fr/ewb_pages/a/article-la-logique-une-creation-de-la-grece-antique-21939.php))
+  2. ↑ [« Gorgias - Texte fondateur »](http://www.philo5.com/Les%20philosophes%20Textes/Gorgias_Non-EtreHeleneEtRhetorique.htm), sur www.philo5.com (consulté le 28 mai 2020)
+  3. ↑ [Robert Blanché](/wiki/Robert_Blanch%C3%A9 "Robert Blanché"), [« Logique - 4) L'ère de la logique dite « classique » »](http://www.universalis.fr/encyclopedie/logique/4-l-ere-de-la-logique-dite-classique/), sur Encyclopædia Universalis (consulté le 11 mars 2015) : « Il accepte ce qui a été fait, il le reprend, mais pour l'approfondir. La logique traditionnelle n'est qu'un échantillon d'une logique générale, qui reste à établir. »
+  4. ↑ Herbert H. Knecht, La logique chez Leibniz : essais sur le rationalisme baroque, L'Âge d'Homme, coll. « Dialectica », 1981 ([lire en ligne](https://books.google.fr/books?id=4KG7WYuNsEYC&pg=PA38)), p. 38-39
+  5. ↑ Kant, préface de la deuxième édition de **Critique de la raison pure**
+  6. ↑ George Boole, The mathematical analysis of logic: being an essay towards a calculus of deductive reasoning, Macmillan, Barclay, & Macmillan ..., 1847 ([lire en ligne](https://openlibrary.org/books/OL7091269M/The_mathematical_analysis_of_logic))
+  7. ↑ Georges Boole, [« HE MATHEMATICAL THEORIES OF LOGIC ANDPROBABILITIES. »](https://www.gutenberg.org/files/15114/15114-pdf.pdf), sur www.gutenberg.org
+  8. ↑ _voir (en)[Logical Foundations of Artificial Intelligence](/wiki/R%C3%A9f%C3%A9rence:Logical_Foundations_of_Artificial_Intelligence "Référence:Logical Foundations of Artificial Intelligence")_
+  9. ↑ [Julie Rehmeyer _Voevodsky’s Mathematical Revolution_](http://www.scientificamerican.com/author/julie-rehmeyer/) Scientific American on October 1, 2013
+  10. ↑ [« history of logic »](http://global.britannica.com/topic/history-of-logic), sur Encyclopedia Britannica (consulté le 8 mai 2016)
+  11. ↑ [_« Atomique »_](http://www.cnrtl.fr/definition/atome) doit être pris dans son sens ancien d'insécable ou primitif.
+
+  * (en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en [anglais](/wiki/Anglais "Anglais") intitulé « [logic](https://en.wikipedia.org/wiki/logic "en:logic") » ([voir la liste des auteurs](https://en.wikipedia.org/wiki/logic?action=history)).
+
+## Voir aussi[[modifier](/w/index.php?title=Logique&veaction=edit&section=23
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=23 "Modifier la section :
+Voir aussi")]
+
+Sur les autres projets Wikimedia :
+
+  * [logique](https://fr.wiktionary.org/wiki/logique "wikt:logique"), sur le Wiktionnaire
+  * [Logique](https://fr.wikiversity.org/wiki/D%C3%A9partement:Logique "v:Département:Logique"), sur Wikiversity
+  * [Logique](https://fr.wikisource.org/wiki/Cat%C3%A9gorie:Logique "s:Catégorie:Logique"), sur Wikisource
+
+### Articles
+connexes[[modifier](/w/index.php?title=Logique&veaction=edit&section=24
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=24 "Modifier la section :
+Articles connexes")]
+
+  * [Raison](/wiki/Raison "Raison")
+  * [Raisonnement](/wiki/Raisonnement "Raisonnement")
+  * [Rationalisation](/wiki/Rationalisation "Rationalisation")
+  * [Rationalité](/wiki/Rationalit%C3%A9 "Rationalité")
+
+Sur la philosophie :
+
+  * [Philosophie](/wiki/Philosophie "Philosophie")
+  * [Éthique](/wiki/%C3%89thique "Éthique") | [Métaphysique](/wiki/M%C3%A9taphysique "Métaphysique") | [Épistémologie](/wiki/%C3%89pist%C3%A9mologie "Épistémologie")
+  * [Heidegger et la logique](/wiki/Heidegger_et_la_logique "Heidegger et la logique")
+  * [Tractatus logico-philosophicus](/wiki/Tractatus_logico-philosophicus "Tractatus logico-philosophicus")
+
+Sur la logique mathématique :
+
+  * [Déduction naturelle](/wiki/D%C3%A9duction_naturelle "Déduction naturelle")
+  * [Équivalence logique](/wiki/%C3%89quivalence_logique "Équivalence logique")
+  * [Fonction logique](/wiki/Fonction_logique "Fonction logique")
+  * [Logique mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique")
+  * [Logique et raisonnement mathématique](/wiki/Logique_et_raisonnement_math%C3%A9matique "Logique et raisonnement mathématique")
+  * [Logique intuitionniste](/wiki/Logique_intuitionniste "Logique intuitionniste")
+  * [Logique linéaire](/wiki/Logique_lin%C3%A9aire "Logique linéaire") notamment les [lois de De Morgan](/wiki/Lois_de_De_Morgan "Lois de De Morgan")
+  * [Logique minimale](/wiki/Logique_minimale "Logique minimale")
+  * [Logique pneumatique](/wiki/Logique_pneumatique "Logique pneumatique")
+
+Voir aussi :
+
+  * [Bibliographie de logique et de philosophie du langage](/wiki/Bibliographie_de_logique_et_de_philosophie_du_langage "Bibliographie de logique et de philosophie du langage")
+
+### Liens
+externes[[modifier](/w/index.php?title=Logique&veaction=edit&section=25
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Logique&action=edit&section=25 "Modifier la section :
+Liens externes")]
+
+  * [Liens internet](http://www.lofs.ucl.ac.be/log/liens.html)
+  * [Revues de logique](http://www.lofs.ucl.ac.be/log/revues.html)
+
+[v](/wiki/Mod%C3%A8le:Palette_Logique "Modèle:Palette Logique") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Logique&action=edit)
+
+Logique  
+  
+---  
+Domaines académiques | [Argumentation](/wiki/Argumentation "Argumentation") ·
+[Axiologie](/wiki/Axiologie "Axiologie") · [Esprit
+critique](/wiki/Esprit_critique "Esprit critique") ·
+[Philosophie](/wiki/Philosophie "Philosophie") · [Histoire de la
+logique](/wiki/Histoire_de_la_logique "Histoire de la logique") · [Logique
+mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique") ·
+[Mathématique](/wiki/Math%C3%A9matiques "Mathématiques") ·
+[Métamathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique") ·
+[Théorie des modèles](/wiki/Th%C3%A9orie_des_mod%C3%A8les "Théorie des
+modèles") · [Philosophie de la logique](/wiki/Philosophie_de_la_logique
+"Philosophie de la logique") · [Philosophie des
+mathématiques](/wiki/Philosophie_des_math%C3%A9matiques "Philosophie des
+mathématiques") · [Théorie des ensembles](/wiki/Th%C3%A9orie_des_ensembles
+"Théorie des ensembles") · [Théorie de la
+démonstration](/wiki/Th%C3%A9orie_de_la_d%C3%A9monstration "Théorie de la
+démonstration")  
+Concepts fondamentaux | [Abduction](/wiki/Abduction_\(logique\) "Abduction
+\(logique\)") · [Synthétique](/wiki/Synth%C3%A9tique_a_priori "Synthétique a
+priori") · [A priori](/wiki/A_priori_et_a_posteriori "A priori et a
+posteriori") · [Déduction](/wiki/D%C3%A9duction_logique "Déduction logique") ·
+[Définition](/wiki/D%C3%A9finition "Définition") ·
+[Description](/wiki/Description "Description") ·
+[Implication](/wiki/Implication_\(logique\) "Implication \(logique\)") ·
+[Inférence](/wiki/Inf%C3%A9rence_\(logique\) "Inférence \(logique\)") ·
+[Induction](/wiki/Induction_\(logique\) "Induction \(logique\)") ·
+[Sens](/wiki/Sens_\(linguistique\) "Sens \(linguistique\)") ·
+[Paradoxe](/wiki/Paradoxe "Paradoxe") · [Mondes
+possibles](/wiki/Mondes_possibles "Mondes possibles") ·
+[Présupposition](/wiki/Pr%C3%A9supposition "Présupposition") ·
+[Probabilité](/wiki/Probabilit%C3%A9 "Probabilité") · [Raison](/wiki/Raison
+"Raison") · [Référence](/wiki/R%C3%A9f%C3%A9rence_\(philosophie\) "Référence
+\(philosophie\)") · [Sémantique](/wiki/S%C3%A9mantique "Sémantique") ·
+[Syllogisme](/wiki/Syllogisme "Syllogisme") · [Vérité](/wiki/V%C3%A9rit%C3%A9
+"Vérité") · [Valeur de vérité](/wiki/Valeur_de_v%C3%A9rit%C3%A9 "Valeur de
+vérité") · [Valide](/wiki/Validit%C3%A9_\(logique\) "Validité \(logique\)")  
+[Esprit critique](/wiki/Esprit_critique "Esprit critique") et logique
+informelle | [Affirmation](/wiki/Affirmation "Affirmation") ·
+[Analyse](/wiki/Analyse_\(philosophie\) "Analyse \(philosophie\)") ·
+[Ambiguïté](/wiki/Ambigu%C3%AFt%C3%A9 "Ambiguïté") ·
+[Conclusion](/wiki/Conclusion_\(logique\) "Conclusion \(logique\)") ·
+[Crédibilité](/wiki/Cr%C3%A9dibilit%C3%A9 "Crédibilité") ·
+[Évidence](/wiki/%C3%89vidence "Évidence") · [Explication](/wiki/Explication
+"Explication") · [Sophisme](/wiki/Sophisme "Sophisme") ·
+[Opinion](/wiki/Opinion "Opinion") · [Parcimonie](/wiki/Parcimonie
+"Parcimonie") · [Prémisse](/wiki/Pr%C3%A9misse "Prémisse") ·
+[Propagande](/wiki/Propagande "Propagande") ·
+[Prudence](/wiki/Prudence_\(vertu\) "Prudence \(vertu\)") ·
+[Rhétorique](/wiki/Rh%C3%A9torique "Rhétorique")  
+[Théories de la déduction](/wiki/Philosophie_de_la_logique "Philosophie de la
+logique") | [Constructivisme](/wiki/Constructivisme_\(math%C3%A9matiques\)
+"Constructivisme \(mathématiques\)") · [Atomisme
+logique](/wiki/Atomisme_logique "Atomisme logique") ·
+[Logicisme](/wiki/Logicisme "Logicisme") · [Nominalisme](/wiki/Nominalisme
+"Nominalisme") · [Pragmatisme](/wiki/Pragmatisme "Pragmatisme") ·
+[Réalisme](/wiki/R%C3%A9alisme_\(philosophie\) "Réalisme \(philosophie\)")  
+[Métalogique](/wiki/M%C3%A9talogique "Métalogique") et
+[métamathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique") |
+[Théorème de Cantor](/wiki/Th%C3%A9or%C3%A8me_de_Cantor "Théorème de Cantor")
+· [Thèse de Church](/wiki/Th%C3%A8se_de_Church "Thèse de Church") ·
+[Fondements des mathématiques](/wiki/Fondements_des_math%C3%A9matiques
+"Fondements des mathématiques") · [Théorème de complétude de
+Gödel](/wiki/Th%C3%A9or%C3%A8me_de_compl%C3%A9tude_de_G%C3%B6del "Théorème de
+complétude de Gödel") · [Théorème d'incomplétude de
+Gödel](/wiki/Th%C3%A9or%C3%A8mes_d%27incompl%C3%A9tude_de_G%C3%B6del
+"Théorèmes d'incomplétude de Gödel") · [Complétude](/wiki/Compl%C3%A9tude
+"Complétude") · [Décidabilité](/wiki/D%C3%A9cidabilit%C3%A9 "Décidabilité") ·
+[Théorème de Löwenheim-Skolem](/wiki/Th%C3%A9or%C3%A8me_de_L%C3%B6wenheim-
+Skolem "Théorème de Löwenheim-Skolem")  
+[Logique mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique")
+| [Algèbre de Boole](/wiki/Alg%C3%A8bre_de_Boole_\(logique\) "Algèbre de Boole
+\(logique\)") · [Calcul des prédicats](/wiki/Calcul_des_pr%C3%A9dicats "Calcul
+des prédicats") · [Calcul des propositions](/wiki/Calcul_des_propositions
+"Calcul des propositions") · [Théorie de la
+calculabilité](/wiki/Calculabilit%C3%A9 "Calculabilité") · [Déduction
+naturelle](/wiki/D%C3%A9duction_naturelle "Déduction naturelle") · [Logique
+traditionnelle](/wiki/Logique_traditionnelle "Logique traditionnelle") ·
+[Logique classique](/wiki/Logique_classique "Logique classique") · [Logique
+linéaire](/wiki/Logique_lin%C3%A9aire "Logique linéaire") · [Lois de De
+Morgan](/wiki/Lois_de_De_Morgan "Lois de De Morgan") · [Théorie de la
+démonstration](/wiki/Th%C3%A9orie_de_la_d%C3%A9monstration "Théorie de la
+démonstration") · [Théorie des ensembles](/wiki/Th%C3%A9orie_des_ensembles
+"Théorie des ensembles") · [Théorie des
+modèles](/wiki/Th%C3%A9orie_des_mod%C3%A8les "Théorie des modèles")  
+[Logiques non classiques](/wiki/Logique_non_classique "Logique non classique")
+| [Logique de description](/wiki/Logique_de_description "Logique de
+description") · [Logique intuitionniste](/wiki/Logique_intuitionniste "Logique
+intuitionniste") · [Logique minimale](/wiki/Logique_minimale "Logique
+minimale") · [Logique floue](/wiki/Logique_floue "Logique floue") · [Logique
+modale](/wiki/Logique_modale "Logique modale") · [Logique non
+monotone](/wiki/Logique_non_monotone "Logique non monotone") · [Logique
+paracohérente](/wiki/Logique_paracoh%C3%A9rente "Logique paracohérente") ·
+[Logiques sous-structurelles](/wiki/Logiques_sous-structurelles "Logiques
+sous-structurelles") · [Logique de
+Łukasiewicz](/wiki/Logique_de_%C5%81ukasiewicz "Logique de Łukasiewicz")  
+Logiciens | [Aristote](/wiki/Aristote "Aristote") · [Avicenne](/wiki/Avicenne
+"Avicenne") · [Averroès](/wiki/Averro%C3%A8s "Averroès") ·
+[Bain](/wiki/Alexander_Bain_\(philosophe\) "Alexander Bain \(philosophe\)") ·
+[Barwise](/wiki/Jon_Barwise "Jon Barwise") · [Bernays](/wiki/Paul_Bernays
+"Paul Bernays") · [Boole](/wiki/George_Boole "George Boole") ·
+[Cantor](/wiki/Georg_Cantor "Georg Cantor") · [Carnap](/wiki/Rudolf_Carnap
+"Rudolf Carnap") · [Church](/wiki/Alonzo_Church "Alonzo Church") · [Chrysippe
+de Soles](/wiki/Chrysippe_de_Soles "Chrysippe de Soles") ·
+[Curry](/wiki/Haskell_Curry "Haskell Curry") · [De
+Morgan](/wiki/Auguste_De_Morgan "Auguste De Morgan") ·
+[Frege](/wiki/Gottlob_Frege "Gottlob Frege") · [Gentzen](/wiki/Gerhard_Gentzen
+"Gerhard Gentzen") · [Gödel](/wiki/Kurt_G%C3%B6del "Kurt Gödel") ·
+[Hilbert](/wiki/David_Hilbert "David Hilbert") ·
+[Kleene](/wiki/Stephen_Cole_Kleene "Stephen Cole Kleene") ·
+[Kripke](/wiki/Saul_Kripke "Saul Kripke") ·
+[Leibniz](/wiki/Gottfried_Wilhelm_Leibniz "Gottfried Wilhelm Leibniz") ·
+[Löwenheim](/wiki/Leopold_L%C3%B6wenheim "Leopold Löwenheim") · [Guillaume
+d'Ockham](/wiki/Guillaume_d%27Ockham "Guillaume d'Ockham") ·
+[Peano](/wiki/Giuseppe_Peano "Giuseppe Peano") ·
+[Peirce](/wiki/Charles_Sanders_Peirce "Charles Sanders Peirce") ·
+[Putnam](/wiki/Hilary_Putnam "Hilary Putnam") ·
+[Quine](/wiki/Willard_Van_Orman_Quine "Willard Van Orman Quine") ·
+[Russell](/wiki/Bertrand_Russell "Bertrand Russell") ·
+[Schröder](/wiki/Ernst_Schr%C3%B6der "Ernst Schröder") ·
+[Scot](/wiki/Jean_Duns_Scot "Jean Duns Scot") · [Skolem](/wiki/Thoralf_Skolem
+"Thoralf Skolem") · [Smullyan](/wiki/Raymond_Smullyan "Raymond Smullyan") ·
+[Tarski](/wiki/Alfred_Tarski "Alfred Tarski") · [Turing](/wiki/Alan_Turing
+"Alan Turing") · [Whitehead](/wiki/Alfred_North_Whitehead "Alfred North
+Whitehead") · [Wittgenstein](/wiki/Ludwig_Wittgenstein "Ludwig Wittgenstein")
+· [Zermelo](/wiki/Ernst_Zermelo "Ernst Zermelo")  
+  
+[v](/wiki/Mod%C3%A8le:Palette_Th%C3%A9orie_de_la_connaissance "Modèle:Palette
+Théorie de la connaissance") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Th%C3%A9orie_de_la_connaissance&action=edit)
+
+[Théorie de la connaissance](/wiki/Th%C3%A9orie_de_la_connaissance "Théorie de
+la connaissance")  
+  
+---  
+  
+  * [A priori](/wiki/A_priori_et_a_posteriori "A priori et a posteriori")
+  * [Concept](/wiki/Concept_\(philosophie\) "Concept \(philosophie\)")
+  * [Connaissance](/wiki/Connaissance_\(philosophie\) "Connaissance \(philosophie\)")
+  * [Conscience](/wiki/Conscience "Conscience")
+  * [Contingence](/wiki/Contingence "Contingence")
+  * [Croyance](/wiki/Croyance "Croyance")
+  * [Dialectique](/wiki/Dialectique "Dialectique")
+  * [Doute](/wiki/Doute "Doute")
+  * [Empirisme](/wiki/Empirisme "Empirisme")
+  * [Épistémologie](/wiki/%C3%89pist%C3%A9mologie "Épistémologie")
+  * [Espace](/wiki/Espace_\(notion\) "Espace \(notion\)")
+  * [Événement](/wiki/%C3%89v%C3%A9nement_\(philosophie\) "Événement \(philosophie\)")
+  * [Idéalisme](/wiki/Id%C3%A9alisme_\(philosophie\) "Idéalisme \(philosophie\)")
+  * [Imagination](/wiki/Imagination "Imagination")
+  * [Innéisme](/wiki/Inn%C3%A9isme "Innéisme")
+  * [Jugement](/wiki/Jugement_\(philosophie\) "Jugement \(philosophie\)")
+  * [Jugement analytique](/wiki/%C3%89nonc%C3%A9_analytique "Énoncé analytique")
+  * [Jugement synthétique a priori](/wiki/Synth%C3%A9tique_a_priori "Synthétique a priori")
+  * [Langage](/wiki/Langage "Langage")
+  * Logique
+  * [Mémoire](/wiki/M%C3%A9moire_\(sciences_humaines\) "Mémoire \(sciences humaines\)")
+  * [Métaphysique](/wiki/M%C3%A9taphysique "Métaphysique")
+  * [Nature](/wiki/Nature "Nature")
+  * [Nécessité](/wiki/N%C3%A9cessit%C3%A9 "Nécessité")
+  * [Nominalisme](/wiki/Nominalisme "Nominalisme")
+  * [Pensée](/wiki/Pens%C3%A9e "Pensée")
+  * [Phénoménologie](/wiki/Ph%C3%A9nom%C3%A9nologie_\(philosophie\) "Phénoménologie \(philosophie\)")
+  * [Philosophie du langage](/wiki/Philosophie_du_langage "Philosophie du langage")
+  * [Principe de causalité](/wiki/Cause "Cause")
+  * [Principe de raison suffisante](/wiki/Principe_de_raison_suffisante "Principe de raison suffisante")
+  * [Psychologie cognitive](/wiki/Psychologie_cognitive "Psychologie cognitive")
+  * [Pyrrhonisme](/wiki/Pyrrhon_d%27%C3%89lis "Pyrrhon d'Élis")
+  * [Raison](/wiki/Raison "Raison")
+  * [Rationalisme](/wiki/Rationalisme "Rationalisme")
+  * [Réalisme](/wiki/R%C3%A9alisme_\(philosophie\) "Réalisme \(philosophie\)")
+  * [Réalité](/wiki/R%C3%A9alit%C3%A9 "Réalité")
+  * [Savoir](/wiki/Savoir "Savoir")
+  * [Scepticisme](/wiki/Scepticisme_\(philosophie\) "Scepticisme \(philosophie\)")
+  * [Science](/wiki/Science "Science")
+  * [Sciences cognitives](/wiki/Sciences_cognitives "Sciences cognitives")
+  * [Sociologie de la connaissance](/wiki/Sociologie_de_la_connaissance "Sociologie de la connaissance")
+  * [Solipsisme](/wiki/Solipsisme "Solipsisme")
+  * [Temps](/wiki/Temps "Temps")
+  * [Transcendantal](/wiki/Transcendantal "Transcendantal")
+  * [Universalisme](/wiki/Universalisme "Universalisme")
+  * [Vérité](/wiki/V%C3%A9rit%C3%A9 "Vérité")
+
+  
+  
+[v](/wiki/Mod%C3%A8le:Palette_Philosophie "Modèle:Palette Philosophie") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Philosophie&action=edit)
+
+[Philosophie](/wiki/Philosophie "Philosophie")  
+  
+---  
+[Philosophie occidentale](/wiki/Philosophie_occidentale "Philosophie
+occidentale") · [Philosophie orientale](/wiki/Philosophie_orientale
+"Philosophie orientale")  
+[Histoire](/wiki/Histoire_de_la_philosophie "Histoire de la philosophie") |  |
+[Antique](/wiki/Philosophie_antique "Philosophie antique") |
+[Indienne](/wiki/Philosophie_indienne "Philosophie indienne")
+([Bouddhisme](/wiki/Philosophie_bouddhiste "Philosophie bouddhiste")) ·
+[Chinoise](/wiki/Philosophie_chinoise "Philosophie chinoise") ·
+[Grecque](/wiki/Philosophie_grecque "Philosophie grecque")
+([Hellénistique](/wiki/Philosophie_hell%C3%A9nistique "Philosophie
+hellénistique")) · [Juive](/wiki/Philosophie_juive "Philosophie juive") ·
+[Africaine](/wiki/Philosophie_africaine "Philosophie africaine")  
+---|---  
+[Médiévale](/wiki/Philosophie_m%C3%A9di%C3%A9vale "Philosophie médiévale") |
+[Chrétienne](/wiki/Philosophie_chr%C3%A9tienne "Philosophie chrétienne")
+([Scolastique](/wiki/Scolastique "Scolastique")) ·
+[Islamique](/wiki/Philosophie_islamique "Philosophie islamique") ·
+[Japonaise](/wiki/Philosophie_japonaise "Philosophie japonaise") ·
+[Vietnamienne](/wiki/Philosophie_vietnamienne "Philosophie vietnamienne")  
+[Moderne](/wiki/Philosophie_moderne "Philosophie moderne") |
+[Empirisme](/wiki/Empirisme "Empirisme") · [Rationalisme](/wiki/Rationalisme
+"Rationalisme") · [Idéalisme](/wiki/Id%C3%A9alisme_\(philosophie\) "Idéalisme
+\(philosophie\)")  
+[Contemporaine](/wiki/Philosophie_contemporaine "Philosophie contemporaine") |
+[Analytique](/wiki/Philosophie_analytique "Philosophie analytique") ·
+[Continentale](/wiki/Philosophie_continentale "Philosophie continentale")  
+Branches | [Art](/wiki/Philosophie_de_l%27art "Philosophie de l'art") ·
+[Action](/wiki/Philosophie_de_l%27action "Philosophie de l'action") ·
+[Droit](/wiki/Philosophie_du_droit "Philosophie du droit") ·
+[Épistémologie](/wiki/%C3%89pist%C3%A9mologie "Épistémologie") ·
+[Psychologie](/wiki/Philosophie_de_la_psychologie "Philosophie de la
+psychologie") · [Éthique](/wiki/%C3%89thique "Éthique") ·
+[Esthétique](/wiki/Esth%C3%A9tique "Esthétique") ·
+[Histoire](/wiki/Philosophie_de_l%27histoire "Philosophie de l'histoire") ·
+Logique · [Lumières](/wiki/Philosophie_des_lumi%C3%A8res "Philosophie des
+lumières") · [Mathématique](/wiki/Philosophie_des_math%C3%A9matiques
+"Philosophie des mathématiques") · [Intelligence
+artificielle](/wiki/Philosophie_de_l%27intelligence_artificielle "Philosophie
+de l'intelligence artificielle") · [Métaphysique](/wiki/M%C3%A9taphysique
+"Métaphysique") · [Morale](/wiki/Morale "Morale") ·
+[Nature](/wiki/Philosophie_naturelle "Philosophie naturelle") ·
+[Politique](/wiki/Philosophie_politique "Philosophie politique") ·
+[Éducation](/wiki/Philosophie_de_l%27%C3%A9ducation "Philosophie de
+l'éducation") · [Religion](/wiki/Philosophie_de_la_religion "Philosophie de la
+religion") · [Sciences](/wiki/Philosophie_des_sciences "Philosophie des
+sciences")  
+Écoles de pensée | [Anarchisme](/wiki/Anarchisme "Anarchisme") ·
+[Aristotélisme](/wiki/Aristot%C3%A9lisme "Aristotélisme") ·
+[Athéisme](/wiki/Ath%C3%A9isme "Athéisme") · [Atomisme](/wiki/Atomisme
+"Atomisme") · [Communisme](/wiki/Communisme "Communisme") ·
+[Conceptualisme](/wiki/Conceptualisme "Conceptualisme") ·
+[Criticisme](/wiki/Criticisme "Criticisme") · [Cynisme](/wiki/Cynisme
+"Cynisme") · [Déconstructionnisme](/wiki/D%C3%A9construction "Déconstruction")
+· [Déisme](/wiki/D%C3%A9isme "Déisme") ·
+[Déontologie](/wiki/%C3%89thique_d%C3%A9ontologique "Éthique déontologique") ·
+[Déterminisme](/wiki/D%C3%A9terminisme "Déterminisme") ·
+[Dualisme](/wiki/Dualisme_\(philosophie\) "Dualisme \(philosophie\)") ·
+[Émanatisme](/wiki/%C3%89manatisme "Émanatisme") · [Empirisme](/wiki/Empirisme
+"Empirisme") · [Épicurisme](/wiki/%C3%89picurisme "Épicurisme") ·
+[Existentialisme](/wiki/Existentialisme "Existentialisme") ·
+[Féminisme](/wiki/F%C3%A9minisme "Féminisme") ·
+[Fonctionnalisme](/wiki/Fonctionnalisme_\(philosophie_de_l%27esprit\)
+"Fonctionnalisme \(philosophie de l'esprit\)") ·
+[Herméneutique](/wiki/Herm%C3%A9neutique "Herméneutique") ·
+[Humanisme](/wiki/Humanisme "Humanisme") ·
+[Idéalisme](/wiki/Id%C3%A9alisme_\(philosophie\) "Idéalisme \(philosophie\)")
+· [Immatérialisme](/wiki/Immat%C3%A9rialisme "Immatérialisme") ·
+[Libéralisme](/wiki/Lib%C3%A9ralisme "Libéralisme") ·
+[Marxisme](/wiki/Marxisme "Marxisme") · [Matérialisme](/wiki/Mat%C3%A9rialisme
+"Matérialisme") · [Naturalisme](/wiki/Naturalisme_\(philosophie\) "Naturalisme
+\(philosophie\)") · _[Naturphilosophie](/wiki/Naturphilosophie
+"Naturphilosophie")_ · [Néoplatonisme](/wiki/N%C3%A9oplatonisme
+"Néoplatonisme") · [Nominalisme](/wiki/Nominalisme "Nominalisme") ·
+[Néokantisme](/wiki/N%C3%A9okantisme "Néokantisme") ·
+[Nihilisme](/wiki/Nihilisme "Nihilisme") ·
+[Objectivisme](/wiki/Objectivisme_\(philosophie\) "Objectivisme
+\(philosophie\)") ·
+[Phénoménologie](/wiki/Ph%C3%A9nom%C3%A9nologie_\(philosophie\)
+"Phénoménologie \(philosophie\)") ·
+[Platonisme](/wiki/Platonisme_\(doctrine_philosophique\) "Platonisme
+\(doctrine philosophique\)") · [Positivisme](/wiki/Positivisme "Positivisme")
+· [Réalisme](/wiki/R%C3%A9alisme_\(philosophie\) "Réalisme \(philosophie\)") ·
+[Relativisme](/wiki/Relativisme "Relativisme") ·
+[Républicanisme](/wiki/R%C3%A9publicanisme "Républicanisme") ·
+[Scepticisme](/wiki/Scepticisme_\(philosophie\) "Scepticisme \(philosophie\)")
+· [Socialisme](/wiki/Socialisme "Socialisme") ·
+[Spiritualisme](/wiki/Spiritualisme "Spiritualisme") ·
+[Stoïcisme](/wiki/Sto%C3%AFcisme "Stoïcisme") · [Thomisme](/wiki/Thomisme
+"Thomisme") · [Transhumanisme](/wiki/Transhumanisme "Transhumanisme") ·
+[Utilitarisme](/wiki/Utilitarisme "Utilitarisme")  
+[Portail de la philosophie](/wiki/Portail:Philosophie "Portail:Philosophie")  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Auguste_Rodin_-_Penseur_50px.png/17px-Auguste_Rodin_-_Penseur_50px.png)](/wiki/Portail:Philosophie "Portail de la philosophie") [Portail de la philosophie](/wiki/Portail:Philosophie "Portail:Philosophie")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Crystal128-kanagram.svg/24px-Crystal128-kanagram.svg.png)](/wiki/Portail:Linguistique "Portail de la linguistique") [Portail de la linguistique](/wiki/Portail:Linguistique "Portail:Linguistique")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/24px-Circle-icons-computer.svg.png)](/wiki/Portail:Informatique "Portail de l’informatique") [Portail de l’informatique](/wiki/Portail:Informatique "Portail:Informatique")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Max-cut.svg/30px-Max-cut.svg.png)](/wiki/Portail:Informatique_th%C3%A9orique "Portail de l'informatique théorique") [Portail de l'informatique théorique](/wiki/Portail:Informatique_th%C3%A9orique "Portail:Informatique théorique")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logic.svg/48px-Logic.svg.png)](/wiki/Portail:Logique "Portail de la logique") [Portail de la logique](/wiki/Portail:Logique "Portail:Logique")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Circle-icons-genius.svg/24px-Circle-icons-genius.svg.png)](/wiki/Portail:Sciences "Portail des sciences") [Portail des sciences](/wiki/Portail:Sciences "Portail:Sciences")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Logique&oldid=173512328](https://fr.wikipedia.org/w/index.php?title=Logique&oldid=173512328)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Sciences cognitives](/wiki/Cat%C3%A9gorie:Sciences_cognitives "Catégorie:Sciences cognitives")
+  * [Logique](/wiki/Cat%C3%A9gorie:Logique "Catégorie:Logique")
+  * [Rhétorique](/wiki/Cat%C3%A9gorie:Rh%C3%A9torique "Catégorie:Rhétorique")
+
+Catégories cachées :
+
+  * [Article avec source à lier](/wiki/Cat%C3%A9gorie:Article_avec_source_%C3%A0_lier "Catégorie:Article avec source à lier")
+  * [Article contenant un appel à traduction en allemand](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_allemand "Catégorie:Article contenant un appel à traduction en allemand")
+  * [Article à référence nécessaire](/wiki/Cat%C3%A9gorie:Article_%C3%A0_r%C3%A9f%C3%A9rence_n%C3%A9cessaire "Catégorie:Article à référence nécessaire")
+  * [Article contenant un appel à traduction en anglais](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais "Catégorie:Article contenant un appel à traduction en anglais")
+  * [Page avec un oldid invalide](/wiki/Cat%C3%A9gorie:Page_avec_un_oldid_invalide "Catégorie:Page avec un oldid invalide")
+  * [Portail:Philosophie/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Philosophie/Articles_li%C3%A9s "Catégorie:Portail:Philosophie/Articles liés")
+  * [Portail:Sciences humaines et sociales/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences_humaines_et_sociales/Articles_li%C3%A9s "Catégorie:Portail:Sciences humaines et sociales/Articles liés")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Portail:Linguistique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Linguistique/Articles_li%C3%A9s "Catégorie:Portail:Linguistique/Articles liés")
+  * [Portail:Informatique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s "Catégorie:Portail:Informatique/Articles liés")
+  * [Portail:Technologies/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Technologies/Articles_li%C3%A9s "Catégorie:Portail:Technologies/Articles liés")
+  * [Portail:Informatique théorique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Informatique_th%C3%A9orique/Articles_li%C3%A9s "Catégorie:Portail:Informatique théorique/Articles liés")
+  * [Portail:Logique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Logique/Articles_li%C3%A9s "Catégorie:Portail:Logique/Articles liés")
+  * [Bon article en allemand](/wiki/Cat%C3%A9gorie:Bon_article_en_allemand "Catégorie:Bon article en allemand")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Logique "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Logique "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Logique&oldid=173512328 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Logique&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Logique&id=173512328&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q8078 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Logique)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Logique&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Logique&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Logic)
+  * [Wikiquote](https://fr.wikiquote.org/wiki/Logique)
+
+###  Dans d’autres langues
+
+  * [Afrikaans](https://af.wikipedia.org/wiki/Logika "Logika — afrikaans")
+  * [Alemannisch](https://als.wikipedia.org/wiki/Logik "Logik — Alemannisch")
+  * [አማርኛ](https://am.wikipedia.org/wiki/%E1%88%B5%E1%8A%90_%E1%8A%A0%E1%88%9D%E1%8A%AD%E1%8A%95%E1%8B%AE "ስነ አምክንዮ — amharique")
+  * [Aragonés](https://an.wikipedia.org/wiki/Lochica "Lochica — aragonais")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82 "المنطق — arabe")
+  * [مصرى](https://arz.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82 "منطق — arabe égyptien")
+  * [অসমীয়া](https://as.wikipedia.org/wiki/%E0%A6%A4%E0%A7%B0%E0%A7%8D%E0%A6%95%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A7%B0 "তৰ্কশাস্ত্ৰ — assamais")
+  * [Asturianu](https://ast.wikipedia.org/wiki/L%C3%B3xica "Lóxica — asturien")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/M%C9%99ntiq "Məntiq — azéri")
+  * [تۆرکجه](https://azb.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%DB%8C%D9%82 "منطیق — South Azerbaijani")
+  * [Башҡортса](https://ba.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0 "Логика — bachkir")
+  * [Boarisch](https://bar.wikipedia.org/wiki/Logik "Logik — bavarois")
+  * [Žemaitėška](https://bat-smg.wikipedia.org/wiki/Luog%C4%97ka "Luogėka — Samogitian")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D1%96%D0%BA%D0%B0 "Логіка — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%9B%D1%91%D0%B3%D1%96%D0%BA%D0%B0 "Лёгіка — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0 "Логика — bulgare")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF "যুক্তি — bengali")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Logika "Logika — bosniaque")
+  * [Буряад](https://bxr.wikipedia.org/wiki/%D0%A3%D1%88%D0%B0%D1%80_%D1%83%D1%85%D0%B0%D0%B0%D0%BD "Ушар ухаан — Russia Buriat")
+  * [Català](https://ca.wikipedia.org/wiki/L%C3%B2gica "Lògica — catalan")
+  * [Chavacano de Zamboanga](https://cbk-zam.wikipedia.org/wiki/Logica "Logica — Chavacano")
+  * [Нохчийн](https://ce.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0 "Логика — tchétchène")
+  * [کوردی](https://ckb.wikipedia.org/wiki/%D9%84%DB%86%DA%98%DB%8C%DA%A9 "لۆژیک — sorani")
+  * [Corsu](https://co.wikipedia.org/wiki/Logica "Logica — corse")
+  * [Čeština](https://cs.wikipedia.org/wiki/Logika "Logika — tchèque")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0 "Логика — tchouvache")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Rhesymeg "Rhesymeg — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/Logik "Logik — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Logik "Logik — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%9B%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE "Λογική — grec")
+  * [English](https://en.wikipedia.org/wiki/Logic "Logic — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Logiko "Logiko — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/L%C3%B3gica "Lógica — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Loogika "Loogika — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Logika "Logika — basque")
+  * [Estremeñu](https://ext.wikipedia.org/wiki/L%C3%B3gica "Lógica — estrémègne")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82 "منطق — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Logiikka "Logiikka — finnois")
+  * [Võro](https://fiu-vro.wikipedia.org/wiki/Loogiga "Loogiga — Võro")
+  * [Na Vosa Vakaviti](https://fj.wikipedia.org/wiki/Vakasama "Vakasama — fidjien")
+  * [Nordfriisk](https://frr.wikipedia.org/wiki/Loogik "Loogik — frison du Nord")
+  * [Frysk](https://fy.wikipedia.org/wiki/Logika "Logika — frison occidental")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/Loighic "Loighic — irlandais")
+  * [贛語](https://gan.wikipedia.org/wiki/%E9%82%8F%E8%BC%AF%E5%AD%B8 "邏輯學 — gan")
+  * [Kriyòl gwiyannen](https://gcr.wikipedia.org/wiki/Lojik "Lojik — créole guyanais")
+  * [Galego](https://gl.wikipedia.org/wiki/L%C3%B3xica "Lóxica — galicien")
+  * [Hawaiʻi](https://haw.wikipedia.org/wiki/K%C5%ABpili "Kūpili — hawaïen")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%9C%D7%95%D7%92%D7%99%D7%A7%D7%94 "לוגיקה — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0 "तर्कशास्त्र — hindi")
+  * [Fiji Hindi](https://hif.wikipedia.org/wiki/Logic "Logic — hindi fidjien")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Logika "Logika — croate")
+  * [Magyar](https://hu.wikipedia.org/wiki/Logika "Logika — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D5%8F%D6%80%D5%A1%D5%B4%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6 "Տրամաբանություն — arménien")
+  * [Արեւմտահայերէն](https://hyw.wikipedia.org/wiki/%D5%8F%D6%80%D5%A1%D5%B4%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%AB%D6%82%D5%B6 "Տրամաբանութիւն — arménien occidental")
+  * [Interlingua](https://ia.wikipedia.org/wiki/Logica "Logica — interlingua")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Logika "Logika — indonésien")
+  * [Interlingue](https://ie.wikipedia.org/wiki/Logica "Logica — interlingue")
+  * [Igbo](https://ig.wikipedia.org/wiki/%C7%B8z%C3%B9 "Ǹzù — igbo")
+  * [Ilokano](https://ilo.wikipedia.org/wiki/Lohika "Lohika — ilocano")
+  * [Ido](https://io.wikipedia.org/wiki/Logiko "Logiko — ido")
+  * [Íslenska](https://is.wikipedia.org/wiki/R%C3%B6kfr%C3%A6%C3%B0i "Rökfræði — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Logica "Logica — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E8%AB%96%E7%90%86%E5%AD%A6 "論理学 — japonais")
+  * [Patois](https://jam.wikipedia.org/wiki/Lajik "Lajik — créole jamaïcain")
+  * [La .lojban.](https://jbo.wikipedia.org/wiki/logji "logji — lojban")
+  * [Jawa](https://jv.wikipedia.org/wiki/Logika "Logika — javanais")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%99%E1%83%90 "ლოგიკა — géorgien")
+  * [Taqbaylit](https://kab.wikipedia.org/wiki/Tame%E1%BA%93la "Tameẓla — kabyle")
+  * [Kabɩyɛ](https://kbp.wikipedia.org/wiki/C%C9%94l%C9%A9y%C9%9B "Cɔlɩyɛ — Kabiye")
+  * [Gĩkũyũ](https://ki.wikipedia.org/wiki/Logic "Logic — kikuyu")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0 "Логика — kazakh")
+  * [한국어](https://ko.wikipedia.org/wiki/%EB%85%BC%EB%A6%AC%ED%95%99 "논리학 — coréen")
+  * [Kurdî](https://ku.wikipedia.org/wiki/Mentiq "Mentiq — kurde")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0 "Логика — kirghize")
+  * [Latina](https://la.wikipedia.org/wiki/Logica "Logica — latin")
+  * [Lëtzebuergesch](https://lb.wikipedia.org/wiki/Logik "Logik — luxembourgeois")
+  * [Лакку](https://lbe.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D1%8C "Мантикь — Lak")
+  * [Lingua Franca Nova](https://lfn.wikipedia.org/wiki/Lojica "Lojica — lingua franca nova")
+  * [Ladin](https://lld.wikipedia.org/wiki/Logica "Logica — Ladin")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Logika "Logika — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Lo%C4%A3ika "Loģika — letton")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0 "Логика — macédonien")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%A4%E0%B5%BC%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%B6%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82 "തർക്കശാസ്ത്രം — malayalam")
+  * [Монгол](https://mn.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA "Логик — mongol")
+  * [मराठी](https://mr.wikipedia.org/wiki/%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0 "तर्कशास्त्र — marathi")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/Logik "Logik — malais")
+  * [Mirandés](https://mwl.wikipedia.org/wiki/L%C3%B3gica "Lógica — mirandais")
+  * [မြန်မာဘာသာ](https://my.wikipedia.org/wiki/%E1%80%9A%E1%80%AF%E1%80%90%E1%80%B9%E1%80%90%E1%80%AD%E1%80%97%E1%80%B1%E1%80%92 "ယုတ္တိဗေဒ — birman")
+  * [Plattdüütsch](https://nds.wikipedia.org/wiki/Logik "Logik — bas-allemand")
+  * [नेपाल भाषा](https://new.wikipedia.org/wiki/%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%95 "तर्क — newari")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Logica "Logica — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Logikk "Logikk — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Logikk "Logikk — norvégien bokmål")
+  * [Novial](https://nov.wikipedia.org/wiki/Logike "Logike — novial")
+  * [Occitan](https://oc.wikipedia.org/wiki/Logica "Logica — occitan")
+  * [ਪੰਜਾਬੀ](https://pa.wikipedia.org/wiki/%E0%A8%A4%E0%A8%B0%E0%A8%95_%E0%A8%B8%E0%A8%BC%E0%A8%BE%E0%A8%B8%E0%A8%A4%E0%A8%B0 "ਤਰਕ ਸ਼ਾਸਤਰ — pendjabi")
+  * [Norfuk / Pitkern](https://pih.wikipedia.org/wiki/Lojik "Lojik — Norfuk / Pitkern")
+  * [Polski](https://pl.wikipedia.org/wiki/Logika "Logika — polonais")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/L%C3%B2gica "Lògica — piémontais")
+  * [پنجابی](https://pnb.wikipedia.org/wiki/%D8%AA%D9%8F%DA%A9 "تُک — Western Punjabi")
+  * [پښتو](https://ps.wikipedia.org/wiki/%D8%B3%D9%88%D9%84%D9%BE%D9%88%D9%87%D9%86%D9%87 "سولپوهنه — pachto")
+  * [Português](https://pt.wikipedia.org/wiki/L%C3%B3gica "Lógica — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/Logic%C4%83 "Logică — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0 "Логика — russe")
+  * [Русиньскый](https://rue.wikipedia.org/wiki/%D0%9B%D0%BE%D2%91%D1%96%D0%BA%D0%B0 "Лоґіка — ruthène")
+  * [Саха тыла](https://sah.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0 "Логика — iakoute")
+  * [ᱥᱟᱱᱛᱟᱲᱤ](https://sat.wikipedia.org/wiki/%E1%B1%A1%E1%B1%A9%E1%B1%A0%E1%B1%9B%E1%B1%A4 "ᱡᱩᱠᱛᱤ — santali")
+  * [Sardu](https://sc.wikipedia.org/wiki/L%C3%B2gica "Lògica — sarde")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/L%C3%B2ggica "Lòggica — sicilien")
+  * [Scots](https://sco.wikipedia.org/wiki/Logic "Logic — écossais")
+  * [سنڌي](https://sd.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82 "منطق — sindhi")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Logika "Logika — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/Logic "Logic — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Logika "Logika — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Logika "Logika — slovène")
+  * [Shqip](https://sq.wikipedia.org/wiki/Logjika "Logjika — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0 "Логика — serbe")
+  * [Sunda](https://su.wikipedia.org/wiki/Logika "Logika — soundanais")
+  * [Svenska](https://sv.wikipedia.org/wiki/Logik "Logik — suédois")
+  * [Kiswahili](https://sw.wikipedia.org/wiki/Mantiki "Mantiki — swahili")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%8F%E0%AE%B0%E0%AE%A3%E0%AE%AE%E0%AF%8D "ஏரணம் — tamoul")
+  * [Тоҷикӣ](https://tg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%82%D0%B8%D2%9B "Мантиқ — tadjik")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%95%E0%B8%A3%E0%B8%A3%E0%B8%81%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C "ตรรกศาสตร์ — thaï")
+  * [Türkmençe](https://tk.wikipedia.org/wiki/Logika "Logika — turkmène")
+  * [Tagalog](https://tl.wikipedia.org/wiki/Lohika "Lohika — tagalog")
+  * [Tok Pisin](https://tpi.wikipedia.org/wiki/Lajik "Lajik — tok pisin")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Mant%C4%B1k "Mantık — turc")
+  * [Татарча/tatarça](https://tt.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%82%D1%8B%D0%B9%D0%BA "Мантыйк — tatar")
+  * [Тыва дыл](https://tyv.wikipedia.org/wiki/%D0%91%D0%B8%D0%BB%D0%B8%D0%B3%D0%BB%D0%B5%D0%BB "Билиглел — touvain")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D1%96%D0%BA%D0%B0 "Логіка — ukrainien")
+  * [اردو](https://ur.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82 "منطق — ourdou")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Mantiq "Mantiq — ouzbek")
+  * [Vepsän kel’](https://vep.wikipedia.org/wiki/Logik "Logik — vepse")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Logic "Logic — vietnamien")
+  * [Walon](https://wa.wikipedia.org/wiki/Lodjike "Lodjike — wallon")
+  * [Winaray](https://war.wikipedia.org/wiki/Lohika "Lohika — waray")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E9%82%8F%E8%BC%AF "邏輯 — wu")
+  * [IsiXhosa](https://xh.wikipedia.org/wiki/I-logic "I-logic — xhosa")
+  * [ייִדיש](https://yi.wikipedia.org/wiki/%D7%9C%D7%90%D7%92%D7%99%D7%A7 "לאגיק — yiddish")
+  * [Yorùbá](https://yo.wikipedia.org/wiki/%E1%BB%8Cgb%E1%BB%8D%CC%81n "Ọgbọ́n — yoruba")
+  * [中文](https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91 "逻辑 — chinois")
+  * [文言](https://zh-classical.wikipedia.org/wiki/%E7%90%86%E5%89%87 "理則 — Classical Chinese")
+  * [Bân-lâm-gú](https://zh-min-nan.wikipedia.org/wiki/L%C3%B4-chek "Lô-chek — Chinese \(Min Nan\)")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E9%82%8F%E8%BC%AF%E5%AD%B8 "邏輯學 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q8078#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Logique "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Logique "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Logique "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Logique "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Logique)
+  * [Modifier](/w/index.php?title=Logique&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Logique&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Logique&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 3 août 2020 à 10:11.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Logique "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Logique&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[XIXe]: 19ᵉ siècle
+  *[XXe]: 20ᵉ siècle
+  *[XVIIe]: 17ᵉ siècle
+  *[2e]: Deuxième
+  *[(en)]: Langue : anglais
+  *[no]: numéro
+  *[coll.]: collection
+  *[p.]: page(s)
+  *[ (en)]: Langue : anglais
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+

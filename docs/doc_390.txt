@@ -1,0 +1,681 @@
+# Mathesis universalis
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+La _**Mathesis universalis**_ , du grec _mathesis_ (science), et du latin
+_universalis_ (universel), est un concept
+[métaphysique](/wiki/M%C3%A9taphysique "Métaphysique") ancien. Le mot _μάθημα_
+( _máthēma_ ) signifie « science, connaissance » et ( _μάθηματα_ ) _, ta
+mathèmata_ « ce que l'homme connaît d'avance et qu'il porte déjà en lui-même
+sans avoir à l'extraire des choses : le sens de la corporéité, le sens de
+l'animalité, etc. »[1].
+
+## Sommaire
+
+  * 1 Perspective générale
+  * 2 Approche historique
+    * 2.1 Logos
+    * 2.2 Euclide ou la première puissance de la mathésis
+    * 2.3 Temps modernes
+  * 3 Le tournant cartésien
+    * 3.1 Un objet
+    * 3.2 Un projet
+    * 3.3 Une méthode
+    * 3.4 Des outils
+    * 3.5 Un sujet connaissant
+  * 4 L'essence métaphysique de la mathesis
+  * 5 Les formes contemporaines
+  * 6 Curiosité
+  * 7 Notes et références
+    * 7.1 Notes
+    * 7.2 Références
+  * 8 Annexes
+    * 8.1 Bibliographie
+    * 8.2 Liens externes
+    * 8.3 Articles connexes
+
+## Perspective
+générale[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=1
+"Modifier la section : Perspective générale") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=1 "Modifier
+la section : Perspective générale")]
+
+La _Mathesis_ est une interprétation orientée de l'essence du savoir en
+général. Avec les philosophies de [Descartes](/wiki/Ren%C3%A9_Descartes "René
+Descartes") et de [Leibniz](/wiki/Gottfried_Wilhelm_Leibniz "Gottfried Wilhelm
+Leibniz") apparaît une conception de la _mathesis universalis_ comme projet
+typique du rationalisme classique, basée sur l’idée « qu’il y a un ordre
+universel totalement accessible à la raison »[2]. Elle devient chez Descartes
+le modèle de toute certitude, fondée sur l'évidence de l'intuition et chez un
+Leibniz, qui abandonne l'intuition cartésienne, appuyé sur la logique et la
+non-contradiction, tribunal de la vérité des propositions[3].
+
+On reconnaîtra la _Mathesis_ là où « il y a projet général d'une maîtrise
+définitive de la compréhension de l'univers à partir d'un petit nombre de lois
+simples, comme le manifeste le mythe du « [grand
+Horloger](/wiki/Grand_Architecte_de_l%27Univers "Grand Architecte de
+l'Univers") », encore si prégnant jusqu'à la fin du [XVIIIe
+siècle](/wiki/XVIIIe_si%C3%A8cle "XVIIIe siècle") »[4].
+
+La Raison est traditionnellement reconnue comme fond même de l'Être et faculté
+maîtresse de l'homme. C'est dans le [logos](/wiki/Logos_\(philosophie\) "Logos
+\(philosophie\)") grec qu'une telle correspondance a vu le jour. Dans la
+parole qui discerne et expose règne une entente de l'être[5]. Dès l'origine,
+la philosophie grecque, conditionne notre connaissance du monde à la prise en
+compte de ce que d'une certaine manière nous connaissons toujours déjà. C'est
+cette connaissance dénommée « mathématique » qui constitue ce que
+[Platon](/wiki/Platon "Platon") exigeait de ses étudiants « Personne ne doit
+entrer ici, s'il n'a compris le mathématique », mathématique signifiant non la
+science des nombres mais la science des présuppositions fondamentales de tout
+savoir[6].
+
+Toute l'histoire de la métaphysique est commandée par cette correspondance
+entre l'Être et la Raison jusqu'au règne contemporain de la
+[Technique](/wiki/Technique "Technique") et du
+[Nihilisme](/wiki/Heidegger_et_la_m%C3%A9taphysique#Le_Nihilisme "Heidegger et
+la métaphysique"), en passant par le règne du sujet rationnel et de
+l'humanisme[7].
+
+## Approche
+historique[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=2
+"Modifier la section : Approche historique") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=2 "Modifier
+la section : Approche historique")]
+
+Dans l'Antiquité l'expression _μάθημα_ a donné naissance à l'adjectif
+_μαθηματικός_ ( _mathematikos_ ), d'abord « relatif au savoir » puis plus
+spécifiquement aux « sciences mathématiques ». La _mathesis_ ou _matheseos_
+désigne primitivement, chez les auteurs grecs et latins, et en particulier
+chez [Proclus](/wiki/Proclus "Proclus"), recteur de l’[École néoplatonicienne
+d'Athènes](/wiki/%C3%89cole_n%C3%A9oplatonicienne_d%27Ath%C3%A8nes "École
+néoplatonicienne d'Athènes") au [Ve siècle](/wiki/Ve_si%C3%A8cle "Ve siècle")
+de notre ère, les fondements mêmes des mathématiques, voire de toute
+connaissance. L'idée est sous-jacente dans l'œuvre d'[Aristote](/wiki/Aristote
+"Aristote"), mais elle n'y est pas présente comme telle.
+
+###
+Logos[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=3
+"Modifier la section : Logos") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=3 "Modifier
+la section : Logos")]
+
+Dans l'une des significations de l'Antiquité grecque le
+[logos](/wiki/Logos_\(philosophie\) "Logos \(philosophie\)") est principe
+d'unification, d'organisation, principe agent de l'organisation du cosmos chez
+les stoïciens, archétype du monde pour [Philon
+d'Alexandrie](/wiki/Philon_d%27Alexandrie "Philon d'Alexandrie")[8].
+
+[Martin Heidegger](/wiki/Martin_Heidegger "Martin Heidegger"), qui est celui
+des philosophes contemporains qui s'est le plus intéressé à ce vieux concept,
+rassemble d'emblée pour les mettre en relation, les trois notions qui
+dominent, dans les anciens textes, la pensée de ces vieux penseurs à savoir:
+le Logos,
+[λόγος](https://fr.wiktionary.org/wiki/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82
+"wikt:λόγος"), la Phusis,
+[φύσις](https://fr.wiktionary.org/wiki/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82
+"wikt:λόγος") et la Vérité,
+[ἀλήθεια](https://fr.wiktionary.org/wiki/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82
+"wikt:λόγος")[N 1]. La thématique du Logos est présente dès le paragraphe (§7)
+d' _[Être et Temps](/wiki/%C3%8Atre_et_Temps "Être et Temps")_ , où elle
+apparaît, à l'occasion d'un définition de la
+[phénoménologie](/wiki/Ph%C3%A9nom%C3%A9nologie_\(philosophie\)
+"Phénoménologie \(philosophie\)"), par le biais d'une interrogation sur la
+signification du suffixe « logie ». Guillaume Badoual[5], note incidemment que
+dans toutes les disciplines faisant appel à ce même suffixe « il semble que
+toute connaissance apparaisse comme une logique ».
+
+### Euclide ou la première puissance de la
+mathésis[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=4
+"Modifier la section : Euclide ou la première puissance de la mathésis") |
+[modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=4 "Modifier
+la section : Euclide ou la première puissance de la mathésis")]
+
+Dan son livre _[La Puissance du rationnel](/wiki/La_Puissance_du_rationnel "La
+Puissance du rationnel")_ , [Dominique Janicaud](/wiki/Dominique_Janicaud
+"Dominique Janicaud") nous explique, en prenant l'exemple
+d'[Euclide](/wiki/Euclide "Euclide"), que rien ne serait plus faux que de
+qualifier de simplement théorique la mathématique grecque. Avec l'invention du
+« regard géométrique » un premier champ référentiel (et universel) de
+possibilités s'ouvre. La _mathésis_ n'est pas un simple préalable à la
+révolution scientifique elle est mise en réserve de sa « potentialisation
+»[9].
+
+### Temps
+modernes[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=5
+"Modifier la section : Temps modernes") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=5 "Modifier
+la section : Temps modernes")]
+
+Au [Moyen Âge](/wiki/Moyen_%C3%82ge "Moyen Âge"), après la période d'extension
+maximale qu'elle avait connue dans l'Antiquité, la _mathesis_ a vu son sens se
+réduire chez les [Scolastiques](/wiki/Scolastique "Scolastique") au point de
+ne plus signifier que la « Science de la quantité ».
+
+On la retrouve chez les auteurs de la Renaissance et du XVe au [XVIIe
+siècle](/wiki/XVIIe_si%C3%A8cle "XVIIe siècle"), accompagnant la résurgence du
+néoplatonisme chez [Marsile Ficin](/wiki/Marsile_Ficin "Marsile Ficin"),
+[Nicolas de Cues](/wiki/Nicolas_de_Cues "Nicolas de Cues"), [Léonard de
+Vinci](/wiki/L%C3%A9onard_de_Vinci "Léonard de Vinci") et [Nicolas
+Copernic](/wiki/Nicolas_Copernic "Nicolas Copernic"), et s'illustrant à
+travers les œuvres de [Ramus](/wiki/Pierre_de_La_Ram%C3%A9e "Pierre de La
+Ramée"), [Paracelse](/wiki/Paracelse "Paracelse"),
+[Galilée](/wiki/Galil%C3%A9e_\(savant\) "Galilée \(savant\)"),
+[Kepler](/wiki/Johannes_Kepler "Johannes Kepler") et
+[Romain](/wiki/Adrien_Romain "Adrien Romain")[N 2].
+
+[Descartes](/wiki/Ren%C3%A9_Descartes "René Descartes"), revenant à Platon
+reprend l'idée de _mathesis_ , qu'il restaure dans son extension primitive,
+dans les _[Regulae ad directionem
+ingenii](/wiki/R%C3%A8gles_pour_la_direction_de_l%27esprit "Règles pour la
+direction de l'esprit")_ ( _Règles pour la direction de l'esprit_ ) où elle
+devient le modèle de toute certitude. Toutefois comme le souligne [Jacques
+Taminiaux](/wiki/Jacques_Taminiaux "Jacques Taminiaux")[10] de Platon à
+Descartes, la _mathesis_ s'est profondément transformée, faisant référence non
+plus à la familiarité native pour les « [Idées](/wiki/Th%C3%A9orie_des_Formes
+"Théorie des Formes") » mais à un projet de maîtrise.
+
+C'est [Leibniz](/wiki/Gottfried_Wilhelm_Leibniz "Gottfried Wilhelm Leibniz")
+([1er juillet](/wiki/1er_juillet "1er juillet") [1646](/wiki/1646 "1646") \-
+[Hanovre](/wiki/Hanovre "Hanovre"), [14 novembre](/wiki/14_novembre "14
+novembre") [1716](/wiki/1716 "1716")) qui associant au terme de _mathesis_
+celui d' _universalis_ fera de cette ancienne science délivrée des contraintes
+de l'intuition et de la représentation, une science conceptuelle, tributaire
+de la vérité des propositions, de la logique et du seul principe de non-
+contradiction[11]. Leibniz ambitionnait de créer sous le nom de
+_characteristica universalis_ ou [Caractéristique
+universelle](/wiki/Caract%C3%A9ristique_universelle "Caractéristique
+universelle") une langue universelle et formelle capable d'exprimer aussi bien
+les concepts mathématiques, scientifiques que métaphysiques.
+
+Le rêve leibnizien d'une langue universelle qui permettrait de faire tous les
+raisonnements d'une façon mécanique, purement calculatoire, retrouva une
+nouvelle jeunesse grâce aux travaux de [Frege](/wiki/Gottlob_Frege "Gottlob
+Frege") (1848-1925) et à l'utilisation de la langue de la logique ou
+[loglangue](/wiki/Langage_de_la_logique "Langage de la logique").
+
+## Le tournant
+cartésien[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=6
+"Modifier la section : Le tournant cartésien") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=6 "Modifier
+la section : Le tournant cartésien")]
+
+Ayant auparavant développé la _Mathesis universalis_ dans des travaux
+mathématiques, Descartes l’a ensuite utilisée pour circonscrire l’étendue et
+les limites de la connaissance humaine – en procédant méthodiquement et
+corrélativement avec la même méthode[12]. Descartes conçoit l'idée d'une «
+science unique et normative » sur laquelle tout est orienté et réglé. À cet
+effet, il restaure et amplifie dans ses _Regulae_ le vieux concept de
+_mathesis_ « qui avec lui, étend son empire sur tout ce qui est possible de
+connaître »[3]. Il en fait une science universelle dans la mesure où la
+validité de la connaissance, peut être étendue à tout objet[13].
+
+Pour Descartes il n’y a de science effective que lorsque l’esprit a une
+connaissance certaine et indubitable de l’objet qu’il s’est donné à connaître,
+dont les mathématiques et la géométrie donnent l'exemple. Cette science va
+donc se présenter comme un ensemble de règles visant à diriger l’esprit dans
+la recherche de la vérité. Le philosophe enseigne dans ses _Regulae_ (
+_[Règles pour la direction de
+l'esprit](/wiki/R%C3%A8gles_pour_la_direction_de_l%27esprit "Règles pour la
+direction de l'esprit")_ ) « une méthode » pour acquérir la science, c'est-à-
+dire, la connaissance de tout ce dont l’humain est capable. Dans un siècle où
+le « Mathématique » s'impose comme trait fondamental de la pensée, il y a
+nécessité à en rechercher le fondement et à mettre en évidence les règles qui
+en découlent[14].
+
+### Un
+objet[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=7
+"Modifier la section : Un objet") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=7 "Modifier
+la section : Un objet")]
+
+La science est pour Descartes un système hypothético-déductif s'appuyant sur
+l'expérience, mais il reste que, pour lui, il devrait être possible de
+comprendre le monde physique par une théorie explicative complète prenant la
+forme d'une démonstration algébrique universelle.
+
+### Un
+projet[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=8
+"Modifier la section : Un projet") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=8 "Modifier
+la section : Un projet")]
+
+[Jacques Taminiaux](/wiki/Jacques_Taminiaux "Jacques Taminiaux")[10] constate
+que la physique moderne n'est pas née du fait qu'un certain nombre de penseurs
+comme [Descartes](/wiki/Ren%C3%A9_Descartes "René Descartes"),
+[Galilée](/wiki/Galil%C3%A9e_\(savant\) "Galilée \(savant\)") ou
+[Copernic](/wiki/Nicolas_Copernic "Nicolas Copernic"), ont « décidé
+d'appliquer des mesures ». Le recours aux mathématiques obéit à quelque chose
+de plus profond par lequel l'esprit humain projette intuitivement un savoir _a
+priori_ , comme le démontrera [Kant](/wiki/Emmanuel_Kant "Emmanuel Kant") dans
+la _[Critique de la raison pure](/wiki/Critique_de_la_raison_pure "Critique de
+la raison pure")_ , savoir qui l'autorise à prédéterminer les conditions de
+possibilité de tout phénomène. Ce cadre ou projet appuyé sur la fermeté du
+Cogito constituera avec Descartes la nouvelle _mathesis_. Les choses ne «
+_sont_ » (objet) que dans la mesure où elles se soumettent au projet, à la
+_mathesis_ , connaître devient ainsi le moyen de s'assurer un pouvoir[15].
+
+### Une
+méthode[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=9
+"Modifier la section : Une méthode") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=9 "Modifier
+la section : Une méthode")]
+
+Dans la _Regulae IV_ il énonce « Nécessaire est la méthode pour la recherche
+de la vérité ». Cette règle au-delà du lieu commun signifie que « la méthode
+ou la manière dont nous suivons les choses de près, décide par avance de ce
+que nous découvrons dans les choses en fait de vérité »[16]. La méthode
+détermine ce qui peut devenir objet et comment cela le devient.
+
+Contrairement à la tradition où les choses s'offraient pour ainsi dire de soi-
+même, dans la position fondamentale de la _mathesis_ , il ne peut y avoir de
+propositions naturelles ou de choses données d'avance. Le principe vis-à-vis
+duquel toute proposition trouve son fondement sera le « Je » du _Cogito er go
+sum_ qui est à comprendre non comme le « Je » subjectif d'un sujet déterminé
+mais comme « Raison »universelle et impersonnelle. « La « Raison » en tant que
+« Je pense » est expressément érigée en principe suprême, en tant que fil
+conducteur et tribunal de toute détermination de l'être »[17].
+
+Puisqu’elles reposent sur l’usage exclusif de l’intuitus et de la deductio,
+les règles de la méthode assurent la véracité de la connaissance. La méthode
+est génératrice de vérité dans son principe. Ceux qui en useront seront
+prémunis de tout risque d’erreur, ils « n’admettront jamais rien de faux pour
+vrai », mais jugeront toujours de la vérité des choses avec évidence et
+certitude. Leur science s’élèvera « par degrés », en quoi l’on reconnaît
+l’image des chaînes de vérité : dans une compréhension sérielle et déductive,
+la connaissance s’élève par degrés de vérité en vérité[18].
+
+Au-delà des mathématiques simples, toutes les choses qui se rapportent à la
+_Mathesis_ se rejoignent en ce qu’elles sont examinées suivant un certain
+ordre et mesure, qu’il s’agisse d’astronomie, de musique, d’optique ou de
+mécanique. Descartes a ainsi déterminé le caractère commun des objets généraux
+de la Mathesis, sans plus s'en tenir aux figures et nombres[19] Bien qu'il ne
+le dise pas explicitement en ces termes, la _Mathesis universalis_ n’est autre
+que la science de la méthode, qui se trouve être utilisée en mathématiques.
+
+En désignant la _Mathesis universalis_ comme étant « la source » de toutes
+connaissances (elle contient la démarche méthodique qui leur procure le statut
+de science), Descartes tient d’emblée pour assuré que tout objet du monde peut
+être connu suivant l’ordre et la mesure, autrement dit au moyen de l'intuition
+et de la déduction[13] la correspondance entre l'ordre du connaître et l'ordre
+du réel ne va pas de soi [13].
+
+  * La nécessité de l’ordre (Règle V)
+  * La réduction au simple (Règle VI)
+  * Le dénombrement (Règle VII)[20]
+
+### Des
+outils[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=10
+"Modifier la section : Des outils") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=10 "Modifier
+la section : Des outils")]
+
+Pour parvenir à la certitude, tout doit être « reconstruit » ; Descartes va
+ainsi s'efforcer de bâtir la science sur un fonds qui soit tout à lui. Mais la
+première condition pour bâtir l'édifice des sciences certaines, c'est que
+l'[esprit](/wiki/Esprit "Esprit") se crée ses propres instruments, au lieu
+d'emprunter à autrui des outils dont il n'a pas éprouvé la rigueur. Quelqu'un
+qui veut exercer l'art de [forgeron](/wiki/Forgeron "Forgeron") sans encore en
+avoir les outils, devra se forger pour son usage avec les moyens de la nature
+les outils dont il a besoin[21]. Cet instrument que se forge lui-même
+l'[esprit](/wiki/Esprit "Esprit"), ce sont les règles de la méthode.
+
+Si la _mathesis universalis_ prétend fonder et mettre en forme l'ensemble du
+savoir alors il est nécessaire que soient énoncés des axiomes insignes,
+autrement dit, ils doivent être, premiers en soi, évidents, et absolument
+certains[22]. L'axiome sera un principe général (non lié à une science
+particulière), indispensable à tout apprentissage scientifique et qui n'est
+pas susceptible de démonstration, par exemple « les choses égales à une même
+chose sont égales entre elles » ou « le tout est plus grand que la partie,
+rien ne produit rien, une seule et même chose ne peut à la fois être et ne pas
+être »[23].
+
+### Un sujet
+connaissant[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=11
+"Modifier la section : Un sujet connaissant") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=11 "Modifier
+la section : Un sujet connaissant")]
+
+Aux yeux de Descartes, l'unité des sciences a sa condition suffisante dans
+l'unité de l'esprit connaissant. L’esprit cartésien tire de lui-même toutes
+les règles auxquelles il obéira pour progresser dans la recherche de la
+vérité[18]. Descartes rend compte de cette connaissance spontanée et
+irréfléchie par la présence en tout humain de certains germes innés de
+science. Le « Je » ainsi compris est l'axiome fondamental qui de lui-même
+implique un autre axiome fondamental à savoir, éviter toute proposition
+contradictoire qui reviendrait à parler contre le sujet[17].
+
+En constituant cette science générale de l’ordre et de la mesure qu’est la
+_Mathesis universalis_ , Descartes généralise en fait l’usage cognitif de l’
+_intuitus_ et de la _deductio_ à tous les objets. Car d’où proviennent «
+l’ordre et la mesure » examinées dans les choses ? Non pas des choses
+justement, mais de l’esprit qui s’emploie à connaître les choses. D’où vient
+que l’esprit examine ses objets suivant l’ordre et la mesure ? Du fait donc
+qu’il connaît par intuitus et deductio, c’est-à-dire de façon sérielle et
+déductive[13]. Les vérités s’enchaînent dans une série d’intuitions continues.
+
+La manière dont l’esprit connaît les choses est celle par laquelle il se
+connaît lui-même. Une boucle cognitive complexe se dessine ici : Descartes
+prend la connaissance, en tant qu’elle connaît suivant l’ordre et la mesure,
+comme objet de sa connaissance, et il l'examine elle-même selon l’ordre de la
+méthode, comme tout objet. Il entreprend donc de connaître méthodiquement la
+méthode[24].
+
+## L'essence métaphysique de la
+mathesis[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=12
+"Modifier la section : L'essence métaphysique de la mathesis") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=12 "Modifier
+la section : L'essence métaphysique de la mathesis")]
+
+[Martin Heidegger](/wiki/Martin_Heidegger "Martin Heidegger")[1], développe
+notamment dans son livre _Qu'est-ce qu'une chose_ , un concept du «
+Mathématique », de la _mathesis_ , qui déborde largement l'idée de nombre.
+Caractérisant la pensée moderne, la _mathesis_ devient une représentation
+générale et fondamentale des choses et du monde, qui trouve sa première
+application chez [Isaac Newton](/wiki/Isaac_Newton "Isaac Newton") et qui pose
+d'avance les conditions auxquelles la nature doit répondre pour qu'il puisse y
+avoir quelque chose comme une science.
+
+## Les formes
+contemporaines[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=13
+"Modifier la section : Les formes contemporaines") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=13 "Modifier
+la section : Les formes contemporaines")]
+
+Cette section est vide, insuffisamment détaillée ou incomplète. [Votre
+aide](/wiki/Sp%C3%A9cial:EditPage/Mathesis_universalis
+"Spécial:EditPage/Mathesis universalis") est la bienvenue ! [Comment faire
+?](/wiki/Aide:Comment_modifier_une_page "Aide:Comment modifier une page")
+
+##
+Curiosité[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=14
+"Modifier la section : Curiosité") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=14 "Modifier
+la section : Curiosité")]
+
+[Un astéroïde](/wiki/\(454\)_Mathesis "\(454\) Mathesis") a reçu le nom de ce
+concept. C'est aussi, aujourd'hui, le nom d'une collection de
+[logique](/wiki/Logique "Logique") et
+d'[épistémologie](/wiki/%C3%89pist%C3%A9mologie "Épistémologie") éditée par la
+[Librairie philosophique J. Vrin](/wiki/Librairie_philosophique_J._Vrin
+"Librairie philosophique J. Vrin").
+
+## Notes et
+références[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=15
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=15 "Modifier
+la section : Notes et références")]
+
+###
+Notes[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=16
+"Modifier la section : Notes") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=16 "Modifier
+la section : Notes")]
+
+  1. ↑ Heidegger consacre une conférence au _Logos_ reprise dans l'ouvrage "essais et conférences" , préface Jean Beaufret et parue sous le titre allemand _Vorträge und aufsätze"_ en 1954, traduite par André Préau, à noter une autre traduction de [Jacques Lacan](/wiki/Jacques_Lacan "Jacques Lacan") parue dans la revue _La psychanalyse_ 1/1956-Lacan 1956
+  2. ↑ « L'expression était en effet courante : en 1602, avait paru une _Universae Mathesis idea_ par Adrianus Romanus » — _Textes choisis des auteurs philosophiques_ , t.2, [Armand Cuvillier](/wiki/Armand_Cuvillier "Armand Cuvillier"), 1955, note 3 p. 51.
+
+###
+Références[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=17
+"Modifier la section : Références") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=17 "Modifier
+la section : Références")]
+
+  1. ↑ a et b article Mathématique _Le Dictionnaire Martin Heidegger_, p. 829
+  2. ↑ Paola CANTÙ 2010, p. 1 lire en ligne
+  3. ↑ a et b article Mathesis _Dictionnaire des Concepts philosophiques_, p. 503
+  4. ↑ Dominique Janicaud 1985, p. 216
+  5. ↑ a et b article Logos _Le Dictionnaire Martin Heidegger_, p. 781
+  6. ↑ Heidegger1988, p. 87
+  7. ↑ article Raison _Le Dictionnaire Martin Heidegger_, p. 1116
+  8. ↑ article Logos _Dictionnaire des Concepts philosophiques_, p. 479
+  9. ↑ Dominique Janicaud 1985, p. 180
+  10. ↑ a et b Taminiaux 1986, p. 271
+  11. ↑ article Mathesis _Dictionnaire des Concepts philosophiques_, p. 504
+  12. ↑ Carole DELY 2006, p. 46 lire en ligne
+  13. ↑ a b c et d Carole DELY 2006, p. 37 lire en ligne
+  14. ↑ Heidegger1988, p. 110
+  15. ↑ Taminiaux 1986, p. 272
+  16. ↑ Heidegger1988, p. 112
+  17. ↑ a et b Heidegger1988, p. 116
+  18. ↑ a et b Carole DELY 2006, p. 31 lire en ligne
+  19. ↑ Carole DELY 2006, p. 33-34 lire en ligne
+  20. ↑ Carole DELY 2006, p. 42 lire en ligne
+  21. ↑ _[Règles pour la direction de l'esprit](/wiki/R%C3%A8gles_pour_la_direction_de_l%27esprit "Règles pour la direction de l'esprit")_ , VIII, X
+  22. ↑ Heidegger1988, p. 113
+  23. ↑ article Axiome _Dictionnaire des Concepts philosophiques_, p. 80
+  24. ↑ Carole DELY 2006, p. 49 lire en ligne
+
+##
+Annexes[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=18
+"Modifier la section : Annexes") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=18 "Modifier
+la section : Annexes")]
+
+###
+Bibliographie[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=19
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=19 "Modifier
+la section : Bibliographie")]
+
+  * [René Descartes](/wiki/Ren%C3%A9_Descartes "René Descartes"), Règles pour la direction de l'esprit, J Vrin, coll. « Bibliothèque des textes philosophiques », 1992, 146 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-7116-0182-X](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-7116-0182-X "Spécial:Ouvrages de référence/2-7116-0182-X"), [lire en ligne](https://books.google.com/books?id=FSez3CNJsc0C&printsec=frontcover)).
+  * Philippe Arjakovsky, [François Fédier](/wiki/Fran%C3%A7ois_F%C3%A9dier "François Fédier") et Hadrien France-Lanord (dir.), Le Dictionnaire Martin Heidegger : Vocabulaire polyphonique de sa pensée, Paris, [Éditions du Cerf](/wiki/%C3%89ditions_du_Cerf "Éditions du Cerf"), 2013, 1450 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-204-10077-9](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-204-10077-9 "Spécial:Ouvrages de référence/978-2-204-10077-9")).
+  * [Martin Heidegger](/wiki/Martin_Heidegger "Martin Heidegger") (trad. Jean Reboul-Jacques Taminiaux), Qu'est-ce qu'une chose ?, Paris, [Gallimard](/wiki/%C3%89ditions_Gallimard "Éditions Gallimard"), coll. « Tel », 1988, 254 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-07-071465-9](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-07-071465-9 "Spécial:Ouvrages de référence/2-07-071465-9")).
+  * Michel Blay, Dictionnaire des concepts philosophiques, Paris, Larousse, 2013, 880 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-03-585007-2](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-03-585007-2 "Spécial:Ouvrages de référence/978-2-03-585007-2")).
+  * [Dominique Janicaud](/wiki/Dominique_Janicaud "Dominique Janicaud"), La puissance du rationnel, Paris, [Gallimard](/wiki/%C3%89ditions_Gallimard "Éditions Gallimard"), 1985, 386 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-07-070343-6](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-07-070343-6 "Spécial:Ouvrages de référence/2-07-070343-6")).
+  * [Jacques Taminiaux](/wiki/Jacques_Taminiaux "Jacques Taminiaux"), « L'essence vraie de la technique », dans Michel Haar (dir.), Martin Heidegger, L'Herne, coll. « Biblio essais.Livre de poche », 1986 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-253-03990-X](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-253-03990-X "Spécial:Ouvrages de référence/2-253-03990-X")), p. 263-284.
+  * Jacques Lacan, « Fonction et champ de la parole et du langage en psychanalyse », _La psychanalyse_ , no 1, 1956
+  * David Rabouin, Mathesis universalis – L’idée de "mathématique universelle" d'Aristote à Descartes, Paris, PUF, coll. Epiméthée, 2009, 405 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-13-057088-2](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-13-057088-2 "Spécial:Ouvrages de référence/978-2-13-057088-2"))
+  * [Martin Heidegger](/wiki/Martin_Heidegger "Martin Heidegger") (trad. Jean Reboul, Jacques Taminiaux), Qu'est-ce qu'une chose, Paris, [Gallimard](/wiki/%C3%89ditions_Gallimard "Éditions Gallimard"), coll. « Tel », 1971, 254 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-07-071465-9](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-07-071465-9 "Spécial:Ouvrages de référence/2-07-071465-9")).
+
+### Liens
+externes[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=20
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=20 "Modifier
+la section : Liens externes")]
+
+  * Paola CANTÙ, [« Singularités de la mathesis universalis »](http://www.laviedesidees.fr/IMG/pdf/20100128_mathesis.pdf), La vie des idées, 2010.
+  * Carole DELY, [« Descartes et la recherche de la Sagesse dans les Règles pour la direction de l’esprit »](http://www.sens-public.org/IMG/pdf/SensPublic_CDely_Descartes_et_Sagesse.pdf), sur www.sens-public.org, Sens public-Revue électronique internationale, 2006.
+
+### Articles
+connexes[[modifier](/w/index.php?title=Mathesis_universalis&veaction=edit&section=21
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Mathesis_universalis&action=edit&section=21 "Modifier
+la section : Articles connexes")]
+
+  * [Métaphysique](/wiki/M%C3%A9taphysique "Métaphysique")
+  * [La puissance du rationnel](/wiki/La_puissance_du_rationnel "La puissance du rationnel")
+  * [Mouvement (philosophie)](/wiki/Mouvement_\(philosophie\) "Mouvement \(philosophie\)")
+  * [Caractéristique universelle](/wiki/Caract%C3%A9ristique_universelle "Caractéristique universelle")
+  * [Calculus ratiocinator](/wiki/Calculus_ratiocinator "Calculus ratiocinator")
+
+[v](/wiki/Mod%C3%A8le:Palette_Gottfried_Wilhelm_Leibniz "Modèle:Palette
+Gottfried Wilhelm Leibniz") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Gottfried_Wilhelm_Leibniz&action=edit)
+
+[Gottfried Wilhelm Leibniz](/wiki/Gottfried_Wilhelm_Leibniz "Gottfried Wilhelm
+Leibniz") (1646-1716)  
+  
+---  
+Philosophie | **Principes** : [Principe du
+meilleur](/w/index.php?title=Principe_du_meilleur&action=edit&redlink=1
+"Principe du meilleur \(page inexistante\)") · [Principe du prédicat inhérent
+au
+sujet](/w/index.php?title=Principe_du_pr%C3%A9dicat_inh%C3%A9rent_au_sujet&action=edit&redlink=1
+"Principe du prédicat inhérent au sujet \(page inexistante\)") · [Principe de
+contradiction](/wiki/Principe_de_non-contradiction "Principe de non-
+contradiction") · [Principe de raison
+suffisante](/wiki/Principe_de_raison_suffisante "Principe de raison
+suffisante") · [Principe d'identité des
+indiscernables](/wiki/Principe_d%27identit%C3%A9_des_indiscernables "Principe
+d'identité des indiscernables") · [Principe de
+continuité](/wiki/Principe_de_continuit%C3%A9 "Principe de continuité")  
+ **Concepts** : [Monade](/wiki/Monade_\(philosophie\) "Monade
+\(philosophie\)") · [Caractéristique
+universelle](/wiki/Caract%C3%A9ristique_universelle "Caractéristique
+universelle") · _[Calculus ratiocinator](/wiki/Calculus_ratiocinator "Calculus
+ratiocinator")_ · _Mathesis universalis_  
+Mathématiques | [Calcul infinitésimal](/wiki/Calcul_infinit%C3%A9simal "Calcul
+infinitésimal") · [Formule de Leibniz](/wiki/Formule_de_Leibniz "Formule de
+Leibniz") · [Notation de Leibniz](/wiki/Notation_de_Leibniz "Notation de
+Leibniz") · [Théorème de Leibniz](/wiki/Th%C3%A9or%C3%A8me_de_Leibniz
+"Théorème de Leibniz") · [Algèbre de Leibniz](/wiki/Alg%C3%A8bre_de_Leibniz
+"Algèbre de Leibniz") · [Règle de Leibniz](/wiki/R%C3%A8gle_de_Leibniz "Règle
+de Leibniz") · [Fonction de Leibniz](/wiki/Fonction_de_Leibniz "Fonction de
+Leibniz")  
+Théologie | [Théodicée](/wiki/Th%C3%A9odic%C3%A9e "Théodicée") · [Meilleur des
+mondes possibles](/wiki/Meilleur_des_mondes_possibles "Meilleur des mondes
+possibles")  
+Œuvres | _[De arte combinatoria](/wiki/De_arte_combinatoria "De arte
+combinatoria")_ (1666) · _[Discours de
+métaphysique](/wiki/Discours_de_m%C3%A9taphysique "Discours de métaphysique")_
+(1686) · _[Nouveaux Essais sur l'entendement
+humain](/wiki/Nouveaux_Essais_sur_l%27entendement_humain "Nouveaux Essais sur
+l'entendement humain")_ (1704) · _[Essais de
+Théodicée](/wiki/Essais_de_Th%C3%A9odic%C3%A9e "Essais de Théodicée")_ (1710)
+· _[Monadologie](/wiki/Monadologie "Monadologie")_ (1714)  
+Personnalités liées | [Friedrich Leibnütz](/wiki/Friedrich_Leibn%C3%BCtz
+"Friedrich Leibnütz") (père) · [Jakob Thomasius](/wiki/Jakob_Thomasius "Jakob
+Thomasius") (professeur) · [Erhard Weigel](/wiki/Erhard_Weigel "Erhard
+Weigel") (professeur) · [Christian Wolff](/wiki/Christian_Wolff_\(philosophe\)
+"Christian Wolff \(philosophe\)") (disciple)  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Auguste_Rodin_-_Penseur_50px.png/17px-Auguste_Rodin_-_Penseur_50px.png)](/wiki/Portail:Philosophie "Portail de la philosophie") [Portail de la philosophie](/wiki/Portail:Philosophie "Portail:Philosophie")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Mathesis_universalis&oldid=174612405](https://fr.wikipedia.org/w/index.php?title=Mathesis_universalis&oldid=174612405)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Concept épistémologique](/wiki/Cat%C3%A9gorie:Concept_%C3%A9pist%C3%A9mologique "Catégorie:Concept épistémologique")
+  * [Concept leibnizien](/wiki/Cat%C3%A9gorie:Concept_leibnizien "Catégorie:Concept leibnizien")
+
+Catégories cachées :
+
+  * [Article avec une section vide ou incomplète](/wiki/Cat%C3%A9gorie:Article_avec_une_section_vide_ou_incompl%C3%A8te "Catégorie:Article avec une section vide ou incomplète")
+  * [Portail:Philosophie/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Philosophie/Articles_li%C3%A9s "Catégorie:Portail:Philosophie/Articles liés")
+  * [Portail:Sciences humaines et sociales/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences_humaines_et_sociales/Articles_li%C3%A9s "Catégorie:Portail:Sciences humaines et sociales/Articles liés")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Mathesis_universalis "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Mathesis_universalis "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Mathesis_universalis&oldid=174612405 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Mathesis_universalis&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Mathesis_universalis&id=174612405&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q1759788 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Mathesis+universalis)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Mathesis_universalis&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Mathesis_universalis&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [العربية](https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B3%D9%8A%D8%B2%D9%8A%D8%B3_%D9%8A%D9%86%D9%81%D9%8A%D8%B1%D8%B3%D8%A7%D9%84%D9%8A%D8%B2 "ماسيزيس ينفيرساليز — arabe")
+  * [Deutsch](https://de.wikipedia.org/wiki/Mathesis_universalis "Mathesis universalis — allemand")
+  * [English](https://en.wikipedia.org/wiki/Mathesis_universalis "Mathesis universalis — anglais")
+  * [Español](https://es.wikipedia.org/wiki/Mathesis_Universalis "Mathesis Universalis — espagnol")
+  * [Italiano](https://it.wikipedia.org/wiki/Mathesis_universalis "Mathesis universalis — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E6%99%AE%E9%81%8D%E5%AD%A6 "普遍学 — japonais")
+  * [Latina](https://la.wikipedia.org/wiki/Mathesis_universalis "Mathesis universalis — latin")
+  * [Português](https://pt.wikipedia.org/wiki/Mathesis_universalis "Mathesis universalis — portugais")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Mathesis_universalis "Mathesis universalis — slovaque")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q1759788#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Mathesis+universalis "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Mathesis+universalis "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Mathesis_universalis "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Mathesis_universalis "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Mathesis_universalis)
+  * [Modifier](/w/index.php?title=Mathesis_universalis&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Mathesis_universalis&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Mathesis_universalis&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 11 septembre 2020 à 02:01.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Mathesis_universalis "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Mathesis_universalis&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[XVIIIe]: 18ᵉ siècle
+  *[Ve]: 5ᵉ siècle
+  *[XVe]: 15ᵉ siècle
+  *[XVIIe]: 17ᵉ siècle
+  *[p.]: pages
+  *[coll.]: collection
+  *[dir.]: directeur de publication
+  *[trad.]: traduction
+  *[no]: numéro
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+

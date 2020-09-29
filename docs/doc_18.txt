@@ -1,0 +1,791 @@
+# Connaissance
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+La **connaissance** est une [notion](/wiki/Notion "Notion") aux
+[sens](/wiki/Sens_\(linguistique\) "Sens \(linguistique\)") multiples, à la
+fois utilisée dans le [langage](/wiki/Langage "Langage") courant et objet
+d'étude poussée de la part des [sciences cognitives](/wiki/Sciences_cognitives
+"Sciences cognitives") et des [philosophes
+contemporains](/wiki/Philosophie_contemporaine "Philosophie contemporaine").
+
+La [gnoséologie](/wiki/Gnos%C3%A9ologie "Gnoséologie") accumule la
+connaissance en général, de même que la [science](/wiki/Science "Science")
+accumule les connaissances scientifiques.
+
+**Les connaissances** , leur nature et leur variété, la façon dont elles sont
+acquises, leur processus d'acquisition, leur valeur et leur rôle dans les
+sociétés humaines, sont étudiés par une diversité de disciplines, notamment la
+[philosophie](/wiki/Philosophie "Philosophie"),
+l'[épistémologie](/wiki/%C3%89pist%C3%A9mologie "Épistémologie"), la
+[psychologie](/wiki/Psychologie "Psychologie"), les [sciences
+cognitives](/wiki/Sciences_cognitives "Sciences cognitives"),
+l'[anthropologie](/wiki/Anthropologie "Anthropologie") et la
+[sociologie](/wiki/Sociologie "Sociologie").
+
+## Sommaire
+
+  * 1 Définition de la connaissance
+  * 2 Variété de connaissances
+  * 3 Processus liés à la connaissance
+  * 4 La connaissance par discipline
+    * 4.1 En science
+      * 4.1.1 En anthropologie
+    * 4.2 En philosophie
+    * 4.3 Dans les techniques
+    * 4.4 En économie
+    * 4.5 En gestion
+  * 5 Insuffisance du partage des connaissances
+  * 6 Différents types de connaissance
+    * 6.1 Connaissances tacites et explicites
+    * 6.2 Connaissances exclusives et non exclusives
+  * 7 Bibliographie
+  * 8 Notes et références
+  * 9 Articles connexes
+
+## Définition de la
+connaissance[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=1
+"Modifier la section : Définition de la connaissance") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=1 "Modifier la
+section : Définition de la connaissance")]
+
+Christian Godin[1] propose :
+
+  1. Faculté mentale produisant une assimilation par l'esprit d'un contenu objectif préalablement traduit en signes et en idées.
+  2. Résultat de cette opération. La connaissance est une possession symbolique des choses. Elle comprend une infinité de degrés. La connaissance rationnelle, méthodique universelle a parfois été opposée au savoir empirique, chaotique, objectif.
+
+La connaissance se distingue des termes qui lui sont proches comme :
+[Savoir](/wiki/Savoir "Savoir"), [Information](/wiki/Information
+"Information"), [Donnée](/wiki/Donn%C3%A9e "Donnée"),
+[Croyance](/wiki/Croyance "Croyance"), [Science](/wiki/Science "Science"),
+[Expérience](/wiki/Exp%C3%A9rience "Expérience"), etc.
+
+La [connaissance en philosophie](/wiki/Connaissance_\(philosophie\)
+"Connaissance \(philosophie\)") a des définitions particulières qui lui sont
+propres.
+
+## Variété de
+connaissances[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=2
+"Modifier la section : Variété de connaissances") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=2 "Modifier la
+section : Variété de connaissances")]
+
+La science en général est un ensemble de méthodes systématiques pour acquérir
+des connaissances : les connaissances scientifiques.
+
+Il existe néanmoins de nombreuses formes de connaissances qui, sans être
+scientifiques, n'en sont pas moins parfaitement adaptées à leur objet.
+Notamment :
+
+  * le [savoir-faire](/wiki/Savoir-faire "Savoir-faire") (l'[artisanat](/wiki/Artisanat "Artisanat")), le [savoir-être](/wiki/Savoir-%C3%AAtre "Savoir-être") (savoir vivre, savoir nager, etc.),
+  * le [savoir technique](/wiki/Connaissance_technique "Connaissance technique") (savoir à quoi sert un marteau, savoir que l'eau éteint le feu),
+  * la connaissance des [langues](/wiki/Langue "Langue"),
+  * la connaissance des [traditions](/wiki/Tradition "Tradition"), [légendes](/wiki/L%C3%A9gende "Légende"), [coutumes](/wiki/Coutume "Coutume") ou [idées](/wiki/Histoire_des_id%C3%A9es "Histoire des idées") d'une [culture](/wiki/Culture "Culture") particulière,
+  * la connaissance qu'ont les individus de leur propre histoire (connaître son propre nom, ses parents, son passé),
+  * ou encore les connaissances communes d'un groupe d'individus (chasser le phoque) ou d'une société donnée (la transhumance, l'écobuage...) ou de l'humanité (Odyssée culturelle de l'humanité...).
+
+## Processus liés à la
+connaissance[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=3
+"Modifier la section : Processus liés à la connaissance") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=3 "Modifier la
+section : Processus liés à la connaissance")]
+
+Divers processus cognitifs peuvent être distingués :
+
+  * [Théorie de la connaissance](/wiki/Th%C3%A9orie_de_la_connaissance "Théorie de la connaissance") : création de connaissance, modèle théorique de l'accès à la connaissance,
+  * [Gestion des connaissances](/wiki/Gestion_des_connaissances "Gestion des connaissances"),
+  * [Ingénierie des connaissances](/wiki/Ing%C3%A9nierie_des_connaissances "Ingénierie des connaissances"),
+  * [Capitalisation des connaissances](/wiki/Capitalisation_des_connaissances "Capitalisation des connaissances") : de la formalisation de la connaissance vers l'édification du Savoir en vue de la transmission et du partage,
+  * [Partage des connaissances](/wiki/Partage_des_connaissances "Partage des connaissances"),
+  * [Transmission de la connaissance](/wiki/Transmission_de_la_connaissance "Transmission de la connaissance"),
+  * [Gestion des connaissances personnelles](/wiki/Gestion_des_connaissances_personnelles "Gestion des connaissances personnelles"),
+  * [Apprentissage](/wiki/Apprentissage "Apprentissage").
+
+## La connaissance par
+discipline[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=4
+"Modifier la section : La connaissance par discipline") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=4 "Modifier la
+section : La connaissance par discipline")]
+
+### En
+science[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=5
+"Modifier la section : En science") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=5 "Modifier la
+section : En science")]
+
+Articles détaillés : [Connaissance
+scientifique](/wiki/Connaissance_scientifique "Connaissance scientifique"),
+[Science](/wiki/Science "Science") et [Zététique](/wiki/Z%C3%A9t%C3%A9tique
+"Zététique").
+
+#### En
+anthropologie[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=6
+"Modifier la section : En anthropologie") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=6 "Modifier la
+section : En anthropologie")]
+
+Article détaillé : [Anthropologie](/wiki/Anthropologie "Anthropologie").
+
+Pour l'[anthropologue](/wiki/Anthropologue "Anthropologue"), la première
+connaissance est celle que les [hommes](/wiki/Homme "Homme") ont d'eux-mêmes
+et de leur [environnement](/wiki/Environnement "Environnement"), et qui, dans
+les sociétés primitives, assure leur survie quotidienne. C'est aussi cette
+connaissance qui structure le groupe humain. Elle se constitue comme un
+ensemble de pratiques, de comportements et de règles admises par la
+communauté. La pratique de la chasse collective suppose à la fois la
+connaissance de ses congénères, celle du gibier, celle du terrain et un
+savoir-faire partagé. [Gérard Mendel](/wiki/G%C3%A9rard_Mendel "Gérard
+Mendel"), créateur de la [sociopsychanalyse](/wiki/Sociopsychanalyse
+"Sociopsychanalyse"), en fait le point de départ des sociétés humaines dans
+son ouvrage _la chasse structurale_ [2].
+
+Dans le contexte géographique propre à chacun se forment ainsi des cultures
+spécifiques. C'est ce qu'a étudié l'[anthropologie
+structurale](/wiki/Anthropologie_structurale "Anthropologie structurale") et
+en particulier [Claude Levi-Strauss](/wiki/Claude_Levi-Strauss "Claude Levi-
+Strauss"). Longtemps divisée entre [culturalistes](/wiki/Culturalisme
+"Culturalisme") et [naturalistes](/wiki/Naturalisme_\(philosophie\)
+"Naturalisme \(philosophie\)"), la communauté scientifique tend à avoir
+aujourd'hui une approche plus complexe du rapport des cultures humaines avec
+leur environnement naturel (voir [Philippe Descola](/wiki/Philippe_Descola
+"Philippe Descola"), _Par delà nature et culture_ [3]).
+
+La société traditionnelle est peu portée vers l'innovation : les règles
+établies sont difficilement transgressables d'autant qu'elles s'appuient sur
+une représentation du monde et un univers mental où le sacré est
+omniprésent[4]. La connaissance a alors un caractère religieux. Et
+inversement, la religion peut apparaître, à l'origine, comme l'unique moyen de
+connaître le monde. Dans les sociétés « modernes », la connaissance devient
+également un enjeu de pouvoir, et son « évaluation » autorise de départager
+une réelle « expertise » d'un niveau insuffisant, ou même de l'imposture. Il
+n'est pas certain que les procédures mises en place dans les disciplines
+scientifiques permettent de distinguer à coup sûr les uns et les autres. Il
+n'est pas non plus définitivement avéré que les institutions « cognitives »
+laissent toujours se déployer librement l'étude innovatrice : on peut même se
+demander, avec Thomas Kuhn ou Maurice Allais, si l'attitude la plus répandue
+dans les grandes organisations, n'est pas de préférer les démarches qui ne
+soulèvent aucune remise en cause des dogmes en vigueur.[[réf.
+souhaitée]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire "Aide:Référence
+nécessaire")
+
+### En
+philosophie[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=7
+"Modifier la section : En philosophie") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=7 "Modifier la
+section : En philosophie")]
+
+Articles détaillés : [Connaissance
+(philosophie)](/wiki/Connaissance_\(philosophie\) "Connaissance
+\(philosophie\)"), [Philosophie de la
+connaissance](/wiki/Philosophie_de_la_connaissance "Philosophie de la
+connaissance") et [Intuition
+(phénoménologie)](/wiki/Intuition_\(ph%C3%A9nom%C3%A9nologie\) "Intuition
+\(phénoménologie\)").
+
+En [philosophie](/wiki/Philosophie "Philosophie"), on étudie avant tout la
+connaissance au sens de l'état de celui qui connaît ou sait quelque chose. On
+appelle aussi connaissances les choses connues elles-mêmes, mais cette seconde
+notion n'est pas celle qui intéresse les philosophes. De même, on appelle
+aussi connaissances, par extension, les choses qui sont tenues pour des
+connaissances par un individu ou une société donnée; mais là aussi, les
+philosophes ne s'intéressent pas à cette notion, sauf dans les débats
+concernant certaines formes de [relativisme](/wiki/Relativisme
+"Relativisme")[5].
+
+Les philosophes distinguent traditionnellement trois types de connaissances :
+
+  1. la connaissance propositionnelle est le fait de savoir qu'une certaine proposition est vraie, par exemple, savoir que la Terre est ronde ;
+  2. la connaissance objectuelle, aussi appelée **[acquaintance](/wiki/Acquaintance "Acquaintance")** , est le fait de connaître une chose particulière, par exemple, connaître Paris[6] ;
+  3. le savoir-faire est le fait d'être capable de réussir une action, par exemple, savoir faire des crêpes[7].
+
+La définition de la connaissance propositionnelle est celle qui a le plus
+attiré l'attention des philosophes. Ils s'accordent généralement à dire qu'une
+connaissance est une [croyance](/wiki/Croyance "Croyance") qui est
+[vraie](/wiki/V%C3%A9rit%C3%A9 "Vérité"), mais aussi qu'elle n'est pas
+seulement une croyance vraie[8]. Il faut en outre que la croyance et la vérité
+(ou le fait) soient en quelque sorte connectés d'une façon appropriée, mais
+les philosophes sont en désaccord sur la nature de cette connexion. Pour
+certains, il faut que la croyance soit certaine ou infaillible[9], pour
+d'autres, qu'elle soit justifiée[10] ou pourvue d'une justification non
+défaite[11], pour d'autres, qu'elle résulte d'un processus fiable[12], ou pour
+d'autres encore qu'elle ne soit pas vraie par accident[13]. Ce sont sur ces
+conditions supplémentaires pour la connaissance que les débats portent.
+
+### Dans les
+techniques[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=8
+"Modifier la section : Dans les techniques") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=8 "Modifier la
+section : Dans les techniques")]
+
+Article détaillé : [Connaissance technique](/wiki/Connaissance_technique
+"Connaissance technique").
+
+Cette section est vide, insuffisamment détaillée ou incomplète. [Votre
+aide](/wiki/Sp%C3%A9cial:EditPage/Connaissance
+"Spécial:EditPage/Connaissance") est la bienvenue ! [Comment faire
+?](/wiki/Aide:Comment_modifier_une_page "Aide:Comment modifier une page")
+
+### En
+économie[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=9
+"Modifier la section : En économie") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=9 "Modifier la
+section : En économie")]
+
+Article connexe : [Économie du savoir](/wiki/%C3%89conomie_du_savoir "Économie
+du savoir").
+
+Le noyau de l'économie de la connaissance est lié à l'appropriation des
+connaissances et à la production continuelle d'innovation. Tous les secteurs
+de la vie sociale qui concourent à la production de connaissances seraient les
+nouveaux centres du [capitalisme cognitif](/wiki/Capitalisme_cognitif
+"Capitalisme cognitif").
+
+Articles détaillés : [Société de la
+connaissance](/wiki/Soci%C3%A9t%C3%A9_de_la_connaissance "Société de la
+connaissance") et [Propriété
+intellectuelle](/wiki/Propri%C3%A9t%C3%A9_intellectuelle "Propriété
+intellectuelle").
+
+Certains économistes et sociologues et experts en gestion de connaissance
+appellent « sociétés de la connaissance » les sociétés à forte diffusion et
+flux d'informations et de savoir.
+
+On parle de [patrimoine immatériel de
+l'humanité](/wiki/Patrimoine_culturel_immat%C3%A9riel_de_l%27humanit%C3%A9
+"Patrimoine culturel immatériel de l'humanité") pour désigner l'ensemble des
+traditions, langues et cultures, savoir-faire artisanaux et expressions
+artistiques vivantes, en particulier lorsqu'elles appartiennent au domaine de
+la transmission orale.
+
+L'[UNESCO](/wiki/UNESCO "UNESCO"), après n'avoir longtemps tenu compte que du
+patrimoine matériel, s'y est intéressé tardivement, à la fin des années 1990,
+et a adopté une convention, le 17 octobre 2003, qui reconnaît pleinement la
+valeur de ces savoirs[14].
+
+Depuis [1950](/wiki/1950 "1950"), le gouvernement du Japon attribue le titre
+de [« Trésor national vivant
+»](http://www.unesco.org/culture/ich/index.php?lg=FR&topic=lht&cp=JP) à des
+individus ou groupes reconnus comme porteurs d’un savoir-faire culturel
+immatériel important. Ce titre est attribué à des maîtres de métiers tels que
+la peinture sur bois, la fabrication de papier ou de sabres, la vannerie et la
+poterie, ainsi qu’à des acteurs et musiciens de spectacles traditionnels.
+
+Selon [Paul Romer](/wiki/Paul_Romer "Paul Romer") ([« prix Nobel »
+d'économie](/wiki/Prix_de_la_Banque_de_Su%C3%A8de_en_sciences_%C3%A9conomiques_en_m%C3%A9moire_d%27Alfred_Nobel
+"Prix de la Banque de Suède en sciences économiques en mémoire d'Alfred
+Nobel") 2018) l'[information](/wiki/Information "Information") et sa
+connaissance, les savoirs et savoir-faire sont un substitut, dans une certaine
+mesure aux [ressources naturelles](/wiki/Ressources_naturelles "Ressources
+naturelles") pas, peu, difficilement, couteusement ou lentement ou non-
+renouvelables [15],[16] ; ils sont la source de la [croissance
+économique](/wiki/Croissance_%C3%A9conomique "Croissance économique") pour le
+futur car non seulement abondants mais a priori infinis[17].
+
+### En
+gestion[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=10
+"Modifier la section : En gestion") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=10 "Modifier la
+section : En gestion")]
+
+Articles détaillés : [Gestion des
+connaissances](/wiki/Gestion_des_connaissances "Gestion des connaissances") et
+[Gestion des connaissances
+personnelles](/wiki/Gestion_des_connaissances_personnelles "Gestion des
+connaissances personnelles").
+
+En [gestion des connaissances](/wiki/Gestion_des_connaissances "Gestion des
+connaissances"), on fait aussi la distinction entre :
+
+  * une [donnée](/wiki/Donn%C3%A9e "Donnée"), en général mesurable (exemple : « Il fait 15° dans cette pièce »),
+  * une [information](/wiki/Information "Information") correspondant à une donnée contextualisée (exemple : « Il fait froid dans cette pièce ») et
+  * une **connaissance** correspondant à l'appropriation et l'interprétation des [informations](/wiki/Information "Information") par les hommes (exemple : « Pour avoir chaud, il suffit de monter le chauffage »).
+
+Notons ici que sont éliminées d'autres interprétations possibles de la
+situation, comme : « pour avoir chaud, vous devez bouger davantage », ou : «
+la température de la pièce monta d'un cran » (en référence à une querelle).
+Ainsi, ce qu'on nomme « connaissance », « information » ou « interprétation »
+dépend entièrement d'une décision de limiter le « contexte sémantique », cette
+décision pouvant dépendre à son tour des acteurs qui ont le pouvoir
+d'organiser la conversation sur les connaissances « pertinentes ». La
+difficulté principale rencontrée pour informatiser les connaissances tient à
+la quasi-impossibilité de maîtriser les interférences entre contextes et leur
+caractère arborescent. Le choix de ne retenir que le sens des termes utilisé
+par la hiérarchie de l'organisation contient une part d'arbitraire
+stratégique. Négliger cet aspect revient à transformer la « connaissance » en
+une croyance indiscutable.
+
+Dans les [entreprises](/wiki/Entreprise "Entreprise"), la connaissance (au
+sens limité de celle qui est pertinente pour l'organisation) correspond à un
+capital de [compétences](/wiki/Comp%C3%A9tence_\(psychologie\) "Compétence
+\(psychologie\)") que détiennent les hommes et les femmes dans différents
+domaines professionnels (exemples : [marketing](/wiki/Marketing "Marketing"),
+[R&D](/wiki/R%26D "R&D"), [ingénierie](/wiki/Ing%C3%A9nierie "Ingénierie"),
+[production](/wiki/Production "Production"), [logistique](/wiki/Logistique
+"Logistique"), [approvisionnements](/wiki/Approvisionnement
+"Approvisionnement"), [commercial](/wiki/Commercial "Commercial"),
+[juridique](/wiki/Juridique "Juridique")...) constituant ce que l'entreprise
+nomme son « cœur de métier » (exemple : « Constructeur d'automobiles » pour
+[Renault](/wiki/Renault_\(Groupe\) "Renault \(Groupe\)")). Ces compétences
+doivent être gérées et capitalisées pour améliorer l'efficacité globale de
+l'entreprise. Des modèles méthodologiques de
+[KM](/wiki/Gestion_des_connaissances "Gestion des connaissances") \- tels que
+KnoVA[18], MKSM[19] ou encore MASK - peuvent distinguer jusqu'à six types de
+connaissances pour décrire une compétence métier, représentative d'un savoir-
+faire professionnel particulier à une entreprise :
+
+  * les connaissances contextuelles, décrivant la culture métier du savoir-faire à l'aide des contextes reconnus ;
+  * les connaissances opératoires, décrivant le processus métier du savoir-faire à l'aide des activités prises en compte ;
+  * les connaissances comportementales, décrivant l'expertise métier du savoir-faire à l'aide des règles imposées ;
+  * les connaissances terminologiques, décrivant le vocabulaire métier du savoir-faire à l'aide de termes décidés ;
+  * les connaissances singulières, décrivant l'expérience métier du savoir-faire à l'aide de cas sélectionnés ;
+  * les connaissances évolutives, décrivant l'évolution métier du savoir-faire à l'aide de retours d'expérience choisis.
+
+Par ailleurs, en [gestion des connaissances](/wiki/Gestion_des_connaissances
+"Gestion des connaissances") comme en [cognitique](/wiki/Cognitique
+"Cognitique") industrielle, on fait aussi la distinction entre
+l'[information](/wiki/Information "Information"), la [donnée
+brute](/wiki/Donn%C3%A9es_brutes "Données brutes"), la **connaissance** , qui
+est la sélection, l'appropriation et l'interprétation des
+[informations](/wiki/Information "Information") par les hommes (Jean-Yves
+Prax)[20], ainsi que « les savoirs », qui mettent en perspective les
+connaissances ponctuelles sur le [long terme](/wiki/Long_terme "Long terme").
+
+Dans les [entreprises](/wiki/Entreprise "Entreprise"), la connaissance
+correspond au capital d'[expertise](/wiki/Expertise "Expertise") que
+détiennent les hommes dans les différents domaines (marketing, R&D, achats,
+commercial, juridique...) qui constituent le cœur de métier de l'entreprise.
+Cette connaissance doit être gérée pour améliorer l'efficacité globale des
+entreprises, la sécurité et la fiabilité des opérateurs et des traitements de
+connaissances, ainsi que l'accessibilité des connaissances par les usagers,
+notamment avec l'aide des technologies (dites technologie de la connaissance
+ou technologies [cognitiques](/wiki/Cognitique "Cognitique")).
+
+## Insuffisance du partage des
+connaissances[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=11
+"Modifier la section : Insuffisance du partage des connaissances") | [modifier
+le code](/w/index.php?title=Connaissance&action=edit&section=11 "Modifier la
+section : Insuffisance du partage des connaissances")]
+
+Dans l'encyclique _[Centesimus annus](/wiki/Centesimus_annus "Centesimus
+annus")_ (1991), [Jean-Paul II](/wiki/Jean-Paul_II "Jean-Paul II") affirme
+que[21] :
+
+> « à notre époque, il existe une autre forme de propriété et elle a une
+> importance qui n'est pas inférieure à celle de la terre : c'est la propriété
+> de la connaissance, de la technique et du savoir. La richesse des pays
+> industrialisés se fonde bien plus sur ce type de propriété que sur celui des
+> ressources naturelles. »
+
+Il regrette néanmoins que[22] :
+
+> « de nombreux hommes, et sans doute la grande majorité, ne disposent pas
+> aujourd'hui des moyens d'entrer, de manière efficace et digne de l'homme, à
+> l'intérieur d'un système d'entreprise dans lequel le travail occupe une
+> place réellement centrale. Ils n'ont la possibilité ni d'acquérir les
+> connaissances de base qui permettent d'exprimer leur créativité et de
+> développer leurs capacités, ni d'entrer dans le réseau de connaissances et
+> d'intercommunications qui leur permettraient de voir apprécier et utiliser
+> leurs qualités »
+
+Les inégalités dans l'accès aux connaissances apparaissent à l'échelle
+planétaire, comme le révèle une étude du [Secours
+populaire](/wiki/Secours_populaire "Secours populaire"), qui souligne que 58
+millions d'enfants ne sont pas scolarisés dans le monde, et que l'[accès à
+l'éducation](/wiki/Acc%C3%A8s_%C3%A0_l%27%C3%A9ducation "Accès à l'éducation")
+cristallise les inégalités[23].
+
+## Différents types de
+connaissance[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=12
+"Modifier la section : Différents types de connaissance") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=12 "Modifier la
+section : Différents types de connaissance")]
+
+### Connaissances tacites et
+explicites[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=13
+"Modifier la section : Connaissances tacites et explicites") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=13 "Modifier la
+section : Connaissances tacites et explicites")]
+
+Les [connaissances tacites](/wiki/Connaissance_tacite "Connaissance tacite")
+sont souvent relatives au vécu personnel ; elles regroupent les compétences
+innées ou acquises, le savoir-faire et l'[expérience](/wiki/Exp%C3%A9rience
+"Expérience") (elles sont dites aussi «connaissances implicites»), sont
+généralement difficiles à verbaliser ou à « formaliser », par opposition aux
+connaissances explicites
+
+Les [connaissances explicites](/wiki/Connaissance_explicite "Connaissance
+explicite"), par opposition aux connaissances tacites, sont les connaissances
+clairement articulées sur un document écrit ou dans un système
+[informatique](/wiki/Informatique "Informatique") ; ces connaissances sont
+transférables physiquement, car elles apparaissent sous une forme tangible tel
+qu'un document dossier papier ou un dossier électronique.
+
+Cette distinction est notamment développée par [Michael
+Polanyi](/wiki/Michael_Polanyi "Michael Polanyi").
+
+### Connaissances exclusives et non
+exclusives[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=14
+"Modifier la section : Connaissances exclusives et non exclusives") |
+[modifier le code](/w/index.php?title=Connaissance&action=edit&section=14
+"Modifier la section : Connaissances exclusives et non exclusives")]
+
+La notion de propriété littéraire et artistique est ancienne. La [Convention
+de Berne pour la protection des œuvres littéraires et
+artistiques](/wiki/Convention_de_Berne_pour_la_protection_des_%C5%93uvres_litt%C3%A9raires_et_artistiques
+"Convention de Berne pour la protection des œuvres littéraires et
+artistiques") en a fixé un certain nombre de règles au niveau international en
+[1886](/wiki/1886 "1886"). Mais la notion de [propriété
+intellectuelle](/wiki/Propri%C3%A9t%C3%A9_intellectuelle "Propriété
+intellectuelle"), initialement plutôt liée au domaine artistique, s'est
+élargie dans les années 1950 pour intégrer tous les outils de protection de la
+[propriété industrielle](/wiki/Propri%C3%A9t%C3%A9_industrielle "Propriété
+industrielle") : [brevets](/wiki/Brevet "Brevet"),
+[marques](/wiki/Droit_des_marques "Droit des marques"), [dessins et modèles
+industriels](/wiki/Dessins_et_mod%C3%A8les_industriels "Dessins et modèles
+industriels")... L'[organisation mondiale de la propriété
+intellectuelle](/wiki/Organisation_mondiale_de_la_propri%C3%A9t%C3%A9_intellectuelle
+"Organisation mondiale de la propriété intellectuelle") (OMPI) a été créée en
+1967 (voir aussi
+l'[INPI](/wiki/Institut_national_de_la_propri%C3%A9t%C3%A9_industrielle
+"Institut national de la propriété industrielle") en France).
+
+Cet aspect est un enjeu important des discussions qui ont lieu au sein de
+l'[Organisation mondiale du commerce](/wiki/Organisation_mondiale_du_commerce
+"Organisation mondiale du commerce") (OMC), fortement poussées par les États-
+Unis dont l'économie en devient de plus en plus dépendante. On parle des ADPIC
+[Aspects des droits de propriété intellectuelle qui touchent au
+commerce](http://www.unesco.org/culture/industries/trade/html_fr/question14.shtml)
+; en anglais TRIPS (Agreement on Trade-Related Aspects of intellectual
+Property Rights). L'Accord sur les ADPIC a pour but d'intégrer les droits de
+propriété intellectuelle (droits d'auteur, marques de fabrique ou de commerce,
+brevets, etc.) dans le système GATT/OMC. Il s'agit d'une partie de plus en
+plus importante du commerce international.
+
+##
+Bibliographie[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=15
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=15 "Modifier la
+section : Bibliographie")]
+
+  * [Moritz Schlick](/wiki/Moritz_Schlick "Moritz Schlick"), _[Théorie générale de la connaissance](/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_de_la_connaissance "Théorie générale de la connaissance")_ , trad. Christian Bonnet, Éditions Gallimard, coll. « Bibliothèque de philosophie », Paris, 2009, 551 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-07-077185-1](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-07-077185-1 "Spécial:Ouvrages de référence/978-2-07-077185-1"))
+  * (en) [Laurence BonJour](/wiki/Laurence_BonJour "Laurence BonJour"), _The Structure of Empirical Knowledge_ , 1985
+  * (en) [Roderick Chisholm](/wiki/Roderick_Chisholm "Roderick Chisholm"), _Theory of knowledge_ , 1989
+  * Francis Farrugia, _Connaissance et Libération. La socio-anthropologie de Marx, Freud et Marcuse_ , L'Harmattan, Paris, 2017
+
+## Notes et
+références[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=16
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=16 "Modifier la
+section : Notes et références")]
+
+  1. ↑ Godin Christian, Dictionnaire de philosophie, Paris, Fayard, 2004, 1534 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-213-62116-6](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-213-62116-6 "Spécial:Ouvrages de référence/978-2-213-62116-6"))
+  2. ↑ Gérard Mendel, La chasse structurale, Paris, Payot, 1977 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-228-33280-1](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-228-33280-1 "Spécial:Ouvrages de référence/2-228-33280-1"))
+
+Sous-titré Une interprétation du devenir humain
+
+  3. ↑ [Philippe Descola](/wiki/Philippe_Descola "Philippe Descola"), Par delà nature et culture, Paris, Gallimard, 2005, 623 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-07-077263-2](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-07-077263-2 "Spécial:Ouvrages de référence/2-07-077263-2"))
+
+L'anthropologie n'a pas encore pris la mesure de ce constat : dans la
+définition même de son objet - la diversité culturelle sur fond d'universalité
+naturelle - elle perpétue une opposition dont les peuples qu'elle étudie ont
+fait l'économie.
+
+  4. ↑ Mircea Eliade, Le sacré et le profane, Gallimard, 1965 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-07-032454-0](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-07-032454-0 "Spécial:Ouvrages de référence/2-07-032454-0"))
+  5. ↑ Certaines formes de relativismes affirment que la connaissance n'est autre chose que ce qui est tenu pour connaissance par un individu ou une société donnée. Par exemple, ils diront que le fait que la Terre était au centre de l'Univers était une connaissance des Grecs, mais que ce n'est plus une connaissance dans la société moderne. Ces penseurs rejettent l'idée d'une notion objective de connaissance, ou que la connaissance implique la vérité. Une telle position a été défendue par les sociologues des sciences Barry Barnes et David Bloor, par exemple dans Barnes, B. and D. Bloor, _Relativism, Rationalism and the Sociology of Knowledge_ , in M. Hollis and S. Lukes (éds.), _Rationality and Relativism_ , Oxford, Blackwell, 1982, p. 21-47.
+  6. ↑ [Bertrand Russell](/wiki/Bertrand_Russell "Bertrand Russell"), _Problèmes de philosophie_ , chap. 5.
+  7. ↑ Ryle, Gilbert. Le concept d'esprit
+  8. ↑ Voir par exemple Armstrong, David M., _Belief, Truth and Knowledge_ , Cambridge University Press, 1973, p. 137-150. Certains philosophes soutiennent qu'il existe néanmoins une notion faible de connaissance qui est identique à la croyance vraie: voir notamment A. I. Goldman, _Pathways to Knowledge_ , Oxford University Press, Oxford, 2002, p. 183. L'idée que la connaissance est juste la croyance vraie a été défendue par C. Sartwell, _Why Knowledge Is Merely True Belief_ , _The Journal of Philosophy_ 89(4), p. 167–180.
+  9. ↑ Descartes, _Méditations Métaphysiques_.
+  10. ↑ Par exemple R. M. Chisholm, _Perceiving_ , 1957.
+  11. ↑ K. Lehrer, _Theory of Knowledge_.
+  12. ↑ A.I. Goldman, _Epistemology and Cognition_ , Harvard University Press, Cambridge, MA, 1986.
+  13. ↑ P. Unger, _Knowledge as non-accidentally true belief_ , 1968.
+  14. ↑ [texte de la convention de l'UNESCO pour la sauvegarde du patrimoine culturel immatériel](http://www.unesco.org/culture/ich/index.php?pg=00006)
+  15. ↑ Voir : (en) [Economic Growth, by Paul M. Romer: The Concise Encyclopedia of Economics: Library of Economics and Liberty](http://www.econlib.org/library/Enc/EconomicGrowth.html)
+  16. ↑ [Ronald Bailey, _« Post Scarcity Prophet »_, revue Reason, décembre 2001](http://reason.com/archives/2001/12/01/post-scarcity-prophet)
+  17. ↑ Mike Masnick, [_« Knowledge Is A Universal Natural Resource -- And Locking It Up Hurts Everyone »_](https://www.techdirt.com/articles/20120127/09521517567/knowledge-is-universal-natural-resource-locking-it-up-hurts-everyone.shtml), _Techdirt_ , 27 janvier 2012
+  18. ↑ Patrick Serrafero, _Vers la mesure de la quantité de connaissance et de compétence industrielle : le modèle KnoVA._, 1er Colloque Gestion des Compétences et des Connaissances en Génie Industriel, 2002, Nantes.
+  19. ↑ Jean Louis Ermine et als, _MKSM : Méthode pour la gestion des connaissances, Ingénierie des systèmes d'information_, AFCET, Hermès, 1996, Vol. 4, no 4, p. 541-575.
+  20. ↑ Le Manuel du Knowledge Management, mettre en réseau les hommes et les savoirs pour créer de la valeur, Dunod 2007
+  21. ↑ _[Centesimus annus](http://w2.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)_ , § 32
+  22. ↑ _[Centesimus annus](http://w2.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)_ , § 33
+  23. ↑ Hayet Kechit, « Accès à l'éducation, un miroir des inégalités dans le monde », 27 avril 2017, [lire en ligne](https://www.secourspopulaire.fr/acces-leducation-dans-le-monde)
+
+## Articles
+connexes[[modifier](/w/index.php?title=Connaissance&veaction=edit&section=17
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Connaissance&action=edit&section=17 "Modifier la
+section : Articles connexes")]
+
+Sur les autres projets Wikimedia :
+
+  * [Connaissance](https://fr.wikiquote.org/wiki/Connaissance "q:Connaissance"), sur Wikiquote
+
+**Sur les aspects philosophiques**
+
+  * [Connaissance (Philosophie)](/wiki/Connaissance_\(Philosophie\) "Connaissance \(Philosophie\)") | [Théorie de la connaissance](/wiki/Th%C3%A9orie_de_la_connaissance "Théorie de la connaissance")
+  * [Cognitif](/wiki/Cognitif "Cognitif") | [Savoir](/wiki/Savoir "Savoir") | [Connaissance de soi](/wiki/Connaissance_de_soi "Connaissance de soi")
+  * [Concept](/wiki/Concept_\(philosophie\) "Concept \(philosophie\)") | [Cognition](/wiki/Cognition "Cognition") | [Perception](/wiki/Perception "Perception") | [Biais cognitif](/wiki/Biais_cognitif "Biais cognitif")
+  * [Liste des concepts de la philosophie](/wiki/Liste_des_concepts_de_la_philosophie "Liste des concepts de la philosophie")
+
+**Sur les disciplines scientifiques et techniques**
+
+  * [Ontologie](/wiki/Ontologie_\(philosophie\) "Ontologie \(philosophie\)") | [Épistémologie](/wiki/%C3%89pist%C3%A9mologie "Épistémologie")
+  * [Sciences cognitives](/wiki/Sciences_cognitives "Sciences cognitives") | [Cognitique](/wiki/Cognitique "Cognitique") | [Psychologie cognitive](/wiki/Psychologie_cognitive "Psychologie cognitive")
+  * [Logique](/wiki/Logique "Logique")
+  * [Connaissance médicale](/wiki/Connaissance_m%C3%A9dicale "Connaissance médicale") | [Connaissance technique](/wiki/Connaissance_technique "Connaissance technique")
+  * [Connaissance d'office](/wiki/Connaissance_d%27office "Connaissance d'office") en droit
+
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Auguste_Rodin_-_Penseur_50px.png/17px-Auguste_Rodin_-_Penseur_50px.png)](/wiki/Portail:Philosophie "Portail de la philosophie") [Portail de la philosophie](/wiki/Portail:Philosophie "Portail:Philosophie")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Connaissance&oldid=174793611](https://fr.wikipedia.org/w/index.php?title=Connaissance&oldid=174793611)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Concept épistémologique](/wiki/Cat%C3%A9gorie:Concept_%C3%A9pist%C3%A9mologique "Catégorie:Concept épistémologique")
+  * [Pédagogie](/wiki/Cat%C3%A9gorie:P%C3%A9dagogie "Catégorie:Pédagogie")
+  * [Aptitude](/wiki/Cat%C3%A9gorie:Aptitude "Catégorie:Aptitude")
+
+Catégories cachées :
+
+  * [Article à référence souhaitée](/wiki/Cat%C3%A9gorie:Article_%C3%A0_r%C3%A9f%C3%A9rence_souhait%C3%A9e "Catégorie:Article à référence souhaitée")
+  * [Article avec une section vide ou incomplète](/wiki/Cat%C3%A9gorie:Article_avec_une_section_vide_ou_incompl%C3%A8te "Catégorie:Article avec une section vide ou incomplète")
+  * [Portail:Philosophie/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Philosophie/Articles_li%C3%A9s "Catégorie:Portail:Philosophie/Articles liés")
+  * [Portail:Sciences humaines et sociales/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences_humaines_et_sociales/Articles_li%C3%A9s "Catégorie:Portail:Sciences humaines et sociales/Articles liés")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Connaissance "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Connaissance "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Connaissance&oldid=174793611 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Connaissance&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Connaissance&id=174793611&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q9081 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Connaissance)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Connaissance&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Connaissance&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Knowledge)
+  * [Wikiquote](https://fr.wikiquote.org/wiki/Connaissance)
+
+###  Dans d’autres langues
+
+  * [Afrikaans](https://af.wikipedia.org/wiki/Kennis "Kennis — afrikaans")
+  * [Alemannisch](https://als.wikipedia.org/wiki/Wissen "Wissen — Alemannisch")
+  * [Aragonés](https://an.wikipedia.org/wiki/Conoiximiento "Conoiximiento — aragonais")
+  * [العربية](https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%B1%D9%81%D8%A9 "معرفة — arabe")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Conocencia "Conocencia — asturien")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Bilik "Bilik — azéri")
+  * [تۆرکجه](https://azb.wikipedia.org/wiki/%D8%A8%DB%8C%D9%84%DB%8C%D9%85 "بیلیم — South Azerbaijani")
+  * [Башҡортса](https://ba.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B5%D0%BC "Белем — bachkir")
+  * [Boarisch](https://bar.wikipedia.org/wiki/Wissn "Wissn — bavarois")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%92%D0%B5%D0%B4%D1%8B "Веды — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%92%D0%B5%D0%B4%D1%8B "Веды — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5 "Знание — bulgare")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8 "জ্ঞান — bengali")
+  * [Brezhoneg](https://br.wikipedia.org/wiki/Gouiziegezh "Gouiziegezh — breton")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Znanje "Znanje — bosniaque")
+  * [Буряад](https://bxr.wikipedia.org/wiki/%D0%AD%D1%80%D0%B4%D1%8D%D0%BC "Эрдэм — Russia Buriat")
+  * [Català](https://ca.wikipedia.org/wiki/Coneixement "Coneixement — catalan")
+  * [Нохчийн](https://ce.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B0%D1%80 "Хаар — tchétchène")
+  * [ᏣᎳᎩ](https://chr.wikipedia.org/wiki/%E1%8E%A5%E1%8E%A6%E1%8F%94%E1%8E%B2%E1%8E%A2 "ᎥᎦᏔᎲᎢ — cherokee")
+  * [کوردی](https://ckb.wikipedia.org/wiki/%D8%B2%D8%A7%D9%86%DB%8C%D9%86 "زانین — sorani")
+  * [Čeština](https://cs.wikipedia.org/wiki/Poznatek "Poznatek — tchèque")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%9F%C4%95%D0%BB%D3%B3 "Пĕлӳ — tchouvache")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Gwybodaeth_\(epistemoleg\) "Gwybodaeth \(epistemoleg\) — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/Viden "Viden — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Wissen "Wissen — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%93%CE%BD%CF%8E%CF%83%CE%B7 "Γνώση — grec")
+  * [English](https://en.wikipedia.org/wiki/Knowledge "Knowledge — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Scio "Scio — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Conocimiento "Conocimiento — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Teadmine "Teadmine — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Ezagutza "Ezagutza — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4 "دانش — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Tieto "Tieto — finnois")
+  * [Na Vosa Vakaviti](https://fj.wikipedia.org/wiki/Kila_\(ivakavuvuli\) "Kila \(ivakavuvuli\) — fidjien")
+  * [Nordfriisk](https://frr.wikipedia.org/wiki/Weden "Weden — frison du Nord")
+  * [Frysk](https://fy.wikipedia.org/wiki/Kennis "Kennis — frison occidental")
+  * [贛語](https://gan.wikipedia.org/wiki/%E7%9F%A5%E8%AD%98 "知識 — gan")
+  * [Galego](https://gl.wikipedia.org/wiki/Co%C3%B1ecemento "Coñecemento — galicien")
+  * [Hausa](https://ha.wikipedia.org/wiki/Ilmi "Ilmi — haoussa")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%99%D7%93%D7%A2 "ידע — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8 "ज्ञान — hindi")
+  * [Fiji Hindi](https://hif.wikipedia.org/wiki/Jankari "Jankari — hindi fidjien")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Znanje "Znanje — croate")
+  * [Kreyòl ayisyen](https://ht.wikipedia.org/wiki/Konesans "Konesans — créole haïtien")
+  * [Magyar](https://hu.wikipedia.org/wiki/Ismeret "Ismeret — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%B3%D5%AB%D5%BF%D5%A5%D5%AC%D5%AB%D6%84 "Գիտելիք — arménien")
+  * [Interlingua](https://ia.wikipedia.org/wiki/Cognoscentia "Cognoscentia — interlingua")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Pengetahuan "Pengetahuan — indonésien")
+  * [Ilokano](https://ilo.wikipedia.org/wiki/Pannakaammo "Pannakaammo — ilocano")
+  * [Ido](https://io.wikipedia.org/wiki/Savo "Savo — ido")
+  * [Íslenska](https://is.wikipedia.org/wiki/%C3%9Eekking "Þekking — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Conoscenza "Conoscenza — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E7%9F%A5%E8%AD%98 "知識 — japonais")
+  * [Patois](https://jam.wikipedia.org/wiki/Nalij "Nalij — créole jamaïcain")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%AA%E1%83%9D%E1%83%93%E1%83%9C%E1%83%90 "ცოდნა — géorgien")
+  * [Qaraqalpaqsha](https://kaa.wikipedia.org/wiki/Bilim "Bilim — karakalpak")
+  * [Taqbaylit](https://kab.wikipedia.org/wiki/Tamussni "Tamussni — kabyle")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D1%96%D0%BC "Білім — kazakh")
+  * [ಕನ್ನಡ](https://kn.wikipedia.org/wiki/%E0%B2%9C%E0%B3%8D%E0%B2%9E%E0%B2%BE%E0%B2%A8 "ಜ್ಞಾನ — kannada")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%A7%80%EC%8B%9D "지식 — coréen")
+  * [Kurdî](https://ku.wikipedia.org/wiki/Zan%C3%AEn "Zanîn — kurde")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%91%D0%B8%D0%BB%D0%B8%D0%BC "Билим — kirghize")
+  * [Latina](https://la.wikipedia.org/wiki/Scientia_\(declarativa\) "Scientia \(declarativa\) — latin")
+  * [Lëtzebuergesch](https://lb.wikipedia.org/wiki/W%C3%ABssen "Wëssen — luxembourgeois")
+  * [ລາວ](https://lo.wikipedia.org/wiki/%E0%BA%84%E0%BA%A7%E0%BA%B2%E0%BA%A1%E0%BA%AE%E0%BA%B9%E0%BB%89 "ຄວາມຮູ້ — lao")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/%C5%BDinojimas "Žinojimas — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Zin%C4%81%C5%A1anas "Zināšanas — letton")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%B5%D1%9A%D0%B5 "Знаење — macédonien")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%B1%E0%B4%BF%E0%B4%B5%E0%B5%8D "അറിവ് — malayalam")
+  * [Монгол](https://mn.wikipedia.org/wiki/%D0%9C%D1%8D%D0%B4%D0%BB%D1%8D%D0%B3 "Мэдлэг — mongol")
+  * [मराठी](https://mr.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8 "ज्ञान — marathi")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/Pengetahuan "Pengetahuan — malais")
+  * [Mirandés](https://mwl.wikipedia.org/wiki/Coincimiento "Coincimiento — mirandais")
+  * [مازِرونی](https://mzn.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4 "دانش — mazandérani")
+  * [Nāhuatl](https://nah.wikipedia.org/wiki/Machiliztli "Machiliztli — Nāhuatl")
+  * [नेपाल भाषा](https://new.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8 "ज्ञान — newari")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Kennis "Kennis — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Kunnskap "Kunnskap — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Kunnskap "Kunnskap — norvégien bokmål")
+  * [Occitan](https://oc.wikipedia.org/wiki/Coneissen%C3%A7a "Coneissença — occitan")
+  * [ਪੰਜਾਬੀ](https://pa.wikipedia.org/wiki/%E0%A8%97%E0%A8%BF%E0%A8%86%E0%A8%A8 "ਗਿਆਨ — pendjabi")
+  * [Polski](https://pl.wikipedia.org/wiki/Wiedza "Wiedza — polonais")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/Conossensa "Conossensa — piémontais")
+  * [پنجابی](https://pnb.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%DB%8C "جانکاری — Western Punjabi")
+  * [پښتو](https://ps.wikipedia.org/wiki/%D9%BE%D9%88%D9%87%D9%87 "پوهه — pachto")
+  * [Português](https://pt.wikipedia.org/wiki/Conhecimento "Conhecimento — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/Cunoa%C8%99tere "Cunoaștere — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5 "Знание — russe")
+  * [Русиньскый](https://rue.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BD%D1%8F "Знаня — ruthène")
+  * [संस्कृतम्](https://sa.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE "विद्या — sanskrit")
+  * [Саха тыла](https://sah.wikipedia.org/wiki/%D0%91%D0%B8%D0%BB%D0%B8%D0%B8 "Билии — iakoute")
+  * [ᱥᱟᱱᱛᱟᱲᱤ](https://sat.wikipedia.org/wiki/%E1%B1%9C%E1%B1%AE%E1%B1%AD%E1%B1%9F%E1%B1%B1 "ᱜᱮᱭᱟᱱ — santali")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/Canuscenza "Canuscenza — sicilien")
+  * [Scots](https://sco.wikipedia.org/wiki/Knawledge "Knawledge — écossais")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Znanje "Znanje — serbo-croate")
+  * [සිංහල](https://si.wikipedia.org/wiki/%E0%B6%AF%E0%B7%90%E0%B6%AB%E0%B7%94%E0%B6%B8 "දැණුම — cingalais")
+  * [Simple English](https://simple.wikipedia.org/wiki/Knowledge "Knowledge — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Vedenie_\(filozofia\) "Vedenie \(filozofia\) — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Znanje "Znanje — slovène")
+  * [ChiShona](https://sn.wikipedia.org/wiki/Ruzivo "Ruzivo — shona")
+  * [Soomaaliga](https://so.wikipedia.org/wiki/Aqoon "Aqoon — somali")
+  * [Shqip](https://sq.wikipedia.org/wiki/Dituria "Dituria — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D1%9A%D0%B5 "Знање — serbe")
+  * [Sunda](https://su.wikipedia.org/wiki/Pangaweruh "Pangaweruh — soundanais")
+  * [Svenska](https://sv.wikipedia.org/wiki/Kunskap "Kunskap — suédois")
+  * [Kiswahili](https://sw.wikipedia.org/wiki/Ujuzi "Ujuzi — swahili")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%B5%E0%AF%81 "அறிவு — tamoul")
+  * [Тоҷикӣ](https://tg.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B8%D1%88 "Дониш — tadjik")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89 "ความรู้ — thaï")
+  * [Türkmençe](https://tk.wikipedia.org/wiki/Bilim "Bilim — turkmène")
+  * [Tagalog](https://tl.wikipedia.org/wiki/Kaalaman "Kaalaman — tagalog")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Bilgi "Bilgi — turc")
+  * [Xitsonga](https://ts.wikipedia.org/wiki/Vutivi "Vutivi — tsonga")
+  * [Татарча/tatarça](https://tt.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B5%D0%BC "Белем — tatar")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F "Знання — ukrainien")
+  * [اردو](https://ur.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4 "دانش — ourdou")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Bilim "Bilim — ouzbek")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Tri_th%E1%BB%A9c "Tri thức — vietnamien")
+  * [Winaray](https://war.wikipedia.org/wiki/Kaaram "Kaaram — waray")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E7%9F%A5%E8%AF%86 "知识 — wu")
+  * [მარგალური](https://xmf.wikipedia.org/wiki/%E1%83%A0%E1%83%A9%E1%83%A5%E1%83%98%E1%83%9C%E1%83%90 "რჩქინა — mingrélien")
+  * [ייִדיש](https://yi.wikipedia.org/wiki/%D7%95%D7%95%D7%99%D7%A1%D7%9F "וויסן — yiddish")
+  * [Vahcuengh](https://za.wikipedia.org/wiki/Caiz "Caiz — zhuang")
+  * [中文](https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AF%86 "知识 — chinois")
+  * [Bân-lâm-gú](https://zh-min-nan.wikipedia.org/wiki/T%C3%AC-sek "Tì-sek — Chinese \(Min Nan\)")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E7%9F%A5%E8%AD%98 "知識 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q9081#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Connaissance "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Connaissance "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Connaissance "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Connaissance "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Connaissance)
+  * [Modifier](/w/index.php?title=Connaissance&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Connaissance&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Connaissance&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 17 septembre 2020 à 15:33.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Connaissance "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Connaissance&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[réf.]: référence
+  *[(en)]: Langue : anglais
+  *[p.]: page(s)
+  *[1er]: Premier
+  *[no]: numéro
+

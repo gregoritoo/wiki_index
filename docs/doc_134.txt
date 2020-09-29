@@ -1,0 +1,806 @@
+# Didactique
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Ne doit pas être confondu avec [Pédagogie](/wiki/P%C3%A9dagogie "Pédagogie").
+
+La **didactique** est l'étude des questions posées par
+l'[enseignement](/wiki/Enseignement "Enseignement") et
+l'[acquisition](https://fr.wiktionary.org/wiki/acquisition "wikt:acquisition")
+des [connaissances](/wiki/Connaissance "Connaissance") dans les différentes
+[disciplines](/wiki/Discipline_\(sp%C3%A9cialit%C3%A9\) "Discipline
+\(spécialité\)") scolaires. La didactique sert alors à transposer des savoirs
+dits "utiles" en savoirs enseignables, et s'applique à définir avec précision
+chaque objet (savoir) qu'elle souhaite enseigner, mais également à définir
+comment on enseigne cet objet aux apprenants. Depuis les [années
+1970](/wiki/Ann%C3%A9es_1970 "Années 1970"), la didactique s'est développée
+autour des [mathématiques](/wiki/Math%C3%A9matiques "Mathématiques"), des
+[sciences](/wiki/Didactique_des_sciences "Didactique des sciences"), du
+[français](/wiki/Didactique_du_fran%C3%A7ais "Didactique du français"), des
+[langues](/wiki/Didactique_des_langues "Didactique des langues"), des
+[sciences de la vie et de la
+terre](/wiki/Didactique_des_sciences_de_la_vie_et_de_la_terre "Didactique des
+sciences de la vie et de la terre"), de l'[éducation physique et
+sportive](/wiki/Didactique_de_l%27%C3%A9ducation_physique_et_sportive
+"Didactique de l'éducation physique et sportive"), de
+l'[histoire](/wiki/Histoire "Histoire") et de la
+[géographie](/wiki/G%C3%A9ographie "Géographie") ou de la [didactique
+professionnelle](/wiki/Didactique_professionnelle "Didactique
+professionnelle").
+
+## Sommaire
+
+  * 1 Origine du concept
+  * 2 Distinction entre didactique et pédagogie
+  * 3 De la recherche à la formation
+  * 4 Quelques mots-clés de la didactique
+    * 4.1 Le constructivisme
+    * 4.2 Les conceptions
+    * 4.3 Situation-problème
+    * 4.4 Le triangle didactique
+    * 4.5 Situation, milieu didactique
+    * 4.6 Le contrat didactique
+    * 4.7 La transposition didactique et les pratiques de référence
+    * 4.8 Curriculum prescrit, réel, caché
+    * 4.9 Obstacle épistémologique, obstacle didactique, objectif-obstacle
+    * 4.10 Questions socialement vives
+  * 5 Classification de la Didactique des Disciplines
+  * 6 Bibliographie
+  * 7 Notes et références
+  * 8 Voir aussi
+    * 8.1 Articles connexes
+    * 8.2 Liens externes
+      * 8.2.1 Laboratoires
+
+## Origine du
+concept[[modifier](/w/index.php?title=Didactique&veaction=edit&section=1
+"Modifier la section : Origine du concept") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=1 "Modifier la section
+: Origine du concept")]
+
+Les racines de la didactique remontent à l'Antiquité avec des traces écrites
+datant des philosophes grecs et des civilisations orientales antiques comme la
+Chine.
+
+L'adjectif « didactique » apparaît le premier en 1554, selon le Grand Larousse
+encyclopédique. Le Robert de 1955 et le _Littré_ dans son édition de 1960,
+citent « la didactique », en tant que substantif féminin, comme étant « l'art
+d'enseigner ».
+
+Du [XVIIIe](/wiki/XVIIIe_si%C3%A8cle "XVIIIe siècle") au [XXe
+siècles](/wiki/XXe_si%C3%A8cle "XXe siècle"), les théories se multiplient,
+avec de nouvelles perspectives ouvertes par les
+[psychologies](/wiki/Psychologie "Psychologie") de
+l'[éducation](/wiki/Psychologie_de_l%27%C3%A9ducation "Psychologie de
+l'éducation"), la [motivation](/wiki/Psychologie_de_la_motivation "Psychologie
+de la motivation"), ainsi que l'emploi des outils
+[informatiques](/wiki/Informatiques "Informatiques") et de
+l'[internet](/wiki/Internet "Internet") ([e-formation](/wiki/E-formation
+"E-formation"), [intelligence artificielle](/wiki/Intelligence_artificielle
+"Intelligence artificielle") au service de l'apprentissage,
+[wikiversité](/wiki/Wikiversit%C3%A9 "Wikiversité"), etc.) et de
+l'apprentissage tout au long de la vie.
+
+## Distinction entre didactique et
+pédagogie[[modifier](/w/index.php?title=Didactique&veaction=edit&section=2
+"Modifier la section : Distinction entre didactique et pédagogie") | [modifier
+le code](/w/index.php?title=Didactique&action=edit&section=2 "Modifier la
+section : Distinction entre didactique et pédagogie")]
+
+À l'origine, la didactique n'est pas nettement différenciée de la
+[pédagogie](/wiki/P%C3%A9dagogie "Pédagogie")[1] qui est la science prenant en
+charge les problèmes spécifiquement liés à l'enseignement. Mais
+progressivement, la didactique se différencie de la
+[pédagogie](/wiki/P%C3%A9dagogie "Pédagogie") par le rôle central des contenus
+disciplinaires ainsi que par sa dimension traitant de la nature des
+connaissances à enseigner.
+
+À l'origine, des spécialistes de chaque discipline (comme par exemple [G.
+Brousseau](/wiki/Guy_Brousseau "Guy Brousseau"), G. Glaeser, et Y. Chevallard
+en mathématiques ; J.-F. Halté et J.-P. Bronckart en français ; [Goéry
+Delacôte](/wiki/Go%C3%A9ry_Delac%C3%B4te "Goéry Delacôte"), J. L. Malgrange et
+[L. Viennot](/wiki/Laurence_Viennot "Laurence Viennot") en sciences
+expérimentales) ont initié les recherches en didactique.
+
+Des rapprochements ont eu lieu plus tard avec les sciences de l'éducation,
+favorisés par l'existence de structures comme l' _Institut national de
+recherche pédagogique_
+([INRP](/wiki/Institut_fran%C3%A7ais_de_l%27%C3%A9ducation "Institut français
+de l'éducation")), qui a un département de didactique des disciplines, et la
+création des _instituts universitaires de formation des maîtres_
+([IUFM](/wiki/IUFM "IUFM")). C'est ainsi que des physiciens, des biologistes
+et autres spécialistes ont pu devenir enseignants-chercheurs en sciences de
+l'éducation, tout en menant des travaux de didactique dans leur discipline.
+
+[Philippe Meirieu](/wiki/Philippe_Meirieu "Philippe Meirieu") s'interroge, en
+1987, sur la place respective de la didactique et de la pédagogie. Il conclut
+: « _À travers les nombreux débats qui opposent la pédagogie centrée sur
+l'enfant et la didactique centrée sur les savoirs, se réfractent un très vieux
+problème philosophique en même temps que des oppositions qui sont stériles,
+parce que l'apprentissage, c'est précisément la recherche, la prospection
+permanente dans ces deux domaines et l'effort pour les mettre en contact. Il
+faudrait enfin qu'on arrive à sortir de cette méthode qui consiste toujours à
+penser sur le mode de variation en sens inverse, à dire que plus je
+m'intéresse à l'élève, moins je m'intéresse au savoir ou plus je m'intéresse
+au savoir, moins je m'intéresse à l'élève..._ »[2]. Pour cet auteur, c'est
+l'apprentissage qui est capable d'intégrer les doubles réflexions nécessaires
+d'essence pédagogique et didactique.
+
+Guy Avanzini souligne à propos de cette réconciliation entre la didactique et
+la pédagogie que « _la recherche didactique a toute sa portée et son ampleur,
+mais elle ne l'atteint que prise en compte dans un ensemble plus vaste, et à
+condition d'accepter le facteur d’irrationalité, de fortuité, que l'approche
+expérimentaliste prétend en vain réduire, mais que la considération des
+situations réelles oblige à introduire dans la compréhension de la réussite ou
+de l'[échec scolaire](/wiki/%C3%89chec_scolaire "Échec scolaire")..._ »[3].
+
+## De la recherche à la
+formation[[modifier](/w/index.php?title=Didactique&veaction=edit&section=3
+"Modifier la section : De la recherche à la formation") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=3 "Modifier la section
+: De la recherche à la formation")]
+
+Les premiers travaux ont souvent privilégié l'analyse des difficultés des
+élèves et des étudiants dans les apprentissages conceptuels. Ce travail est
+toujours en cours dans de nombreux domaines. Il peut être mené du primaire
+jusqu'à l'université, avec des modalités évidemment fort différentes suivant
+les niveaux d'enseignement et leurs objectifs. Les résultats débouchent sur
+des travaux dits d'"ingénierie didactique" quand il s'agit de questionner les
+séquences d'apprentissage et d'utiliser les résultats pour construire de
+nouvelles séquences. Une autre partie de la didactique concerne l'étude et la
+contribution à l'évolution même des contenus disciplinaires. Cette partie de
+la didactique centrée sur le choix de contenus, de leur organisation dans un
+curriculum (prescrit ou réel) relève donc d'une didactique curriculaire.
+Enfin, depuis quelques années, en France, tout un ensemble de travaux porte
+sur les questions de formation des maîtres, l'expression désignant aussi bien
+la formation initiale que continue, la formation des enseignants de
+l'[enseignement primaire](/wiki/%C3%89cole_primaire_en_France "École primaire
+en France") et de ceux de l'[enseignement
+secondaire](/wiki/Enseignement_secondaire "Enseignement secondaire").
+
+En France, des groupes de recherche en didactique se sont constitués dans
+plusieurs universités. Les résultats de leurs travaux sont publiés dans les
+meilleures revues internationales ( _[Science
+Education](/wiki/Science_Education "Science Education")_ , _International
+Journal of Science Education_ , _[Educational Studies in
+Mathematics](/w/index.php?title=Educational_Studies_in_Mathematics&action=edit&redlink=1
+"Educational Studies in Mathematics \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Educational_Studies_in_Mathematics
+"en:Educational Studies in Mathematics")_, etc.) ou dans des revues de langue
+française (par exemple _Education & Didactique_, _Recherches en didactique des
+sciences et des technologies_ pour les sciences, ou _Recherches en didactique
+des mathématiques_ ). Des formations doctorales spécialisées se sont
+constituées dont sont issues de nombreuses thèses. Ces groupes de recherche se
+sont souvent associés avec des instituts universitaires de formation des
+maîtres ([IUFM](/wiki/IUFM "IUFM")). Une conséquence en est que la didactique
+est entrée dans la formation des enseignants. Les concours font une place à ce
+type de questions (épreuves sur dossier, épreuves professionnelles, mémoires
+professionnels). Dans de nombreux IUFM, la formation de deuxième année
+contient un module comportant de la didactique. L'une des difficultés pour un
+enseignant débutant est, d'une part d'oublier sa représentation personnelle de
+l'enseignement issue de nombreuses années notamment dans le supérieur
+(épistémologie du maître), et de passer d'une pédagogie centrée sur le contenu
+à une pédagogie centrée sur l'apprenant.
+
+## Quelques mots-clés de la
+didactique[[modifier](/w/index.php?title=Didactique&veaction=edit&section=4
+"Modifier la section : Quelques mots-clés de la didactique") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=4 "Modifier la section
+: Quelques mots-clés de la didactique")]
+
+La didactique a de nombreux liens avec
+l'[épistémologie](/wiki/%C3%89pist%C3%A9mologie "Épistémologie"), la
+[psychologie cognitive](/wiki/Psychologie_cognitive "Psychologie cognitive"),
+et d'autres sciences humaines. Ce faisant, elle a pu parfois profiter de
+concepts de ces domaines, au prix éventuellement d'une adaptation. Elle a
+aussi créé ses propres concepts, orientée en cela par les directions prises
+par la recherche. Les concepts constitutifs de la [didactique des
+sciences](/wiki/Didactique_des_sciences "Didactique des sciences") détaillés
+ci-dessous forment le substrat des recherches en didactique des sciences et,
+parfois même, des mathématiques, au moins en France. En effet il y a une
+réelle interpénétration des recherches de didactique des mathématiques et des
+sciences expérimentales.
+
+### Le
+constructivisme[[modifier](/w/index.php?title=Didactique&veaction=edit&section=5
+"Modifier la section : Le constructivisme") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=5 "Modifier la section
+: Le constructivisme")]
+
+Article détaillé : [Constructivisme](/wiki/Constructivisme_\(psychologie\)
+"Constructivisme \(psychologie\)").
+
+En premier lieu, il importe de tenir compte de ce que l'esprit de l'élève
+n'est pas vierge et n'est pas un récepteur passif d'un [savoir](/wiki/Savoir
+"Savoir") qui serait donné par l'enseignant. Il est nécessaire de prendre en
+compte ses conceptions (représentations) personnelles qui constituent autant
+d'obstacles à l'élaboration de nouvelles connaissances. Cette élaboration doit
+passer par des remises en question et des constructions de ces conceptions.
+Ces phases de mise en question et de reconstruction constituent autant de
+possibles ruptures dans la construction des connaissances ainsi que des
+diverses sources pouvant mener à une véritable conception des choses
+abstraites ou non.
+
+À la suite de Jean Piaget, la [didactique des
+sciences](/wiki/Didactique_des_sciences "Didactique des sciences") a exploré
+le constructivisme en tant que fondement de l'enseignement depuis le primaire,
+jusqu'à des niveaux scolaires élevés (lycée et même début d'université). À
+partir des années 1990 cependant, le paradigme du constructivisme a été
+complété par d'autres paradigmes prenant en compte la complexité de l'acte
+d'enseigner. (voir les articles transposition didactique, situations-
+problèmes, etc.).
+
+### Les
+conceptions[[modifier](/w/index.php?title=Didactique&veaction=edit&section=6
+"Modifier la section : Les conceptions") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=6 "Modifier la section
+: Les conceptions")]
+
+L'acquisition de connaissances n'est pas la simple mémorisation d'informations
+fournies par l'extérieur (le maître, le livre, les médias, etc.). Ces
+informations sont filtrées, interprétées, mises en relation (ou compétition)
+avec des connaissances préalables. L'enseignement de certaines disciplines se
+heurte alors à des conceptions « spontanées » (l'adjectif signifiant non
+construites par l'enseignement) qui peuvent faire obstacle à l'apprentissage.
+Le cas de la physique est particulièrement exemplaire puisque nombre de
+conceptions scientifiques se sont construites contre l'évidence ([G.
+Bachelard](/wiki/Bachelard "Bachelard")) ; ainsi les lois « élémentaires » de
+Galilée et Newton restent difficiles à comprendre parce qu'elles s'opposent au
+« bon sens » commun.
+
+De nombreuses recherches en didactique ont visé l'identification des
+représentations-types - ou conceptions - chez les élèves et les étudiants en
+analysant les « erreurs », leurs raisonnements lors, par exemple, de
+résolutions de problèmes ou en situation de travaux pratiques. (Les deux
+laboratoires de didactique de Paris 7 ont été pionniers en la matière [L.
+Viennot](/wiki/Laurence_Viennot "Laurence Viennot"), Goery Delacote et leurs
+collaborateurs E. Saltiel, M.G. Séré, A. Tiberghien, etc.).
+
+Du point de vue pédagogique, la question porte alors sur la façon de faire
+émerger ces conceptions et, lorsqu'elles ne sont pas compatibles avec le
+savoir enseigné, sur les possibilités de les faire évoluer. On peut par
+exemple s'appuyer sur le jeu de situations-problèmes, suscitant un conflit
+cognitif, devant conduire au changement conceptuel attendu. Le choix de
+situations didactiques (ou a-didactique) est important, que ce soit en
+mathématiques ou en sciences expérimentales. Dans ces derniers domaines,
+intervient l'expérience ainsi que la lecture qu'en fait l'élève. Elle est
+souvent fort différente de celle que voudrait en faire faire l'enseignant.
+L'étude du processus d'interaction de la pensée de l'élève et de l'information
+qu'il filtre de l'expérience est un thème important de la didactique des
+sciences expérimentales. Dans ces processus interviennent également ce qu'on
+appelle les conceptions.
+
+### Situation-
+problème[[modifier](/w/index.php?title=Didactique&veaction=edit&section=7
+"Modifier la section : Situation-problème") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=7 "Modifier la section
+: Situation-problème")]
+
+Article détaillé : [Apprentissage par
+problèmes](/wiki/Apprentissage_par_probl%C3%A8mes "Apprentissage par
+problèmes").
+
+Il s'agit de situations didactiques construites autour d'un « problème », le
+terme désignant un questionnement, une énigme, issue d'un objet, d'une
+observation, etc. (en général avec un support concret), dont la résolution
+nécessite l'investissement des élèves.
+
+Les élèves n'ont pas au départ, tous les moyens de répondre à la question. Ils
+doivent tout d'abord s'approprier le questionnement (dévolution) et mettre en
+œuvre leurs connaissances et leur ingéniosité pour trouver 'une' solution (en
+passant par une expérience concrète si besoin).
+
+La situation didactique peut être choisie par l'enseignant de façon que le
+problème révèle un conflit (cognitif) et que la résolution corresponde donc au
+franchissement d'un obstacle. Enfin, l'activité n'est pas nécessairement
+individuelle mais peut reposer sur un travail de groupe pouvant faire
+apparaître des conflits ([sociocognitifs](/wiki/Conflit_sociocognitif "Conflit
+sociocognitif")). D'après R. Douady, la connaissance que l'on désire voir
+acquérir par l'élève doit être l'outil le plus adapté pour la résolution du
+problème au niveau de l'élève.
+
+### Le triangle
+didactique[[modifier](/w/index.php?title=Didactique&veaction=edit&section=8
+"Modifier la section : Le triangle didactique") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=8 "Modifier la section
+: Le triangle didactique")]
+
+Article détaillé : [Triangle pédagogique](/wiki/Triangle_p%C3%A9dagogique
+"Triangle pédagogique").
+
+La schématisation d'une situation d'enseignement se fait à l'aide du triangle
+didactique (ou pédagogique). ce triangle - représenté en général par EAS
+équilatéral - permet de visualiser les interactions possibles (côtés du
+triangle) entre 3 pôles (les trois sommets du triangle) : le pôle E de
+l'Enseignant (le [maître](/wiki/Professeur_\(enseignant\) "Professeur
+\(enseignant\)")), le pôle A de l'Apprenant (l'[élève](/wiki/%C3%89l%C3%A8ve
+"Élève")) et le pôle S du [Savoir](/wiki/Savoir "Savoir") (mais lequel...?).
+
+Il permet d'analyser les différents modes pédagogiques observés. En
+caricaturant un peu :
+
+  * quand l'interaction E-A est trop privilégiée par l'enseignant (ce qui se produisait parfois juste après mai 68), c'est qu'il a besoin de se sentir bien avec ses élèves et d'être « bien vu » par eux, au détriment de la qualité de son enseignement...
+  * quand l'interaction E-S est trop privilégiée par l'enseignant (ce qui se produit parfois en [classes préparatoires](/wiki/Classes_pr%C3%A9paratoires "Classes préparatoires")), c'est qu'il préfère se faire plaisir avec sa matière plutôt que de s'intéresser à l'impact de son enseignement sur les élèves...
+
+En théorie, l'idéal pour l'enseignant serait donc de privilégier l'interaction
+A-S alors que dans la pratique il fait tout son possible pour bien doser le
+mélange de ces trois interactions, en le saupoudrant de plus ou moins de
+discipline...
+
+La proposition récente de « maître médiateur » va dans ce sens : l'enseignant
+n'est alors plus celui qui délivre le savoir à l'élève (on parle alors de
+savoir [réifié](/wiki/R%C3%A9ification "Réification")), mais celui qui aide
+l'élève à s'approprier ce savoir, cette interaction pouvant être représentée
+par la médiane issue du sommet E dans le triangle EAS.
+
+Favoriser cette interaction A-S nécessite bien sûr de la part de l'enseignant
+la mise en place d'une situation didactique propice à l'appropriation - par
+les élèves - de la (ou des) connaissance(s) qu'il doit transmettre.
+
+### Situation, milieu
+didactique[[modifier](/w/index.php?title=Didactique&veaction=edit&section=9
+"Modifier la section : Situation, milieu didactique") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=9 "Modifier la section
+: Situation, milieu didactique")]
+
+En classe, l'enseignant élabore une _situation_ en fonction d'un objectif
+d'apprentissage, mais en dissimulant suffisamment cet objectif pour que
+l'élève ne puisse l'atteindre que par une adaptation personnelle à la
+situation.
+
+La résolution de la tâche et l'apprentissage qui en résulte dépend de la
+richesse du _milieu didactique_ dans lequel sont alors placés les élèves. Le
+milieu didactique est la partie de la situation d'enseignement avec laquelle
+l'élève est mis en interaction. Il est défini par des aspects matériels
+(instruments, documents, organisation spatiale, etc.) et la dimension
+sémiotique associée (que faire avec, pourquoi faire avec, comment faire
+avec...).
+
+### Le contrat
+didactique[[modifier](/w/index.php?title=Didactique&veaction=edit&section=10
+"Modifier la section : Le contrat didactique") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=10 "Modifier la
+section : Le contrat didactique")]
+
+Le contrat didactique est un concept introduit par [Guy
+Brousseau](/wiki/Guy_Brousseau "Guy Brousseau")[4]. Il le définit comme
+l'ensemble « des relations qui déterminent - explicitement pour une petite
+part, mais surtout implicitement - ce que chaque partenaire va avoir à charge
+de gérer et dont il sera, d'une manière ou d'une autre responsable devant
+l'autre. » Ce qui veut dire qu'« au cours d'une séance » ... « l'élève
+interprète la situation qui lui est présentée, les questions qui lui sont
+posées, les informations qui lui sont fournies, les contraintes qui lui sont
+imposées, en fonction de ce que le maître reproduit, consciemment ou non, de
+façon répétitive dans sa pratique de l'enseignement. » (Brousseau, 1982, p.
+61).
+
+Pour un « bon fonctionnement » de la classe :
+
+  * L'enseignant(e) a des attentes des élèves
+  * Les élèves ont des attentes de l’enseignant(e)
+  * Ces attentes traitent de l'enseignement et de l'apprentissage.
+
+L’efficacité de la relation dépend de la compréhension mutuelle des intentions
+de l’autre.
+
+Exemple de contrat implicite à l'école élémentaire venant d'une recherche de
+[Stella Baruk](/wiki/Stella_Baruk "Stella Baruk")[5] : on a proposé à 97
+élèves de CE1 et CE2 le problème suivant : « Sur un bateau il y a 26 moutons
+et 10 chèvres. Quel est l’âge du capitaine ? ». Parmi les 97 élèves, 76 ont
+donné l’âge du capitaine en utilisant les nombres figurant dans l’énoncé.
+
+Le contrat implicite entre les élèves et l'enseignant(e) pour un problème
+donné peut être interprété par les points suivants : (a) un problème posé a
+une réponse et une seule, (b) pour parvenir à cette réponse, toutes les
+données doivent être utilisées, (c) aucune autre indication n’est nécessaire
+et (d) la solution fait appel aux connaissances enseignées. En conclusion, le
+contrat implicite entre les élèves et l'enseignant peut être interprété par le
+fait que l'enseignant ne peut pas donner des exercices impossibles à résoudre.
+
+### La transposition didactique et les pratiques de
+référence[[modifier](/w/index.php?title=Didactique&veaction=edit&section=11
+"Modifier la section : La transposition didactique et les pratiques de
+référence") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=11 "Modifier la
+section : La transposition didactique et les pratiques de référence")]
+
+Des sociologues, en particulier [Michel Verret](/wiki/Michel_Verret "Michel
+Verret"), ont montré que l'élaboration des contenus disciplinaires est un
+processus complexe, lié à des questions de société. Le jeu des références
+savantes, d'une certaine image de la discipline et des valeurs associées, des
+finalités attribuées à telle ou telle formation conduit à des choix dans les
+contenus. Ce qu'il est important de noter c'est que, même pour des disciplines
+« dures » telles que les mathématiques ou les sciences, le savoir enseigné est
+un savoir reconstruit spécifiquement pour l'enseignement.
+
+Le savoir savant pris en référence est d'une part un savoir décontextualisé et
+souvent coupé de son histoire. Ce savoir savant fait alors l'objet d'une
+transposition (recontextualisation, reproblématisation, voire redéfinitions)
+pour être enseigné à un niveau donné. Cette première transposition faisant
+donc passer d'un savoir savant à un savoir _à enseigner_ , est, de fait,
+suivie par une seconde transposition, celle-là même qui, par sa mise en acte
+par les enseignants (mais aussi l'inspection, les éditeurs, etc.) conduit à un
+savoir _enseigné_ ayant ses spécificités. Plusieurs chercheurs ont travaillé
+sur ce concept de transposition. Y. Chevallard en particulier a su le rendre
+accessible à la communauté des didacticiens en empruntant des concepts
+étrangers aux sciences « dures ». Par exemple il nomme « noosphère »
+l'ensemble des instances de la société qui président à la transposition. Ce
+concept a été créé par un chimiste russe, Vernodsky, généralisé par le père
+Teilhard de Chardin.
+
+On parle souvent de transposition didactique du « savoir », c'est le mot qui
+est utilisé. Il faut avoir à l'esprit que ce savoir est non seulement celui
+des connaissances livresques, mais aussi celui des savoir-faire associés. Le
+choix des savoir-faire à faire acquérir aux élèves dépend évidemment de la
+finalité de l'enseignement et donc des pratiques prises en référence. Une de
+ces références est particulièrement délicate à identifier : enseigner « la »
+démarche expérimentale est un leurre, aucun physicien ni aucun biologiste ne
+soutiendra qu'il existe une démarche type ou unique. Il existe cependant,
+formulées par des didacticiens, des simplifications qui peuvent être utiles
+pour l'enseignement à un niveau élémentaire (par exemple, pour les démarches
+scientifiques, celles provenant de l'analyse critique du [modèle
+OHERIC](/wiki/OHERIC "OHERIC")).
+
+Les pratiques qui servent de références peuvent être celles d'une activité
+professionnelle identifiée mais peuvent être des pratiques sociales,
+l'expression étant prise dans un sens large (J. L. Martinand). On trouve des
+similarités entre ces pratiques professionnelles et certaines capacités
+quotidiennes comme celle qui consiste à demander son chemin, à savoir lire un
+mode d'emploi ou un document technique en allemand, en anglais...
+
+### Curriculum prescrit, réel,
+caché[[modifier](/w/index.php?title=Didactique&veaction=edit&section=12
+"Modifier la section : Curriculum prescrit, réel, caché") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=12 "Modifier la
+section : Curriculum prescrit, réel, caché")]
+
+Historiquement, la notion de curriculum n'est pas un concept de la didactique
+: dans les pays anglo-saxons, on parle de curriculum pour désigner le parcours
+éducatif proposé aux apprenants, alors qu'en France on parle de cursus. Un
+curriculum, au sens commun, représente donc un parcours (cf. _curriculum vita_
+e) et, dans le champ éducatif, représente un parcours de formation.
+
+Ph. Perrenoud propose de distinguer deux niveaux :
+
+  * celui de la « programmation » d'un parcours éducatif, notamment dans l'esprit de l'éducateur ; c'est le niveau du _curriculum prescrit_ (ou formel) : c'est un ensemble de textes et de représentations ;
+  * celui des expériences que vit l'apprenant et qui le transforment ; c'est le niveau du _curriculum réel_ (ou réalisé) car même lorsque le curriculum prescrit est entièrement respecté, les apprentissages attendus ne se font totalement que pour une fraction des élèves.
+
+Mais dans ce curriculum réel deux parties sont à distinguer :
+
+  * une partie manifeste, qui serait la traduction plus ou moins fidèle d'une intention d'instruire, la mise en œuvre d'un curriculum prescrit ;
+  * une partie cachée, qui engendrerait régulièrement des expériences formatrices à l'insu des intéressés ou du moins sans que de tels apprentissages aient été volontairement favorisés : le _curriculum caché_.
+
+### [Obstacle épistémologique](/wiki/Obstacle_%C3%A9pist%C3%A9mologique
+"Obstacle épistémologique"), [obstacle didactique](/wiki/Obstacle_didactique
+"Obstacle didactique"), objectif-
+obstacle[[modifier](/w/index.php?title=Didactique&veaction=edit&section=13
+"Modifier la section : Obstacle épistémologique, obstacle didactique,
+objectif-obstacle") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=13 "Modifier la
+section : Obstacle épistémologique, obstacle didactique, objectif-obstacle")]
+
+L'histoire des concepts scientifiques
+([épistémologie](/wiki/%C3%89pist%C3%A9mologie "Épistémologie")) montre que
+ceux-ci se sont construits contre l'évidence empirique et par paliers de
+rectification des connaissances antérieures, voire de modifications profondes
+de ces dernières. La progression dans la connaissance a donc mis en évidence
+des obstacles à franchir. C'est la notion d' _[obstacle
+épistémologique](/wiki/Obstacle_%C3%A9pist%C3%A9mologique "Obstacle
+épistémologique")_ introduite par [Gaston Bachelard](/wiki/Gaston_Bachelard
+"Gaston Bachelard").
+
+Dans le cadre de l'enseignement, l'apprentissage d'une nouvelle connaissance
+peut également nécessiter de franchir un obstacle, qu'il soit celui de «
+l'évidence » issue de la vie courante et des systèmes « explicatifs » ainsi
+présents dans l'esprit de l'apprenant, ou qu'il soit celui d'une difficulté
+conceptuelle liée au domaine lui-même (conception de la conservation de la
+matière, concept d'énergie, de température, de champ, etc.). À l'aspect
+épistémologique présenté ci-dessus, correspond donc un aspect psychologique
+inauguré par [Jean Piaget](/wiki/Jean_Piaget "Jean Piaget").
+
+Du point de vue didactique, ces obstacles, qualifiés parfois _[d'obstacles
+didactiques](/wiki/Obstacle_didactique "Obstacle didactique")_ , peuvent alors
+être considérés comme des étapes-clés à franchir, et donc comme des objectifs
+de l'enseignement. C'est le concept _d'objectif-obstacle_ introduit par [Jean-
+Louis Martinand](/wiki/Jean-Louis_Martinand "Jean-Louis Martinand").
+
+### Questions socialement
+vives[[modifier](/w/index.php?title=Didactique&veaction=edit&section=14
+"Modifier la section : Questions socialement vives") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=14 "Modifier la
+section : Questions socialement vives")]
+
+Les Questions Socialement Vives sont des questions d'actualité faisant l'objet
+d'enseignement et donnant lieu à des débats au sein de la société, des médias
+et des écoles. La didactique des Questions Socialement Vives peut être reliée
+au courant anglo-saxon des [socio-scientific
+issues](https://en.wikipedia.org/wiki/Socio-scientific_issues "en:Socio-
+scientific issues"). L'enseignement de ces questions s'appuie sur des savoirs
+non stabilisés aux conséquences sociales et/ou éthiques importantes (OGM,
+nanotechnologies, politiques publiques...). Cet enseignement conduit à
+interroger les controverses et les risques pour favoriser une pensée critique
+et un engagement des apprenants. Il contribue souvent aux « éducations à... »
+avec des formes scolaires renouvelées (débat, dérangement épistémologique,
+usage des TICE...). Parmi les travaux qui font basculer les didactiques dans
+des directions imprévues,on peut citer les recherches sur l'humour en
+particulier, tels qu'ils sont élabores par exemple dans l'ouvrage collectif :
+"rire en philo" (petit pavé, 2017)
+
+Source bibliographique :
+
+  * Legardez A., Simonneaux, L. (2006)., _L'école à l'épreuve de l'actualité. Enseigner des questions vives._ Paris, ESF.
+  * Simonneaux, L. & Legardez, A. (2011). _Développement durable et autres questions d’actualité. Les Questions Socialement Vives dans l’enseignement et la formation._ Educagri Editions.
+
+## Classification de la Didactique des
+Disciplines[[modifier](/w/index.php?title=Didactique&veaction=edit&section=15
+"Modifier la section : Classification de la Didactique des Disciplines") |
+[modifier le code](/w/index.php?title=Didactique&action=edit&section=15
+"Modifier la section : Classification de la Didactique des Disciplines")]
+
+Deux classifications sont actuellement admises par la communauté des
+didacticiens[6] :
+
+  * soit la didactique est classée comme une des sous disciplines des Sciences de l’Éducation
+  * soit la didactique est partie intégrante de la discipline mère. Dans ce cas, elle représente le volet relatif aux dimensions et aux spécificités éducatives liées à cette discipline (exemple de dimension éducative lié à une thématique ou à un concept : évolution historique et épistémologique, transposition didactique, conceptions, ingénierie d'enseignement, situations et stratégies d'enseignement, processus de résolutions, argumentation, débats sociocognitifs, etc., aspects et influences (socioculturelles, politiques, économiques.), etc.)
+
+##
+Bibliographie[[modifier](/w/index.php?title=Didactique&veaction=edit&section=16
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=16 "Modifier la
+section : Bibliographie")]
+
+  * Bachelard G. (1947) _La formation de l'esprit scientifique_. Paris : Vrin
+  * Brousseau G. (1998) _Théorie des situations didactiques_. Grenoble : La Pensée Sauvage
+  * Chevallard Y. (1985) _La transposition didactique_. Grenoble : La Pensée Sauvage. (nouvelle édition augmentée de « _Un exemple de la transposition didactique_ » avec M.-A. Johsua)
+  * Delacôte G. (1996) _Savoir apprendre: les nouvelles méthodes_. Paris : Odile Jacob
+  * Didactique pour enseigner (collectif). (2019). _Didactique pour enseigner_ (Didactique pour enseigner (collectif)). Rennes: PUR.
+  * Giordan A. (1999) _Une didactique pour les sciences expérimentales_. Paris : Belin
+  * Giordan A., Girault Y., Clément P. (1994) _Conceptions et connaissances_. Bernes : Peter Lang
+  * Glaeser G. (1999) _Une introduction à la didactique expérimentale des mathématiques_. Grenoble : La Pensée Sauvage
+  * Martinand J.L. (1996) _Enseignement et apprentissage de la modélisation en sciences_. Paris : Institut National de Recherche Pédagogique
+  * Reuter Y. (dir.), (2007/2010) _Dictionnaire des concepts fondamentaux des didactiques_. Bruxelles : De Boeck
+  * Sensevy, G. (2011). _Le Sens du Savoir. Éléments pour une Théorie de l’Action Conjointe en Didactique_. Bruxelles: De Boeck.
+  * Terrisse A. (2000) Didactique des disciplines. Les références au savoir. De Boeck Université
+  * Verret M. (1975) _Le temps des études_. Thèse. Université de Lille III
+  * Viennot L. (2003) _Raisonner en physique: La part du sens commun_. De Boeck Université
+  * Narcy-Combes M.-F. (2005) _Précis de didactique, devenir professeur de langues_. Ellipses
+
+## Notes et
+références[[modifier](/w/index.php?title=Didactique&veaction=edit&section=17
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=17 "Modifier la
+section : Notes et références")]
+
+  1. ↑ _La des sciences_. Jean-Pierre Astolfi et Michel Develay. PUF
+  2. ↑ Pédagogie générales, Nancy, MAFPEN, 1987.
+  3. ↑ À propos de la didactique, Revue Simon, N° 606, 1986.
+  4. ↑ Brousseau G. (1998). _Théorie des situations didactiques_. Grenoble, La Pensée sauvage.
+  5. ↑ Stella Baruk (1985). _L’âge du capitaine : de l'erreur en mathématiques_. Editions points.
+  6. ↑ Extraite du portail de didactique des disciplines" <http://www.didactique.info>"
+
+## Voir
+aussi[[modifier](/w/index.php?title=Didactique&veaction=edit&section=18
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=18 "Modifier la
+section : Voir aussi")]
+
+Sur les autres projets Wikimedia :
+
+  * [didactique](https://fr.wiktionary.org/wiki/didactique "wikt:didactique"), sur le Wiktionnaire
+
+### Articles
+connexes[[modifier](/w/index.php?title=Didactique&veaction=edit&section=19
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=19 "Modifier la
+section : Articles connexes")]
+
+  * [Didactique des SVT](/wiki/Didactique_des_SVT_\(Sciences_de_la_Vie_et_de_la_Terre\) "Didactique des SVT \(Sciences de la Vie et de la Terre\)")
+  * [Didactique de l'EPS](/wiki/Didactique_de_l%27EPS "Didactique de l'EPS")
+  * [Didactique de la philosophie](/wiki/Didactique_de_la_philosophie "Didactique de la philosophie")
+  * [Édumétrie](/wiki/%C3%89dum%C3%A9trie "Édumétrie")
+  * [Psychologie de l'apprentissage](/wiki/Psychologie_de_l%27apprentissage "Psychologie de l'apprentissage")
+  * [Science de l'éducation](/wiki/Science_de_l%27%C3%A9ducation "Science de l'éducation")
+
+### Liens
+externes[[modifier](/w/index.php?title=Didactique&veaction=edit&section=20
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=20 "Modifier la
+section : Liens externes")]
+
+  * Article Didactique des disciplines (Encyclopédia Universalis) : [[1]](http://www.universalis.fr/encyclopedie/C020096/La_didactique_des_disciplines.htm)
+  * ARDIST (association francophone pour la recherche en didactique des sciences et des technologies) : [[2]](http://ardist.aix-mrs.iufm.fr/?page_id=23)
+  * ARDM Association pour la Recherche en Didactique des Mathématiques : [[3]](http://www.ardm.eu/)
+  * ARCD Association pour des Recherches Comparatistes en Didactique : [[4]](http://python.bretagne.iufm.fr/arcd/)
+  * Institut national de recherche pédagogique (INRP), devenu institut français de l'éducation (IFE) : [[5]](http://www.inrp.fr)
+  * European Science Education Research Association ESERA : [[6]](http://www.naturfagsenteret.no/esera/about.html)
+  * Portail Educatif et Moteur de Recherche en Didactique des Disciplines : [[7]](http://www.didactique.info)
+  * Interface communautaire de didactique: [[8]](http://www.didaquest.org)
+
+####
+Laboratoires[[modifier](/w/index.php?title=Didactique&veaction=edit&section=21
+"Modifier la section : Laboratoires") | [modifier le
+code](/w/index.php?title=Didactique&action=edit&section=21 "Modifier la
+section : Laboratoires")]
+
+  * [LIRDEF](http://lirdef.fr), Laboratoire Interdisciplinaire de Recherche en Didactique, Éducation et Formation, université de Montpellier.
+  * Équipe de Recherche [Traverses 19-21](http://traverses19-21.u-grenoble3.fr/) pôle CEDILIT, université Stendhal Grenoble 3
+  * Laboratoire de Didactique des Sciences d'Orsay (DidaScO[[9]](http://www.didasco.u-psud.fr/), avec GHDSO[[10]](http://www.ghdso.u-psud.fr/) membres de l'EST[[11]](http://www.est.u-psud.fr/))
+  * Centre de Recherche sur l'Éducation, les Apprentissages et la Didactique (CREAD) : [[12]](http://cread.bretagne.iufm.fr/)
+  * Laboratoire PAEDI : Processus d'Action des Enseignants : Déterminants et Impacts : [[13]](http://www.auvergne.iufm.fr/wiki.php?tag=PaediPaedi)
+  * Laboratoire ÉDucation et Apprentissage EDA (EA 4071) [[14]](http://eda.shs.univ-paris5.fr/)
+  * UMR EFTS (Enseignement Formation Travail Savoirs) - Université de Toulouse : [[15]](http://efts.univ-tlse2.fr/)
+  * UMR STEF ENS Cachan-INRP : [[16]](http://www.stef.ens-cachan.fr/)
+  * Laboratoire Leibniz, didactique @ imag : [[17]](http://www-didactique.imag.fr/)
+  * Laboratoire [André Revuz](/wiki/Andr%C3%A9_Revuz "André Revuz"), recherche en didactiques des mathématiques et des sciences physiques et chimiques (LAR), Université Paris Diderot :[[18]](http://www.lar.univ-paris-diderot.fr). (Équipe d'accueil réunissant les équipes Didirem et LDSP)
+  * Laboratoire [GESTEPRO](http://adef.univ-amu.fr/fr/node/29) (Groupe de recherche en Éducation Scientifique, Technologique et Professionnelle) de l'Unité de Recherche [ADEF](http://adef.univ-amu.fr/fr) (Apprentissage, Didactique, Évaluation, Formation) - Aix-Marseille Université
+  * Laboratoire [ACADIS](http://adef.univ-amu.fr/fr/node/14) (Approches comparatives et anthropologiques du didactique et du scolaire) de l'Unité de Recherche [ADEF](http://adef.univ-amu.fr/fr) (Apprentissage, Didactique, Évaluation, Formation) - Aix-Marseille Université
+  * Laboratoire LAIRDIL (Laboratoire interuniversitaire de Recherche en didactique des langues LANSAD)- Université de Toulouse (www.lairdil.fr)
+  * Laboratoire LIDILEM (LInguistique et DIdactique des Langues Étrangères et Maternelles) — Université Grenoble-Alpes
+
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Desk_chair_icon.svg/24px-Desk_chair_icon.svg.png)](/wiki/Portail:%C3%89ducation "Portail de l’éducation") [Portail de l’éducation](/wiki/Portail:%C3%89ducation "Portail:Éducation")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Didactique&oldid=174320252](https://fr.wikipedia.org/w/index.php?title=Didactique&oldid=174320252)
+».
+
+[Catégorie](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Didactique](/wiki/Cat%C3%A9gorie:Didactique "Catégorie:Didactique")
+
+Catégories cachées :
+
+  * [Article contenant un appel à traduction en anglais](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais "Catégorie:Article contenant un appel à traduction en anglais")
+  * [Portail:Éducation/Articles liés](/wiki/Cat%C3%A9gorie:Portail:%C3%89ducation/Articles_li%C3%A9s "Catégorie:Portail:Éducation/Articles liés")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Didactique "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Didactique "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Didactique&oldid=174320252 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Didactique&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Didactique&id=174320252&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q7921 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Didactique)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Didactique&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Didactique&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Didactic_method)
+
+###  Dans d’autres langues
+
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%A3%D8%B3%D9%84%D9%88%D8%A8_%D8%AA%D8%AF%D8%B1%D9%8A%D8%B3%D9%8A "أسلوب تدريسي — arabe")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Didaktika "Didaktika — azéri")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%94%D1%8B%D0%B4%D0%B0%D0%BA%D1%82%D1%8B%D0%BA%D0%B0 "Дыдактыка — biélorusse")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0 "Дидактика — bulgare")
+  * [Català](https://ca.wikipedia.org/wiki/Did%C3%A0ctica "Didàctica — catalan")
+  * [Čeština](https://cs.wikipedia.org/wiki/Didaktika "Didaktika — tchèque")
+  * [Dansk](https://da.wikipedia.org/wiki/Didaktik "Didaktik — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Didaktik "Didaktik — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%AE "Διδακτική — grec")
+  * [English](https://en.wikipedia.org/wiki/Didactic_method "Didactic method — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Didaktiko "Didaktiko — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Did%C3%A1ctica "Didáctica — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Didaktika "Didaktika — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Didaktika "Didaktika — basque")
+  * [Suomi](https://fi.wikipedia.org/wiki/Didaktiikka "Didaktiikka — finnois")
+  * [Galego](https://gl.wikipedia.org/wiki/Did%C3%A1ctica "Didáctica — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%93%D7%99%D7%93%D7%A7%D7%98%D7%99%D7%A7%D7%94 "דידקטיקה — hébreu")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Didaktika "Didaktika — croate")
+  * [Magyar](https://hu.wikipedia.org/wiki/Didaktika "Didaktika — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%B4%D5%AB%D5%A4%D5%A1%D5%AF%D5%BF%D5%AB%D5%AF%D5%A1 "Դիդակտիկա — arménien")
+  * [Interlingua](https://ia.wikipedia.org/wiki/Didactica "Didactica — interlingua")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Metode_didaktik "Metode didaktik — indonésien")
+  * [Italiano](https://it.wikipedia.org/wiki/Didattica "Didattica — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E6%95%99%E6%8E%88%E5%AD%A6 "教授学 — japonais")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%98%E1%83%93%E1%83%90%E1%83%A5%E1%83%A2%E1%83%98%E1%83%99%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%9B%E1%83%94%E1%83%97%E1%83%9D%E1%83%93%E1%83%98 "დიდაქტიკური მეთოდი — géorgien")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0 "Дидактика — kazakh")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0 "Дидактика — kirghize")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0 "Дидактика — macédonien")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%AC%E0%B5%8B%E0%B4%A7%E0%B4%A8_%E0%B4%B0%E0%B5%80%E0%B4%A4%E0%B4%BF "പ്രബോധന രീതി — malayalam")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Didactiek "Didactiek — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Didaktikk "Didaktikk — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Didaktikk "Didaktikk — norvégien bokmål")
+  * [Polski](https://pl.wikipedia.org/wiki/Dydaktyka "Dydaktyka — polonais")
+  * [پښتو](https://ps.wikipedia.org/wiki/%DA%9A%D9%88%D9%88%D9%86%D9%BE%D9%88%D9%87%D9%86%D9%87 "ښوونپوهنه — pachto")
+  * [Português](https://pt.wikipedia.org/wiki/Did%C3%A1tica "Didática — portugais")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0 "Дидактика — russe")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Didaktika "Didaktika — serbo-croate")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Didaktika "Didaktika — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Didaktika "Didaktika — slovène")
+  * [Shqip](https://sq.wikipedia.org/wiki/Didaktika "Didaktika — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0 "Дидактика — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/Didaktik "Didaktik — suédois")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0 "Дидактика — ukrainien")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Didaktika "Didaktika — ouzbek")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q7921#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Didactique "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Didactique "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Didactique "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Didactique "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Didactique)
+  * [Modifier](/w/index.php?title=Didactique&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Didactique&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Didactique&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 31 août 2020 à 21:40.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Didactique "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Didactique&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[XVIIIe]: 18ᵉ siècle
+  *[XXe]: 20ᵉ siècle
+

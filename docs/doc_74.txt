@@ -1,0 +1,337 @@
+# Scholie
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article ayant un titre homophone, voir [Scolie](/wiki/Scolie "Scolie").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Maass%2C_Ernst_%E2%80%93_Scholia_Graeca_in_Homeri_Iliadem_Townleyana%2C_1887_%E2%80%93_BEIC_3064427.jpg/220px-
+Maass%2C_Ernst_%E2%80%93_Scholia_Graeca_in_Homeri_Iliadem_Townleyana%2C_1887_%E2%80%93_BEIC_3064427.jpg)](/wiki/Fichier:Maass,_Ernst_%E2%80%93_Scholia_Graeca_in_Homeri_Iliadem_Townleyana,_1887_%E2%80%93_BEIC_3064427.jpg)
+
+[](/wiki/Fichier:Maass,_Ernst_%E2%80%93_Scholia_Graeca_in_Homeri_Iliadem_Townleyana,_1887_%E2%80%93_BEIC_3064427.jpg
+"Agrandir")
+
+[Ernst Maass](/w/index.php?title=Ernst_Maass&action=edit&redlink=1 "Ernst
+Maass \(page inexistante\)"), _Scholia Graeca in Homeri, Iliadem Townleyana_
+(1887), une collection de scholie de l'[Iliade](/wiki/Iliade "Iliade") de
+[Homère](/wiki/Hom%C3%A8re "Homère").
+
+Une **scholie** ou **scolie** (du [grec ancien](/wiki/Grec_ancien "Grec
+ancien") σχόλιον / _skhólion_ , « commentaire, scholie », lui-même dérivé de
+σχολή / _skholế_ , « occupation studieuse, étude ») est un commentaire, une
+note [philologique](/wiki/Philologie "Philologie") figurant sur un
+[manuscrit](/wiki/Manuscrit "Manuscrit") et servant à expliquer un texte. «
+C'est une courte note, marginale ou interlinéaire notamment, sur un passage
+précis et difficile du texte (une remarque philologique ou historique, une
+fiche de travail, un fragment, une glose pour soi) ; c'est la forme
+élémentaire de l'exégèse ou de la _lectio divina_ [lecture divine, c'est-à-
+dire de la Bible] »[1].
+
+## Sommaire
+
+  * 1 Vocabulaire
+  * 2 Définition
+  * 3 Éditions modernes et intérêt scientifique
+  * 4 Notes et références
+    * 4.1 Notes
+    * 4.2 Références
+  * 5 Voir aussi
+    * 5.1 Bibliographie
+    * 5.2 Articles connexes
+    * 5.3 Liens externes
+
+## Vocabulaire[[modifier](/w/index.php?title=Scholie&veaction=edit&section=1
+"Modifier la section : Vocabulaire") | [modifier le
+code](/w/index.php?title=Scholie&action=edit&section=1 "Modifier la section :
+Vocabulaire")]
+
+Il ne faut pas confondre avec _[scolie](/wiki/Scolie "Scolie")_ , écrit
+toujours sans _h_ , qui désigne un type de chant à boire grec[note 1]. Les
+auteurs des scholies sont appelés **scholiastes** (ou **scoliastes** ).
+
+## Définition[[modifier](/w/index.php?title=Scholie&veaction=edit&section=2
+"Modifier la section : Définition") | [modifier le
+code](/w/index.php?title=Scholie&action=edit&section=2 "Modifier la section :
+Définition")]
+
+[![2017-fr.wp-orange-
+source.svg](//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2017-fr.wp-
+orange-source.svg/25px-2017-fr.wp-orange-
+source.svg.png)](/wiki/Fichier:2017-fr.wp-orange-source.svg)
+
+**Cette section[ne cite pas suffisamment ses
+sources](/wiki/Wikip%C3%A9dia:Citez_vos_sources "Wikipédia:Citez vos
+sources")** (octobre 2016).
+
+Pour l'améliorer, ajoutez des références
+[vérifiables](/wiki/Wikip%C3%A9dia:V%C3%A9rifiabilit%C3%A9
+"Wikipédia:Vérifiabilité") [[comment faire
+?](/wiki/Aide:Ins%C3%A9rer_une_r%C3%A9f%C3%A9rence_\(%C3%89diteur_visuel\)
+"Aide:Insérer une référence \(Éditeur visuel\)")] ou le modèle [{{Référence
+nécessaire}}](/wiki/Mod%C3%A8le:R%C3%A9f%C3%A9rence_n%C3%A9cessaire
+"Modèle:Référence nécessaire") sur les passages nécessitant une source.
+
+La scholie est « une note explicative, isolée ou appartenant à un commentaire
+suivi d'une œuvre antique »[2]. Les scholies peuvent être marginales (écrites
+dans la marge) ou interlinéaires (insérées dans le texte même, entre les
+lignes). Généralement, la note commence par reprendre le mot ou le passage
+commenté (appelé le « [lemme](/wiki/Lemme_\(linguistique\) "Lemme
+\(linguistique\)") »), puis fait apparaître les commentaires du scholiaste.
+Les scholies des [textes antiques](/wiki/Litt%C3%A9rature_antique "Littérature
+antique") sont une source précieuse d'information, à la fois
+[philologique](/wiki/Philologique "Philologique") et
+[historique](/wiki/Histoire "Histoire").
+
+Les scholiastes sont généralement anonymes. Ils sont désignés d'après l'œuvre
+ou l'auteur qu'ils ont commenté, à la manière des peintres de céramique qui ne
+sont connus que d'après leurs œuvres. On parle ainsi du « scholiaste d'Homère
+» ou du « scholiaste du vers _n_ des _Bacchantes_ d'Euripide ». Ces ajouts
+sont non datés, ce qui rend difficile d'apprécier leur valeur. L'anonymat et
+la difficulté de datation distinguent les scholies des commentaires érudits
+réalisés par un auteur bien identifié, comme les commentaires d'[Eustathe de
+Thessalonique](/wiki/Eustathe_de_Thessalonique "Eustathe de Thessalonique")
+aux épopées d'[Homère](/wiki/Hom%C3%A8re "Homère").
+
+Les scholies sont souvent brèves, mais leur longueur varie beaucoup selon
+l'œuvre commentée et selon les scholiastes. Les commentaires formulés par les
+scholies peuvent être de tous ordres, grammaticaux, littéraires, historiques,
+mythologiques ou scientifiques. Le contenu des scholies peut reprendre
+directement le texte d'un commentaire indépendant déjà existant et que le
+scholiaste a lu, ou bien faire œuvre nouvelle. Le style adopté par les
+scholies varie selon les scholiastes, mais comporte parfois des abréviations
+et des termes de langues techniques qui peuvent en rendre la traduction
+délicate.
+
+## Éditions modernes et intérêt
+scientifique[[modifier](/w/index.php?title=Scholie&veaction=edit&section=3
+"Modifier la section : Éditions modernes et intérêt scientifique") | [modifier
+le code](/w/index.php?title=Scholie&action=edit&section=3 "Modifier la section
+: Éditions modernes et intérêt scientifique")]
+
+En raison de la masse de texte qu'elles représentent, beaucoup de scholies ne
+sont pas disponibles en traduction : elles font plutôt l'objet d'éditions
+savantes où elles sont regroupées dans leur langue d'origine, et sont
+seulement accompagnées d'un appareil critique, parfois en latin. Des
+traductions de choix de scholies sont en revanche régulièrement éditées.
+
+Les scholies sont particulièrement utiles à la compréhension des allusions
+historiques, géographiques ou mythologiques présentes dans les œuvres
+antiques, surtout lorsque celles-ci contiennent des références érudites, comme
+les _[Argonautiques](/wiki/Argonautiques_\(Apollonios_de_Rhodes\)
+"Argonautiques \(Apollonios de Rhodes\)")_ d'[Apollonios de
+Rhodes](/wiki/Apollonios_de_Rhodes "Apollonios de Rhodes") ou l' _Alexandra_
+de [Lycophron](/wiki/Lycophron "Lycophron"). Elles contribuent aussi à notre
+connaissance des conceptions anciennes de la grammaire, de l'histoire de la
+langue et de la [théorie littéraire](/wiki/Th%C3%A9orie_litt%C3%A9raire
+"Théorie littéraire").
+
+Exemples d'éditions de scholies
+
+    
+
+  * _Scholia Graeca in Homeri Iliadem_ , éd. W. Dindorf et E. Maass, 6 volumes, Oxford, 1875-1888 (scholies à l' _[Iliade](/wiki/Iliade "Iliade")_ d'[Homère](/wiki/Hom%C3%A8re "Homère"))
+  * _Scholia Graeca in Homeri Odysseam_ , éd. W. Dindorf, 2 volumes, Oxford, 1855 (scholies à l' _[Odyssée](/wiki/Odyss%C3%A9e "Odyssée")_ d'[Homère](/wiki/Hom%C3%A8re "Homère"))
+  * _Scholia Platonica_ , éd. W. C. Greene, Haveford, American Philological Association, 1938 (scholies à [Platon](/wiki/Platon "Platon"))
+  * _Scholia in Aristotelem_ : _Aristotelis Opera_ , éd. Immanuel Bekker, vol. IV, repr. DeGruyter, 1961 (scholies à [Aristote](/wiki/Aristote "Aristote"))
+
+## Notes et
+références[[modifier](/w/index.php?title=Scholie&veaction=edit&section=4
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Scholie&action=edit&section=4 "Modifier la section :
+Notes et références")]
+
+### Notes[[modifier](/w/index.php?title=Scholie&veaction=edit&section=5
+"Modifier la section : Notes") | [modifier le
+code](/w/index.php?title=Scholie&action=edit&section=5 "Modifier la section :
+Notes")]
+
+  1. ↑ Il existe un autre emploi du mot « scolie » ou « scholie », écrit avec ou sans _h_ : c'est, dans un traité de mathématiques, une remarque qui suit un théorème démontré ou un problème résolu, et dont le contenu se situe en marge de la démarche démonstrative. Ce mot « scholie » est aussi employé dans l' _Éthique_ de [Spinoza](/wiki/Baruch_Spinoza "Baruch Spinoza"), qui se présente comme une démonstration _more geometrico_. Dans cet usage, le mot « scholie » est du genre masculin, alors qu'en [philologie](/wiki/Philologie "Philologie") on lui a donné le genre féminin.
+
+### Références[[modifier](/w/index.php?title=Scholie&veaction=edit&section=6
+"Modifier la section : Références") | [modifier le
+code](/w/index.php?title=Scholie&action=edit&section=6 "Modifier la section :
+Références")]
+
+  1. ↑ Antoine Compagnon, _La Seconde Main ou le Travail de la citation_ , Seuil, 1979, p. 162.
+  2. ↑ 2010 Amigues, p. 391.
+
+## Voir aussi[[modifier](/w/index.php?title=Scholie&veaction=edit&section=7
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Scholie&action=edit&section=7 "Modifier la section :
+Voir aussi")]
+
+###
+Bibliographie[[modifier](/w/index.php?title=Scholie&veaction=edit&section=8
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Scholie&action=edit&section=8 "Modifier la section :
+Bibliographie")]
+
+  * Suzanne Amigues, Théophraste. Recherches sur les plantes. À l’origine de la botanique, Éditions Belin, 2010, 414 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [9782701149967](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9782701149967 "Spécial:Ouvrages de référence/9782701149967")). ![](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-Icon_flat_design_plume.svg.png)
+  * (en) Eleanor Dickey, Ancient Greek Scholarship: A Guide to Finding, Reading, and Understanding Scholia, Commentaries, Lexica, and Grammatical Treatises, American Philological Association, 2007
+
+### Articles
+connexes[[modifier](/w/index.php?title=Scholie&veaction=edit&section=9
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Scholie&action=edit&section=9 "Modifier la section :
+Articles connexes")]
+
+  * [Apparat savant](/wiki/Apparat_savant "Apparat savant")
+  * [Citation](/wiki/Citation "Citation")
+  * [Édition](/wiki/%C3%89dition_\(document\) "Édition \(document\)")
+  * [Homélie](/wiki/Hom%C3%A9lie "Homélie")
+  * [Paléographie](/wiki/Pal%C3%A9ographie "Paléographie")
+  * [Philologie](/wiki/Philologie "Philologie")
+
+### Liens
+externes[[modifier](/w/index.php?title=Scholie&veaction=edit&section=10
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Scholie&action=edit&section=10 "Modifier la section :
+Liens externes")]
+
+  * (en) [Édition des scholies aux pièces d'Euripide](http://euripidesscholia.org/) de Donald J. Mastronarde (Americain Philological Association)
+
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Crystal128-kanagram.svg/24px-Crystal128-kanagram.svg.png)](/wiki/Portail:Linguistique "Portail de la linguistique") [Portail de la linguistique](/wiki/Portail:Linguistique "Portail:Linguistique")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/VictorHugosmallColor.png/24px-VictorHugosmallColor.png)](/wiki/Portail:Litt%C3%A9rature "Portail de la littérature") [Portail de la littérature](/wiki/Portail:Litt%C3%A9rature "Portail:Littérature")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Scholie&oldid=175070457](https://fr.wikipedia.org/w/index.php?title=Scholie&oldid=175070457)
+».
+
+[Catégorie](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Philologie](/wiki/Cat%C3%A9gorie:Philologie "Catégorie:Philologie")
+
+Catégories cachées :
+
+  * [Article manquant de références depuis octobre 2016](/wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences_depuis_octobre_2016 "Catégorie:Article manquant de références depuis octobre 2016")
+  * [Article manquant de références/Liste complète](/wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences/Liste_compl%C3%A8te "Catégorie:Article manquant de références/Liste complète")
+  * [Portail:Linguistique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Linguistique/Articles_li%C3%A9s "Catégorie:Portail:Linguistique/Articles liés")
+  * [Portail:Sciences humaines et sociales/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences_humaines_et_sociales/Articles_li%C3%A9s "Catégorie:Portail:Sciences humaines et sociales/Articles liés")
+  * [Portail:Littérature/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Litt%C3%A9rature/Articles_li%C3%A9s "Catégorie:Portail:Littérature/Articles liés")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Scholie "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Scholie "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Scholie&oldid=175070457 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Scholie&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Scholie&id=175070457&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q1358144 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Scholie)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Scholie&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Scholie&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%AA%D8%B9%D9%84%D9%8A%D9%82%D8%A9 "تعليقة — arabe")
+  * [Català](https://ca.wikipedia.org/wiki/Escolis "Escolis — catalan")
+  * [Čeština](https://cs.wikipedia.org/wiki/Scholion "Scholion — tchèque")
+  * [Dansk](https://da.wikipedia.org/wiki/Scholia "Scholia — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Scholion "Scholion — allemand")
+  * [English](https://en.wikipedia.org/wiki/Scholia "Scholia — anglais")
+  * [Español](https://es.wikipedia.org/wiki/Escolio "Escolio — espagnol")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%AA%D8%B9%D9%84%DB%8C%D9%82%D9%87 "تعلیقه — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Skolia "Skolia — finnois")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%A1%D7%9B%D7%95%D7%9C%D7%99%D7%94 "סכוליה — hébreu")
+  * [Magyar](https://hu.wikipedia.org/wiki/Szkolion "Szkolion — hongrois")
+  * [Italiano](https://it.wikipedia.org/wiki/Scolio "Scolio — italien")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%A5%E1%83%9D%E1%83%9A%E1%83%98%E1%83%9D "სქოლიო — géorgien")
+  * [Latina](https://la.wikipedia.org/wiki/Scholium "Scholium — latin")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Scholion "Scholion — néerlandais")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Skolia "Skolia — norvégien bokmål")
+  * [Polski](https://pl.wikipedia.org/wiki/Scholia "Scholia — polonais")
+  * [Português](https://pt.wikipedia.org/wiki/Esc%C3%B3lio "Escólio — portugais")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%BE%D0%BB%D0%B8%D0%B8 "Схолии — russe")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Sholije "Sholije — serbo-croate")
+  * [Svenska](https://sv.wikipedia.org/wiki/Skolie "Skolie — suédois")
+  * [Türkçe](https://tr.wikipedia.org/wiki/%C5%9Eerh_\(Scholia\) "Şerh \(Scholia\) — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%A1%D1%85%D0%BE%D0%BB%D1%96%D1%8F "Схолія — ukrainien")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q1358144#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Scholie "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Scholie "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Scholie "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Scholie "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Scholie)
+  * [Modifier](/w/index.php?title=Scholie&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Scholie&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Scholie&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 27 septembre 2020 à 08:57.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Scholie "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Scholie&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[p.]: pages
+  *[(en)]: Langue : anglais
+

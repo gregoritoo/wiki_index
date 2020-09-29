@@ -1,0 +1,658 @@
+# Ensemble
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Ensemble
+(homonymie)](/wiki/Ensemble_\(homonymie\) "Ensemble \(homonymie\)").
+
+En [mathématiques](/wiki/Math%C3%A9matiques "Mathématiques"), un **ensemble**
+désigne _intuitivement_ une collection d’objets (les
+[éléments](/wiki/Appartenance_\(math%C3%A9matiques\) "Appartenance
+\(mathématiques\)") de l'ensemble), « une multitude qui peut être comprise
+comme un tout » (au sens d' _[omnis](/wiki/Totalit%C3%A9 "Totalité")_ ).
+
+Dans une approche [axiomatique](/wiki/Axiome "Axiome"), la [théorie des
+ensembles](/wiki/Th%C3%A9orie_des_ensembles "Théorie des ensembles") est une
+théorie de l'[appartenance](/wiki/Appartenance_\(math%C3%A9matiques\)
+"Appartenance \(mathématiques\)") (un élément d'un ensemble est dit «
+appartenir » à cet ensemble). Le mot _ensemble_ désigne alors un objet du
+domaine de cette théorie, dont les axiomes régissent les propriétés. La
+théorie des ensembles est utilisée pour [fonder les
+mathématiques](/wiki/Fondements_des_math%C3%A9matiques "Fondements des
+mathématiques"), et dans cette approche tout objet mathématique est _in fine_
+un ensemble.
+
+Mais la notion d'ensemble est aussi une notion de base qui intervient dans à
+peu près tous les domaines des mathématiques.
+
+## Sommaire
+
+  * 1 Origines
+  * 2 Ensembles, éléments et appartenance
+  * 3 Égalité de deux ensembles
+  * 4 Ensembles finis
+  * 5 Définition d’un ensemble en compréhension
+  * 6 Ensemble défini comme image directe
+  * 7 Autres notations
+  * 8 Notes et références
+    * 8.1 Traduction
+    * 8.2 Références
+  * 9 Voir aussi
+
+## Origines[[modifier](/w/index.php?title=Ensemble&veaction=edit&section=1
+"Modifier la section : Origines") | [modifier le
+code](/w/index.php?title=Ensemble&action=edit&section=1 "Modifier la section :
+Origines")]
+
+La formulation en reviendrait au mathématicien [Georg
+Cantor](/wiki/Georg_Cantor "Georg Cantor"), qui énonçait : « Par _ensemble,_
+nous entendons toute collection M d'objets _m_ de notre intuition ou de notre
+pensée, définis et distincts, ces objets étant appelés les _éléments_ de M
+»[trad 1],[1]. Ceci était particulièrement novateur, s'agissant d'ensembles
+éventuellement infinis (ce sont ces derniers qui intéressaient Cantor).
+
+Ce qui est en jeu au premier chef dans la notion d'ensemble, c'est la relation
+d’ **appartenance** : un élément _appartient_ à un ensemble. Ce sont les
+propriétés de cette [relation](/wiki/Relation_\(math%C3%A9matiques\) "Relation
+\(mathématiques\)") que [Zermelo](/wiki/Zermelo "Zermelo"), puis d'autres, ont
+axiomatisées en théorie des ensembles. Il est assez remarquable que l'on
+puisse s'en contenter pour une théorie qui peut potentiellement formaliser les
+[mathématiques](/wiki/Math%C3%A9matiques "Mathématiques"). Mais ce n'était pas
+l'intention de Cantor, et il n'avait pas non plus axiomatisé sa théorie.
+
+L'objet de cet article est de donner une approche intuitive de la notion
+d'ensemble, telle qu'elle est indiquée dans l'article [théorie naïve des
+ensembles](/wiki/Th%C3%A9orie_na%C3%AFve_des_ensembles "Théorie naïve des
+ensembles").
+
+## Ensembles, éléments et
+appartenance[[modifier](/w/index.php?title=Ensemble&veaction=edit&section=2
+"Modifier la section : Ensembles, éléments et appartenance") | [modifier le
+code](/w/index.php?title=Ensemble&action=edit&section=2 "Modifier la section :
+Ensembles, éléments et appartenance")]
+
+Un _ensemble_ peut être vu comme une sorte de sac virtuel entourant ses
+éléments, ce que modélisent bien les _[diagrammes de
+Venn](/wiki/Diagramme_de_Venn "Diagramme de Venn")_. Souvent (ce n'est pas
+toujours possible), on essaye de le distinguer typographiquement de ses
+éléments, par exemple en utilisant une lettre latine majuscule, par exemple «
+_E_ » ou « _A_ », pour représenter l'ensemble, et des minuscules, telles que «
+_x_ » ou « _n_ », pour ses éléments.
+
+Les _éléments_ peuvent être de n’importe quelle nature :
+[nombres](/wiki/Nombre "Nombre"), [points](/wiki/Point_\(g%C3%A9om%C3%A9trie\)
+"Point \(géométrie\)") géométriques,
+[droites](/wiki/Droite_\(math%C3%A9matiques\) "Droite \(mathématiques\)"),
+[fonctions](/wiki/Application_\(math%C3%A9matiques\) "Application
+\(mathématiques\)"), autres ensembles… On donne donc volontiers des exemples
+d'ensembles en dehors du monde mathématique. Par exemple :
+_[lundi](/wiki/Lundi "Lundi")_ est un élément de l’ensemble des _jours de
+la[semaine](/wiki/Semaine "Semaine")_ ; une
+_[bibliothèque](/wiki/Biblioth%C3%A8que "Bibliothèque")_ est un ensemble de
+livres, etc.
+
+Un même objet peut être élément de plusieurs ensembles : _4_ est un élément de
+l'ensemble des [nombres](/wiki/Nombre "Nombre") entiers, ainsi que de
+l’ensemble des _nombres pairs_ (forcément entiers). Ces deux derniers
+ensembles sont _infinis_ , ils ont une infinité d’éléments.
+
+L'appartenance d'un élément, noté par exemple _x_ , à un ensemble, noté par
+exemple _A_ , s’écrit : _x_ ∈ _A_.
+
+Cet énoncé peut se lire :
+
+  * « _x_ **appartient à** _A_ »,
+  * « _x_ **est élément de** _A_ »,
+  * « _x_ **est dans** _A_ »,
+  * « _A_ **a pour élément** _x_ »,
+  * « _A_ **possède** _x_ »,
+  * ou parfois « _A_ **contient** _x_ » (il y a ambiguïté cependant dans ce dernier cas, _A_ contient _x_ peut signifier que _x_ est un [sous-ensemble](/wiki/Sous-ensemble "Sous-ensemble") de _A_ , c’est-à-dire que _x_ est un ensemble et que tous ses éléments appartiennent à _A_ , ce qui est très différent de « _x_ **appartient à** _A_ »).
+
+Le symbole « ∈ », dérive de la [lettre grecque](/wiki/Alphabet_grec "Alphabet
+grec") ε ( _[epsilon](/wiki/Epsilon "Epsilon")_ ) introduite par [Giuseppe
+Peano](/wiki/Giuseppe_Peano "Giuseppe Peano") dès [1889](/wiki/1889
+"1889")[2].
+
+Pour Peano « _x_ ε _A_ » se lit « _x_ est un _A_ », par exemple « _x_ ε **N**
+» se lit « _x_ est un entier positif ou nul». Le ε renvoie à l'initiale du mot
+« est » (en latin, langue de l'article de Peano de 1889 !), en français, ou en
+italien (« è »). [Bertrand Russell](/wiki/Bertrand_Russell "Bertrand Russell")
+reprend les notations de Peano en 1903 dans les _Principles of Mathematics_
+[3], ouvrage qui va participer à leur diffusion, et où est utilisée la forme
+arrondie vieillie du [epsilon](/wiki/Epsilon "Epsilon") : « ϵ », en usage dans
+l'édition mathématique anglo-saxonne.
+
+Comme souvent pour les relations, on barre ce symbole pour indiquer sa
+négation, la non-appartenance d’un objet à un ensemble :
+
+    « _z_ ∉ _A_ » signifie « _z_ n’appartient pas à _A_ ».
+
+## Égalité de deux
+ensembles[[modifier](/w/index.php?title=Ensemble&veaction=edit&section=3
+"Modifier la section : Égalité de deux ensembles") | [modifier le
+code](/w/index.php?title=Ensemble&action=edit&section=3 "Modifier la section :
+Égalité de deux ensembles")]
+
+En mathématiques – et pas seulement en mathématiques d'ailleurs –, on
+considère que deux objets sont égaux quand ils ont les mêmes propriétés, que
+l'on ne peut donc les distinguer l'un de l'autre – c'est la définition de
+l'égalité de [Leibniz](/wiki/Leibniz "Leibniz"). Dire que deux objets sont
+égaux, c'est-à-dire que deux expressions désignent en fait le même objet,
+c'est donc donner une information sur ce que sont ces objets. En théorie des
+ensembles on décide qu'un ensemble est complètement caractérisé par ses
+éléments, son _[extension](/wiki/Extensivit%C3%A9_et_intensivit%C3%A9
+"Extensivité et intensivité")_ , alors qu'il peut avoir plusieurs définitions.
+Par exemple, il n'y a pas lieu de distinguer l'ensemble des entiers différents
+d'eux-mêmes et l'ensemble des entiers supérieurs à tous les nombres premiers :
+ces deux ensembles sont tous les deux vides, donc égaux – ils ont bien les
+mêmes éléments –, même s'ils ont des définitions différentes, et sont vides
+pour des raisons très différentes.
+
+On dira donc que deux ensembles _A_ et _B_ sont égaux (on le notera comme
+d'habitude _A_ = _B_ ) quand ils ont exactement les mêmes éléments. Cette
+propriété est connue sous le nom
+d'[extensionnalité](/wiki/Axiome_d%27extensionnalit%C3%A9 "Axiome
+d'extensionnalité") :
+
+**(Extensionnalité)** _A_ = _B_ si et seulement si  ∀ _x_ ( _x_ ∈ _A_ ⇔ _x_ ∈
+_B_ )
+
+où « ⇔ » désigne l'équivalence logique. Deux ensembles qui ont les mêmes
+éléments sont bien _identiques_ : tout ce qui peut être dit de l'un peut être
+dit de l'autre. Si nous nous représentons les deux ensembles comme des sacs
+étiquetés chacun par leur nom, s’ils sont égaux, alors il s’agit en fait d’un
+seul et même sac avec _deux_ étiquettes. Par contre, les propriétés d’un
+ensemble ne dépendent absolument pas de la nature ou de la forme du sac,
+seulement de son contenu.
+
+Ainsi un ensemble est complètement déterminé par ses éléments. Quand un
+ensemble est fini, il est donc possible de le définir en donnant la liste de
+ses éléments, que l'on note traditionnellement entre accolades. Par exemple
+l'ensemble auxquels appartiennent les éléments 2, 3, et 5, et seulement ces
+éléments, est noté {2, 3, 5}. L'ensemble est défini en _extension_.
+
+Mais on ne peut procéder ainsi en toute généralité, on ne pourrait définir
+ainsi un ensemble infini. Même si quelques artifices de notation qui
+ressemblent à la notation en extension sont possibles (voir ci-après), la
+façon la plus générale de définir un ensemble est de donner une propriété
+caractéristique des éléments de cet ensemble. Par exemple, on pourra définir
+l'ensemble des [nombres premiers](/wiki/Nombre_premier "Nombre premier") par
+une propriété caractéristique de ceux-ci : être différent de 1 et avoir pour
+seuls diviseurs 1 et lui-même. On parle de définition en _compréhension_ [4].
+L’ensemble {2, 3, 5} peut être défini en compréhension comme l’ensemble de
+tous les nombres premiers inférieurs à 6. La définition en extension des
+ensembles finis peut être vue comme un cas particulier simple de définition en
+compréhension : par exemple l'ensemble {2, 3, 5} est caractérisé par la
+propriété, pour un nombre entier, d'être égal à 2 ou à 3 ou à 5.
+
+## Ensembles
+finis[[modifier](/w/index.php?title=Ensemble&veaction=edit&section=4 "Modifier
+la section : Ensembles finis") | [modifier le
+code](/w/index.php?title=Ensemble&action=edit&section=4 "Modifier la section :
+Ensembles finis")]
+
+Quand on parle d'ensembles finis, c'est en un sens intuitif, sans avoir
+vraiment défini cette notion. Un ensemble est fini quand on peut compter ses
+éléments à l'aide d'entiers tous plus petits qu'un entier donné.
+
+Les ensembles finis peuvent être _définis en extension_ , par la liste de
+leurs éléments, et décrits comme tels ; on place la liste des éléments d'un
+ensemble entre accolades, comme on l'a déjà vu pour l'ensemble {2, 3, 5}. Par
+exemple, l'ensemble des jours de la semaine peut être représenté par { lundi,
+mardi, mercredi, jeudi, vendredi, samedi, dimanche }.
+
+La notation d'un ensemble en extension n'est pas unique : un même ensemble
+peut être noté en extension de façon différentes.
+
+  * L’ordre des éléments est sans importance, par exemple { 1, 2 } = { 2, 1 }.
+  * La répétition d’éléments entre les accolades ne modifie pas l’ensemble :
+
+    toujours avec le même exemple, { 1, 2, 2 } = { 1, 1, 1, 2 } = { 1, 2 }.
+
+À cause de la propriété d'extensionnalité, il n'est pas question de distinguer
+des ensembles par le nombre de répétitions d'un même élément à ces ensembles :
+un élément appartient ou n'appartient pas à un ensemble, il ne peut appartenir
+à un ensemble une, deux, ou trois fois…
+
+On pourrait imposer que la notation se fasse sans répétitions, ce serait assez
+malcommode dès qu'interviennent des variables : on ne pourrait noter un
+ensemble en extension sans devoir supposer que ses éléments sont distincts.
+
+Il peut arriver que l'on ait besoin d'ensemble « avec répétition », dans le
+cas fini, il s'agit plus justement, de suites finies à l'ordre des éléments
+près, on définit alors la notion de [multiensemble](/wiki/Multiensemble
+"Multiensemble") fini (qui peut se définir à partir de la notion de suite
+finie).
+
+Les ensembles réduits à un seul élément sont appelés
+[singletons](/wiki/Singleton_\(math%C3%A9matiques\) "Singleton
+\(mathématiques\)"). Par exemple l'ensemble qui contient pour seul élément 0
+est appelé « singleton 0 » et noté {0}.
+
+Les ensembles qui ont exactement deux éléments sont appelées paires, la paire
+des éléments 1 et 2, notée {1,2}, ne doit pas être confondue avec le
+[couple](/wiki/Couple_\(math%C3%A9matiques\) "Couple \(mathématiques\)")
+(1,2), qui a un ordre déterminé.
+
+Quand on axiomatise la théorie des ensembles, les paires (et singletons)
+jouent un rôle particulier, voir l'article [Axiome de la
+paire](/wiki/Axiome_de_la_paire "Axiome de la paire").
+
+Par extensionnalité, il n'y a qu'un seul ensemble sans éléments, l'ensemble
+vide, que l'on note ∅ ou { }.
+
+## Définition d’un ensemble en
+compréhension[[modifier](/w/index.php?title=Ensemble&veaction=edit&section=5
+"Modifier la section : Définition d’un ensemble en compréhension") | [modifier
+le code](/w/index.php?title=Ensemble&action=edit&section=5 "Modifier la
+section : Définition d’un ensemble en compréhension")]
+
+Un ensemble peut être _défini en compréhension_ , c’est-à-dire qu'on le
+définit par une propriété caractéristique parmi les éléments d'un ensemble
+donné. Ainsi l'ensemble des [entiers naturels](/wiki/Entiers_naturels "Entiers
+naturels") pairs est clairement défini en compréhension, par la propriété «
+être pair » parmi les entiers naturels. On peut utiliser la _notation d'un
+ensemble en compréhension_ [5], par exemple pour l'ensemble des entiers
+naturels pairs, on écrira (ℕ désignant l'ensemble des entiers naturels) :
+
+  * { x ∈ N ∣ x p a i r } {\displaystyle \\{x\in \mathbb {N} \mid x\ {\rm {pair\\}}}} ![\\{x\\in {\\mathbb  N}\\mid x\\ {\\rm {pair\\}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/102c0c171e33446290451e6dff8c1ff0312f5864).
+
+On définira de la même façon (ℤ désignant l'ensemble des [entiers
+relatifs](/wiki/Entiers_relatifs "Entiers relatifs")) :
+
+  * { x ∈ Z ∣ − 7 ≤ x ≤ 23 } {\displaystyle \\{x\in \mathbb {Z} \mid -7\leq x\leq 23\\}} ![\\{x\\in {\\mathbb  Z}\\mid -7\\leq x\\leq 23\\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/92282144e7719fd3c665af3f15f07b86b658b7bb) l'ensemble des entiers relatifs compris entre -7 et 23 ;
+  * { x ∈ N ∣ ∃ y ∈ N ( y ≥ 1 e t x = y 2 ) } {\displaystyle \left\\{x\in \mathbb {N} \mid \exists y\in \mathbb {N} \ (y\geq 1\ {\rm {et}}\ x=y^{2})\right\\}} ![\\left\\{x\\in {\\mathbb  N}\\mid \\exists y\\in {\\mathbb  N}\\ \(y\\geq 1\\ {{\\rm {et}}}\\ x=y^{2}\)\\right\\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/dffb947dded99af8c43c9e4483acd3cf821656c5) l'ensemble des carrés parfaits non nuls.
+
+La formulation générale est :
+
+     { x ∈ E ∣ P ( x ) } {\displaystyle \\{x\in E\mid P(x)\\}} ![{\\displaystyle \\{x\\in E\\mid P\(x\)\\}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/cb52c8a043ca088df039185a63227fadff4a0ec6)
+
+Cette construction a besoin d'un ensemble déjà existant _E_ et d'une propriété
+_P_ définie sur tous les éléments de _E_. Elle permet donc de construire des
+sous-ensembles mais pas la [réunion](/wiki/Union_\(math%C3%A9matiques\) "Union
+\(mathématiques\)") d'une [famille](/wiki/Famille_\(math%C3%A9matiques\)
+"Famille \(mathématiques\)") d'ensembles, ni l'[ensemble des
+parties](/wiki/Ensemble_des_parties "Ensemble des parties") d'un ensemble, ni
+même les ensembles finis définis par la liste de leurs éléments comme au
+paragraphe précédent. On pourrait pourtant écrire, par exemple pour l'ensemble
+des parties _P_ ( _E_ ) = { _A_ | _A_ ⊂ _E_ }
+
+Il n'est pas pour autant possible de définir un ensemble par n'importe quelle
+propriété, et lever entièrement la restriction de la compréhension. Si c'était
+le cas on pourrait définir l'ensemble {x | x ∉ x}, ce qui conduit à une
+contradiction (c'est le [paradoxe de Russell](/wiki/Paradoxe_de_Russell
+"Paradoxe de Russell")). La restriction de la compréhension à un ensemble
+connu protège contre ce genre de paradoxes, elle correspond directement au
+[schéma d'axiomes de
+compréhension](/wiki/Sch%C3%A9ma_d%27axiomes_de_compr%C3%A9hension "Schéma
+d'axiomes de compréhension") de la [théorie de
+Zermelo](/wiki/Th%C3%A9orie_des_ensembles_de_Zermelo-Fraenkel "Théorie des
+ensembles de Zermelo-Fraenkel"). Cette restriction ne peut se lever que dans
+des cas particuliers précis, qui correspondent à d'autres axiomes de la
+théorie de Zermelo ([axiome de la paire](/wiki/Axiome_de_la_paire "Axiome de
+la paire"), [axiome de la réunion](/wiki/Axiome_de_la_r%C3%A9union "Axiome de
+la réunion"), [axiome de l'ensemble des
+parties](/wiki/Axiome_de_l%27ensemble_des_parties "Axiome de l'ensemble des
+parties")).
+
+On n'a pas dit ce que l'on entendait par « propriété » ou « condition ».
+Malgré la restriction précédente, on ne peut tout autoriser, sous peine
+d'autres paradoxes comme le [paradoxe de Richard](/wiki/Paradoxe_de_Richard
+"Paradoxe de Richard") ou le [paradoxe de Berry](/wiki/Paradoxe_de_Berry
+"Paradoxe de Berry"), qui fait intervenir, par exemple, « l'ensemble des
+entiers naturels définissables en moins de quinze mots français ». Il est
+nécessaire de préciser le langage dans lequel on peut définir ces conditions.
+En particulier ce langage doit être défini _a priori_ , et ne peut être étendu
+qu'à l'aide de définitions qui sont soit de simples abréviations, soit
+résultent de preuves d'existence et d'unicité.
+
+## Ensemble défini comme image
+directe[[modifier](/w/index.php?title=Ensemble&veaction=edit&section=6
+"Modifier la section : Ensemble défini comme image directe") | [modifier le
+code](/w/index.php?title=Ensemble&action=edit&section=6 "Modifier la section :
+Ensemble défini comme image directe")]
+
+Pour noter l'ensemble des carrés parfaits non nuls (voir exemple au paragraphe
+précédent) on peut utiliser la notation plus concise :
+
+     { y 2 ∣ y ∈ N et y ≥ 1 } {\displaystyle \\{y^{2}\mid y\in \mathbb {N} {\text{ et }}y\geq 1\\}} ![\\{y^{2}\\mid y\\in {\\mathbb  N}{\\text{ et }}y\\geq 1\\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/bc4d35d80cab05a15988cac650301ec0522c9020)
+
+dont la forme générale est :
+
+     { f ( x ) ; x ∈ E } = { y ∣ ∃ x ∈ E , y = f ( x ) } {\displaystyle \\{f(x);x\in E\\}=\\{y\mid \exists x\in E,y=f(x)\\}} ![\\{f\(x\);x\\in E\\}=\\{y\\mid \\exists x\\in E,y=f\(x\)\\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f48b38b2ca8220aeb8b7b0c27d06adbf5b356d11)
+
+Elle représente l'ensemble des images d'un ensemble _E_ par une application
+_f_. L'ensemble obtenu s'appelle [image directe](/wiki/Image_directe "Image
+directe") de _E_ par _f_. Il s'agit d'une variante de la notation en
+compréhension ci-dessus. Elle se déduit de celle-ci, en utilisant la
+définition d'une [fonction](/wiki/Fonction_\(math%C3%A9matiques\) "Fonction
+\(mathématiques\)"), si _F_ est l'ensemble d'arrivée de la fonction _f_ [6] :
+
+     { f ( x ) ∣ x ∈ E } = { y ∈ F ∣ ∃ x ∈ E , y = f ( x ) } {\displaystyle \\{f(x)\mid x\in E\\}=\\{y\in F\mid \exists x\in E,y=f(x)\\}} ![\\{f\(x\)\\mid x\\in E\\}=\\{y\\in F\\mid \\exists x\\in E,y=f\(x\)\\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/7f3a0ec020625fa9a3dd705472f201d779ce8428).
+
+De cette notation dérivent d'autres notations faciles à comprendre
+
+     2 N = { 2 n ; n ∈ N } {\displaystyle 2\mathbb {N} =\\{2n;n\in \mathbb {N} \\}} ![2{\\mathbb  N}=\\{2n;n\\in \\mathbb{N} \\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/272e0dd72a7fb67f0f1dd0bd123eca4791a6d175)
+     A + B = { a + b ; a ∈ A et b ∈ B } {\displaystyle A+B=\\{a+b;a\in A{\text{ et }}b\in B\\}} ![A+B=\\{a+b;a\\in A{\\text{ et }}b\\in B\\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/fcff31f6fb53a66330652d022c5fc135763afac6)
+     E × F = { ( x , y ) ; x ∈ E et y ∈ F } {\displaystyle E\times F=\\{(x,y);x\in E{\text{ et }}y\in F\\}} ![E\\times F=\\{\(x,y\);x\\in E{\\text{ et }}y\\in F\\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f07206bc35b29d6b89da210dc8c22e7e1870c623)
+     ∏ i ∈ I E i = { ( x i ) i ∈ I ; ∀ i ∈ I , x i ∈ E i } {\displaystyle \prod _{i\in I}E_{i}=\\{(x_{i})_{i\in I};\forall i\in I,x_{i}\in E_{i}\\}} ![\\prod _{{i\\in I}}E_{i}=\\{\(x_{i}\)_{{i\\in I}};\\forall i\\in I,x_{i}\\in E_{i}\\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/2f8e141626c53deaccfa9963028788a084b698fb)
+
+Ces notations ont leur avantage et leur inconvénient. D'un côté, elles
+facilitent une compréhension immédiate des ensembles considérés et rendent
+accessibles à l'intuition des objets plus compliqués. D'un autre côté, ces
+notations masquent un [quantificateur
+existentiel](/wiki/Quantificateur_existentiel "Quantificateur existentiel")
+indispensable dès lors que l'on veut utiliser cet ensemble.
+
+## Autres
+notations[[modifier](/w/index.php?title=Ensemble&veaction=edit&section=7
+"Modifier la section : Autres notations") | [modifier le
+code](/w/index.php?title=Ensemble&action=edit&section=7 "Modifier la section :
+Autres notations")]
+
+Il existe d'autres notations commodes, en particulier pour les ensembles de
+nombres, et plus généralement pour les ensembles [totalement
+ordonnés](/wiki/Relation_d%27ordre "Relation d'ordre").
+
+On peut utiliser des [points de suspension](/wiki/Points_de_suspension "Points
+de suspension"), pour des notations inspirées de la notation en extension pour
+des ensembles de [cardinalité](/wiki/Cardinalit%C3%A9_\(math%C3%A9matiques\)
+"Cardinalité \(mathématiques\)") infinie, ou finie mais non déterminée. Par
+exemple, l’ensemble des entiers naturels peut se noter par : ℕ = { 0, 1, 2, 3,
+… }. S'il est clair par ailleurs que _n_ désigne un entier naturel, {1, 2, … ,
+_n_ }, voire {1, … , _n_ } désigne en général l'ensemble des entiers
+supérieurs ou égaux à 1 et inférieurs ou égaux à _n_. De même on peut écrire ℤ
+= { … , –3, –2, –1, 0, 1, 2, 3, … }.
+
+Quand il y a un procédé itératif simple pour engendrer les éléments de
+l'ensemble, on peut se risquer à des notations comme {0, 2, 4, 6, … } pour
+l'ensemble des entiers naturels pairs, etc.
+
+On peut bien sûr utiliser ces notations pour des ensembles ayant « beaucoup »
+d'éléments, {1, 2, … , 1000} plutôt que d'écrire les mille premiers nombres
+entiers non nuls, ou encore { 3, 5, … , 21 } plutôt que { 3, 5, 7, 9, 11, 13,
+15, 17, 19, 21 }.
+
+Toutes ces notations ne sont pas systématiques, ni universelles, et pour les
+dernières au moins, pas très rigoureuses. On peut encore signaler, la
+notation, rigoureuse celle-ci, de certains sous-ensembles de la droite réelle,
+les [intervalles](/wiki/Intervalle_\(math%C3%A9matiques\) "Intervalle
+\(mathématiques\)").
+
+Par abus de notation, parfois on ne note pas la variable dans la définition en
+compréhension, mais seulement la propriété. Ainsi on note un ensemble en
+plaçant entre accolades la nature, ou une propriété caractéristique, des
+objets qui lui appartiennent. Par exemple la notation {chiens} désigne
+l’ensemble de tous les chiens ; pour prendre un exemple plus mathématique, on
+pourrait écrire parfois {pairs} pour l'ensemble des nombres pairs.
+
+## Notes et
+références[[modifier](/w/index.php?title=Ensemble&veaction=edit&section=8
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Ensemble&action=edit&section=8 "Modifier la section :
+Notes et références")]
+
+### Traduction[[modifier](/w/index.php?title=Ensemble&veaction=edit&section=9
+"Modifier la section : Traduction") | [modifier le
+code](/w/index.php?title=Ensemble&action=edit&section=9 "Modifier la section :
+Traduction")]
+
+  1. ↑ (de) « _Unter einer 'Menge' verstehen wir jede Zusammenfassung M von bestimmten wohlunterscheidbaren Objekten M unserer Anschauung oder unseres Denkens (welche die 'Elemente' von M genannt werden) zu einem Ganzen_ »
+
+### Références[[modifier](/w/index.php?title=Ensemble&veaction=edit&section=10
+"Modifier la section : Références") | [modifier le
+code](/w/index.php?title=Ensemble&action=edit&section=10 "Modifier la section
+: Références")]
+
+  1. ↑ (de) Georg Cantor, « Beiträge zur Begründung der transfiniten Mengenlehre (1) », _Mathematische Annalen_ , vol. 46, 1895, p. 481-512 ([lire en ligne](http://gdz.sub.uni-goettingen.de/index.php?id=img&no_cache=1&IDDOC=36218))
+  2. ↑ dans _Arithmetices Principia, nova methodo exposita_ , Turin, Bocca 1889, rep. Opera Scelte vol II ed. cremonese Roma 1958, voir également du même auteur le _Formulaire de mathématiques_ Tome I (1895) disponible sur [le site de la BNF](https://gallica.bnf.fr/scripts/catalog.php?Mod=i&Titre=&FondsTout=on&FondsTxt=on&FondsImp=on&FondsPer=on&FondsImg=on&FondsAud=on&FondsMan=on&Auteur=Peano&Sujet=&RPT=)
+  3. ↑ Cambridge University Press 1903
+  4. ↑ On parle aussi de définition par _intension_ , par analogie à _extension_. Cet emploi est notamment fréquent dans le contexte des ontologies et dans celui des modèles relationnels de données en informatique (fondements des bases de données).
+  5. ↑ qui apparaît sous une forme un peu différente dans les _Operazioni della logica Deduttiva_ (1888) de Peano (voir Opera Scelte vol II, cité ci-dessus) : on trouve « _x_ : [ _f_ ( _x_ ) = 0] » pour « l'ensemble des _x_ tels que _f_ ( _x_ ) est nul ».
+  6. ↑ En théorie des ensembles, une fonction est souvent définie simplement par son graphe : comme un ensemble de couples ayant les propriétés adéquates. Dans ce cas l'ensemble d'arrivée n'est pas précisé. On montre cependant que l'image directe d'un ensemble par une fonction est un ensemble en utilisant que la projection d'un ensemble de [couples](/wiki/Couple_\(math%C3%A9matiques\) "Couple \(mathématiques\)") est un ensemble, ce qui se déduit du [schéma d'axiomes de compréhension](/wiki/Sch%C3%A9ma_d%27axiomes_de_compr%C3%A9hension "Schéma d'axiomes de compréhension").
+
+## Voir aussi[[modifier](/w/index.php?title=Ensemble&veaction=edit&section=11
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Ensemble&action=edit&section=11 "Modifier la section
+: Voir aussi")]
+
+Sur les autres projets Wikimedia :
+
+  * [ensemble](https://fr.wiktionary.org/wiki/ensemble "wikt:ensemble"), sur le Wiktionnaire
+  * [Ensemble](https://fr.wikiversity.org/wiki/Ensemble_\(math%C3%A9matiques\) "v:Ensemble \(mathématiques\)"), sur Wikiversity
+
+  * [Relation binaire](/wiki/Relation_binaire "Relation binaire")
+  * [Opération ensembliste](/wiki/Op%C3%A9ration_ensembliste "Opération ensembliste")
+  * [Produit cartésien](/wiki/Produit_cart%C3%A9sien "Produit cartésien")
+  * [Ensemble flou](/wiki/Ensemble_flou "Ensemble flou")
+  * [Catégorie des ensembles](/wiki/Cat%C3%A9gorie_des_ensembles "Catégorie des ensembles")
+  * [Classe (mathématiques)](/wiki/Classe_\(math%C3%A9matiques\) "Classe \(mathématiques\)")
+
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logic.svg/48px-Logic.svg.png)](/wiki/Portail:Logique "Portail de la logique") [Portail de la logique](/wiki/Portail:Logique "Portail:Logique")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Ensemble&oldid=174567058](https://fr.wikipedia.org/w/index.php?title=Ensemble&oldid=174567058)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Théorie des ensembles](/wiki/Cat%C3%A9gorie:Th%C3%A9orie_des_ensembles "Catégorie:Théorie des ensembles")
+  * [Objet mathématique](/wiki/Cat%C3%A9gorie:Objet_math%C3%A9matique "Catégorie:Objet mathématique")
+
+Catégories cachées :
+
+  * [Portail:Logique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Logique/Articles_li%C3%A9s "Catégorie:Portail:Logique/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Ensemble "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Ensemble "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Ensemble&oldid=174567058 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Ensemble&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Ensemble&id=174567058&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q36161 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Ensemble)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Ensemble&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Ensemble&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Sets)
+  * [Wikiversité](https://fr.wikiversity.org/wiki/Ensemble_\(math%C3%A9matiques\))
+
+###  Dans d’autres langues
+
+  * [Alemannisch](https://als.wikipedia.org/wiki/Menge_\(Mathematik\) "Menge \(Mathematik\) — Alemannisch")
+  * [አማርኛ](https://am.wikipedia.org/wiki/%E1%88%B5%E1%89%A5%E1%88%B5%E1%89%A5 "ስብስብ — amharique")
+  * [العربية](https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_\(%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA\) "مجموعة \(رياضيات\) — arabe")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Conxuntu "Conxuntu — asturien")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/%C3%87oxluqlar "Çoxluqlar — azéri")
+  * [Башҡортса](https://ba.wikipedia.org/wiki/%D0%9A%D2%AF%D0%BC%D3%99%D0%BA%D0%BB%D0%B5%D0%BA "Күмәклек — bachkir")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%9C%D0%BD%D0%BE%D1%81%D1%82%D0%B2%D0%B0 "Мноства — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%9C%D0%BD%D0%BE%D1%81%D1%82%D0%B2%D0%B0 "Мноства — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%9C%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Множество — bulgare")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%87%E0%A6%9F "সেট — bengali")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Skup_\(matematika\) "Skup \(matematika\) — bosniaque")
+  * [Català](https://ca.wikipedia.org/wiki/Conjunt "Conjunt — catalan")
+  * [کوردی](https://ckb.wikipedia.org/wiki/%DA%A9%DB%86%D9%85%DB%95%DA%B5%DB%95_\(%D9%85%D8%A7%D8%AA%D9%85%D8%A7%D8%AA%DB%8C%DA%A9\) "کۆمەڵە \(ماتماتیک\) — sorani")
+  * [Čeština](https://cs.wikipedia.org/wiki/Mno%C5%BEina "Množina — tchèque")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%99%D1%8B%D1%88 "Йыш — tchouvache")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Set_\(mathemateg\) "Set \(mathemateg\) — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/M%C3%A6ngde "Mængde — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Menge_\(Mathematik\) "Menge \(Mathematik\) — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%A3%CF%8D%CE%BD%CE%BF%CE%BB%CE%BF "Σύνολο — grec")
+  * [English](https://en.wikipedia.org/wiki/Set_\(mathematics\) "Set \(mathematics\) — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Aro_\(matematiko\) "Aro \(matematiko\) — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Conjunto "Conjunto — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Hulk "Hulk — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Multzo "Multzo — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87_\(%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA\) "مجموعه \(ریاضیات\) — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Joukko "Joukko — finnois")
+  * [Võro](https://fiu-vro.wikipedia.org/wiki/Hulk "Hulk — Võro")
+  * [Furlan](https://fur.wikipedia.org/wiki/Insiemi "Insiemi — frioulan")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/Tacar "Tacar — irlandais")
+  * [贛語](https://gan.wikipedia.org/wiki/%E9%9B%86%E5%90%88 "集合 — gan")
+  * [Kriyòl gwiyannen](https://gcr.wikipedia.org/wiki/Ansanm "Ansanm — créole guyanais")
+  * [Gàidhlig](https://gd.wikipedia.org/wiki/%C3%80lach "Àlach — gaélique écossais")
+  * [Galego](https://gl.wikipedia.org/wiki/Conxunto "Conxunto — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%A7%D7%91%D7%95%D7%A6%D7%94_\(%D7%9E%D7%AA%D7%9E%D7%98%D7%99%D7%A7%D7%94\) "קבוצה \(מתמטיקה\) — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%AF_\(%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4\) "समुच्चय \(गणित\) — hindi")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Skup "Skup — croate")
+  * [Magyar](https://hu.wikipedia.org/wiki/Halmaz "Halmaz — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%B2%D5%A1%D5%A6%D5%B4%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6 "Բազմություն — arménien")
+  * [Interlingua](https://ia.wikipedia.org/wiki/Insimul "Insimul — interlingua")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Himpunan_\(matematika\) "Himpunan \(matematika\) — indonésien")
+  * [Ido](https://io.wikipedia.org/wiki/Ensemblo "Ensemblo — ido")
+  * [Íslenska](https://is.wikipedia.org/wiki/Mengi "Mengi — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Insieme "Insieme — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E9%9B%86%E5%90%88 "集合 — japonais")
+  * [Patois](https://jam.wikipedia.org/wiki/Set_\(matimatix\) "Set \(matimatix\) — créole jamaïcain")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%98%E1%83%9B%E1%83%A0%E1%83%90%E1%83%95%E1%83%9A%E1%83%94 "სიმრავლე — géorgien")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%91%D3%A9%D0%BB%D1%96%D0%BA "Бөлік — kazakh")
+  * [ಕನ್ನಡ](https://kn.wikipedia.org/wiki/%E0%B2%97%E0%B2%A3_\(%E0%B2%97%E0%B2%A3%E0%B2%BF%E0%B2%A4\) "ಗಣ \(ಗಣಿತ\) — kannada")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%A7%91%ED%95%A9 "집합 — coréen")
+  * [Kurdî](https://ku.wikipedia.org/wiki/Kom "Kom — kurde")
+  * [Latina](https://la.wikipedia.org/wiki/Copia "Copia — latin")
+  * [Lumbaart](https://lmo.wikipedia.org/wiki/Insemma "Insemma — lombard")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Aib%C4%97 "Aibė — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Kopa "Kopa — letton")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%9C%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Множество — macédonien")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%97%E0%B4%A3%E0%B4%82_\(%E0%B4%97%E0%B4%A3%E0%B4%BF%E0%B4%A4%E0%B4%82\) "ഗണം \(ഗണിതം\) — malayalam")
+  * [Монгол](https://mn.wikipedia.org/wiki/%D0%9E%D0%BB%D0%BE%D0%BD%D0%BB%D0%BE%D0%B3 "Олонлог — mongol")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/Set "Set — malais")
+  * [Эрзянь](https://myv.wikipedia.org/wiki/%D0%92%D0%B5%D0%B9%D1%81%D1%81%D0%B0%D0%B5%D0%B2%D0%BA%D1%81 "Вейссаевкс — erzya")
+  * [Plattdüütsch](https://nds.wikipedia.org/wiki/Koppel_\(Mathematik\) "Koppel \(Mathematik\) — bas-allemand")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Verzameling_\(wiskunde\) "Verzameling \(wiskunde\) — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Mengd "Mengd — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Mengde "Mengde — norvégien bokmål")
+  * [Novial](https://nov.wikipedia.org/wiki/Ensemble "Ensemble — novial")
+  * [Occitan](https://oc.wikipedia.org/wiki/Ensemble "Ensemble — occitan")
+  * [ਪੰਜਾਬੀ](https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A9%88%E0%A9%B1%E0%A8%9F_\(%E0%A8%97%E0%A8%A3%E0%A8%BF%E0%A8%A4\) "ਸੈੱਟ \(ਗਣਿਤ\) — pendjabi")
+  * [Polski](https://pl.wikipedia.org/wiki/Zbi%C3%B3r "Zbiór — polonais")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/Ansem "Ansem — piémontais")
+  * [Português](https://pt.wikipedia.org/wiki/Conjunto "Conjunto — portugais")
+  * [Runa Simi](https://qu.wikipedia.org/wiki/Tantachisqa "Tantachisqa — quechua")
+  * [Română](https://ro.wikipedia.org/wiki/Mul%C8%9Bime "Mulțime — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Множество — russe")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/Nzemi "Nzemi — sicilien")
+  * [Scots](https://sco.wikipedia.org/wiki/Set_\(mathematics\) "Set \(mathematics\) — écossais")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Skup "Skup — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/Set "Set — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Mno%C5%BEina "Množina — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Mno%C5%BEica "Množica — slovène")
+  * [Shqip](https://sq.wikipedia.org/wiki/Bashk%C3%ABsit%C3%AB "Bashkësitë — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%A1%D0%BA%D1%83%D0%BF "Скуп — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/M%C3%A4ngd "Mängd — suédois")
+  * [Ślůnski](https://szl.wikipedia.org/wiki/Mynga_\(matymatyka\) "Mynga \(matymatyka\) — silésien")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%A3%E0%AE%AE%E0%AF%8D_\(%E0%AE%95%E0%AE%A3%E0%AE%BF%E0%AE%A4%E0%AE%AE%E0%AF%8D\) "கணம் \(கணிதம்\) — tamoul")
+  * [తెలుగు](https://te.wikipedia.org/wiki/%E0%B0%B8%E0%B0%AE%E0%B0%BF%E0%B0%A4%E0%B1%81%E0%B0%B2%E0%B1%81 "సమితులు — télougou")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%8B%E0%B8%95_\(%E0%B8%84%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C\) "เซต \(คณิตศาสตร์\) — thaï")
+  * [Tagalog](https://tl.wikipedia.org/wiki/Pangkat_\(matematika\) "Pangkat \(matematika\) — tagalog")
+  * [Türkçe](https://tr.wikipedia.org/wiki/K%C3%BCme "Küme — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%9C%D0%BD%D0%BE%D0%B6%D0%B8%D0%BD%D0%B0 "Множина — ukrainien")
+  * [اردو](https://ur.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D9%85_\(%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C\) "طاقم \(ریاضی\) — ourdou")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/T%E1%BA%ADp_h%E1%BB%A3p_\(to%C3%A1n_h%E1%BB%8Dc\) "Tập hợp \(toán học\) — vietnamien")
+  * [West-Vlams](https://vls.wikipedia.org/wiki/Verzoamelienge "Verzoamelienge — flamand occidental")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E9%9B%86%E5%90%88_\(%E6%95%B0%E5%AD%A6\) "集合 \(数学\) — wu")
+  * [Хальмг](https://xal.wikipedia.org/wiki/%D0%9E%D0%BB%D0%BD "Олн — kalmouk")
+  * [ייִדיש](https://yi.wikipedia.org/wiki/%D7%92%D7%A2%D7%96%D7%A2%D7%9E%D7%9C_\(%D7%9E%D7%90%D7%98%D7%A2%D7%9E%D7%90%D7%98%D7%99%D7%A7\) "געזעמל \(מאטעמאטיק\) — yiddish")
+  * [中文](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88_\(%E6%95%B0%E5%AD%A6\) "集合 \(数学\) — chinois")
+  * [文言](https://zh-classical.wikipedia.org/wiki/%E9%9B%86 "集 — Classical Chinese")
+  * [Bân-lâm-gú](https://zh-min-nan.wikipedia.org/wiki/Chi%CC%8Dp-ha%CC%8Dp "Chi̍p-ha̍p — Chinese \(Min Nan\)")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E9%9B%86%E5%90%88 "集合 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q36161#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Ensemble "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Ensemble "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Ensemble "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Ensemble "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Ensemble)
+  * [Modifier](/w/index.php?title=Ensemble&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Ensemble&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Ensemble&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 9 septembre 2020 à 14:42.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Ensemble "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Ensemble&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[etc.]: et cetera
+  *[(de)]: Langue : allemand
+  *[vol.]: volume
+  *[p.]: page(s)
+

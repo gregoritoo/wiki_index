@@ -1,0 +1,303 @@
+# C
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+    _Pour des raisons techniques, **C#** redirige ici. Pour le langage de programmation, cf. [C sharp](/wiki/C_sharp "C sharp")._
+
+* * *
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Ne pas confondre avec [С](/wiki/%D0%A1 "С"), lettre de l'alphabet cyrillique
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cette page d’[homonymie](/wiki/Aide:Homonymie "Aide:Homonymie") répertorie les
+différents sujets et articles partageant un même nom.
+
+Significations des lettres  
+de l’[alphabet latin](/wiki/Alphabet_latin "Alphabet latin")  
+---  
+[A](/wiki/A "A") | [B](/wiki/B "B") | C | [D](/wiki/D "D") | [E](/wiki/E "E")
+| [F](/wiki/F "F") | [G](/wiki/G "G")  
+[H](/wiki/H "H") | [I](/wiki/I "I") | [J](/wiki/J "J") | [K](/wiki/K "K") |
+[L](/wiki/L "L") | [M](/wiki/M "M") | [N](/wiki/N "N")  
+[O](/wiki/O "O") | [P](/wiki/P "P") | [Q](/wiki/Q "Q") | [R](/wiki/R "R") |
+[S](/wiki/S "S") | [T](/wiki/T "T") | [U](/wiki/U "U")  
+[V](/wiki/V "V") | [W](/wiki/W "W") | [X](/wiki/X "X") | [Y](/wiki/Y "Y") |
+[Z](/wiki/Z "Z") |  
+  
+Sur les autres projets Wikimedia :
+
+  * [C](https://commons.wikimedia.org/wiki/Category:C?uselang=fr), sur Wikimedia Commons
+  * [C](https://fr.wiktionary.org/wiki/C "wikt:C"), sur le Wiktionnaire
+
+**C** peut faire référence à :
+
+  * **[Lettre C](/wiki/C_\(lettre\) "C \(lettre\)")** , la 3e [lettre](/wiki/Lettre_\(typographie\) "Lettre \(typographie\)") et la 2e [consonne](/wiki/Consonne "Consonne") de l'[alphabet latin](/wiki/Alphabet_latin "Alphabet latin") ;
+  * **[C](/wiki/C_\(chiffre_romain\) "C \(chiffre romain\)")** , le nombre [100](/wiki/100_\(nombre\) "100 \(nombre\)") en [chiffre romain](/wiki/Num%C3%A9ration_romaine "Numération romaine").
+
+## Sommaire
+
+  * 1 Arts et culture
+  * 2 Sciences
+    * 2.1 Unités
+      * 2.1.1 Biologie
+      * 2.1.2 Mathématiques
+      * 2.1.3 Langage de programmation
+    * 2.2 Phonétique
+    * 2.3 Physique - Chimie
+  * 3 Divers
+
+## Arts et culture[[modifier](/w/index.php?title=C&veaction=edit&section=1
+"Modifier la section : Arts et culture") | [modifier le
+code](/w/index.php?title=C&action=edit&section=1 "Modifier la section : Arts
+et culture")]
+
+  * _C_ , un [poème](/wiki/Po%C3%A8me "Poème") de [Louis Aragon](/wiki/Louis_Aragon "Louis Aragon") ( _Les Yeux d'Elsa_ , 1942) mis en musique par [Francis Poulenc](/wiki/Francis_Poulenc "Francis Poulenc") ;
+  * [C](/wiki/Ut_\(note\) "Ut \(note\)") correspond à la [note](/wiki/Gamme_musicale "Gamme musicale") do, ou [ut](/wiki/Ut_\(note\) "Ut \(note\)") dans le système anglo-saxon ;
+  * _[C](/wiki/C_\(anime\) "C \(anime\)")_ , une série d'animation japonaise des années 2010.
+
+## Sciences[[modifier](/w/index.php?title=C&veaction=edit&section=2 "Modifier
+la section : Sciences") | [modifier le
+code](/w/index.php?title=C&action=edit&section=2 "Modifier la section :
+Sciences")]
+
+### Unités[[modifier](/w/index.php?title=C&veaction=edit&section=3 "Modifier
+la section : Unités") | [modifier le
+code](/w/index.php?title=C&action=edit&section=3 "Modifier la section :
+Unités")]
+
+  * [c](/wiki/Centi "Centi"), un [préfixe du Système international](/wiki/Pr%C3%A9fixes_du_Syst%C3%A8me_international_d%27unit%C3%A9s "Préfixes du Système international d'unités") signifiant [centi](/wiki/Centi "Centi") (10-2) ;
+  * [c](/wiki/Tasse_\(unit%C3%A9\) "Tasse \(unité\)"), le symbole de la [tasse](/wiki/Tasse_\(unit%C3%A9\) "Tasse \(unité\)") ;
+  * [c](/wiki/Demiard "Demiard"), le symbole du [demiard](/wiki/Demiard "Demiard") ;
+  * [C](/wiki/Coulomb_\(unit%C3%A9\) "Coulomb \(unité\)"), le symbole du [coulomb](/wiki/Coulomb_\(unit%C3%A9\) "Coulomb \(unité\)") ;
+  * [°C](/wiki/Degr%C3%A9_Celsius "Degré Celsius"), le symbole du [degré Celsius](/wiki/Degr%C3%A9_Celsius "Degré Celsius").
+
+#### Biologie[[modifier](/w/index.php?title=C&veaction=edit&section=4
+"Modifier la section : Biologie") | [modifier le
+code](/w/index.php?title=C&action=edit&section=4 "Modifier la section :
+Biologie")]
+
+  * [C](/wiki/Cytosine "Cytosine"), la [cytosine](/wiki/Cytosine "Cytosine") dans la transcription d'une chaîne d'[ADN](/wiki/Acide_d%C3%A9soxyribo-nucl%C3%A9ique "Acide désoxyribo-nucléique") ou d'[ARN](/wiki/Acide_ribonucl%C3%A9ique "Acide ribonucléique") ;
+  * [ C](/wiki/Cyst%C3%A9ine "Cystéine"), la [cystéine](/wiki/Cyst%C3%A9ine "Cystéine") dans la transcription d'une [chaîne polypeptidique](/wiki/Polypeptide "Polypeptide") ;
+  * [Vitamine C](/wiki/Vitamine_C "Vitamine C"), un type de [vitamine](/wiki/Vitamine "Vitamine").
+
+#### Mathématiques[[modifier](/w/index.php?title=C&veaction=edit&section=5
+"Modifier la section : Mathématiques") | [modifier le
+code](/w/index.php?title=C&action=edit&section=5 "Modifier la section :
+Mathématiques")]
+
+  * [ C {\displaystyle \mathbb {C} } ![\\mathbb {C} ](https://wikimedia.org/api/rest_v1/media/math/render/svg/f9add4085095b9b6d28d045fd9c92c2c09f549a7)](/wiki/Nombre_complexe "Nombre complexe"), l'ensemble des [complexes](/wiki/Nombre_complexe "Nombre complexe") ;
+  * C n k {\displaystyle C_{n}^{k}} ![C_{n}^{k}](https://wikimedia.org/api/rest_v1/media/math/render/svg/9b088b67f00e4739e57c658ac7dd5913898013ac) dénote, en France, une _k_ -[combinaison](/wiki/Combinaison_\(math%C3%A9matiques\) "Combinaison \(mathématiques\)") d'un ensemble à _n_ éléments ;
+  * C _k_ désigne la [classe des fonctions _k_ fois continument dérivables](/wiki/Classe_de_r%C3%A9gularit%C3%A9 "Classe de régularité"), de même que C∞ désigne la classe des fonctions indéfiniment dérivables.
+
+#### Langage de
+programmation[[modifier](/w/index.php?title=C&veaction=edit&section=6
+"Modifier la section : Langage de programmation") | [modifier le
+code](/w/index.php?title=C&action=edit&section=6 "Modifier la section :
+Langage de programmation")]
+
+  * [C](/wiki/C_\(langage\) "C \(langage\)") ;
+  * [C++](/wiki/C%2B%2B "C++") ;
+  * [Objective C](/wiki/Objective_C "Objective C") ;
+  * [C#](/wiki/C_sharp "C sharp") ;
+
+### Phonétique[[modifier](/w/index.php?title=C&veaction=edit&section=7
+"Modifier la section : Phonétique") | [modifier le
+code](/w/index.php?title=C&action=edit&section=7 "Modifier la section :
+Phonétique")]
+
+  * [c] est le symbole de l'[alphabet phonétique international](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international") représentant la [consonne occlusive palatale sourde](/wiki/Consonne_occlusive_palatale_sourde "Consonne occlusive palatale sourde").
+  * [ɕ] est le symbole de l'alphabet phonétique international représentant la [consonne fricative alvéolo-palatale sourde](/wiki/Consonne_fricative_alv%C3%A9olo-palatale_sourde "Consonne fricative alvéolo-palatale sourde").
+  * La lettre C est fréquemment utilisée pour représenter toute consonne.
+
+### Physique - Chimie[[modifier](/w/index.php?title=C&veaction=edit&section=8
+"Modifier la section : Physique - Chimie") | [modifier le
+code](/w/index.php?title=C&action=edit&section=8 "Modifier la section :
+Physique - Chimie")]
+
+  * **[C](/wiki/Carbone "Carbone")** , le symbole de l'[élément chimique](/wiki/%C3%89l%C3%A9ment_chimique "Élément chimique") [carbone](/wiki/Carbone "Carbone") ; 
+    * [**C**](/wiki/Carbone_atomique "Carbone atomique"), la [formule chimique](/wiki/Formule_chimique "Formule chimique") du [carbone atomique](/wiki/Carbone_atomique "Carbone atomique") ;
+  * **[c](/wiki/Vitesse_de_la_lumi%C3%A8re "Vitesse de la lumière")** , la célérité de la lumière c'est-à-dire la [vitesse de la lumière](/wiki/Vitesse_de_la_lumi%C3%A8re "Vitesse de la lumière") dans le vide ;
+  * **[C](/wiki/Concentration_molaire "Concentration molaire")** , la [concentration molaire](/wiki/Concentration_molaire "Concentration molaire") d'un soluté dans une solution ;
+  * **[C](/wiki/Condensateur_\(%C3%A9lectricit%C3%A9\) "Condensateur \(électricité\)")** , un [condensateur](/wiki/Condensateur_\(%C3%A9lectricit%C3%A9\) "Condensateur \(électricité\)") dans un schéma de [circuit électronique](/wiki/Circuit_%C3%A9lectronique "Circuit électronique").
+
+## Divers[[modifier](/w/index.php?title=C&veaction=edit&section=9 "Modifier la
+section : Divers") | [modifier le
+code](/w/index.php?title=C&action=edit&section=9 "Modifier la section :
+Divers")]
+
+  * [Génération C](/wiki/G%C3%A9n%C3%A9ration_C "Génération C"), l'ensemble des personnes nées entre [1984](/wiki/1984 "1984") et [1996](/wiki/1996 "1996") selon le [CEFRIO](/wiki/CEFRIO "CEFRIO") ;
+  * [Classe C](/wiki/Mercedes-Benz_Classe_C "Mercedes-Benz Classe C"), une [automobile](/wiki/Automobile "Automobile") de [Mercedes-Benz](/wiki/Mercedes-Benz "Mercedes-Benz") ;
+  * [C](/wiki/Format_de_papier "Format de papier"), des [formats internationaux de feuille de papier](/wiki/Format_de_papier "Format de papier") ;
+  * [©](/wiki/Copyright "Copyright"), le symbole du [copyright](/wiki/Copyright "Copyright") ;
+  * [c.](/wiki/Circa "Circa"), l'abréviation de [circa](/wiki/Circa "Circa") qui signifie en latin "environ" concernant une date.
+  * C: ou C:\, la lettre de lecteur de la partition principale de stockage de fichiers des [systèmes d'exploitation](/wiki/Syst%C3%A8me_d%27exploitation "Système d'exploitation") de type [MS-DOS](/wiki/MS-DOS "MS-DOS") et [Windows](/wiki/Windows "Windows")
+  * "C" est l'indicatif du chef du [MI-6](/wiki/Secret_Intelligence_Service "Secret Intelligence Service"), qui était à l'origine l'initiale de Sir [Mansfield Smith-Cumming](/wiki/Mansfield_Smith-Cumming "Mansfield Smith-Cumming"), son premier directeur ;
+  * 🄲 est un code signifiant "[commune](/wiki/Commune "Commune")" selon la notation cartographique de l'[IGN](/wiki/Institut_national_de_l%27information_g%C3%A9ographique_et_foresti%C3%A8re "Institut national de l'information géographique et forestière").
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=C&oldid=174785218](https://fr.wikipedia.org/w/index.php?title=C&oldid=174785218)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Homonymie](/wiki/Cat%C3%A9gorie:Homonymie "Catégorie:Homonymie")
+  * [Symbole chimique](/wiki/Cat%C3%A9gorie:Symbole_chimique "Catégorie:Symbole chimique")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/C "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/C "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=C&oldid=174785218 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=C&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=C&id=174785218&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q28006 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=C)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=C&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=C&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [Afrikaans](https://af.wikipedia.org/wiki/C_\(dubbelsinnig\) "C \(dubbelsinnig\) — afrikaans")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_\(%D8%AA%D9%88%D8%B6%D9%8A%D8%AD\) "سي \(توضيح\) — arabe")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/C_\(d%C9%99qiql%C9%99%C5%9Fdirm%C9%99\) "C \(dəqiqləşdirmə\) — azéri")
+  * [Žemaitėška](https://bat-smg.wikipedia.org/wiki/C_\(r%C4%93%C5%A1k\) "C \(rēšk\) — Samogitian")
+  * [Беларуская](https://be.wikipedia.org/wiki/C "C — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/C "C — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/C_\(%D0%BF%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5\) "C \(пояснение\) — bulgare")
+  * [Cebuano](https://ceb.wikipedia.org/wiki/C "C — cebuano")
+  * [Dansk](https://da.wikipedia.org/wiki/C_\(flertydig\) "C \(flertydig\) — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/C_\(Begriffskl%C3%A4rung\) "C \(Begriffsklärung\) — allemand")
+  * [Dolnoserbski](https://dsb.wikipedia.org/wiki/C_\(w%C4%9Bcejw%C3%B3znamowos%C4%87\) "C \(wěcejwóznamowosć\) — bas-sorabe")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/C_\(%CE%B1%CF%80%CE%BF%CF%83%CE%B1%CF%86%CE%AE%CE%BD%CE%B9%CF%83%CE%B7\) "C \(αποσαφήνιση\) — grec")
+  * [English](https://en.wikipedia.org/wiki/C_\(disambiguation\) "C \(disambiguation\) — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/C_\(apartigilo\) "C \(apartigilo\) — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/C_\(desambiguaci%C3%B3n\) "C \(desambiguación\) — espagnol")
+  * [Euskara](https://eu.wikipedia.org/wiki/C_\(argipena\) "C \(argipena\) — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%B3%DB%8C_\(%D8%A7%D8%A8%D9%87%D8%A7%D9%85%E2%80%8C%D8%B2%D8%AF%D8%A7%DB%8C%DB%8C\) "سی \(ابهام‌زدایی\) — persan")
+  * [Nordfriisk](https://frr.wikipedia.org/wiki/C "C — frison du Nord")
+  * [עברית](https://he.wikipedia.org/wiki/C_\(%D7%A4%D7%99%D7%A8%D7%95%D7%A9%D7%95%D7%A0%D7%99%D7%9D\) "C \(פירושונים\) — hébreu")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/C_\(razdvojba\) "C \(razdvojba\) — croate")
+  * [Hornjoserbsce](https://hsb.wikipedia.org/wiki/C_\(wjacezmyslnos%C4%87\) "C \(wjacezmyslnosć\) — haut-sorabe")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/C_\(%D5%A1%D5%B5%D5%AC_%D5%AF%D5%AB%D6%80%D5%A1%D5%BC%D5%B8%D6%82%D5%B4%D5%B6%D5%A5%D6%80\) "C \(այլ կիրառումներ\) — arménien")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/C_\(disambiguasi\) "C \(disambiguasi\) — indonésien")
+  * [Íslenska](https://is.wikipedia.org/wiki/C "C — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/C_\(disambigua\) "C \(disambigua\) — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/C_\(%E6%9B%96%E6%98%A7%E3%81%95%E5%9B%9E%E9%81%BF\) "C \(曖昧さ回避\) — japonais")
+  * [ქართული](https://ka.wikipedia.org/wiki/C_\(%E1%83%9B%E1%83%A0%E1%83%90%E1%83%95%E1%83%90%E1%83%9A%E1%83%9B%E1%83%9C%E1%83%98%E1%83%A8%E1%83%95%E1%83%9C%E1%83%94%E1%83%9A%E1%83%9D%E1%83%95%E1%83%90%E1%83%9C%E1%83%98\) "C \(მრავალმნიშვნელოვანი\) — géorgien")
+  * [한국어](https://ko.wikipedia.org/wiki/C_\(%EB%8F%99%EC%9D%8C%EC%9D%B4%EC%9D%98\) "C \(동음이의\) — coréen")
+  * [Kurdî](https://ku.wikipedia.org/wiki/C "C — kurde")
+  * [Lumbaart](https://lmo.wikipedia.org/wiki/C "C — lombard")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/C_\(reik%C5%A1m%C4%97s\) "C \(reikšmės\) — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/C_\(noz%C4%ABmju_atdal%C4%AB%C5%A1ana\) "C \(nozīmju atdalīšana\) — letton")
+  * [Basa Banyumasan](https://map-bms.wikipedia.org/wiki/C_\(disambiguasi\) "C \(disambiguasi\) — Basa Banyumasan")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%BF_\(%E0%B4%B5%E0%B4%BF%E0%B4%B5%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%95%E0%B5%BE\) "സി \(വിവക്ഷകൾ\) — malayalam")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/C_\(nyahkekaburan\) "C \(nyahkekaburan\) — malais")
+  * [Nederlands](https://nl.wikipedia.org/wiki/C "C — néerlandais")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/C_\(andre_betydninger\) "C \(andre betydninger\) — norvégien bokmål")
+  * [Polski](https://pl.wikipedia.org/wiki/C_\(ujednoznacznienie\) "C \(ujednoznacznienie\) — polonais")
+  * [پښتو](https://ps.wikipedia.org/wiki/C "C — pachto")
+  * [Português](https://pt.wikipedia.org/wiki/C_\(desambigua%C3%A7%C3%A3o\) "C \(desambiguação\) — portugais")
+  * [Русский](https://ru.wikipedia.org/wiki/C "C — russe")
+  * [Shqip](https://sq.wikipedia.org/wiki/C "C — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/C "C — serbe")
+  * [Seeltersk](https://stq.wikipedia.org/wiki/C_\(Begriepskl%C3%A4%C3%A4renge\) "C \(Begriepskläärenge\) — saterlandais")
+  * [Svenska](https://sv.wikipedia.org/wiki/C_\(olika_betydelser\) "C \(olika betydelser\) — suédois")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%8B%E0%B8%B5 "ซี — thaï")
+  * [Türkçe](https://tr.wikipedia.org/wiki/C_\(anlam_ayr%C4%B1m%C4%B1\) "C \(anlam ayrımı\) — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/C "C — ukrainien")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/C "C — ouzbek")
+  * [中文](https://zh.wikipedia.org/wiki/C_\(%E6%B6%88%E6%AD%A7%E7%BE%A9\) "C \(消歧義\) — chinois")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/C_\(%E6%90%9E%E6%B8%85%E6%A5%9A\) "C \(搞清楚\) — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q28006#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=C "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=C "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/C "Voir le contenu de la page \[c\]")
+  * [Discussion](/w/index.php?title=Discussion:C&action=edit&redlink=1 "Discussion au sujet de cette page de contenu \(page inexistante\) \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/C)
+  * [Modifier](/w/index.php?title=C&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=C&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=C&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 17 septembre 2020 à 08:48.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/C "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=C&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[3e]: Troisième
+  *[2e]: Deuxième
+

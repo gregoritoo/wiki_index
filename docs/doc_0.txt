@@ -1,0 +1,1918 @@
+# Mathématiques
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Maths » redirige ici. Pour l’article homophone, voir [Math](/wiki/Math
+"Math").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CMAP_-
+_Centre_de_Math%C3%A9matiques_Appliqu%C3%A9es_de_l%27Ecole_polytechnique.jpg/170px-
+CMAP_-
+_Centre_de_Math%C3%A9matiques_Appliqu%C3%A9es_de_l%27Ecole_polytechnique.jpg)](/wiki/Fichier:CMAP_-
+_Centre_de_Math%C3%A9matiques_Appliqu%C3%A9es_de_l%27Ecole_polytechnique.jpg)
+
+[](/wiki/Fichier:CMAP_-
+_Centre_de_Math%C3%A9matiques_Appliqu%C3%A9es_de_l%27Ecole_polytechnique.jpg
+"Agrandir")
+
+Raisonnement mathématique sur un tableau.
+
+Les **mathématiques** (ou la **mathématique** ) sont un ensemble de
+[connaissances](/wiki/Connaissance "Connaissance") abstraites résultant de
+[raisonnements](/wiki/Raisonnement "Raisonnement") [logiques](/wiki/Logique
+"Logique") appliqués à des objets divers tels que les
+[ensembles](/wiki/Ensemble "Ensemble") mathématiques, les
+[nombres](/wiki/Nombre "Nombre"), les [formes](/wiki/G%C3%A9om%C3%A9trie
+"Géométrie"), les [structures](/wiki/Structure_\(logique_math%C3%A9matique\)
+"Structure \(logique mathématique\)"), les
+[transformations](/wiki/Transformation_g%C3%A9om%C3%A9trique "Transformation
+géométrique"), etc. ; ainsi qu'aux
+[relations](/wiki/Relation_\(math%C3%A9matiques\) "Relation
+\(mathématiques\)") et
+[opérations](/wiki/Op%C3%A9ration_\(math%C3%A9matiques\) "Opération
+\(mathématiques\)") mathématiques qui existent entre ces objets. Elles sont
+aussi le domaine de [recherche](/wiki/Recherche_scientifique "Recherche
+scientifique") développant ces connaissances, ainsi que la
+[discipline](/wiki/Discipline_\(sp%C3%A9cialit%C3%A9\) "Discipline
+\(spécialité\)") qui les enseigne.
+
+Elles possèdent plusieurs branches telles que :
+l'[arithmétique](/wiki/Arithm%C3%A9tique "Arithmétique"),
+l'[algèbre](/wiki/Alg%C3%A8bre "Algèbre"),
+l'[analyse](/wiki/Analyse_\(math%C3%A9matiques\) "Analyse \(mathématiques\)"),
+la [géométrie](/wiki/G%C3%A9om%C3%A9trie "Géométrie"), la [logique
+mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique"), etc. Il
+existe également une certaine séparation entre les [mathématiques
+pures](/wiki/Math%C3%A9matiques_pures "Mathématiques pures") et les
+[mathématiques appliquées](/wiki/Math%C3%A9matiques_appliqu%C3%A9es
+"Mathématiques appliquées").
+
+Les mathématiques se distinguent des autres sciences par un rapport
+particulier au [réel](/wiki/R%C3%A9alit%C3%A9 "Réalité") car l'observation et
+l'expérience ne s'y portent pas sur des objets physiques ; les mathématiques
+ne sont pas une [science empirique](/wiki/Science_empirique "Science
+empirique"). Elles sont de nature entièrement intellectuelle, fondées sur des
+[axiomes](/wiki/Axiome "Axiome") déclarés [vrais](/wiki/V%C3%A9rit%C3%A9
+"Vérité") ou sur des [postulats](/wiki/Postulat "Postulat") provisoirement
+admis. Ces axiomes en constituent les
+[fondements](/wiki/Fondements_des_math%C3%A9matiques "Fondements des
+mathématiques") et ne dépendent donc d'aucune autre proposition. Un
+[énoncé](/wiki/%C3%89nonc%C3%A9 "Énoncé") mathématique – dénommé généralement,
+après être validé, [théorème](/wiki/Th%C3%A9or%C3%A8me "Théorème"),
+proposition, [lemme](/wiki/Lemme_\(math%C3%A9matiques\) "Lemme
+\(mathématiques\)"), fait, [scholie](/wiki/Scholie "Scholie") ou
+[corollaire](https://fr.wiktionary.org/wiki/corollaire "wikt:corollaire") –
+est considéré comme valide lorsque le discours formel qui établit sa
+[vérité](/wiki/V%C3%A9rit%C3%A9 "Vérité") respecte une certaine structure
+rationnelle appelée
+[démonstration](/wiki/D%C3%A9monstration_\(logique_et_math%C3%A9matique\)
+"Démonstration \(logique et mathématique\)"), ou raisonnement logico-déductif.
+Un énoncé qui n'a pas encore fait l'objet d'une démonstration mais qui est
+néanmoins considéré [plausible](/wiki/Plausibilit%C3%A9 "Plausibilité") est
+appelé [conjecture](/wiki/Conjecture "Conjecture").
+
+Bien que les résultats mathématiques soient des vérités purement formelles,
+ils trouvent cependant des applications dans les autres
+[sciences](/wiki/Science "Science") et dans différents domaines de la
+[technique](/wiki/Technique "Technique"). C'est ainsi qu'[Eugene
+Wigner](/wiki/Eugene_Wigner "Eugene Wigner") parle de « la déraisonnable
+efficacité des mathématiques dans les sciences de la nature »[1].
+
+## Sommaire
+
+  * 1 Étymologie
+  * 2 Histoire
+  * 3 Domaines
+    * 3.1 Domaines fondamentaux
+    * 3.2 Exemples de domaines transversaux
+    * 3.3 Mathématiques appliquées et pures
+  * 4 Philosophie
+  * 5 Fondements
+  * 6 Enseignement
+  * 7 Pratique
+    * 7.1 Activité de recherche
+    * 7.2 Langage
+  * 8 Rapport avec les autres sciences
+    * 8.1 Physique
+    * 8.2 Informatique
+    * 8.3 Biologie, chimie et géologie
+    * 8.4 Sciences humaines
+    * 8.5 Écologie
+  * 9 Rapport avec l'astrologie, l'ésotérisme
+  * 10 Impact culturel
+    * 10.1 Expression artistique
+    * 10.2 Vulgarisation
+    * 10.3 Littérature et filmographie
+      * 10.3.1 Romans
+      * 10.3.2 Films
+      * 10.3.3 Théâtre
+        * 10.3.3.1 Pièces de théâtre
+        * 10.3.3.2 Spécialistes de théâtre de sciences
+      * 10.3.4 Séries télévisées
+  * 11 Notes et références
+  * 12 Annexes
+    * 12.1 Bibliographie
+    * 12.2 Articles connexes
+    * 12.3 Liens externes
+
+##
+Étymologie[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=1
+"Modifier la section : Étymologie") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=1 "Modifier la
+section : Étymologie")]
+
+Le mot « mathématique » vient du [grec](/wiki/Grec_ancien "Grec ancien") par
+l'intermédiaire du [latin](/wiki/Latin "Latin"). Le mot μάθημα ( _máthēma_ )
+est dérivé du verbe μανθάνω ( _manthánô_ ) (« apprendre »). Il signifie «
+science, connaissance » puis « mathématiques » de μαθὴματα ; il a donné
+naissance à l'adjectif _μαθηματικός_ ( _mathematikos_ ), d'abord « relatif au
+savoir » puis « qui concerne les sciences mathématiques ». Cet adjectif a été
+adopté en latin ( _mathematicus_ ) et dans les langues romanes par la suite («
+mathématique » en [français](/wiki/Fran%C3%A7ais "Français"), _matematica_ en
+[italien](/wiki/Italien "Italien"), etc.), ainsi que dans de nombreuses autres
+langues[2],[3].
+
+La forme neutre de l'adjectif _μαθηματικός_ a été substantivée en _τα
+μαθηματικά_ ( _ta mathēmatiká_ ) pour désigner les sciences mathématiques dans
+leur ensemble. Cette forme plurielle, utilisée par [Aristote](/wiki/Aristote
+"Aristote"), explique l'usage du pluriel pour le substantif en latin chez
+[Cicéron](/wiki/Cic%C3%A9ron "Cicéron") ( _mathematica_ ) puis en français et
+dans certaines autres langues européennes.
+
+L'usage du pluriel est un héritage de l'époque [antique](/wiki/Antiquit%C3%A9
+"Antiquité"), où le [quadrivium](/wiki/Quadrivium "Quadrivium") regroupait les
+quatre arts dits « mathématiques » : l'arithmétique, la géométrie,
+l'astronomie et la musique. Le singulier (« la mathématique ») est parfois
+employé en français, mais « le mot donne alors au contexte une teinte
+d'[archaïsme](/wiki/Archa%C3%AFsme "Archaïsme") ou de
+[didactisme](/wiki/Didactique "Didactique") »[4]. Toutefois, certains auteurs,
+à la suite de [Nicolas Bourbaki](/wiki/Nicolas_Bourbaki "Nicolas Bourbaki"),
+insistent sur l'utilisation du singulier, pour montrer l'uniformisation
+apportée par l'approche axiomatique contemporaine : [Jean
+Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné") semble être le premier
+à avoir insisté sur ce point, et le vaste traité de Bourbaki (dont il est l'un
+des principaux rédacteurs) s'intitule _[Éléments de
+mathématique](/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique "Éléments de
+mathématique")_ , tandis que, par contraste, le fascicule historique qui
+l'accompagne a pour titre _[Éléments d'histoire des
+mathématiques](/wiki/%C3%89l%C3%A9ments_d%27histoire_des_math%C3%A9matiques
+"Éléments d'histoire des mathématiques")_. [Cédric
+Villani](/wiki/C%C3%A9dric_Villani "Cédric Villani") préconise l'utilisation
+du singulier pour affirmer l'unité du domaine[5].
+
+Dans l'argot scolaire, le terme « mathématiques » est fréquemment
+[apocopé](/wiki/Apocope "Apocope") en « maths », parfois aussi écrit « math ».
+
+##
+Histoire[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=2
+"Modifier la section : Histoire") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=2 "Modifier la
+section : Histoire")]
+
+Article détaillé : [Histoire des
+mathématiques](/wiki/Histoire_des_math%C3%A9matiques "Histoire des
+mathématiques").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Euklid2.jpg/170px-
+Euklid2.jpg)](/wiki/Fichier:Euklid2.jpg)
+
+[](/wiki/Fichier:Euklid2.jpg "Agrandir")
+
+Un portrait d'[Euclide de Mégare](/wiki/Euclide_de_M%C3%A9gare "Euclide de
+Mégare"), qui représente en fait le mathématicien [Euclide](/wiki/Euclide
+"Euclide").
+
+Il est probable que l'homme a développé des compétences mathématiques avant
+l'apparition de l'[écriture](/wiki/%C3%89criture "Écriture"). Les premiers
+objets reconnus attestant de [compétences
+calculatoires](/wiki/Calcul_\(math%C3%A9matiques\) "Calcul \(mathématiques\)")
+sont les [bâtons de comptage](/wiki/B%C3%A2ton_de_comptage "Bâton de
+comptage"), tels que l'[os d'Ishango](/wiki/Os_d%27Ishango "Os d'Ishango") (en
+[Afrique](/wiki/Afrique "Afrique")) datant de 20 000 ans avant notre ère. Le
+développement des mathématiques en tant que connaissance transmise dans les
+premières [civilisations](/wiki/Civilisation "Civilisation") est lié à leurs
+applications concrètes : le [commerce](/wiki/Commerce "Commerce"), la gestion
+des [récoltes](/wiki/R%C3%A9colte "Récolte"), la mesure des
+[surfaces](/wiki/Surface_\(g%C3%A9om%C3%A9trie_analytique\) "Surface
+\(géométrie analytique\)"), la prédiction des événements
+[astronomiques](/wiki/Astronomie "Astronomie"), et parfois l'exécution de
+rituels religieux[[réf.
+nécessaire]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire "Aide:Référence
+nécessaire").
+
+Les premiers développements mathématiques concernaient l'extraction des
+[racines carrées](/wiki/Racine_carr%C3%A9e "Racine carrée"), des [racines
+cubiques](/wiki/Racine_cubique "Racine cubique"), la résolution d'[équations
+polynomiales](/wiki/%C3%89quation_polynomiale "Équation polynomiale"), la
+[trigonométrie](/wiki/Trigonom%C3%A9trie "Trigonométrie"), le [calcul
+fractionnaire](/wiki/Fraction_\(math%C3%A9matiques\) "Fraction
+\(mathématiques\)"), l'arithmétique des [entiers
+naturels](/wiki/Entier_naturel "Entier naturel")… Ils s'effectuèrent dans les
+civilisations [akkadienne](/wiki/Empire_d%27Akkad "Empire d'Akkad"),
+[babylonienne](/wiki/Babylone "Babylone"), [égyptienne](/wiki/%C3%89gypte
+"Égypte")[6], [chinoise](/wiki/Chine "Chine") ou encore [de la vallée de
+l'Indus](/wiki/Civilisation_de_la_vall%C3%A9e_de_l%27Indus "Civilisation de la
+vallée de l'Indus").
+
+Dans la [civilisation grecque](/wiki/Gr%C3%A8ce_antique "Grèce antique"), les
+mathématiques, influencées par les travaux antérieurs et les spéculations
+philosophiques, recherchent davantage d'abstraction. Les notions de
+[démonstration](/wiki/D%C3%A9monstration_\(logique_et_math%C3%A9matique\)
+"Démonstration \(logique et mathématique\)") et de définition
+[axiomatique](/wiki/Axiome "Axiome") sont précisées. Deux branches se
+distinguent, l'[arithmétique](/wiki/Arithm%C3%A9tique "Arithmétique") et la
+[géométrie](/wiki/G%C3%A9om%C3%A9trie "Géométrie"). Au IIIe siècle av. J.-C.,
+les _[Éléments d'Euclide](/wiki/%C3%89l%C3%A9ments_d%27Euclide "Éléments
+d'Euclide")_ [7] résument et ordonnent les connaissances mathématiques de la
+Grèce.
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Image-Al-
+Kit%C4%81b_al-
+mu%E1%B8%ABta%E1%B9%A3ar_f%C4%AB_%E1%B8%A5is%C4%81b_al-%C4%9Fabr_wa-l-
+muq%C4%81bala.jpg/170px-Image-Al-Kit%C4%81b_al-
+mu%E1%B8%ABta%E1%B9%A3ar_f%C4%AB_%E1%B8%A5is%C4%81b_al-%C4%9Fabr_wa-l-
+muq%C4%81bala.jpg)](/wiki/Fichier:Image-Al-Kit%C4%81b_al-
+mu%E1%B8%ABta%E1%B9%A3ar_f%C4%AB_%E1%B8%A5is%C4%81b_al-%C4%9Fabr_wa-l-
+muq%C4%81bala.jpg)
+
+[](/wiki/Fichier:Image-Al-Kit%C4%81b_al-
+mu%E1%B8%ABta%E1%B9%A3ar_f%C4%AB_%E1%B8%A5is%C4%81b_al-%C4%9Fabr_wa-l-
+muq%C4%81bala.jpg "Agrandir")
+
+Une page du traité de [Al-Khwârizmî](/wiki/Al-Khw%C3%A2rizm%C3%AE "Al-
+Khwârizmî").
+
+Les [mathématiques chinoises](/wiki/Math%C3%A9matiques_chinoises
+"Mathématiques chinoises") et [indiennes](/wiki/Math%C3%A9matiques_indiennes
+"Mathématiques indiennes") (plus précisément de la [vallée de
+l'Indus](/wiki/Civilisation_de_la_vall%C3%A9e_de_l%27Indus "Civilisation de la
+vallée de l'Indus")) sont parvenues en occident par la [civilisation
+islamique](/wiki/Civilisation_islamique "Civilisation islamique") à travers la
+conservation de l'héritage grec et l'interfécondation avec les découvertes,
+notamment en matière de [représentation des nombres](/wiki/Num%C3%A9ration
+"Numération")[[réf.
+nécessaire]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire "Aide:Référence
+nécessaire"). Les travaux mathématiques sont considérablement développés tant
+en [trigonométrie](/wiki/Trigonom%C3%A9trie "Trigonométrie") (introduction des
+fonctions trigonométriques) qu'en [arithmétique](/wiki/Arithm%C3%A9tique
+"Arithmétique"). L'[analyse combinatoire](/wiki/Combinatoire "Combinatoire"),
+l'[analyse numérique](/wiki/Analyse_num%C3%A9rique "Analyse numérique") et
+l'[algèbre polynomiale](/wiki/Alg%C3%A8bre "Algèbre") sont inventées et
+développées.
+
+Durant la « [renaissance du XIIe siècle](/wiki/Renaissance_du_XIIe_si%C3%A8cle
+"Renaissance du XIIe siècle") », une partie des textes grecs et arabes sont
+étudiés et [traduits en latin](/wiki/Traductions_latines_du_XIIe_si%C3%A8cle
+"Traductions latines du XIIe siècle"). La recherche mathématique se concentre
+en Europe. Au [XVIe siècle](/wiki/XVIe_si%C3%A8cle "XVIe siècle") se développe
+- avec notamment [Pierre de La Ramée](/wiki/Pierre_de_La_Ram%C3%A9e "Pierre de
+La Ramée") \- l'idée qu'il existe une science universelle ( _[mathesis
+universalis](/wiki/Mathesis_universalis "Mathesis universalis")_ ) sur
+laquelle il est possible de fonder l'ensemble des connaissances.
+[Descartes](/wiki/Ren%C3%A9_Descartes "René Descartes") voit dès
+[1629](/wiki/1629 "1629"), dans les _[Règles pour la direction de
+l'esprit](/wiki/R%C3%A8gles_pour_la_direction_de_l%27esprit "Règles pour la
+direction de l'esprit")_ , les possibilités qu'offrent les mathématiques pour
+jouer ce rôle[8]. Descartes souligne, dans le _[Discours de la
+méthode](/wiki/Discours_de_la_m%C3%A9thode "Discours de la méthode")_ ,
+l'attrait des mathématiques, « à cause de la certitude et de l'évidence de
+leurs raisons ». Le [calcul algébrique](/wiki/Calcul_alg%C3%A9brique "Calcul
+algébrique") se développe alors à la suite des travaux de
+[Viète](/wiki/Fran%C3%A7ois_Vi%C3%A8te "François Viète") et de
+[Descartes](/wiki/Ren%C3%A9_Descartes "René Descartes").
+[Newton](/wiki/Isaac_Newton "Isaac Newton") et
+[Leibniz](/wiki/Gottfried_Wilhelm_Leibniz "Gottfried Wilhelm Leibniz"),
+indépendamment, inventent le [calcul
+infinitésimal](/wiki/Calcul_infinit%C3%A9simal "Calcul infinitésimal").
+
+Au [XVIIe siècle](/wiki/XVIIe_si%C3%A8cle "XVIIe siècle"),
+[Galilée](/wiki/Galil%C3%A9e_\(savant\) "Galilée \(savant\)") se rend compte
+que les mathématiques sont l'outil idéal pour décrire le monde physique, ce
+qu'on peut résumer en disant que les lois de la Nature sont écrites en
+[langage mathématique](/wiki/Langage_math%C3%A9matique "Langage
+mathématique"). Les mathématiques constituent donc, avec la [démarche
+expérimentale](/wiki/D%C3%A9marche_exp%C3%A9rimentale "Démarche
+expérimentale"), l'un des deux piliers du développement de la [Science
+moderne](/wiki/Science_moderne "Science moderne").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hilbert.jpg/170px-
+Hilbert.jpg)](/wiki/Fichier:Hilbert.jpg)
+
+[](/wiki/Fichier:Hilbert.jpg "Agrandir")
+
+[David Hilbert](/wiki/David_Hilbert "David Hilbert"), mathématicien allemand.
+
+Au cours du [XVIIIe siècle](/wiki/XVIIIe_si%C3%A8cle "XVIIIe siècle") et du
+[XIXe siècle](/wiki/XIXe_si%C3%A8cle "XIXe siècle"), les mathématiques
+connaissent de forts développements avec l'étude systématique des
+[structures](/wiki/Structure_alg%C3%A9brique "Structure algébrique"), à
+commencer par les [groupes](/wiki/Groupe_\(math%C3%A9matiques\) "Groupe
+\(mathématiques\)") issus des travaux de [Galois](/wiki/%C3%89variste_Galois
+"Évariste Galois") sur les équations polynomiales, et les
+[anneaux](/wiki/Anneau_unitaire "Anneau unitaire") introduits par
+[Dedekind](/wiki/Richard_Dedekind "Richard Dedekind").
+
+Le [XIXe siècle](/wiki/XIXe_si%C3%A8cle "XIXe siècle") voit avec
+[Cantor](/wiki/Georg_Cantor "Georg Cantor") et [Hilbert](/wiki/David_Hilbert
+"David Hilbert") le développement d'une théorie axiomatique sur tous les
+objets étudiés, soit la recherche des [fondements
+mathématiques](/wiki/Fondements_des_math%C3%A9matiques "Fondements des
+mathématiques")[9]. Ce développement de l'axiomatique conduira plusieurs
+[mathématiciens](/wiki/Math%C3%A9maticien "Mathématicien") du [XXe
+siècle](/wiki/XXe_si%C3%A8cle "XXe siècle") à chercher à définir toutes les
+mathématiques à l'aide d'un langage, la [logique
+mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique").
+
+Le XXe siècle a connu un fort développement en mathématiques avec une
+spécialisation des domaines, et la naissance ou le développement de nombreuses
+nouvelles branches ([théorie de la mesure](/wiki/Th%C3%A9orie_de_la_mesure
+"Théorie de la mesure"), [théorie spectrale](/wiki/Th%C3%A9orie_spectrale
+"Théorie spectrale"), [topologie algébrique](/wiki/Topologie_alg%C3%A9brique
+"Topologie algébrique") et [géométrie
+algébrique](/wiki/G%C3%A9om%C3%A9trie_alg%C3%A9brique "Géométrie algébrique"),
+par exemple). L'[informatique](/wiki/Informatique "Informatique") a eu un
+impact sur la recherche. D'une part, elle a facilité la communication et le
+partage des connaissances, d'autre part, elle a fourni un formidable outil
+pour la confrontation aux exemples. Ce mouvement a naturellement conduit à la
+[modélisation](/wiki/Mod%C3%A8le_math%C3%A9matique "Modèle mathématique") et à
+la [numérisation](/wiki/Num%C3%A9risation "Numérisation").
+
+##
+Domaines[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=3
+"Modifier la section : Domaines") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=3 "Modifier la
+section : Domaines")]
+
+Des découpages des mathématiques en deux, trois ou quatre domaines différents
+sont proposés : algèbre et analyse, ou bien algèbre, analyse et géométrie, ou
+bien [algèbre](/wiki/Alg%C3%A8bre "Algèbre"),
+[analyse](/wiki/Analyse_\(math%C3%A9matiques\) "Analyse \(mathématiques\)"),
+[géométrie](/wiki/G%C3%A9om%C3%A9trie "Géométrie") et
+[probabilités](/wiki/Probabilit%C3%A9 "Probabilité"). De tels découpages ne
+sont pas évidents et les frontières les séparant sont toujours mal définies.
+En effet, de nombreux résultats font appel à des compétences mathématiques
+variées. Le [théorème de Fermat-
+Wiles](/wiki/Dernier_th%C3%A9or%C3%A8me_de_Fermat "Dernier théorème de
+Fermat"), établi en 1994, en est un exemple. Bien que l'énoncé en soit formulé
+de manière dite arithmétique, la preuve nécessite de profondes compétences en
+analyse et en géométrie.
+
+### Domaines
+fondamentaux[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=4
+"Modifier la section : Domaines fondamentaux") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=4 "Modifier la
+section : Domaines fondamentaux")]
+
+L'[algèbre](/wiki/Alg%C3%A8bre "Algèbre") est l'ensemble des méthodes
+mathématiques visant à étudier et développer les [structures
+algébriques](/wiki/Structure_alg%C3%A9brique "Structure algébrique") et à
+comprendre les relations qu'elles entretiennent entre elles. L'algèbre, au
+sens actuel, trouve historiquement ses origines dans la compréhension des
+équations polynomiales et dans les développements des méthodes de résolution :
+les recherches dans ces domaines ont suscité l'émergence des notions qui
+fondent la [théorie des groupes](/wiki/Th%C3%A9orie_des_groupes "Théorie des
+groupes"), la [théorie de Galois](/wiki/Th%C3%A9orie_de_Galois "Théorie de
+Galois") ou encore la [géométrie
+algébrique](/wiki/G%C3%A9om%C3%A9trie_alg%C3%A9brique "Géométrie algébrique").
+
+En un sens très restrictif, l'[analyse](/wiki/Analyse_\(math%C3%A9matiques\)
+"Analyse \(mathématiques\)") est la partie des mathématiques s'intéressant aux
+questions de régularité des applications d'une variable réelle ou complexe :
+on parle alors plus volontiers d'[analyse réelle](/wiki/Analyse_r%C3%A9elle
+"Analyse réelle") ou d'[analyse complexe](/wiki/Analyse_complexe "Analyse
+complexe"). En un sens élargi, elle englobe toutes les méthodes mathématiques
+qui s'y apparentent, et un certain nombre de méthodes pour comprendre et
+analyser les espaces de fonctions.
+
+La [géométrie](/wiki/G%C3%A9om%C3%A9trie "Géométrie") tente de comprendre en
+premier lieu les objets dans l'espace, puis par extension s'intéresse aux
+propriétés d'objets plus abstraits, à plusieurs dimensions, introduits selon
+plusieurs approches, relevant autant de l'analyse que de l'algèbre.
+
+Les [probabilités](/wiki/Probabilit%C3%A9 "Probabilité") tentent de formaliser
+tout ce qui relève de l'aléatoire. Bien qu'anciennes, elles ont connu un
+renouveau avec la [théorie de la mesure](/wiki/Th%C3%A9orie_de_la_mesure
+"Théorie de la mesure"). La compréhension des lois aléatoires rendant compte
+au mieux des données déjà réalisées forme les [statistiques](/wiki/Statistique
+"Statistique").
+
+### Exemples de domaines
+transversaux[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=5
+"Modifier la section : Exemples de domaines transversaux") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=5 "Modifier la
+section : Exemples de domaines transversaux")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Carl_Jacobi2.jpg/170px-
+Carl_Jacobi2.jpg)](/wiki/Fichier:Carl_Jacobi2.jpg)
+
+[](/wiki/Fichier:Carl_Jacobi2.jpg "Agrandir")
+
+[Charles Gustave Jacob Jacobi](/wiki/Charles_Gustave_Jacob_Jacobi "Charles
+Gustave Jacob Jacobi"), connu pour ses développements en [théorie analytique
+des nombres](/wiki/Th%C3%A9orie_analytique_des_nombres "Théorie analytique des
+nombres"), entre analyse complexe et arithmétique.
+
+De nombreux domaines de recherche se situent transversalement par rapport au
+découpage donné ci-dessus :
+
+  * Les [mathématiques discrètes](/wiki/Math%C3%A9matiques_discr%C3%A8tes "Mathématiques discrètes") (associées à l'essor de l'[informatique](/wiki/Informatique "Informatique")) sont l'exemple le plus typique de découpage transversal car elles dressent un clivage dans presque toutes les branches des mathématiques ([groupes finis](/wiki/Groupes_finis "Groupes finis"), probabilités discrètes, [géométrie discrète](/wiki/G%C3%A9om%C3%A9trie_discr%C3%A8te "Géométrie discrète"), [optimisation linéaire en nombres entiers](/wiki/Optimisation_lin%C3%A9aire_en_nombres_entiers "Optimisation linéaire en nombres entiers"), nouvelles branches de l'algèbre : [monoïdes](/wiki/Mono%C3%AFde "Monoïde"), [dioïdes](/wiki/Dio%C3%AFde "Dioïde")…).
+  * La [théorie des nombres](/wiki/Th%C3%A9orie_des_nombres "Théorie des nombres") (qui généralise l'[arithmétique élémentaire](/wiki/Arithm%C3%A9tique_%C3%A9l%C3%A9mentaire "Arithmétique élémentaire")) utilise tout autant des [méthodes analytiques](/wiki/Th%C3%A9orie_analytique_des_nombres "Théorie analytique des nombres") que des [méthodes algébriques](/wiki/Th%C3%A9orie_alg%C3%A9brique_des_nombres "Théorie algébrique des nombres") avancées, pour résoudre des problèmes qui peuvent souvent être énoncés de façon élémentaire.
+  * La [topologie algébrique](/wiki/Topologie_alg%C3%A9brique "Topologie algébrique") tend à associer à des objets géométriques de natures diverses des invariants de nature algébrique. Elle se situe donc à la frontière de la géométrie différentielle et de la géométrie algébrique. Toutefois, pour des objets géométriques présentant une certaine structure analytique, ces invariants algébriques peuvent parfois se définir ou se comprendre en faisant uniquement appel à des outils essentiellement d'analyse. La majeure partie de la recherche actuelle en topologie algébrique tend à oublier la structure topologique et à réduire les questions à des problèmes essentiellement d'algèbre.
+  * En un certain sens, les [systèmes dynamiques](/wiki/Syst%C3%A8mes_dynamiques "Systèmes dynamiques") se situent entre la géométrie, l'analyse et les probabilités. Ils tendent à comprendre de manière qualitative ce qui s'assimile à une loi d'évolution. Les objets étudiés relèvent de l'analyse (équations différentielles par exemple), des probabilités (itération d'une [bijection](/wiki/Bijection "Bijection") mesurable), ou de la géométrie ([espaces homogènes](/wiki/Espace_homog%C3%A8ne "Espace homogène")). Le traitement qui y est consacré fait l'objet d'interprétations essentiellement de nature géométrique, tout en utilisant des outils avancés d'[analyse fonctionnelle](/wiki/Analyse_fonctionnelle_\(math%C3%A9matiques\) "Analyse fonctionnelle \(mathématiques\)"), de [théorie des processus](/w/index.php?title=Th%C3%A9orie_des_processus&action=edit&redlink=1 "Théorie des processus \(page inexistante\)"), de géométrie différentielle, etc. Des résultats d'arithmétique peuvent aussi être obtenus par des considérations relevant des systèmes dynamiques.
+  * La [géométrie différentielle](/wiki/G%C3%A9om%C3%A9trie_diff%C3%A9rentielle "Géométrie différentielle") se situe à la frontière de la géométrie et de l'analyse, et ce à plusieurs égards. La définition de ses objets d'étude fait appel aux théorèmes de calcul différentiel, mais l'étude elle-même est grande consommatrice d'analyse. Des liens entre géométrie différentielle et probabilités existent aussi.
+  * La [géométrie algébrique](/wiki/G%C3%A9om%C3%A9trie_alg%C3%A9brique "Géométrie algébrique") est l'exemple d'un domaine en un sens strict à la rencontre de l'algèbre et de la géométrie. Elle trouve ses origines dans les travaux sur la résolution des équations cubiques. Le premier objet d'étude de la géométrie algébrique est la variété algébrique, lieu d'annulation d'équations polynomiales : il a une signification à la fois algébrique et géométrique. Ce domaine connut un fort développement au XIXe siècle, avec notamment le [théorème de Bézout](/wiki/Th%C3%A9or%C3%A8me_de_B%C3%A9zout "Théorème de Bézout"). Les développements récents initiés par [Alexandre Grothendieck](/wiki/Alexandre_Grothendieck "Alexandre Grothendieck") connaissent de nombreuses applications en théorie des nombres, ce qui constitue la [géométrie arithmétique](/wiki/G%C3%A9om%C3%A9trie_arithm%C3%A9tique "Géométrie arithmétique").
+  * La [théorie des opérateurs](/wiki/Op%C3%A9rateur_\(math%C3%A9matiques\) "Opérateur \(mathématiques\)") relève plutôt de l'analyse, ou encore de l'[analyse fonctionnelle](/wiki/Analyse_fonctionnelle_\(math%C3%A9matiques\) "Analyse fonctionnelle \(mathématiques\)") (par exemple, pour les problèmes de régularité des solutions d'équations aux dérivées partielles elliptiques, notamment le [problème de Poisson](/wiki/%C3%89quation_de_Poisson "Équation de Poisson")). Mais cette théorie connaît de nombreuses applications en géométrie différentielle où le langage des opérateurs s'avère particulièrement adapté. Le développement de la théorie des opérateurs a fait appel à des méthodes de nature probabiliste, notamment pour ce qui s'appelle le [calcul fonctionnel](/wiki/Calcul_fonctionnel "Calcul fonctionnel"). Cette théorie trouve des extensions en [géométrie non commutative](/wiki/G%C3%A9om%C3%A9trie_non_commutative "Géométrie non commutative"). Les objets d'études se trouvent être des généralisations d'algèbres d'opérateurs.
+
+### Mathématiques appliquées et
+pures[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=6
+"Modifier la section : Mathématiques appliquées et pures") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=6 "Modifier la
+section : Mathématiques appliquées et pures")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/7/75/FEM_car_crash1.jpg/220px-
+FEM_car_crash1.jpg)](/wiki/Fichier:FEM_car_crash1.jpg)
+
+[](/wiki/Fichier:FEM_car_crash1.jpg "Agrandir")
+
+Simulation numérique d'un crash d'une voiture. - L'[analyse
+numérique](/wiki/Analyse_num%C3%A9rique "Analyse numérique") : domaine
+applicatif des mathématiques.
+
+Articles détaillés : [mathématiques
+appliquées](/wiki/Math%C3%A9matiques_appliqu%C3%A9es "Mathématiques
+appliquées") et [mathématiques pures](/wiki/Math%C3%A9matiques_pures
+"Mathématiques pures").
+
+On fait parfois la distinction entre mathématiques pures et mathématiques
+appliquées :
+
+  * Les mathématiques pures ont pour objectif le développement des connaissances mathématiques pour elles-mêmes sans aucun intérêt _a priori_ pour les applications, sans aucune motivation d'autres sciences. L'objet de la recherche mathématique peut ainsi être une meilleure compréhension d'une série d'exemples particuliers abstraits, sur lesquels s'appuie et se développe la réflexion mathématique, la généralisation d'un aspect d'une discipline ou la mise en évidence de liens entre diverses disciplines des mathématiques.
+  * Au contraire, les mathématiques appliquées sont la mise en œuvre des connaissances mathématiques pour les besoins de formalisme d'autres sciences ([physique](/wiki/Physique "Physique"), [informatique](/wiki/Informatique "Informatique"), [biologie](/wiki/Biologie "Biologie"), [astrophysique](/wiki/Astrophysique "Astrophysique")…), et pour des applications industrielles (ingénierie par exemple). Elles tendent à développer ces outils mathématiques pour répondre à ces demandes, pour résoudre des problèmes posés en termes concrets.
+
+En France, cette distinction structure souvent les équipes de recherche, sans
+forcément hypothéquer les possibilités d'interactions entre elles. Toutefois,
+la pertinence de cette distinction est remise en cause par un certain nombre
+de mathématiciens. L'évolution des domaines et de leurs objets d'étude peut
+également contribuer à déplacer une éventuelle frontière ou notion de
+séparation. Selon une boutade d'[Ian
+Stewart](/wiki/Ian_Stewart_\(math%C3%A9maticien\) "Ian Stewart
+\(mathématicien\)"), auteur de nombreux ouvrages portant sur les mathématiques
+populaires, dans son œuvre intitulée _Mon cabinet des curiosités
+mathématiques_ , « La relation entre les mathématiciens purs et appliqués est
+fondée sur la confiance et la compréhension. Les mathématiciens purs ne font
+pas confiance aux mathématiciens appliqués, et les mathématiciens appliqués ne
+comprennent pas les mathématiciens purs »[10].Les mathématiques appliquées, en
+un sens mal définies, comprennent entre autres l'[analyse
+numérique](/wiki/Analyse_num%C3%A9rique "Analyse numérique"), les
+[statistiques](/wiki/Statistique "Statistique") appliquées et la théorie de
+l'[optimisation mathématique](/wiki/Optimisation_\(math%C3%A9matiques\)
+"Optimisation \(mathématiques\)"). Certains domaines de recherche des
+mathématiques sont nés à la frontière avec d'autres sciences (voir ci-
+dessous).
+
+##
+Philosophie[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=7
+"Modifier la section : Philosophie") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=7 "Modifier la
+section : Philosophie")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Carl_Friedrich_Gauss.jpg/170px-
+Carl_Friedrich_Gauss.jpg)](/wiki/Fichier:Carl_Friedrich_Gauss.jpg)
+
+[](/wiki/Fichier:Carl_Friedrich_Gauss.jpg "Agrandir")
+
+[Gauss, « le prince des mathématiciens »](/wiki/Carl_Friedrich_Gauss "Carl
+Friedrich Gauss").
+
+Article détaillé : [Philosophie des
+mathématiques](/wiki/Philosophie_des_math%C3%A9matiques "Philosophie des
+mathématiques").
+
+Les questions traditionnelles que se pose la philosophie au sujet des
+mathématiques peuvent se classer selon trois thèmes :
+
+  1. La nature des objets mathématiques : s'ils existent par eux-mêmes, ou bien s'ils sont des constructions mentales ? Quelle est la nature d'une [Démonstration (logique et mathématique)](/wiki/D%C3%A9monstration_\(logique_et_math%C3%A9matique\) "Démonstration \(logique et mathématique\)") ? Quels sont les liens entre la logique et les mathématiques ?
+  2. L'origine de la connaissance mathématique : d'où vient la vérité des mathématiques, et de quelle nature est-elle ? Quelles sont les conditions pour que des mathématiques existent, et leur lien avec l'homme ? Quels sont les impacts de la structure de la pensée humaine sur la forme et le développement des mathématiques actuelles ? Les limites qu'elle induit ?
+  3. La relation des mathématiques avec la réalité : quelle relation les mathématiques abstraites entretiennent-elles avec le monde réel ? Quels sont les liens avec les autres sciences ?
+
+Les mathématiques sont parfois surnommées « reine des sciences ». Cependant,
+l'expression remonte à [Carl Friedrich Gauss](/wiki/Carl_Friedrich_Gauss "Carl
+Friedrich Gauss") : _Regina Scientiarum_ [11] et le mot _scientiarium_
+signifie en réalité « des [connaissances](/wiki/Connaissance "Connaissance")
+».
+
+##
+Fondements[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=8
+"Modifier la section : Fondements") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=8 "Modifier la
+section : Fondements")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aristotle_by_Raphael.jpg/130px-
+Aristotle_by_Raphael.jpg)](/wiki/Fichier:Aristotle_by_Raphael.jpg)
+
+[](/wiki/Fichier:Aristotle_by_Raphael.jpg "Agrandir")
+
+[Aristote](/wiki/Aristote "Aristote") : le fondateur de la [logique
+formelle](/wiki/Logique_des_pr%C3%A9dicats "Logique des prédicats") (peinture
+par [Raphaël](/wiki/Rapha%C3%ABl_\(peintre\) "Raphaël \(peintre\)")).
+
+Article détaillé : [Fondements des
+mathématiques](/wiki/Fondements_des_math%C3%A9matiques "Fondements des
+mathématiques").
+
+Censément, les mathématiques utilisent la [logique](/wiki/Logique "Logique")
+comme outil pour démontrer des [vérités](/wiki/V%C3%A9rit%C3%A9 "Vérité")
+organisées en [théories](/wiki/Th%C3%A9orie "Théorie"). Une première analyse
+laisse espérer qu'une utilisation puissante de cet outil tellement sûr, une
+réduction toujours plus poussée des bases, les [axiomes](/wiki/Axiome
+"Axiome"), sur lesquelles s'échafaude l'édifice mathématique, finissent par
+mener à un corpus de faits incontestables. Plusieurs obstacles se dressent
+pourtant.
+
+D'une part, en tant qu'activité humaine, les mathématiques s'éloignent du
+modèle d'une construction suivant scrupuleusement les lois de la logique et
+indépendante du réel. Citons un fait et un phénomène pour illustrer cela. Tout
+d'abord, les démonstrations que rédigent les mathématiciens ne sont pas
+formalisées au point de suivre en détail les lois de la logique, car cela est
+impossible en un temps raisonnablement court. Comme pour n'importe quelle
+science. L'acceptation de la véracité d'une démonstration, et donc d'un
+théorème, repose _in fine_ sur un [consensus](/wiki/Consensus "Consensus") de
+spécialistes au sujet de la validité de l'approximation de démonstration
+formelle proposée (voir _[La Structure des révolutions
+scientifiques](/wiki/La_Structure_des_r%C3%A9volutions_scientifiques "La
+Structure des révolutions scientifiques")_ de [Thomas Samuel
+Kuhn](/wiki/Thomas_Samuel_Kuhn "Thomas Samuel Kuhn")). L'avènement de
+l'[informatique](/wiki/Informatique "Informatique") a cependant changé la
+donne, au moins marginalement, puisque celle-ci permet de formaliser et de
+vérifier des démonstrations de plus en plus complexes[12].
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Augustin_Louis_Cauchy.JPG/170px-
+Augustin_Louis_Cauchy.JPG)](/wiki/Fichier:Augustin_Louis_Cauchy.JPG)
+
+[](/wiki/Fichier:Augustin_Louis_Cauchy.JPG "Agrandir")
+
+[Augustin Louis Cauchy](/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy"),
+l'un des premiers à donner une fondation rigoureuse à
+l'[analyse](/wiki/Analyse_\(math%C3%A9matiques\) "Analyse \(mathématiques\)").
+
+Cependant l'activité mathématique est loin de se réduire à la recherche de
+démonstrations et à la vérification de celles-ci. La confiance que la
+communauté mathématique place dans un de ses membres qui propose un résultat
+nouveau intervient dans la réception qu'aura ce résultat, et ce d'autant plus
+s'il est inattendu ou modifie la façon de voir les choses. On peut prendre
+pour exemple historique les controverses sur les [géométries non
+euclidiennes](/wiki/G%C3%A9om%C3%A9trie_non_euclidienne "Géométrie non
+euclidienne") au XIXe siècle, durant lequel les travaux de
+[Lobatchevski](/wiki/Nikola%C3%AF_Ivanovitch_Lobatchevski "Nikolaï Ivanovitch
+Lobatchevski") ont été largement ignorés ; ou bien, dans un autre ordre
+d'idée, la difficulté de la réception des travaux du jeune républicain
+[Galois](/wiki/%C3%89variste_Galois "Évariste Galois") au début du même
+siècle, notamment par [Cauchy](/wiki/Augustin_Louis_Cauchy "Augustin Louis
+Cauchy")[13]. La sociologie des mathématiques étudie de tels phénomènes (voir
+[sociologie des sciences](/wiki/Sociologie_des_sciences "Sociologie des
+sciences")).
+
+D'autre part, la solidité même des bases ne peut reposer sur les seules
+mathématiques. En effet les [théorèmes
+d'incomplétude](/wiki/Th%C3%A9or%C3%A8mes_d%27incompl%C3%A9tude_de_G%C3%B6del
+"Théorèmes d'incomplétude de Gödel"), démontrés par [Kurt
+Gödel](/wiki/Kurt_G%C3%B6del "Kurt Gödel") dans la première moitié du XXe
+siècle, montrent que, contrairement à [ce
+qu'espérait](/wiki/Programme_de_Hilbert "Programme de Hilbert") [David
+Hilbert](/wiki/David_Hilbert "David Hilbert"), il est impossible de réduire
+formellement les bases des mathématiques en un système dont la sûreté se
+démontre à partir de celles-ci, et cela entraîne que certaines propriétés
+considérées « vraies » resteront inaccessibles à la démonstration, quels que
+soient les axiomes choisis.
+
+##
+Enseignement[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=9
+"Modifier la section : Enseignement") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=9 "Modifier la
+section : Enseignement")]
+
+Article détaillé : [Enseignement des
+mathématiques](/wiki/Enseignement_des_math%C3%A9matiques "Enseignement des
+mathématiques").
+
+L'enseignement des mathématiques peut aussi bien désigner l'apprentissage des
+notions mathématiques fondamentales ou élémentaires de base que
+l'apprentissage et l'initiation à la recherche ( _enseignement supérieur des
+mathématiques_ ). Suivant les époques et les lieux, les choix des matières
+enseignées et les méthodes d'enseignement changent ( _[mathématiques
+modernes](/wiki/Math%C3%A9matiques_modernes "Mathématiques modernes"),
+[méthode de Moore](/wiki/M%C3%A9thode_de_Moore "Méthode de Moore"), [éducation
+classique](/wiki/%C3%89ducation_classique "Éducation classique")…_). Dans
+certains pays, le choix des programmes [scolaires](/wiki/Scolaire "Scolaire")
+dans l'éducation publique est fait par des institutions officielles.
+
+[Cédric Villani](/wiki/C%C3%A9dric_Villani "Cédric Villani"), dans une
+[conférence TED](/wiki/Conf%C3%A9rence_TED "Conférence TED"), rappelle une
+difficulté importante et que l'enseignement des mathématiques ne résoudra pas
+à lui seul : le processus d'une découverte mathématique ne relève pas lui-même
+des mathématiques[14]. [George Pólya](/wiki/George_P%C3%B3lya "George Pólya")
+indiqua en revanche vers le milieu du 20e siècle quelques techniques
+permettant de résoudre des problèmes existants, dans son livre _Comment poser
+et résoudre un problème_ ("How to solve it").
+
+Vers la même époque quelques ouvrages proposaient d'acquérir les mécanismes de
+résolution par une multitude d'exercices proposés avec leur correction
+détaillée en regard. En France et pour les mathématiques, il y eut dans le
+secondaire les ouvrages de Pierre Louquet. Dans le monde anglophone et
+concernant un grand nombre de disciplines, la série des [Schaum's
+Outlines](/w/index.php?title=Schaum%27s_Outlines&action=edit&redlink=1
+"Schaum's Outlines \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Schaum%27s_Outlines "en:Schaum's
+Outlines") poursuit ce but.
+
+##
+Pratique[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=10
+"Modifier la section : Pratique") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=10 "Modifier
+la section : Pratique")]
+
+### Activité de
+recherche[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=11
+"Modifier la section : Activité de recherche") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=11 "Modifier
+la section : Activité de recherche")]
+
+Article détaillé : [recherche mathématique](/wiki/Recherche_math%C3%A9matique
+"Recherche mathématique").
+
+La recherche mathématique ne se limite pas qu'à la démonstration des
+[théorèmes](/wiki/Th%C3%A9or%C3%A8me "Théorème"). L'une des méthodes les plus
+fructueuses de recherche mathématique est la mise en rapprochement de domaines
+_a priori_ éloignés en mettant en lumière des phénomènes analogues (par
+exemple, la [géométrie euclidienne](/wiki/G%C3%A9om%C3%A9trie_euclidienne
+"Géométrie euclidienne") et les [équations différentielles
+linéaires](/wiki/%C3%89quation_diff%C3%A9rentielle_lin%C3%A9aire "Équation
+différentielle linéaire")). L'identification de phénomènes analogues peut
+conduire à vouloir adapter des résultats d'un domaine des mathématiques à un
+autre, à reformuler des éléments de démonstration en termes équivalents, à
+tenter une [axiomatisation](/wiki/Axiomatisation "Axiomatisation") d'un objet
+(par exemple, ce pourrait être la notion d'[espace
+vectoriel](/wiki/Espace_vectoriel "Espace vectoriel")) qui regrouperait les
+deux domaines… Dans ce dernier cas, ce nouvel objet deviendrait alors un objet
+d'étude par lui-même. Dans certains cas, l'identification d'objets _a priori_
+différents devient nécessaire : le langage des catégories permet de faire ce
+genre de choses.
+
+Une autre méthode de recherche est la confrontation aux exemples et aux cas
+particuliers. Cette confrontation peut permettre de réfuter des propriétés
+qu'on pensait ou espérait être vraies ([conjectures](/wiki/Conjecture
+"Conjecture")). Au contraire, elle peut permettre de vérifier des propriétés
+ou d'amener à les formaliser. Par exemple, en [géométrie
+riemannienne](/wiki/G%C3%A9om%C3%A9trie_riemannienne "Géométrie
+riemannienne"), l'étude des surfaces (donc des objets en dimension 2) et de
+leurs [géodésiques](/wiki/G%C3%A9od%C3%A9sique "Géodésique") a finalement
+conduit [Anosov](/wiki/Dmitri_Anossov "Dmitri Anossov") à formaliser le
+[difféomorphisme d'Anosov](/wiki/Syst%C3%A8me_d%27Anosov "Système d'Anosov"),
+une transformation possédant d'intéressantes propriétés dynamiques.
+
+###
+Langage[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=12
+"Modifier la section : Langage") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=12 "Modifier
+la section : Langage")]
+
+Article détaillé : [Langage mathématique](/wiki/Langage_math%C3%A9matique
+"Langage mathématique").
+
+Les mathématiques utilisent un langage qui leur est propre. Certains termes du
+langage courant, comme [groupe](/wiki/Groupe_\(math%C3%A9matiques\) "Groupe
+\(mathématiques\)"), [anneau](/wiki/Anneau_unitaire "Anneau unitaire"),
+[corps](/wiki/Corps_commutatif "Corps commutatif") ou
+[variété](/wiki/Vari%C3%A9t%C3%A9_alg%C3%A9brique "Variété algébrique")
+peuvent être empruntés et redéfinis pour désigner des objets mathématiques.
+Mais souvent des termes sont formés et introduits selon les besoins :
+[isomorphisme](/wiki/Isomorphisme "Isomorphisme"), [topologie](/wiki/Topologie
+"Topologie"), [itération](/wiki/It%C3%A9ration "Itération")… Le nombre élevé
+de ces termes rend difficile la compréhension des mathématiques par les non
+mathématiciens.
+
+Le langage mathématique s'appuie aussi sur l'usage de formules. Elles
+comportent des [symboles](/wiki/Table_de_symboles_math%C3%A9matiques "Table de
+symboles mathématiques"), les uns en rapport avec le [calcul
+propositionnel](/wiki/Calcul_des_propositions "Calcul des propositions") comme
+le connecteur binaire d'[implication](/wiki/Implication_\(logique\)
+"Implication \(logique\)") ⇒ {\displaystyle \Rightarrow } ![\\Rightarrow
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/469b737d167b9b28a74e27c7f5e35b5ea9256100)
+ou le connecteur unaire de [négation](/wiki/N%C3%A9gation_logique "Négation
+logique") ¬ {\displaystyle \neg }
+![\\neg](https://wikimedia.org/api/rest_v1/media/math/render/svg/fa78fd02085d39aa58c9e47a6d4033ce41e02fad),
+d'autres en rapport avec le [calcul des
+prédicats](/wiki/Calcul_des_pr%C3%A9dicats "Calcul des prédicats"), comme le
+[quantificateur universel](/wiki/Quantificateur_universel "Quantificateur
+universel") ∀ {\displaystyle \forall } ![\\forall
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/bfc1a1a9c4c0f8d5df989c98aa2773ed657c5937)
+ou le [quantificateur existentiel](/wiki/Quantificateur_existentiel
+"Quantificateur existentiel") ∃ {\displaystyle \exists } ![\\exists
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583).
+La plupart des notations utilisées au XXIe siècle ont été introduites après le
+XVIIe siècle seulement.
+
+Il existe un langage mathématique qui décrit les mathématiques. En ce sens, on
+dit qu'il s'agit d'un [métalangage](/wiki/M%C3%A9talangage "Métalangage") : il
+s'agit de la [logique mathématique](/wiki/Logique_math%C3%A9matique "Logique
+mathématique").
+
+## Rapport avec les autres
+sciences[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=13
+"Modifier la section : Rapport avec les autres sciences") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=13 "Modifier
+la section : Rapport avec les autres sciences")]
+
+Les mathématiques entretiennent des rapports particuliers avec toutes les
+[sciences](/wiki/Science "Science"), au sens large du terme. L'analyse de
+données (interprétation graphique, données statistiques…) fait appel à des
+compétences mathématiques variées. Mais des outils avancés de mathématiques
+interviennent dans les [modélisations](/wiki/Mod%C3%A8le_math%C3%A9matique
+"Modèle mathématique").
+
+Toutes les sciences dites dures, à l'exception des mathématiques, tendent à
+une compréhension du monde réel. Cette compréhension passe par la mise en
+place d'un modèle, prenant en compte un certain nombre de paramètres
+considérés comme causes d'un phénomène. Ce modèle constitue un objet
+mathématique, dont l'étude permet une meilleure compréhension du phénomène
+étudié, éventuellement une prédiction qualitative ou quantitative quant à son
+évolution future.
+
+La modélisation fait appel à des compétences relevant essentiellement de
+l'analyse et des probabilités, mais les méthodes algébriques ou géométriques
+s'avèrent utiles.
+
+###
+Physique[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=14
+"Modifier la section : Physique") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=14 "Modifier
+la section : Physique")]
+
+Les mathématiques sont nées d'une volonté de compréhension de l'espace ambiant
+: la géométrie naît de la modélisation de formes idéalisées, et l'arithmétique
+des besoins des gestions des quantités. [Astronomie](/wiki/Astronomie
+"Astronomie") et [géométrie](/wiki/G%C3%A9om%C3%A9trie "Géométrie") se sont
+longtemps confondues, jusque dans les civilisations islamiques. Les
+mathématiques et la physique, après s'être différenciées, ont gardé d'étroits
+liens. Dans l'histoire contemporaine de ces deux sciences, les mathématiques
+et la physique se sont influencées mutuellement. La physique moderne use
+abondamment des mathématiques, en faisant une modélisation systématique pour
+comprendre les résultats de ses expériences :
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pendule_schema.gif/220px-
+Pendule_schema.gif)](/wiki/Fichier:Pendule_schema.gif)
+
+[](/wiki/Fichier:Pendule_schema.gif "Agrandir")
+
+Schéma de pendule.
+
+  * Cette modélisation peut faire appel à des outils mathématiques déjà développés. Ainsi l'usage des métriques en [géométrie différentielle](/wiki/G%C3%A9om%C3%A9trie_diff%C3%A9rentielle "Géométrie différentielle") est un outil essentiel sur lequel repose notamment la [relativité générale](/wiki/Relativit%C3%A9_g%C3%A9n%C3%A9rale "Relativité générale"), développée par le mathématicien [Minkowski](/wiki/Hermann_Minkowski "Hermann Minkowski") puis par le physicien [Einstein](/wiki/Albert_Einstein "Albert Einstein"). Cet usage est aussi utilisé dans les autres théories post-newtoniennes.
+  * Cette modélisation encourage les mathématiciens à s'intéresser davantage à telle ou telle structure mathématique pour les besoins de la physique.
+  * Cette modélisation demande parfois au contraire des outils mathématiques non encore développés et ouvre des nouvelles perspectives mathématiques. Ainsi, [Isaac Newton](/wiki/Isaac_Newton "Isaac Newton") a-t-il développé le [calcul différentiel](/wiki/D%C3%A9riv%C3%A9e "Dérivée") pour pouvoir écrire les lois (classiques) du mouvement ; s'intéressant à la [diffusion de la chaleur dans les corps](/wiki/%C3%89quation_de_la_chaleur "Équation de la chaleur"), [Joseph Fourier](/wiki/Joseph_Fourier "Joseph Fourier") découvre les [séries qui portent son nom](/wiki/S%C3%A9rie_de_Fourier "Série de Fourier"), porte ouverte sur la [théorie de Fourier](/wiki/Th%C3%A9orie_de_Fourier "Théorie de Fourier"). Plus récemment, citons les problèmes de quantification géométrique, d'intégrales de [Feynman](/wiki/Richard_Feynman "Richard Feynman"), de polynômes de [Donaldson](/wiki/Simon_Donaldson "Simon Donaldson")…
+
+Un domaine de recherche spécifique, la [physique
+mathématique](/wiki/Physique_math%C3%A9matique "Physique mathématique"), tend
+précisément à développer les méthodes mathématiques mises à l'usage de la
+physique.
+
+Le lien étroit entre mathématiques et physique se reflète dans l'enseignement
+supérieur des mathématiques. L'enseignement de la physique fait appel à des
+cours de mathématiques pour physiciens ; et il n'est pas rare que les cursus
+de mathématiques dans les universités incluent une initiation facultative à la
+physique.
+
+Néanmoins, [Albert Einstein](/wiki/Albert_Einstein "Albert Einstein") est un
+des premiers à [relativiser le domaine des
+mathématiques](/wiki/Albert_Einstein#Einstein_et_les_mathématiques "Albert
+Einstein") en rappelant que la physique en utilise _plusieurs_ formes, au gré
+de ses besoins, et non une seule. Sa [Théorie de la relativité
+générale](/wiki/Relativit%C3%A9_g%C3%A9n%C3%A9rale "Relativité générale")
+utilise par exemple une [géométrie non
+euclidienne](/wiki/G%C3%A9om%C3%A9trie_non_euclidienne "Géométrie non
+euclidienne") formalisée par [Minkowski](/wiki/Hermann_Minkowski "Hermann
+Minkowski"). Il énoncera : « En tant que se rapportant à la réalité, la
+[géométrie euclidienne](/wiki/G%C3%A9om%C3%A9trie_euclidienne "Géométrie
+euclidienne") n'est pas exacte. En tant qu'exacte, elle ne se rapporte pas à
+la réalité » (conférence berlinoise de 1921, _la géométrie et l'expérience_ ).
+
+###
+Informatique[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=15
+"Modifier la section : Informatique") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=15 "Modifier
+la section : Informatique")]
+
+L'essor des techniques au XXe siècle a ouvert la voie à une nouvelle science,
+l'[informatique](/wiki/Informatique "Informatique"). Celle-ci est étroitement
+liée aux mathématiques, de diverses manières : certains pans de la recherche
+en [informatique théorique](/wiki/Informatique_th%C3%A9orique "Informatique
+théorique") peuvent être considérés comme d'essence mathématique, d'autres
+branches de l'informatique faisant plutôt usage des mathématiques. Les
+nouvelles technologies de communication ont quant à elles ouvert la voie aux
+applications à des branches des mathématiques parfois très anciennes
+([arithmétique](/wiki/Arithm%C3%A9tique "Arithmétique")), notamment en ce qui
+concerne les problèmes de sécurité des transmissions :
+[cryptographie](/wiki/Cryptographie "Cryptographie") et [théorie des
+codes](/wiki/Th%C3%A9orie_des_codes "Théorie des codes").
+
+En contrepartie, les sciences informatiques influencent l'évolution moderne
+des mathématiques.
+
+Les [mathématiques discrètes](/wiki/Math%C3%A9matiques_discr%C3%A8tes
+"Mathématiques discrètes") forment un domaine de recherche actuel des
+mathématiques visant à développer les méthodes utilisées en science
+informatique, incluant la [théorie de la
+complexité](/wiki/Th%C3%A9orie_de_la_complexit%C3%A9_\(informatique_th%C3%A9orique\)
+"Théorie de la complexité \(informatique théorique\)"), la [théorie de
+l'information](/wiki/Th%C3%A9orie_de_l%27information "Théorie de
+l'information"), la [théorie des graphes](/wiki/Th%C3%A9orie_des_graphes
+"Théorie des graphes")… Parmi les problèmes ouverts, citons notamment le
+[célèbre P=NP](/wiki/Probl%C3%A8me_P_%3D_NP "Problème P = NP") en théorie de
+la complexité, qui fait partie des sept [problèmes du prix du
+millénaire](/wiki/Probl%C3%A8mes_du_prix_du_mill%C3%A9naire "Problèmes du prix
+du millénaire"). Celui qui arrivera à décider si P et NP sont différents ou
+égaux recevra un montant de 1 000 000 [USD](/wiki/Dollar_am%C3%A9ricain
+"Dollar américain").
+
+L'informatique est également devenue un outil essentiel à la découverte ou à
+la démonstration de certains théorèmes mathématiques. L'exemple le plus
+célèbre est celui du [Théorème des quatre
+couleurs](/wiki/Th%C3%A9or%C3%A8me_des_quatre_couleurs "Théorème des quatre
+couleurs"), démontré en 1976 à l'aide d'un ordinateur, car certains des
+calculs nécessaires sont trop complexes pour être réalisés à la main. Cette
+évolution bouleverse les mathématiques traditionnelles, où la règle était que
+le mathématicien puisse vérifier de lui-même chaque partie de la
+démonstration. En 1998, la [Conjecture de Kepler](/wiki/Conjecture_de_Kepler
+"Conjecture de Kepler") semble avoir également été démontrée par ordinateur,
+et une équipe internationale travaille depuis sur la rédaction d'une preuve
+formelle.
+
+En effet, si la preuve est rédigée de façon formelle, il devient alors
+possible de la vérifier à l'aide d'un logiciel particulier, appelé [assistant
+de preuve](/wiki/Assistant_de_preuve "Assistant de preuve"). C'est la
+meilleure technique connue pour être (presque) certain qu'une démonstration
+assistée par ordinateur ne souffre d'aucun [bug](/wiki/Bug_\(informatique\)
+"Bug \(informatique\)"). En l'espace d'une trentaine d'années, le rapport
+entre les mathématiciens et l'informatique s'est donc complètement renversé :
+d'abord instrument suspect à éviter si possible dans l'activité mathématique,
+l'ordinateur est devenu au contraire un outil incontournable.
+
+### Biologie, chimie et
+géologie[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=16
+"Modifier la section : Biologie, chimie et géologie") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=16 "Modifier
+la section : Biologie, chimie et géologie")]
+
+La [biologie](/wiki/Biologie "Biologie") est grande consommatrice de
+mathématiques et notamment de probabilités. La dynamique d'une population se
+modélise couramment par des [chaînes de Markov](/wiki/Cha%C3%AEne_de_Markov
+"Chaîne de Markov") (théorie des processus discrets) ou par des [équations
+différentielles](/wiki/%C3%89quations_diff%C3%A9rentielles "Équations
+différentielles") couplées. Il en va de même pour l'évolution des génotypes :
+le [principe de Hardy-Weinberg](/wiki/Principe_de_Hardy-Weinberg "Principe de
+Hardy-Weinberg"), souvent évoqué en génétique, relève de propriétés générales
+sur les processus à temps discret (existence de lois limites). Plus
+généralement, la [phylogéographie](/wiki/Phylog%C3%A9ographie
+"Phylogéographie") fait appel à des modélisations probabilistes. De plus, la
+médecine use de tests (statistiques) pour comprendre la validité de tel ou tel
+traitement. Un domaine spécifique de recherche à la frontière de la biologie
+est né : la [biomathématique](/wiki/Biomath%C3%A9matique "Biomathématique").
+
+Depuis le début du XXIe siècle, la [chimie organique](/wiki/Chimie_organique
+"Chimie organique") a fait appel à l'informatique pour pouvoir modéliser les
+molécules en trois dimensions : il s'avère que la forme d'une
+[macromolécule](/wiki/Macromol%C3%A9cule "Macromolécule") en biologie est
+variable et détermine son action. Cette modélisation fait appel à la
+[géométrie euclidienne](/wiki/G%C3%A9om%C3%A9trie_euclidienne "Géométrie
+euclidienne") ; les atomes forment une sorte de [polyèdre](/wiki/Poly%C3%A8dre
+"Polyèdre") dont les distances et les angles sont fixés par les lois
+d'interaction.
+
+Les [géologies structurales](/wiki/G%C3%A9ologie_structurale "Géologie
+structurale") et
+[climatologiques](/w/index.php?title=G%C3%A9ologie_climatologique&action=edit&redlink=1
+"Géologie climatologique \(page inexistante\)") font appel à des modèles
+mêlant des méthodes probabilistes et analytiques, pour pouvoir prédire du
+risque de catastrophe naturelle. La complexité des modèles est telle qu'une
+branche de recherche est née à la frontière des mathématiques et de la
+[géophysique](/wiki/G%C3%A9ophysique "Géophysique"), à savoir la [géophysique
+mathématique](/wiki/G%C3%A9ophysique_math%C3%A9matique "Géophysique
+mathématique"). De même, la [météorologie](/wiki/M%C3%A9t%C3%A9orologie
+"Météorologie"), l'[océanographie](/wiki/Oc%C3%A9anographie "Océanographie")
+et la [planétologie](/wiki/Plan%C3%A9tologie "Planétologie") sont grandes
+consommatrices de mathématiques car elles nécessitent des modélisations.
+
+### Sciences
+humaines[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=17
+"Modifier la section : Sciences humaines") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=17 "Modifier
+la section : Sciences humaines")]
+
+Le rapport des mathématiques avec les sciences humaines se fait
+essentiellement par les [statistiques](/wiki/Statistique "Statistique") et les
+[probabilités](/wiki/Probabilit%C3%A9 "Probabilité"), mais aussi par des
+[équations différentielles](/wiki/%C3%89quation_diff%C3%A9rentielle "Équation
+différentielle"), [stochastiques](/wiki/Calcul_stochastique "Calcul
+stochastique") ou non, utilisées en [sociologie](/wiki/Sociologie
+"Sociologie"), [psychologie](/wiki/Psychologie "Psychologie"),
+[économie](/wiki/Sciences_%C3%A9conomiques "Sciences économiques"),
+[finance](/wiki/Finance "Finance"), [gestion
+d'entreprise](/wiki/Gestion_d%27entreprise "Gestion d'entreprise"),
+[linguistique](/wiki/Linguistique "Linguistique")…
+
+La [logique](/wiki/Logique "Logique") est depuis
+[l'Antiquité](/wiki/Antiquit%C3%A9 "Antiquité") l'une des trois grandes
+disciplines de la [philosophie](/wiki/Philosophie "Philosophie"), avec
+l'éthique et la physique. Des philosophes comme [Pythagore](/wiki/Pythagore
+"Pythagore") et [Thales de Milet](/wiki/Thal%C3%A8s "Thalès") ont formalisé
+les célèbres théorèmes [géométriques](/wiki/G%C3%A9om%C3%A9trie "Géométrie")
+portant leur nom. « Que nul n'entre ici s'il n'est géomètre », était-il gravé
+sur le portail de [l'Académie](/wiki/Acad%C3%A9mie_de_Platon "Académie de
+Platon") de [Platon](/wiki/Platon "Platon"), pour qui les mathématiques sont
+un intermédiaire pour accéder au monde des
+[Idées](/wiki/Th%C3%A9orie_des_Id%C3%A9es "Théorie des Idées").
+
+Notamment, les [mathématiques
+financières](/wiki/Math%C3%A9matiques_financi%C3%A8res "Mathématiques
+financières") sont une branche des mathématiques appliquées visant à la
+compréhension de l'évolution des marchés financiers et de l'estimation des
+risques. Cette branche des mathématiques se développe à la frontière des
+probabilités et de l'analyse et use des statistiques.
+
+Beaucoup plus subtil est le cas de
+l'[économie](/wiki/Sciences_%C3%A9conomiques "Sciences économiques")
+mathématique. Le [postulat](/wiki/Postulat "Postulat") fondamental de cette
+discipline est que l'activité économique peut se comprendre à partir d'un
+axiome de nature [anthropologique](/wiki/Anthropologie "Anthropologie"), celui
+de l'acteur individuel rationnel. Dans cette vision, chaque individu cherche
+par ses actions à accroître un certain [profit](/wiki/Profit "Profit"), et ce
+de façon [rationnelle](/wiki/Rationalit%C3%A9_%C3%A9conomique "Rationalité
+économique"). Cette sorte de vision [atomiste](/wiki/Atomisme "Atomisme") de
+l'économie permet à celle-ci de mathématiser relativement aisément sa
+réflexion, puisque le [calcul](/wiki/Calcul_\(math%C3%A9matiques\) "Calcul
+\(mathématiques\)") individuel se transpose en calcul mathématique. Cette
+modélisation mathématique en économie permet de percer à jour des mécanismes
+économiques qui n'auraient pu être découverts que très difficilement par une
+analyse « littéraire ». Par exemple, les explications des [cycles
+économiques](/wiki/Cycle_%C3%A9conomique "Cycle économique") ne sont pas
+triviales. Sans modélisation mathématique, on peut difficilement aller au-delà
+du simple constat statistique ou des spéculations non prouvées. Toutefois,
+certains sociologues, comme [Bourdieu](/wiki/Pierre_Bourdieu "Pierre
+Bourdieu"), et même certains économistes, refusent ce postulat de l' _[homo
+œconomicus](/wiki/Homo_%C5%93conomicus "Homo œconomicus")_ , en remarquant que
+les motivations des individus comprennent non seulement le
+[don](/wiki/Don_\(acte\) "Don \(acte\)"), mais dépendent également d'autres
+enjeux dont l'intérêt financier n'est qu'une partie, ou tout simplement ne
+sont pas rationnelles. La [mathématisation](/wiki/Math%C3%A9matisation
+"Mathématisation") est donc, selon eux, un habillage permettant une
+valorisation scientifique de la matière.
+
+On assiste également au début du [XXe siècle](/wiki/XXe_si%C3%A8cle "XXe
+siècle"), à une réflexion pour mettre les mouvements historiques en formule,
+comme le fait [Nikolaï Kondratiev](/wiki/Nikola%C3%AF_Kondratiev "Nikolaï
+Kondratiev"), qui discerne un [cycle](/wiki/Cycle_de_Kondratiev "Cycle de
+Kondratiev") de base pour expliquer les phases d'expansion et de crise en
+économie politique, ou [Nicolas-Remi Brück](/wiki/Nicolas-Remi_Br%C3%BCck
+"Nicolas-Remi Brück") et [Charles Henri Lagrange](/wiki/Charles_Henri_Lagrange
+"Charles Henri Lagrange")[15] qui, dès la fin du XIXe siècle, ont amplifié
+leur analyse jusqu'à pénétrer dans le domaine de la
+[géopolitique](/wiki/G%C3%A9opolitique "Géopolitique"), en voulant établir
+l'existence, dans l'histoire, de mouvements de vaste amplitude qui mènent les
+peuples à leur apogée, puis à leur déclin[16].
+
+Cependant une mathématisation des sciences humaines n'est pas sans danger.
+Dans l'essai polémique _[Impostures
+intellectuelles](/wiki/Impostures_intellectuelles "Impostures
+intellectuelles")_ , [Sokal](/wiki/Alan_Sokal "Alan Sokal") et
+[Bricmont](/wiki/Jean_Bricmont "Jean Bricmont") dénoncent la relation, non
+fondée ou abusive, d'une terminologie scientifique, en particulier
+mathématique et physique, dans le domaine des sciences humaines. L'étude de
+systèmes complexes (évolution du chômage, capital d'une entreprise, évolution
+démographique d'une population…) fait appel à des connaissances mathématiques
+élémentaires, mais le choix des critères de comptage, notamment dans le cas du
+chômage, ou de la modélisation peut être sujet à polémique.
+
+###
+Écologie[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=18
+"Modifier la section : Écologie") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=18 "Modifier
+la section : Écologie")]
+
+L'écologie utilise également un grand nombre de modèles[17] pour simuler la
+[dynamique des populations](/wiki/Dynamique_des_populations "Dynamique des
+populations"), étudier des écosystèmes comme le modèle proie-prédateur,
+mesurer les diffusions de pollutions[18] ou évaluer les changements
+climatiques issus du réchauffement[19]. Ces outils permettent de communiquer
+sur des données chiffrées, pour éventuellement les critiquer ou les confronter
+entre elles. Se pose alors le problème de la validation de ces modèles,
+notamment dans le cas où les résultats peuvent influer sur des décisions
+politiques et où l'existence de modèles contradictoires entre eux permet aux
+États de choisir le plus favorable à leur décision[20].
+
+## Rapport avec l'astrologie,
+l'ésotérisme[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=19
+"Modifier la section : Rapport avec l'astrologie, l'ésotérisme") | [modifier
+le code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=19
+"Modifier la section : Rapport avec l'astrologie, l'ésotérisme")]
+
+Les mathématiques ont entretenu pendant longtemps des liens très étroits avec
+l'[astrologie](/wiki/Astrologie "Astrologie"). Celle-ci, par le biais de
+thèmes astraux, a servi de motivation dans l'étude de l'astronomie. Des
+mathématiciens de renom furent également considérés comme des grands
+astrologues. On peut citer [Ptolémée](/wiki/Claude_Ptol%C3%A9m%C3%A9e "Claude
+Ptolémée"), les astronomes de langue arabe,
+[Regiomontanus](/wiki/Regiomontanus "Regiomontanus"),
+[Cardan](/wiki/J%C3%A9r%C3%B4me_Cardan "Jérôme Cardan"),
+[Kepler](/wiki/Johannes_Kepler "Johannes Kepler"), ou encore [John
+Dee](/wiki/John_Dee "John Dee"). Au Moyen Âge, l'astrologie est considérée
+comme une science se rangeant dans les mathématiques. Ainsi [Theodor
+Zwingler](/wiki/Theodor_Zwinger_\(l%27Ancien\) "Theodor Zwinger \(l'Ancien\)")
+signale dans sa grande encyclopédie, concernant l'astrologie, que c'est une
+science mathématique traitant du « mouvement actif des corps en tant qu'ils
+agissent sur d'autres corps » et réserve aux mathématiques le soin de «
+calculer avec probabilité les influences [des astres] » en prévoyant leurs «
+conjonctions et oppositions »[21]. Les [théories astrologiques
+occidentales](/wiki/Astrologie "Astrologie") contemporaines se targuent de
+suivre des méthodes scientifiques. En particulier, l'[astrologie
+statistique](/wiki/%C3%89tude_statistique_de_l%27astrologie "Étude statistique
+de l'astrologie") utilise les tests statistiques pour mettre en évidence
+d'éventuelles [corrélations](/wiki/Corr%C3%A9lation_\(statistiques\)
+"Corrélation \(statistiques\)") entre la position des astres et le devenir des
+hommes. Toutefois, ces études initiées par [Choisnard](/wiki/Paul_Choisnard
+"Paul Choisnard") et [Gauquelin](/wiki/Michel_Gauquelin "Michel Gauquelin"),
+menées à la marge de la recherche scientifique, n'ont, en date de 2009, pas
+été productives et n'ont réussi à donner aucune preuve recevable d'un lien de
+cause à effet.
+
+Les mathématiques sont aussi une composante de
+l'[ésotérisme](/wiki/%C3%89sot%C3%A9risme "Ésotérisme"). Très fréquemment, les
+mathématiciens eux-mêmes ont été tentés de trouver dans la figure ou le nombre
+un sens caché servant de clé dans la découverte du monde. Dans l'école
+pythagoricienne, chaque nombre a une signification symbolique et le serment
+des initiés se serait énoncé devant une
+[tretraktys](/wiki/Pythagore#Arithmétique_\(et_arithmologie\) "Pythagore")[22]
+De même [Platon](/wiki/Platon "Platon") ne se contente pas d'énumérer les
+[solides qui portent son nom](/wiki/Solide_de_Platon "Solide de Platon") il
+attribue à chacun d'eux une nature (eau, terre, feu, air, univers)[23].
+L'arithmosophie, la [numérologie](/wiki/Num%C3%A9rologie "Numérologie"), la
+[gématrie](/wiki/Gematria "Gematria"), l'[arithmancie](/wiki/Arithmancie
+"Arithmancie") tentent, à travers des calculs sur les nombres, de trouver des
+significations cachées à des textes ou d'en extraire des propriétés
+prédictives. On retrouve cette fascination pour le nombre et la figure encore
+de nos jours où certains attribuent des vertus cachées à un
+[pentacle](/wiki/Pentacle "Pentacle") ou un [nombre d'or](/wiki/Nombre_d%27or
+"Nombre d'or").
+
+Au XXIe siècle, ces disciplines ne sont plus considérées comme des
+sciences[24].
+
+## Impact
+culturel[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=20
+"Modifier la section : Impact culturel") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=20 "Modifier
+la section : Impact culturel")]
+
+### Expression
+artistique[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=21
+"Modifier la section : Expression artistique") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=21 "Modifier
+la section : Expression artistique")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rameau_Traite_de_l%E2%80%99harmonie.jpg/170px-
+Rameau_Traite_de_l%E2%80%99harmonie.jpg)](/wiki/Fichier:Rameau_Traite_de_l%E2%80%99harmonie.jpg)
+
+[](/wiki/Fichier:Rameau_Traite_de_l%E2%80%99harmonie.jpg "Agrandir")
+
+Page couverture du _Traité de l’harmonie réduite à ses principes naturels_ de
+[Jean-Philippe Rameau](/wiki/Jean-Philippe_Rameau "Jean-Philippe Rameau").
+
+Les notes qui sonnent bien ensemble à une oreille occidentale sont des sons
+dont les [fréquences](/wiki/Fr%C3%A9quence "Fréquence") fondamentales de
+vibration sont dans des rapports simples. Par exemple,
+l'[octave](/wiki/Octave_\(musique\) "Octave \(musique\)") est un doublement de
+fréquence, la [quinte](/wiki/Quinte "Quinte") une multiplication par 3⁄2.
+
+Ce lien entre les fréquences et l'[harmonie](/wiki/Harmonie "Harmonie") a été
+notamment détaillé dans le _[Traité de l'harmonie réduite à ses principes
+naturels](/wiki/Trait%C3%A9_de_l%27harmonie_r%C3%A9duite_%C3%A0_ses_principes_naturels
+"Traité de l'harmonie réduite à ses principes naturels")_ de [Jean-Philippe
+Rameau](/wiki/Jean-Philippe_Rameau "Jean-Philippe Rameau")[25], compositeur
+baroque français et théoricien de la musique. Il repose en partie sur
+l'analyse des [harmoniques](/wiki/Harmonique_\(musique\) "Harmonique
+\(musique\)") (notées 2 à 15 dans la figure suivante) d'un son fondamental Do
+grave (noté 1), les premières harmoniques et leurs octaves sonnant bien entre
+elles.
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Harmonics.svg/330px-
+Harmonics.svg.png)](/wiki/Fichier:Harmonics.svg)
+
+[](/wiki/Fichier:Harmonics.svg "Agrandir")
+
+Les harmoniques sur une portée.
+
+Si la courbe tracée en rouge, qui suit les notes harmoniques, a une allure
+[logarithmique](/wiki/Logarithme "Logarithme"), cela correspond au rapport
+entre deux phénomènes :
+
+  * d'une part, la représentation de la hauteur d'un son par notre [système auditif](/wiki/Audition_humaine "Audition humaine") qui est proportionnelle au logarithme de la [fréquence](/wiki/Fr%C3%A9quence "Fréquence") du son (une fréquence double correspond toujours à la même « distance sonore » appelée [octave](/wiki/Octave_\(musique\) "Octave \(musique\)")) ;
+  * d'autre part, les fréquences harmoniques qui sont des multiples entiers de la fréquence fondamentale.
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Julia_set_%28highres_01%29.jpg/200px-
+Julia_set_%28highres_01%29.jpg)](/wiki/Fichier:Julia_set_\(highres_01\).jpg)
+
+[](/wiki/Fichier:Julia_set_\(highres_01\).jpg "Agrandir")
+
+[Fractale](/wiki/Fractale "Fractale") possédant une symétrie d'échelle et une
+symétrie centrale.
+
+Les Occidentaux associent une certaine [beauté](/wiki/Beau "Beau") aux figures
+symétriques. Une [symétrie](/wiki/Sym%C3%A9trie "Symétrie") d'une figure
+géométrique est, intuitivement, l'existence d'un motif de la figure qui se
+répète suivant une règle précise, tout en étant partiellement transformé.
+Mathématiquement, une symétrie est l'existence d'une action non triviale d'un
+[groupe](/wiki/Groupe_\(math%C3%A9matiques\) "Groupe \(mathématiques\)"), très
+souvent par [isométrie](/wiki/Isom%C3%A9trie "Isométrie"), c'est-à-dire qui
+préserve les distances sur la figure. En d'autres termes, l'intuition de la
+règle est mathématiquement réalisée par le fait que c'est un groupe qui agit
+sur la figure, et le sentiment qu'une règle régit la symétrie est précisément
+dû à la structure algébrique de ce groupe.
+
+Par exemple, le groupe lié à la symétrie miroir est le [groupe
+cyclique](/wiki/Groupe_cyclique "Groupe cyclique") à deux éléments, ℤ/2ℤ. Un
+[test de Rorschach](/wiki/Test_de_Rorschach "Test de Rorschach") est une
+figure invariante par cette symétrie, de même qu'un
+[papillon](/wiki/Lepidoptera "Lepidoptera") et plus généralement le corps des
+animaux, du moins en surface. Lorsqu'on dessine la surface de la mer,
+l'ensemble des vagues possède une symétrie par translation : bouger notre
+regard de la longueur séparant deux crêtes de vagues ne change pas la vue que
+l'on a de la mer. Un autre cas de symétrie, cette fois non isométrique et
+presque toujours seulement approximative, est celui présenté par les
+[fractales](/wiki/Fractale "Fractale") : un certain motif se répète à toutes
+les échelles de vision.
+
+###
+Vulgarisation[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=22
+"Modifier la section : Vulgarisation") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=22 "Modifier
+la section : Vulgarisation")]
+
+Article détaillé : [Vulgarisation
+mathématique](/wiki/Vulgarisation_math%C3%A9matique "Vulgarisation
+mathématique").
+
+La [vulgarisation mathématique](/wiki/Vulgarisation_math%C3%A9matique
+"Vulgarisation mathématique") a pour objectif de présenter les mathématiques
+en un langage dénué de termes techniques. Comme l'objet d'études des
+mathématiques n'est pas réel, elle use souvent d'un vocabulaire imagé, et de
+comparaisons ou analogies non rigoureuses, pour faire sentir l'idée des
+développements mathématiques. Parmi les ouvrages qui se fixent ce but, citons
+_[Oh, les maths](/w/index.php?title=Oh,_les_maths&action=edit&redlink=1 "Oh,
+les maths \(page inexistante\)")_ de [Yakov Perelman](/wiki/Yakov_Perelman
+"Yakov Perelman") et _[Le livre qui rend
+fou](/w/index.php?title=Le_livre_qui_rend_fou&action=edit&redlink=1 "Le livre
+qui rend fou \(page inexistante\)")_ de [Raymond
+Smullyan](/wiki/Raymond_Smullyan "Raymond Smullyan"). Toutefois, les
+mathématiques font rarement l'objet de vulgarisation dans des journaux écrits
+ou télévisés.
+
+  * La revue _[Tangente](/wiki/Tangente_\(magazine\) "Tangente \(magazine\)"), l'aventure mathématique_ est le principal magazine de vulgarisation mathématique édité en France.
+  * La revue _[Images des mathématiques](/wiki/Images_des_math%C3%A9matiques "Images des mathématiques")_ , soutenue par le [Centre national de la recherche scientifique](/wiki/Centre_national_de_la_recherche_scientifique "Centre national de la recherche scientifique") (CNRS), relève également le défi. Elle fait découvrir au plus grand nombre la recherche mathématique contemporaine et son environnement.
+  * La revue _Accromαth_ [26] est soutenue par l'Institut des sciences mathématiques et le [Centre de recherches mathématiques](/wiki/Centre_de_recherches_math%C3%A9matiques "Centre de recherches mathématiques") de [Montréal](/wiki/Montr%C3%A9al "Montréal"). Elle s'adresse principalement aux élèves et enseignants d'école secondaire et de [cégep](/wiki/C%C3%A9gep "Cégep") et est distribuée gratuitement au [Québec](/wiki/Qu%C3%A9bec "Québec").
+  * La revue en ligne _Délibéré_ publie chaque semaine depuis décembre 2015 la chronique mathématique de Yannick Cras intitulée « Le nombre imaginaire »[27].
+  * La revue _[Quadrature](/wiki/Quadrature_\(revue\) "Quadrature \(revue\)")_ [28] éditée chaque trimestre s'adresse aux enseignants, étudiants, ingénieurs et amateurs de mathématiques. Le niveau des articles est variable et certains sont accessibles dès la terminale scientifique ou la Math-Sup. Les auteurs sont des mathématiciens, mais aussi des enseignants et des étudiants. _Quadrature_ est éclectique : certains articles présentent des mathématiques toutes récentes, tandis que d’autres donnent un nouveau point de vue sur des sujets traditionnels ou encore ressuscitent des questions de géométrie ancienne.
+
+### Littérature et
+filmographie[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=23
+"Modifier la section : Littérature et filmographie") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=23 "Modifier
+la section : Littérature et filmographie")]
+
+Si nombre de biographies portent sur les mathématiciens, les mathématiques
+sont un thème certes peu exploité dans la littérature ou la filmographie, mais
+présent.
+
+####
+Romans[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=24
+"Modifier la section : Romans") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=24 "Modifier
+la section : Romans")]
+
+  * Plusieurs livres de [Denis Guedj](/wiki/Denis_Guedj "Denis Guedj"), dont :
+
+  *     * _[Le Théorème du Perroquet](/wiki/Le_Th%C3%A9or%C3%A8me_du_Perroquet "Le Théorème du Perroquet")_
+    * _[Zéro, ou les cinq vies d'Aémer](/wiki/Z%C3%A9ro,_ou_les_cinq_vies_d%27A%C3%A9mer "Zéro, ou les cinq vies d'Aémer")_
+  * _Le Démon des maths_ de Hans Magnus Enzensberger
+  * _Mathématique du crime_ de Guillermo Martinez
+  * _Oncle Petros et la conjecture de Goldbach_ d'[Apóstolos Doxiádis](/wiki/Ap%C3%B3stolos_Doxi%C3%A1dis "Apóstolos Doxiádis")
+  * _[Flatland](/wiki/Flatland "Flatland")_ , d'[Edwin Abbott Abbott](/wiki/Edwin_Abbott_Abbott "Edwin Abbott Abbott")
+  * _[La Formule préférée du professeur](/wiki/La_Formule_pr%C3%A9f%C3%A9r%C3%A9e_du_professeur "La Formule préférée du professeur")_ , de [Yōko Ogawa](/wiki/Y%C5%8Dko_Ogawa "Yōko Ogawa")
+  * [2 + 2 = 5](/wiki/2_%2B_2_%3D_5#En_littérature "2 + 2 = 5")
+  * _[Le Planivers](/wiki/Le_Planivers "Le Planivers")_
+
+####
+Films[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=25
+"Modifier la section : Films") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=25 "Modifier
+la section : Films")]
+
+  * _[Will Hunting](/wiki/Will_Hunting "Will Hunting")_ ([1997](/wiki/1997_au_cin%C3%A9ma "1997 au cinéma"))
+  * _[Un homme d'exception](/wiki/Un_homme_d%27exception "Un homme d'exception")_ , film de [Ron Howard](/wiki/Ron_Howard "Ron Howard") ([2001](/wiki/2001_au_cin%C3%A9ma "2001 au cinéma"))
+  * _[Pi](/wiki/Pi_\(film\) "Pi \(film\)")_ , film de [Darren Aronofsky](/wiki/Darren_Aronofsky "Darren Aronofsky") ([1998](/wiki/1998_au_cin%C3%A9ma "1998 au cinéma"))
+  * _[Proof](/wiki/Proof_\(film,_2005\) "Proof \(film, 2005\)")_ ([2005](/wiki/2005_au_cin%C3%A9ma "2005 au cinéma"))
+  * _[Crimes à Oxford](/wiki/Crimes_%C3%A0_Oxford "Crimes à Oxford")_ ([2008](/wiki/2008_au_cin%C3%A9ma "2008 au cinéma"))
+  * _[C'est la tangente que je préfère](/wiki/C%27est_la_tangente_que_je_pr%C3%A9f%C3%A8re "C'est la tangente que je préfère")_ , film de [Charlotte Silvera](/wiki/Charlotte_Silvera "Charlotte Silvera") ([1998](/wiki/1998_au_cin%C3%A9ma "1998 au cinéma"))
+  * _[Las Vegas 21](/wiki/Las_Vegas_21 "Las Vegas 21")_ , film de [Robert Luketic](/wiki/Robert_Luketic "Robert Luketic") ([2008](/wiki/2008_au_cin%C3%A9ma "2008 au cinéma"))
+  * _[L'Amour en équation](/wiki/L%27Amour_en_%C3%A9quation "L'Amour en équation")_ , film de [Fred Schepisi](/wiki/Fred_Schepisi "Fred Schepisi") ([1995](/wiki/1995_au_cin%C3%A9ma "1995 au cinéma"))
+  * _[L'Homme qui défiait l'infini](/wiki/L%27Homme_qui_d%C3%A9fiait_l%27infini "L'Homme qui défiait l'infini")_ , film de [Matthew Brown](/wiki/Matthew_Brown "Matthew Brown") ([2016](/wiki/2016_au_cin%C3%A9ma "2016 au cinéma"))
+  * _[Imitation Game](/wiki/Imitation_Game "Imitation Game")_ , film de [Morten Tyldum](/wiki/Morten_Tyldum "Morten Tyldum") ([2014](/wiki/2014_au_cin%C3%A9ma "2014 au cinéma"))
+
+####
+Théâtre[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=26
+"Modifier la section : Théâtre") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=26 "Modifier
+la section : Théâtre")]
+
+##### Pièces de
+théâtre[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=27
+"Modifier la section : Pièces de théâtre") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=27 "Modifier
+la section : Pièces de théâtre")]
+
+  * _[La Preuve](/wiki/La_Preuve_\(David_Auburn\) "La Preuve \(David Auburn\)")_ de [David Auburn](/wiki/David_Auburn "David Auburn"), 2000 ( _Proof_ ,  éd. Dramatist's Play Service, 2002)
+  * [Denis Guedj](/wiki/Denis_Guedj "Denis Guedj"), One zéro show : spectacle arithmétique en 0 acte et 1 tableau ... blanc ; (suivi de) Du point ... à la ligne : spectacle géométrique en ligne ... et en surface, Paris, [Seuil](/wiki/%C3%89ditions_du_Seuil "Éditions du Seuil"), 2001, 61 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-02-037379-1](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-02-037379-1 "Spécial:Ouvrages de référence/978-2-02-037379-1"), [OCLC](/wiki/Online_Computer_Library_Center "Online Computer Library Center") [48908950](https://worldcat.org/oclc/48908950&lang=fr))
+  * _L'affaire 3.14_ , Compagnie L'île logique (Cédric Aubouy)
+  * _Galois Poincaré, mythes et maths_ , Compagnie L'île logique (Cédric Aubouy, David Latini)
+
+##### Spécialistes de théâtre de
+sciences[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=28
+"Modifier la section : Spécialistes de théâtre de sciences") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=28 "Modifier
+la section : Spécialistes de théâtre de sciences")]
+
+  * _Le Théâtre scientifique de Louis Figuier_ , Fabienne Cardot, _[Romantisme](/wiki/Romantisme_\(revue\) "Romantisme \(revue\)")_ , 1989
+  * _Théâtre et sciences, Le double fondateur_ , Jacques Baillon, [L'Harmattan](/wiki/%C3%89ditions_L%27Harmattan "Éditions L'Harmattan"), 1998
+  * _La Recherche théâtrale dans un institut technologique et scientifique_ , [Ouriel Zohar](/wiki/Ouriel_Zohar "Ouriel Zohar"), dans _Théâtre et Science_ ,  éd. Pr Lucile Garbagnati, F. Montaclair et D. Vingler, Presses du Centre Unesco de Besançon et du Théâtre de l'Université de Franche-Comté, Besançon, 1998.
+  * _Théâtre et matière, Les moteurs de représentation_ , Jacques Baillon, L'Harmattan, 2002
+  * _Le Théâtre de sciences_ , Michel Valmer, CNRS Éditions, 2006
+  * _Science on stage, from Dr Faustus to Copenhagen_, Kirsten Sheperd-Barr, Princeton University Press, 2006.
+  * _Le Modèle scientifique dans le théâtre de Tom Stoppard_ , Liliane Campos, dans _Epistémocritique_ , Revue d'études et de recherches sur la littérature et les savoirs, vol. II, 2008
+  * _L'île logique_ , théâtre et clowns sur la logique, les mathématiques et la physique théorique (CNRS, école Polytechnique), Cédric Aubouy. 2008.
+
+#### Séries
+télévisées[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=29
+"Modifier la section : Séries télévisées") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=29 "Modifier
+la section : Séries télévisées")]
+
+  * _[Numb3rs](/wiki/Numbers_\(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e\) "Numbers \(série télévisée\)")_ , série de Nicolas Falacci et Cheryl Heuton.
+  * _[Eureka](/wiki/Eureka_\(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e\) "Eureka \(série télévisée\)")_ , série télévisée créée par Andrew Cosby et Jaime Paglia.
+  * _[Stargate Universe](/wiki/Stargate_Universe "Stargate Universe")_ , série télévisée créée par Brad Wright et Robert C. Cooper.
+
+## Notes et
+références[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=30
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=30 "Modifier
+la section : Notes et références")]
+
+  1. ↑ (en) E. Wigner, « [The Unreasonable Effectiveness of Mathematics in the Natural Sciences](/w/index.php?title=The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences&action=edit&redlink=1 "The Unreasonable Effectiveness of Mathematics in the Natural Sciences \(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences "en:The Unreasonable Effectiveness of Mathematics in the Natural Sciences") », _[Commun. Pure Appl. Math.](/wiki/Liste_des_journaux_scientifiques_en_math%C3%A9matiques#C "Liste des journaux scientifiques en mathématiques")_ , vol. 13, no 1, 1960, p. 1-14 ([lire en ligne](http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html)).
+  2. ↑ (en) Article _[« mathematic »](http://dictionary.oed.com/cgi/entry/00303339?query_type=word&queryword=mathematics&first=1&max_to_show=10&sort_type=alpha&search_id=kEr4-m8fYsw-581&result_place=1)([Archive](http://web.archive.org/web/*/http://dictionary.oed.com/cgi/entry/00303339?query_type=word&queryword=mathematics&first=1&max_to_show=10&sort_type=alpha&search_id=kEr4-m8fYsw-581&result_place=1) • [Wikiwix](http://archive.wikiwix.com/cache/?url=http://dictionary.oed.com/cgi/entry/00303339?query_type=word&queryword=mathematics&first=1&max_to_show=10&sort_type=alpha&search_id=kEr4-m8fYsw-581&result_place=1) • [Archive.is](http://archive.is/http://dictionary.oed.com/cgi/entry/00303339?query_type=word&queryword=mathematics&first=1&max_to_show=10&sort_type=alpha&search_id=kEr4-m8fYsw-581&result_place=1) • [Google](https://www.google.fr/search?q=cache:http://dictionary.oed.com/cgi/entry/00303339?query_type=word&queryword=mathematics&first=1&max_to_show=10&sort_type=alpha&search_id=kEr4-m8fYsw-581&result_place=1) • [Que faire ?](/wiki/Projet:Correction_des_liens_externes#J'ai_trouvé_un_lien_mort,_que_faire_? "Projet:Correction des liens externes"))_ de l' _[Oxford English Dictionary](/wiki/Oxford_English_Dictionary "Oxford English Dictionary")_ (accès restreint).
+  3. ↑ (en) _The Oxford Dictionary of English Etymology_ , [Oxford University Press](/wiki/Oxford_University_Press "Oxford University Press").
+  4. ↑ Colin, 1971, cité à l'article [« mathématique »](http://atilf.atilf.fr/dendien/scripts/tlfiv5/visusel.exe?11;s=752034270;r=1;nat=;sol=0;)([Archive](http://web.archive.org/web/*/http://atilf.atilf.fr/dendien/scripts/tlfiv5/visusel.exe?11;s=752034270;r=1;nat=;sol=0;) • [Wikiwix](http://archive.wikiwix.com/cache/?url=http://atilf.atilf.fr/dendien/scripts/tlfiv5/visusel.exe?11;s=752034270;r=1;nat=;sol=0;) • [Archive.is](http://archive.is/http://atilf.atilf.fr/dendien/scripts/tlfiv5/visusel.exe?11;s=752034270;r=1;nat=;sol=0;) • [Google](https://www.google.fr/search?q=cache:http://atilf.atilf.fr/dendien/scripts/tlfiv5/visusel.exe?11;s=752034270;r=1;nat=;sol=0;) • [Que faire ?](/wiki/Projet:Correction_des_liens_externes#J'ai_trouvé_un_lien_mort,_que_faire_? "Projet:Correction des liens externes")) du [TLFi](/wiki/Tr%C3%A9sor_de_la_langue_fran%C3%A7aise_informatis%C3%A9 "Trésor de la langue française informatisé").
+  5. ↑ Cédric Villani, [« "Tout est mathématique", conférence Honoris Causa de Cédric Villani à HEC Paris »](https://www.youtube.com/watch?v=rLFUnCUyPko), sur youtube.com, 11 février 2015 (consulté le 17 décembre 2016), p. 1h33m27s
+  6. ↑ (fr) _Les mathématiques de l'Égypte ancienne. Numération, métrologie, arithmétique, géométrie et autres problèmes, 2014_ , [Safran (éditions)](/wiki/Safran_\(%C3%A9ditions\) "Safran \(éditions\)").
+  7. ↑ (en) [_Euclid's Elements_](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) (site interactif).
+  8. ↑ [Michel Paty, mathesis universalis et intelligibilité chez Descartes [PDF]](http://hal.archives-ouvertes.fr/docs/00/05/25/61/PDF/16_Paty.tif.pdf).
+  9. ↑ [Conférence sur les fondements des mathématiques](http://www.canal-u.tv/index.php/canalu/producteurs/universite_de_tous_les_savoirs/dossier_programmes/les_conferences_de_l_annee_2000/perspectives_sur_les_mathematiques_actuelles/les_fondements_des_mathematiques/), par [Jean-Yves Girard](/wiki/Jean-Yves_Girard "Jean-Yves Girard"), 17 juin 2002, [Université de tous les savoirs](/wiki/Universit%C3%A9_de_tous_les_savoirs "Université de tous les savoirs").
+  10. ↑ «[Relations between pure and applied mathematicians are based on trust and understanding. Pure mathematicians do not trust applied mathematicians, and applied mathematicians do not understand pure mathematicians](https://books.google.fr/books?id=oW6Xeo8EmDgC&lpg=PP1&hl=fr&pg=PT79#v=onepage&q&f=false)», in _Professor Stewart's Cabinet of Mathematical Curiosities_
+  11. ↑ (en)[ _Mathematics_](http://www.crystalinks.com/mathematics.html), sur Crystalinks.com.
+  12. ↑ (en)Voir le [numéro spécial de décembre 2008](http://www.ams.org/notices/200811) des _[Notices of the American Mathematical Society](/wiki/Notices_of_the_American_Mathematical_Society "Notices of the American Mathematical Society")_ consacré à la démonstration formelle.
+  13. ↑ Nicolas Bouleau, [Actes du Groupe canadien d'études en didactique des mathématiques [PDF]](http://publish.edu.uwo.ca/cmesg/pdf/CMESG2004.pdf), page 24.
+  14. ↑ [« TEDxParis 2012 - Cedric Villani - La naissance des idées »](https://www.youtube.com/watch?v=crM1Z-x-o_Q) [vidéo], sur [YouTube](/wiki/YouTube "YouTube") (consulté le 2 août 2020).
+  15. ↑ _[Notice sur Charles Lagrange](http://www.academieroyale.be/n6566/Charles_Henri.Lagrange)_ par [André Jaumotte](/wiki/Andr%C3%A9_Jaumotte "André Jaumotte") ([Université libre de Bruxelles](/wiki/Universit%C3%A9_libre_de_Bruxelles "Université libre de Bruxelles")), sur le site de l'[Académie royale de Belgique](/wiki/Acad%C3%A9mie_royale_des_sciences,_des_lettres_et_des_beaux-arts_de_Belgique "Académie royale des sciences, des lettres et des beaux-arts de Belgique")
+  16. ↑ Dictionnaire en économie et science sociale, Ed.Nathan Paris, dictionnaire Larousse en 3. vol, Paris. Les définitions des cycles sont nombreuses, entre autres, en sciences: évolution de systèmes qui les ramènent à leur état initial ou, en sociologie, mouvement(s) récurrent(s) d'activité(s) politique(s) et économique(s).
+  17. ↑ Voir par exemple Anne Laurent, Roland Gamet, Jérôme Pantel, _Tendances nouvelles en modélisation pour l'environnement, actes du congrès «Programme environnement, vie et sociétés»_ 15-17 janvier 1996, CNRS
+  18. ↑ [Nicolas Bouleau](/wiki/Nicolas_Bouleau "Nicolas Bouleau"), Philosophie des mathématiques et de la modélisation : Du chercheur à l'ingénieur, l'Harmattan, 1999, p. 282-283
+  19. ↑ Bouleau 1999, p. 285\. 
+  20. ↑ Bouleau 1999, p. 287\. 
+  21. ↑ Guy Beaujouan, « Comprendre et maîtriser la nature au Moyen Âge », _Hautes Études Médiévales et Modernes_ , Vol.13, Librairie Droz, 1994, [p. 130](https://books.google.fr/books?id=92n7ZE8Iww8C&pg=PA130#v=onepage&q&f=false)
+  22. ↑ [A. Dahan-Dalmedico](/wiki/Amy_Dahan "Amy Dahan") et [J. Peiffer](/wiki/Jeanne_Peiffer "Jeanne Peiffer"), Une histoire des mathématiques : Routes et dédales, 1986 [[détail des éditions](/wiki/R%C3%A9f%C3%A9rence:Histoire_des_math%C3%A9matiques_\(Dahan-Dalmedico,_Peiffer\) "Référence:Histoire des mathématiques \(Dahan-Dalmedico, Peiffer\)")], p. 47.
+  23. ↑ Platon, Le Timée, 53 c - 56c
+  24. ↑ [« L’astrologie à l’épreuve : ça ne marche pas, ça n’a jamais marché ! - Afis - Association française pour l'information scientifique »](http://www.pseudo-sciences.org/spip.php?article1240), sur www.pseudo-sciences.org (consulté le 3 février 2016)
+  25. ↑ [Jean-Philippe Rameau](/wiki/Jean-Philippe_Rameau "Jean-Philippe Rameau"), [Traité de l'harmonie](/wiki/Trait%C3%A9_de_l%27harmonie_r%C3%A9duite_%C3%A0_ses_principes_naturels "Traité de l'harmonie réduite à ses principes naturels"), Paris, [Méridiens Klincksieck](/wiki/Klincksieck "Klincksieck"), coll. « Collection de musicologie », 1986 (1re éd. 1722), 432 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-86563-157-5](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-86563-157-5 "Spécial:Ouvrages de référence/978-2-86563-157-5"))
+  26. ↑ <http://accromath.uqam.ca/>
+  27. ↑ Yannick Cras, « Le nombre imaginaire », _délibéré_ , depuis décembre 2015 ([lire en ligne](http://delibere.fr/chroniques/le-nombre-imaginaire-2/), consulté le 22 avril 2017)
+  28. ↑ <http://www.quadrature.info/>
+
+##
+Annexes[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=31
+"Modifier la section : Annexes") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=31 "Modifier
+la section : Annexes")]
+
+Sur les autres projets Wikimedia :
+
+  * [Mathématiques](https://commons.wikimedia.org/wiki/Category:Mathematics?uselang=fr), sur Wikimedia Commons
+  * [mathématiques](https://fr.wiktionary.org/wiki/math%C3%A9matiques "wikt:mathématiques"), sur le Wiktionnaire
+  * [Mathématiques](https://fr.wikiversity.org/wiki/Cat%C3%A9gorie:Math%C3%A9matiques "v:Catégorie:Mathématiques"), sur Wikiversity
+  * [Mathématiques](https://fr.wikibooks.org/wiki/wikilivres:Rechercher_un_livre/5/51 "b:wikilivres:Rechercher un livre/5/51"), sur Wikibooks
+  * [Mathématiques](https://fr.wikisource.org/wiki/Cat%C3%A9gorie:Math%C3%A9matiques "s:Catégorie:Mathématiques"), sur Wikisource
+  * [Mathématiques](https://fr.wikiquote.org/wiki/Math%C3%A9matiques "q:Mathématiques"), sur Wikiquote
+  * [Mathématiques](https://fr.wikinews.org/wiki/Cat%C3%A9gorie:Math%C3%A9matiques "n:Catégorie:Mathématiques"), sur Wikinews
+
+###
+Bibliographie[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=32
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=32 "Modifier
+la section : Bibliographie")]
+
+  * [Institut Henri-Poincaré](/wiki/Institut_Henri-Poincar%C3%A9 "Institut Henri-Poincaré"), _Objets mathématiques_ , CNRS, 2017
+  * Carina Louart, Florence Pinaud, _C'est mathématique!_ Actes Sud Junior, 2014
+  * Jean-Pierre Escofier, _Histoire des mathématiques_ , Dunod, 2008
+  * Jean-Marc Buret, _Les maths expliquées simplement - Les bases dépoussiérées et le plaisir de comprendre_ , Ellipses 2019, ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [9782340031777](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9782340031777 "Spécial:Ouvrages de référence/9782340031777"))
+
+### Articles
+connexes[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=33
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=33 "Modifier
+la section : Articles connexes")]
+
+  * [Encyclopædia of Mathematics](/wiki/Encyclop%C3%A6dia_of_Mathematics "Encyclopædia of Mathematics")
+  * [MathWorld](/wiki/MathWorld "MathWorld"), ressources en mathématiques, en anglais
+  * [PlanetMath](/wiki/PlanetMath "PlanetMath"), encyclopédie collaborative, en anglais, avec [GFDL](/wiki/Licence_de_documentation_libre_GNU "Licence de documentation libre GNU")
+  * [Maturité mathématique](/wiki/Maturit%C3%A9_math%C3%A9matique "Maturité mathématique")
+  * [Géométrie](/wiki/G%C3%A9om%C3%A9trie "Géométrie")
+  * [Logique](/wiki/Logique "Logique")
+  * [Algèbre](/wiki/Alg%C3%A8bre "Algèbre")
+  * [Construction du nombre chez l'enfant](/wiki/Construction_du_nombre_chez_l%27enfant "Construction du nombre chez l'enfant") (psychologie du développement)
+  * [Enseignement des mathématiques](/wiki/Enseignement_des_math%C3%A9matiques "Enseignement des mathématiques")
+
+  * [Logique et raisonnement mathématique](/wiki/Logique_et_raisonnement_math%C3%A9matique "Logique et raisonnement mathématique")
+
+### Liens
+externes[[modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit&section=34
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Math%C3%A9matiques&action=edit&section=34 "Modifier
+la section : Liens externes")]
+
+  * [dmoz:World/Français/Sciences/Mathématiques](https://curlie.org/World/Fran%C3%A7ais/Sciences/Math%C3%A9matiques "dmoz:World/Français/Sciences/Mathématiques")
+
+[v](/wiki/Mod%C3%A8le:Palette_Domaines_des_math%C3%A9matiques "Modèle:Palette
+Domaines des mathématiques") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Domaines_des_math%C3%A9matiques&action=edit)
+
+Domaines des mathématiques  
+  
+---  
+  
+  * [Algèbre](/wiki/Alg%C3%A8bre "Algèbre")
+  * [Algèbre commutative](/wiki/Alg%C3%A8bre_commutative "Algèbre commutative")
+  * [Algèbre homologique](/wiki/Homologie_et_cohomologie "Homologie et cohomologie")
+  * [Algèbre linéaire](/wiki/Alg%C3%A8bre_lin%C3%A9aire "Algèbre linéaire")
+  * [Analyse](/wiki/Analyse_\(math%C3%A9matiques\) "Analyse \(mathématiques\)")
+  * [Analyse réelle](/wiki/Analyse_r%C3%A9elle "Analyse réelle")
+  * [Analyse complexe](/wiki/Analyse_complexe "Analyse complexe")
+  * [Analyse fonctionnelle](/wiki/Analyse_fonctionnelle_\(math%C3%A9matiques\) "Analyse fonctionnelle \(mathématiques\)")
+  * [Analyse numérique](/wiki/Analyse_num%C3%A9rique "Analyse numérique")
+  * [Calcul quantique](/wiki/Calculateur_quantique "Calculateur quantique")
+  * [Combinatoire](/wiki/Combinatoire "Combinatoire")
+  * [Géométrie](/wiki/G%C3%A9om%C3%A9trie "Géométrie")
+  * [Géométrie algébrique](/wiki/G%C3%A9om%C3%A9trie_alg%C3%A9brique "Géométrie algébrique")
+  * [Géométrie différentielle](/wiki/G%C3%A9om%C3%A9trie_diff%C3%A9rentielle "Géométrie différentielle")
+  * [Géométrie non commutative](/wiki/G%C3%A9om%C3%A9trie_non_commutative "Géométrie non commutative")
+  * [Optimisation](/wiki/Optimisation_\(math%C3%A9matiques\) "Optimisation \(mathématiques\)")
+  * [Physique mathématique](/wiki/Physique_math%C3%A9matique "Physique mathématique")
+  * [Probabilités](/wiki/Probabilit%C3%A9 "Probabilité")
+  * [Statistiques](/wiki/Statistique "Statistique")
+  * [Systèmes dynamiques](/wiki/Syst%C3%A8mes_dynamiques "Systèmes dynamiques")
+  * [Théorie des nombres](/wiki/Th%C3%A9orie_des_nombres "Théorie des nombres")
+  * [Théorie de Galois](/wiki/Th%C3%A9orie_de_Galois "Théorie de Galois")
+  * [Théorie des groupes](/wiki/Th%C3%A9orie_des_groupes "Théorie des groupes")
+  * [Topologie](/wiki/Topologie "Topologie")
+  * [Topologie algébrique](/wiki/Topologie_alg%C3%A9brique "Topologie algébrique")
+
+  
+  
+[v](/wiki/Mod%C3%A8le:Palette_Logique "Modèle:Palette Logique") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Logique&action=edit)
+
+[Logique](/wiki/Logique "Logique")  
+  
+---  
+Domaines académiques | [Argumentation](/wiki/Argumentation "Argumentation") ·
+[Axiologie](/wiki/Axiologie "Axiologie") · [Esprit
+critique](/wiki/Esprit_critique "Esprit critique") ·
+[Philosophie](/wiki/Philosophie "Philosophie") · [Histoire de la
+logique](/wiki/Histoire_de_la_logique "Histoire de la logique") · [Logique
+mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique") ·
+Mathématique · [Métamathématique](/wiki/Logique_math%C3%A9matique "Logique
+mathématique") · [Théorie des modèles](/wiki/Th%C3%A9orie_des_mod%C3%A8les
+"Théorie des modèles") · [Philosophie de la
+logique](/wiki/Philosophie_de_la_logique "Philosophie de la logique") ·
+[Philosophie des mathématiques](/wiki/Philosophie_des_math%C3%A9matiques
+"Philosophie des mathématiques") · [Théorie des
+ensembles](/wiki/Th%C3%A9orie_des_ensembles "Théorie des ensembles") ·
+[Théorie de la démonstration](/wiki/Th%C3%A9orie_de_la_d%C3%A9monstration
+"Théorie de la démonstration")  
+Concepts fondamentaux | [Abduction](/wiki/Abduction_\(logique\) "Abduction
+\(logique\)") · [Synthétique](/wiki/Synth%C3%A9tique_a_priori "Synthétique a
+priori") · [A priori](/wiki/A_priori_et_a_posteriori "A priori et a
+posteriori") · [Déduction](/wiki/D%C3%A9duction_logique "Déduction logique") ·
+[Définition](/wiki/D%C3%A9finition "Définition") ·
+[Description](/wiki/Description "Description") ·
+[Implication](/wiki/Implication_\(logique\) "Implication \(logique\)") ·
+[Inférence](/wiki/Inf%C3%A9rence_\(logique\) "Inférence \(logique\)") ·
+[Induction](/wiki/Induction_\(logique\) "Induction \(logique\)") ·
+[Sens](/wiki/Sens_\(linguistique\) "Sens \(linguistique\)") ·
+[Paradoxe](/wiki/Paradoxe "Paradoxe") · [Mondes
+possibles](/wiki/Mondes_possibles "Mondes possibles") ·
+[Présupposition](/wiki/Pr%C3%A9supposition "Présupposition") ·
+[Probabilité](/wiki/Probabilit%C3%A9 "Probabilité") · [Raison](/wiki/Raison
+"Raison") · [Référence](/wiki/R%C3%A9f%C3%A9rence_\(philosophie\) "Référence
+\(philosophie\)") · [Sémantique](/wiki/S%C3%A9mantique "Sémantique") ·
+[Syllogisme](/wiki/Syllogisme "Syllogisme") · [Vérité](/wiki/V%C3%A9rit%C3%A9
+"Vérité") · [Valeur de vérité](/wiki/Valeur_de_v%C3%A9rit%C3%A9 "Valeur de
+vérité") · [Valide](/wiki/Validit%C3%A9_\(logique\) "Validité \(logique\)")  
+[Esprit critique](/wiki/Esprit_critique "Esprit critique") et logique
+informelle | [Affirmation](/wiki/Affirmation "Affirmation") ·
+[Analyse](/wiki/Analyse_\(philosophie\) "Analyse \(philosophie\)") ·
+[Ambiguïté](/wiki/Ambigu%C3%AFt%C3%A9 "Ambiguïté") ·
+[Conclusion](/wiki/Conclusion_\(logique\) "Conclusion \(logique\)") ·
+[Crédibilité](/wiki/Cr%C3%A9dibilit%C3%A9 "Crédibilité") ·
+[Évidence](/wiki/%C3%89vidence "Évidence") · [Explication](/wiki/Explication
+"Explication") · [Sophisme](/wiki/Sophisme "Sophisme") ·
+[Opinion](/wiki/Opinion "Opinion") · [Parcimonie](/wiki/Parcimonie
+"Parcimonie") · [Prémisse](/wiki/Pr%C3%A9misse "Prémisse") ·
+[Propagande](/wiki/Propagande "Propagande") ·
+[Prudence](/wiki/Prudence_\(vertu\) "Prudence \(vertu\)") ·
+[Rhétorique](/wiki/Rh%C3%A9torique "Rhétorique")  
+[Théories de la déduction](/wiki/Philosophie_de_la_logique "Philosophie de la
+logique") | [Constructivisme](/wiki/Constructivisme_\(math%C3%A9matiques\)
+"Constructivisme \(mathématiques\)") · [Atomisme
+logique](/wiki/Atomisme_logique "Atomisme logique") ·
+[Logicisme](/wiki/Logicisme "Logicisme") · [Nominalisme](/wiki/Nominalisme
+"Nominalisme") · [Pragmatisme](/wiki/Pragmatisme "Pragmatisme") ·
+[Réalisme](/wiki/R%C3%A9alisme_\(philosophie\) "Réalisme \(philosophie\)")  
+[Métalogique](/wiki/M%C3%A9talogique "Métalogique") et
+[métamathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique") |
+[Théorème de Cantor](/wiki/Th%C3%A9or%C3%A8me_de_Cantor "Théorème de Cantor")
+· [Thèse de Church](/wiki/Th%C3%A8se_de_Church "Thèse de Church") ·
+[Fondements des mathématiques](/wiki/Fondements_des_math%C3%A9matiques
+"Fondements des mathématiques") · [Théorème de complétude de
+Gödel](/wiki/Th%C3%A9or%C3%A8me_de_compl%C3%A9tude_de_G%C3%B6del "Théorème de
+complétude de Gödel") · [Théorème d'incomplétude de
+Gödel](/wiki/Th%C3%A9or%C3%A8mes_d%27incompl%C3%A9tude_de_G%C3%B6del
+"Théorèmes d'incomplétude de Gödel") · [Complétude](/wiki/Compl%C3%A9tude
+"Complétude") · [Décidabilité](/wiki/D%C3%A9cidabilit%C3%A9 "Décidabilité") ·
+[Théorème de Löwenheim-Skolem](/wiki/Th%C3%A9or%C3%A8me_de_L%C3%B6wenheim-
+Skolem "Théorème de Löwenheim-Skolem")  
+[Logique mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique")
+| [Algèbre de Boole](/wiki/Alg%C3%A8bre_de_Boole_\(logique\) "Algèbre de Boole
+\(logique\)") · [Calcul des prédicats](/wiki/Calcul_des_pr%C3%A9dicats "Calcul
+des prédicats") · [Calcul des propositions](/wiki/Calcul_des_propositions
+"Calcul des propositions") · [Théorie de la
+calculabilité](/wiki/Calculabilit%C3%A9 "Calculabilité") · [Déduction
+naturelle](/wiki/D%C3%A9duction_naturelle "Déduction naturelle") · [Logique
+traditionnelle](/wiki/Logique_traditionnelle "Logique traditionnelle") ·
+[Logique classique](/wiki/Logique_classique "Logique classique") · [Logique
+linéaire](/wiki/Logique_lin%C3%A9aire "Logique linéaire") · [Lois de De
+Morgan](/wiki/Lois_de_De_Morgan "Lois de De Morgan") · [Théorie de la
+démonstration](/wiki/Th%C3%A9orie_de_la_d%C3%A9monstration "Théorie de la
+démonstration") · [Théorie des ensembles](/wiki/Th%C3%A9orie_des_ensembles
+"Théorie des ensembles") · [Théorie des
+modèles](/wiki/Th%C3%A9orie_des_mod%C3%A8les "Théorie des modèles")  
+[Logiques non classiques](/wiki/Logique_non_classique "Logique non classique")
+| [Logique de description](/wiki/Logique_de_description "Logique de
+description") · [Logique intuitionniste](/wiki/Logique_intuitionniste "Logique
+intuitionniste") · [Logique minimale](/wiki/Logique_minimale "Logique
+minimale") · [Logique floue](/wiki/Logique_floue "Logique floue") · [Logique
+modale](/wiki/Logique_modale "Logique modale") · [Logique non
+monotone](/wiki/Logique_non_monotone "Logique non monotone") · [Logique
+paracohérente](/wiki/Logique_paracoh%C3%A9rente "Logique paracohérente") ·
+[Logiques sous-structurelles](/wiki/Logiques_sous-structurelles "Logiques
+sous-structurelles") · [Logique de
+Łukasiewicz](/wiki/Logique_de_%C5%81ukasiewicz "Logique de Łukasiewicz")  
+[Logiciens](/wiki/Logique "Logique") | [Aristote](/wiki/Aristote "Aristote") ·
+[Avicenne](/wiki/Avicenne "Avicenne") · [Averroès](/wiki/Averro%C3%A8s
+"Averroès") · [Bain](/wiki/Alexander_Bain_\(philosophe\) "Alexander Bain
+\(philosophe\)") · [Barwise](/wiki/Jon_Barwise "Jon Barwise") ·
+[Bernays](/wiki/Paul_Bernays "Paul Bernays") · [Boole](/wiki/George_Boole
+"George Boole") · [Cantor](/wiki/Georg_Cantor "Georg Cantor") ·
+[Carnap](/wiki/Rudolf_Carnap "Rudolf Carnap") · [Church](/wiki/Alonzo_Church
+"Alonzo Church") · [Chrysippe de Soles](/wiki/Chrysippe_de_Soles "Chrysippe de
+Soles") · [Curry](/wiki/Haskell_Curry "Haskell Curry") · [De
+Morgan](/wiki/Auguste_De_Morgan "Auguste De Morgan") ·
+[Frege](/wiki/Gottlob_Frege "Gottlob Frege") · [Gentzen](/wiki/Gerhard_Gentzen
+"Gerhard Gentzen") · [Gödel](/wiki/Kurt_G%C3%B6del "Kurt Gödel") ·
+[Hilbert](/wiki/David_Hilbert "David Hilbert") ·
+[Kleene](/wiki/Stephen_Cole_Kleene "Stephen Cole Kleene") ·
+[Kripke](/wiki/Saul_Kripke "Saul Kripke") ·
+[Leibniz](/wiki/Gottfried_Wilhelm_Leibniz "Gottfried Wilhelm Leibniz") ·
+[Löwenheim](/wiki/Leopold_L%C3%B6wenheim "Leopold Löwenheim") · [Guillaume
+d'Ockham](/wiki/Guillaume_d%27Ockham "Guillaume d'Ockham") ·
+[Peano](/wiki/Giuseppe_Peano "Giuseppe Peano") ·
+[Peirce](/wiki/Charles_Sanders_Peirce "Charles Sanders Peirce") ·
+[Putnam](/wiki/Hilary_Putnam "Hilary Putnam") ·
+[Quine](/wiki/Willard_Van_Orman_Quine "Willard Van Orman Quine") ·
+[Russell](/wiki/Bertrand_Russell "Bertrand Russell") ·
+[Schröder](/wiki/Ernst_Schr%C3%B6der "Ernst Schröder") ·
+[Scot](/wiki/Jean_Duns_Scot "Jean Duns Scot") · [Skolem](/wiki/Thoralf_Skolem
+"Thoralf Skolem") · [Smullyan](/wiki/Raymond_Smullyan "Raymond Smullyan") ·
+[Tarski](/wiki/Alfred_Tarski "Alfred Tarski") · [Turing](/wiki/Alan_Turing
+"Alan Turing") · [Whitehead](/wiki/Alfred_North_Whitehead "Alfred North
+Whitehead") · [Wittgenstein](/wiki/Ludwig_Wittgenstein "Ludwig Wittgenstein")
+· [Zermelo](/wiki/Ernst_Zermelo "Ernst Zermelo")  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logic.svg/48px-Logic.svg.png)](/wiki/Portail:Logique "Portail de la logique") [Portail de la logique](/wiki/Portail:Logique "Portail:Logique")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Circle-icons-genius.svg/24px-Circle-icons-genius.svg.png)](/wiki/Portail:Sciences "Portail des sciences") [Portail des sciences](/wiki/Portail:Sciences "Portail:Sciences")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Mathématiques&oldid=175095640](https://fr.wikipedia.org/w/index.php?title=Mathématiques&oldid=175095640)
+».
+
+[Catégorie](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Mathématiques](/wiki/Cat%C3%A9gorie:Math%C3%A9matiques "Catégorie:Mathématiques")
+
+Catégories cachées :
+
+  * [Article contenant un appel à traduction en anglais](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais "Catégorie:Article contenant un appel à traduction en anglais")
+  * [Page contenant un lien mort](/wiki/Cat%C3%A9gorie:Page_contenant_un_lien_mort "Catégorie:Page contenant un lien mort")
+  * [Article à référence nécessaire](/wiki/Cat%C3%A9gorie:Article_%C3%A0_r%C3%A9f%C3%A9rence_n%C3%A9cessaire "Catégorie:Article à référence nécessaire")
+  * [Catégorie Commons avec lien local identique sur Wikidata](/wiki/Cat%C3%A9gorie:Cat%C3%A9gorie_Commons_avec_lien_local_identique_sur_Wikidata "Catégorie:Catégorie Commons avec lien local identique sur Wikidata")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Portail:Logique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Logique/Articles_li%C3%A9s "Catégorie:Portail:Logique/Articles liés")
+  * [Article de qualité en interlingua](/wiki/Cat%C3%A9gorie:Article_de_qualit%C3%A9_en_interlingua "Catégorie:Article de qualité en interlingua")
+  * [Article de qualité en géorgien](/wiki/Cat%C3%A9gorie:Article_de_qualit%C3%A9_en_g%C3%A9orgien "Catégorie:Article de qualité en géorgien")
+  * [Bon article en arabe](/wiki/Cat%C3%A9gorie:Bon_article_en_arabe "Catégorie:Bon article en arabe")
+  * [Article de qualité en mongol](/wiki/Cat%C3%A9gorie:Article_de_qualit%C3%A9_en_mongol "Catégorie:Article de qualité en mongol")
+  * [Article de qualité en volapük](/wiki/Cat%C3%A9gorie:Article_de_qualit%C3%A9_en_volap%C3%BCk "Catégorie:Article de qualité en volapük")
+  * [Article de qualité en cantonais](/wiki/Cat%C3%A9gorie:Article_de_qualit%C3%A9_en_cantonais "Catégorie:Article de qualité en cantonais")
+  * [Bon article en allemand](/wiki/Cat%C3%A9gorie:Bon_article_en_allemand "Catégorie:Bon article en allemand")
+  * [Bon article en vietnamien](/wiki/Cat%C3%A9gorie:Bon_article_en_vietnamien "Catégorie:Bon article en vietnamien")
+  * [Article de qualité en latin](/wiki/Cat%C3%A9gorie:Article_de_qualit%C3%A9_en_latin "Catégorie:Article de qualité en latin")
+  * [Article de qualité en javanais](/wiki/Cat%C3%A9gorie:Article_de_qualit%C3%A9_en_javanais "Catégorie:Article de qualité en javanais")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Math%C3%A9matiques "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Math%C3%A9matiques "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Math%C3%A9matiques&oldid=175095640 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Math%C3%A9matiques&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Math%C3%A9matiques&id=175095640&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q395 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Math%C3%A9matiques)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Math%C3%A9matiques&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Math%C3%A9matiques&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Mathematics)
+  * [Wikinews](https://fr.wikinews.org/wiki/Cat%C3%A9gorie:Math%C3%A9matiques)
+  * [Wikiquote](https://fr.wikiquote.org/wiki/Math%C3%A9matiques)
+
+###  Dans d’autres langues
+
+  * [Afrikaans](https://af.wikipedia.org/wiki/Wiskunde "Wiskunde — afrikaans")
+  * [Akan](https://ak.wikipedia.org/wiki/Akontabuo "Akontabuo — akan")
+  * [Alemannisch](https://als.wikipedia.org/wiki/Mathematik "Mathematik — Alemannisch")
+  * [አማርኛ](https://am.wikipedia.org/wiki/%E1%89%B5%E1%88%9D%E1%88%85%E1%88%AD%E1%89%B0_%E1%88%82%E1%88%B3%E1%89%A5 "ትምህርተ ሂሳብ — amharique")
+  * [Aragonés](https://an.wikipedia.org/wiki/Matematicas "Matematicas — aragonais")
+  * [Ænglisc](https://ang.wikipedia.org/wiki/R%C4%ABmcr%C3%A6ft "Rīmcræft — ancien anglais")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA "رياضيات — arabe")
+  * [مصرى](https://arz.wikipedia.org/wiki/%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA "رياضيات — arabe égyptien")
+  * [অসমীয়া](https://as.wikipedia.org/wiki/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4 "গণিত — assamais")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Matem%C3%A1tiques "Matemátiques — asturien")
+  * [Kotava](https://avk.wikipedia.org/wiki/Solokseropa "Solokseropa — kotava")
+  * [Aymar aru](https://ay.wikipedia.org/wiki/Jakhu "Jakhu — aymara")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Riyaziyyat "Riyaziyyat — azéri")
+  * [تۆرکجه](https://azb.wikipedia.org/wiki/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA "ریاضیات — South Azerbaijani")
+  * [Башҡортса](https://ba.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — bachkir")
+  * [Boarisch](https://bar.wikipedia.org/wiki/Mathematik "Mathematik — bavarois")
+  * [Žemaitėška](https://bat-smg.wikipedia.org/wiki/Matemat%C4%97ka "Matematėka — Samogitian")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%8D%D0%BC%D0%B0%D1%82%D1%8B%D0%BA%D0%B0 "Матэматыка — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%8D%D0%BC%D0%B0%D1%82%D1%8B%D0%BA%D0%B0 "Матэматыка — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — bulgare")
+  * [भोजपुरी](https://bh.wikipedia.org/wiki/%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4 "गणित — Bhojpuri")
+  * [Bislama](https://bi.wikipedia.org/wiki/Matematikis "Matematikis — bichelamar")
+  * [Banjar](https://bjn.wikipedia.org/wiki/Matamatika "Matamatika — banjar")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4 "গণিত — bengali")
+  * [བོད་ཡིག](https://bo.wikipedia.org/wiki/%E0%BD%A2%E0%BE%A9%E0%BD%B2%E0%BD%A6%E0%BC%8B%E0%BD%A2%E0%BD%B2%E0%BD%82 "རྩིས་རིག — tibétain")
+  * [বিষ্ণুপ্রিয়া মণিপুরী](https://bpy.wikipedia.org/wiki/%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4 "গণিত — bishnupriya")
+  * [Brezhoneg](https://br.wikipedia.org/wiki/Matematik "Matematik — breton")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Matematika "Matematika — bosniaque")
+  * [ᨅᨔ ᨕᨘᨁᨗ](https://bug.wikipedia.org/wiki/%E1%A8%86%E1%A8%88%E1%A8%9B%E1%A8%86%E1%A8%88%E1%A8%97%E1%A8%80 "ᨆᨈᨛᨆᨈᨗᨀ — bugi")
+  * [Буряад](https://bxr.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BE%D0%B3%D0%BE%D0%B9_%D1%83%D1%85%D0%B0%D0%B0%D0%BD "Тоогой ухаан — Russia Buriat")
+  * [Català](https://ca.wikipedia.org/wiki/Matem%C3%A0tiques "Matemàtiques — catalan")
+  * [Chavacano de Zamboanga](https://cbk-zam.wikipedia.org/wiki/Matematica "Matematica — Chavacano")
+  * [Mìng-dĕ̤ng-ngṳ̄](https://cdo.wikipedia.org/wiki/S%C3%B3-h%C5%8Fk "Só-hŏk — Min Dong Chinese")
+  * [Cebuano](https://ceb.wikipedia.org/wiki/Matematika "Matematika — cebuano")
+  * [Chamoru](https://ch.wikipedia.org/wiki/Matematika "Matematika — chamorro")
+  * [کوردی](https://ckb.wikipedia.org/wiki/%D9%85%D8%A7%D8%AA%D9%85%D8%A7%D8%AA%DB%8C%DA%A9 "ماتماتیک — sorani")
+  * [Corsu](https://co.wikipedia.org/wiki/Matematica "Matematica — corse")
+  * [Qırımtatarca](https://crh.wikipedia.org/wiki/Riyaziyat "Riyaziyat — turc de Crimée")
+  * [Čeština](https://cs.wikipedia.org/wiki/Matematika "Matematika — tchèque")
+  * [Kaszëbsczi](https://csb.wikipedia.org/wiki/Matematika "Matematika — kachoube")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — tchouvache")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Mathemateg "Mathemateg — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/Matematik "Matematik — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Mathematik "Mathematik — allemand")
+  * [Thuɔŋjäŋ](https://din.wikipedia.org/wiki/Aku%C3%ABnk%C3%A4%C5%8B "Akuënkäŋ — dinka")
+  * [Zazaki](https://diq.wikipedia.org/wiki/Matematik "Matematik — Zazaki")
+  * [Dolnoserbski](https://dsb.wikipedia.org/wiki/Matematika "Matematika — bas-sorabe")
+  * [ދިވެހިބަސް](https://dv.wikipedia.org/wiki/%DE%83%DE%A8%DE%94%DE%A7%DE%9F%DE%A8%DE%87%DE%B0%DE%94%DE%A7%DE%8C%DE%AA "ރިޔާޟިއްޔާތު — maldivien")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CE%B8%CE%B7%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AC "Μαθηματικά — grec")
+  * [Emiliàn e rumagnòl](https://eml.wikipedia.org/wiki/Matem%C3%A2tica "Matemâtica — Emiliano-Romagnolo")
+  * [English](https://en.wikipedia.org/wiki/Mathematics "Mathematics — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Matematiko "Matematiko — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Matem%C3%A1ticas "Matemáticas — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Matemaatika "Matemaatika — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Matematika "Matematika — basque")
+  * [Estremeñu](https://ext.wikipedia.org/wiki/Matem%C3%A1ticas "Matemáticas — estrémègne")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA "ریاضیات — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Matematiikka "Matematiikka — finnois")
+  * [Võro](https://fiu-vro.wikipedia.org/wiki/Mat%C3%B5maatiga "Matõmaatiga — Võro")
+  * [Na Vosa Vakaviti](https://fj.wikipedia.org/wiki/Fika "Fika — fidjien")
+  * [Føroyskt](https://fo.wikipedia.org/wiki/St%C3%B8ddfr%C3%B8%C3%B0i "Støddfrøði — féroïen")
+  * [Nordfriisk](https://frr.wikipedia.org/wiki/Matematiik "Matematiik — frison du Nord")
+  * [Furlan](https://fur.wikipedia.org/wiki/Matematiche "Matematiche — frioulan")
+  * [Frysk](https://fy.wikipedia.org/wiki/Wiskunde "Wiskunde — frison occidental")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/Matamaitic "Matamaitic — irlandais")
+  * [贛語](https://gan.wikipedia.org/wiki/%E6%95%B8%E5%AD%B8 "數學 — gan")
+  * [Kriyòl gwiyannen](https://gcr.wikipedia.org/wiki/Mat%C3%A9matik "Matématik — créole guyanais")
+  * [Gàidhlig](https://gd.wikipedia.org/wiki/Matamataig "Matamataig — gaélique écossais")
+  * [Galego](https://gl.wikipedia.org/wiki/Matem%C3%A1ticas "Matemáticas — galicien")
+  * [Avañe'ẽ](https://gn.wikipedia.org/wiki/Papapykuaa "Papapykuaa — guarani")
+  * [ગુજરાતી](https://gu.wikipedia.org/wiki/%E0%AA%97%E0%AA%A3%E0%AA%BF%E0%AA%A4 "ગણિત — goudjerati")
+  * [Gaelg](https://gv.wikipedia.org/wiki/Maddaght "Maddaght — mannois")
+  * [Hausa](https://ha.wikipedia.org/wiki/Lissafi "Lissafi — haoussa")
+  * [客家語/Hak-kâ-ngî](https://hak.wikipedia.org/wiki/Su-ho%CC%8Dk "Su-ho̍k — hakka")
+  * [Hawaiʻi](https://haw.wikipedia.org/wiki/Makemakika "Makemakika — hawaïen")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%9E%D7%AA%D7%9E%D7%98%D7%99%D7%A7%D7%94 "מתמטיקה — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4 "गणित — hindi")
+  * [Fiji Hindi](https://hif.wikipedia.org/wiki/Mathematics "Mathematics — hindi fidjien")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Matematika "Matematika — croate")
+  * [Kreyòl ayisyen](https://ht.wikipedia.org/wiki/Matematik "Matematik — créole haïtien")
+  * [Magyar](https://hu.wikipedia.org/wiki/Matematika "Matematika — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%A9%D5%A5%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1 "Մաթեմատիկա — arménien")
+  * [Interlingua](https://ia.wikipedia.org/wiki/Mathematica "Mathematica — interlingua")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Matematika "Matematika — indonésien")
+  * [Interlingue](https://ie.wikipedia.org/wiki/Matematica "Matematica — interlingue")
+  * [Igbo](https://ig.wikipedia.org/wiki/%E1%BB%8Cm%C3%BAm%C3%BA-%C3%B3n%C3%BA%E1%BB%8Dg%E1%BB%A5g%E1%BB%A5 "Ọmúmú-ónúọgụgụ — igbo")
+  * [Ilokano](https://ilo.wikipedia.org/wiki/Matematika "Matematika — ilocano")
+  * [ГӀалгӀай](https://inh.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — ingouche")
+  * [Ido](https://io.wikipedia.org/wiki/Matematiko "Matematiko — ido")
+  * [Íslenska](https://is.wikipedia.org/wiki/St%C3%A6r%C3%B0fr%C3%A6%C3%B0i "Stærðfræði — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Matematica "Matematica — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6 "数学 — japonais")
+  * [Patois](https://jam.wikipedia.org/wiki/Matimatix "Matimatix — créole jamaïcain")
+  * [La .lojban.](https://jbo.wikipedia.org/wiki/cmaci "cmaci — lojban")
+  * [Jawa](https://jv.wikipedia.org/wiki/Mat%C3%A9matika "Matématika — javanais")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%90%E1%83%97%E1%83%94%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%99%E1%83%90 "მათემატიკა — géorgien")
+  * [Qaraqalpaqsha](https://kaa.wikipedia.org/wiki/Matematika "Matematika — karakalpak")
+  * [Taqbaylit](https://kab.wikipedia.org/wiki/Tusnakt "Tusnakt — kabyle")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — kazakh")
+  * [Kalaallisut](https://kl.wikipedia.org/wiki/Matematikki "Matematikki — groenlandais")
+  * [ភាសាខ្មែរ](https://km.wikipedia.org/wiki/%E1%9E%82%E1%9E%8E%E1%9E%B7%E1%9E%8F%E1%9E%9C%E1%9E%B7%E1%9E%91%E1%9F%92%E1%9E%99%E1%9E%B6 "គណិតវិទ្យា — khmer")
+  * [ಕನ್ನಡ](https://kn.wikipedia.org/wiki/%E0%B2%97%E0%B2%A3%E0%B2%BF%E0%B2%A4 "ಗಣಿತ — kannada")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%88%98%ED%95%99 "수학 — coréen")
+  * [Къарачай-малкъар](https://krc.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — karatchaï balkar")
+  * [Kurdî](https://ku.wikipedia.org/wiki/Matemat%C3%AEk "Matematîk — kurde")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — kirghize")
+  * [Latina](https://la.wikipedia.org/wiki/Mathematica "Mathematica — latin")
+  * [Ladino](https://lad.wikipedia.org/wiki/Matem%C3%A1tika "Matemátika — ladino")
+  * [Lëtzebuergesch](https://lb.wikipedia.org/wiki/Mathematik "Mathematik — luxembourgeois")
+  * [Лезги](https://lez.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — lezghien")
+  * [Lingua Franca Nova](https://lfn.wikipedia.org/wiki/Matematica "Matematica — lingua franca nova")
+  * [Luganda](https://lg.wikipedia.org/wiki/Ekibalangulo "Ekibalangulo — ganda")
+  * [Limburgs](https://li.wikipedia.org/wiki/Mathematiek "Mathematiek — limbourgeois")
+  * [Ligure](https://lij.wikipedia.org/wiki/Matematica "Matematica — ligure")
+  * [Ladin](https://lld.wikipedia.org/wiki/Matematica "Matematica — Ladin")
+  * [Lumbaart](https://lmo.wikipedia.org/wiki/Matematega "Matematega — lombard")
+  * [ລາວ](https://lo.wikipedia.org/wiki/%E0%BA%84%E0%BA%B0%E0%BA%99%E0%BA%B4%E0%BA%94%E0%BA%AA%E0%BA%B2%E0%BA%94 "ຄະນິດສາດ — lao")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Matematika "Matematika — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Matem%C4%81tika "Matemātika — letton")
+  * [मैथिली](https://mai.wikipedia.org/wiki/%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4 "गणित — maïthili")
+  * [Basa Banyumasan](https://map-bms.wikipedia.org/wiki/Matematika "Matematika — Basa Banyumasan")
+  * [Malagasy](https://mg.wikipedia.org/wiki/Fanisana "Fanisana — malgache")
+  * [Олык марий](https://mhr.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B5 "Математике — Eastern Mari")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — macédonien")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%97%E0%B4%A3%E0%B4%BF%E0%B4%A4%E0%B4%82 "ഗണിതം — malayalam")
+  * [Монгол](https://mn.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA "Математик — mongol")
+  * [ဘာသာ မန်](https://mnw.wikipedia.org/wiki/%E1%80%9E%E1%81%9A%E1%80%BA%E1%80%B9%E1%80%81%E1%80%BB%E1%80%AC "သၚ်္ချာ — Mon")
+  * [मराठी](https://mr.wikipedia.org/wiki/%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4 "गणित — marathi")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/Matematik "Matematik — malais")
+  * [Malti](https://mt.wikipedia.org/wiki/Matematika "Matematika — maltais")
+  * [Mirandés](https://mwl.wikipedia.org/wiki/Matem%C3%A1tica "Matemática — mirandais")
+  * [မြန်မာဘာသာ](https://my.wikipedia.org/wiki/%E1%80%9E%E1%80%84%E1%80%BA%E1%80%B9%E1%80%81%E1%80%BB%E1%80%AC "သင်္ချာ — birman")
+  * [Эрзянь](https://myv.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — erzya")
+  * [مازِرونی](https://mzn.wikipedia.org/wiki/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C "ریاضی — mazandérani")
+  * [Nāhuatl](https://nah.wikipedia.org/wiki/Tlap%C5%8Dhualmatiliztli "Tlapōhualmatiliztli — Nāhuatl")
+  * [Plattdüütsch](https://nds.wikipedia.org/wiki/Mathematik "Mathematik — bas-allemand")
+  * [Nedersaksies](https://nds-nl.wikipedia.org/wiki/Wiskunde "Wiskunde — bas-saxon néerlandais")
+  * [नेपाली](https://ne.wikipedia.org/wiki/%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4 "गणित — népalais")
+  * [नेपाल भाषा](https://new.wikipedia.org/wiki/%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%83%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE "ल्याःज्या — newari")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Wiskunde "Wiskunde — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Matematikk "Matematikk — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Matematikk "Matematikk — norvégien bokmål")
+  * [Novial](https://nov.wikipedia.org/wiki/Matematike "Matematike — novial")
+  * [Nouormand](https://nrm.wikipedia.org/wiki/Caltchul "Caltchul — Norman")
+  * [Diné bizaad](https://nv.wikipedia.org/wiki/A%C5%82hii%CA%BCn%C3%ADn%C3%A1%CA%BCiidz%C3%B3%C3%B3h "Ałhiiʼnínáʼiidzóóh — navajo")
+  * [Occitan](https://oc.wikipedia.org/wiki/Matematicas "Matematicas — occitan")
+  * [Livvinkarjala](https://olo.wikipedia.org/wiki/Matematiekku "Matematiekku — Livvi-Karelian")
+  * [Oromoo](https://om.wikipedia.org/wiki/Herrega "Herrega — oromo")
+  * [ଓଡ଼ିଆ](https://or.wikipedia.org/wiki/%E0%AC%97%E0%AC%A3%E0%AC%BF%E0%AC%A4 "ଗଣିତ — odia")
+  * [Ирон](https://os.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%C3%A6 "Математикæ — ossète")
+  * [ਪੰਜਾਬੀ](https://pa.wikipedia.org/wiki/%E0%A8%97%E0%A8%A3%E0%A8%BF%E0%A8%A4 "ਗਣਿਤ — pendjabi")
+  * [Pangasinan](https://pag.wikipedia.org/wiki/Matematiks "Matematiks — pangasinan")
+  * [Picard](https://pcd.wikipedia.org/wiki/Mat%C3%A9matikes "Matématikes — picard")
+  * [पालि](https://pi.wikipedia.org/wiki/%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4%E0%A4%82 "गणितं — pali")
+  * [Norfuk / Pitkern](https://pih.wikipedia.org/wiki/Maethamatiks "Maethamatiks — Norfuk / Pitkern")
+  * [Polski](https://pl.wikipedia.org/wiki/Matematyka "Matematyka — polonais")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/Matem%C3%A0tica "Matemàtica — piémontais")
+  * [پنجابی](https://pnb.wikipedia.org/wiki/%D9%85%DB%8C%D8%AA%DA%BE%D9%85%DB%8C%D9%B9%DA%A9%D8%B3 "میتھمیٹکس — Western Punjabi")
+  * [پښتو](https://ps.wikipedia.org/wiki/%D8%B4%D9%85%DB%90%D8%B1%D9%BE%D9%88%D9%87%D9%86%D9%87 "شمېرپوهنه — pachto")
+  * [Português](https://pt.wikipedia.org/wiki/Matem%C3%A1tica "Matemática — portugais")
+  * [Runa Simi](https://qu.wikipedia.org/wiki/Yupay_yachay "Yupay yachay — quechua")
+  * [Română](https://ro.wikipedia.org/wiki/Matematic%C4%83 "Matematică — roumain")
+  * [Armãneashti](https://roa-rup.wikipedia.org/wiki/Mathematic%C4%83 "Mathematică — Aromanian")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — russe")
+  * [Русиньскый](https://rue.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D1%96%D0%BA%D0%B0 "Математіка — ruthène")
+  * [संस्कृतम्](https://sa.wikipedia.org/wiki/%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8D "गणितम् — sanskrit")
+  * [Саха тыла](https://sah.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — iakoute")
+  * [ᱥᱟᱱᱛᱟᱲᱤ](https://sat.wikipedia.org/wiki/%E1%B1%AE%E1%B1%9E%E1%B1%A0%E1%B1%B7%E1%B1%9F "ᱮᱞᱠᱷᱟ — santali")
+  * [Sardu](https://sc.wikipedia.org/wiki/Matem%C3%A0tica "Matemàtica — sarde")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/Matim%C3%A0tica "Matimàtica — sicilien")
+  * [Scots](https://sco.wikipedia.org/wiki/Mathematics "Mathematics — écossais")
+  * [سنڌي](https://sd.wikipedia.org/wiki/%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A "رياضي — sindhi")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Matematika "Matematika — serbo-croate")
+  * [සිංහල](https://si.wikipedia.org/wiki/%E0%B6%9C%E0%B6%AB%E0%B7%92%E0%B6%AD%E0%B6%BA "ගණිතය — cingalais")
+  * [Simple English](https://simple.wikipedia.org/wiki/Mathematics "Mathematics — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Matematika "Matematika — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Matematika "Matematika — slovène")
+  * [Gagana Samoa](https://sm.wikipedia.org/wiki/Matematika "Matematika — samoan")
+  * [ChiShona](https://sn.wikipedia.org/wiki/Masvomhu "Masvomhu — shona")
+  * [Soomaaliga](https://so.wikipedia.org/wiki/Xisaab "Xisaab — somali")
+  * [Shqip](https://sq.wikipedia.org/wiki/Matematika "Matematika — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — serbe")
+  * [Sranantongo](https://srn.wikipedia.org/wiki/Sabi_fu_Teri "Sabi fu Teri — sranan tongo")
+  * [SiSwati](https://ss.wikipedia.org/wiki/Tekubala "Tekubala — swati")
+  * [Seeltersk](https://stq.wikipedia.org/wiki/Mathematik "Mathematik — saterlandais")
+  * [Sunda](https://su.wikipedia.org/wiki/Matematika "Matematika — soundanais")
+  * [Svenska](https://sv.wikipedia.org/wiki/Matematik "Matematik — suédois")
+  * [Kiswahili](https://sw.wikipedia.org/wiki/Hisabati "Hisabati — swahili")
+  * [Ślůnski](https://szl.wikipedia.org/wiki/Matymatyka "Matymatyka — silésien")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%A3%E0%AE%BF%E0%AE%A4%E0%AE%AE%E0%AF%8D "கணிதம் — tamoul")
+  * [ತುಳು](https://tcy.wikipedia.org/wiki/%E0%B2%97%E0%B2%A3%E0%B2%BF%E0%B2%A4 "ಗಣಿತ — toulou")
+  * [తెలుగు](https://te.wikipedia.org/wiki/%E0%B0%97%E0%B0%A3%E0%B0%BF%E0%B0%A4%E0%B0%AE%E0%B1%81 "గణితము — télougou")
+  * [Tetun](https://tet.wikipedia.org/wiki/Matem%C3%A1tika "Matemátika — tétoum")
+  * [Тоҷикӣ](https://tg.wikipedia.org/wiki/%D0%A0%D0%B8%D1%91%D0%B7%D0%B8%D1%91%D1%82 "Риёзиёт — tadjik")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C "คณิตศาสตร์ — thaï")
+  * [Türkmençe](https://tk.wikipedia.org/wiki/Matematika "Matematika — turkmène")
+  * [Tagalog](https://tl.wikipedia.org/wiki/Matematika "Matematika — tagalog")
+  * [Setswana](https://tn.wikipedia.org/wiki/Mathematics "Mathematics — tswana")
+  * [Tok Pisin](https://tpi.wikipedia.org/wiki/Ol_matematik "Ol matematik — tok pisin")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Matematik "Matematik — turc")
+  * [Xitsonga](https://ts.wikipedia.org/wiki/Dyondzo-Tinhlayo "Dyondzo-Tinhlayo — tsonga")
+  * [Татарча/tatarça](https://tt.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — tatar")
+  * [Удмурт](https://udm.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — oudmourte")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — ukrainien")
+  * [اردو](https://ur.wikipedia.org/wiki/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C "ریاضی — ourdou")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Matematika "Matematika — ouzbek")
+  * [Vèneto](https://vec.wikipedia.org/wiki/Matem%C3%A0tega "Matemàtega — vénitien")
+  * [Vepsän kel’](https://vep.wikipedia.org/wiki/Matematik "Matematik — vepse")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học — vietnamien")
+  * [West-Vlams](https://vls.wikipedia.org/wiki/Wiskunde "Wiskunde — flamand occidental")
+  * [Volapük](https://vo.wikipedia.org/wiki/Matemat "Matemat — volapük")
+  * [Walon](https://wa.wikipedia.org/wiki/Matematike "Matematike — wallon")
+  * [Winaray](https://war.wikipedia.org/wiki/Matematika "Matematika — waray")
+  * [Wolof](https://wo.wikipedia.org/wiki/Xayma "Xayma — wolof")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6 "数学 — wu")
+  * [Хальмг](https://xal.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Математика — kalmouk")
+  * [IsiXhosa](https://xh.wikipedia.org/wiki/I-Mathematics "I-Mathematics — xhosa")
+  * [მარგალური](https://xmf.wikipedia.org/wiki/%E1%83%9B%E1%83%90%E1%83%97%E1%83%94%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%99%E1%83%90 "მათემატიკა — mingrélien")
+  * [ייִדיש](https://yi.wikipedia.org/wiki/%D7%9E%D7%90%D7%98%D7%A2%D7%9E%D7%90%D7%98%D7%99%D7%A7 "מאטעמאטיק — yiddish")
+  * [Yorùbá](https://yo.wikipedia.org/wiki/Mathim%C3%A1t%C3%ADk%C3%AC "Mathimátíkì — yoruba")
+  * [Vahcuengh](https://za.wikipedia.org/wiki/Soqyoz "Soqyoz — zhuang")
+  * [Zeêuws](https://zea.wikipedia.org/wiki/Wiskunde "Wiskunde — zélandais")
+  * [中文](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6 "数学 — chinois")
+  * [文言](https://zh-classical.wikipedia.org/wiki/%E6%95%B8%E5%AD%B8 "數學 — Classical Chinese")
+  * [Bân-lâm-gú](https://zh-min-nan.wikipedia.org/wiki/S%C3%B2%CD%98-ha%CC%8Dk "Sò͘-ha̍k — Chinese \(Min Nan\)")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E6%95%B8%E5%AD%B8 "數學 — Cantonese")
+  * [IsiZulu](https://zu.wikipedia.org/wiki/Imathemathiki "Imathemathiki — zoulou")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q395#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Math%C3%A9matiques "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Math%C3%A9matiques "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Math%C3%A9matiques "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Math%C3%A9matiques "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Math%C3%A9matiques)
+  * [Modifier](/w/index.php?title=Math%C3%A9matiques&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Math%C3%A9matiques&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Math%C3%A9matiques&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 28 septembre 2020 à 00:57.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Math%C3%A9matiques "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Math%C3%A9matiques&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[etc.]: et cetera
+  *[IIIe]: 3ᵉ siècle
+  *[av. J.-C.]: avant Jésus-Christ
+  *[XIIe]: 12ᵉ siècle
+  *[XVIe]: 16ᵉ siècle
+  *[XVIIe]: 17ᵉ siècle
+  *[XVIIIe]: 18ᵉ siècle
+  *[XIXe]: 19ᵉ siècle
+  *[XXe]: 20ᵉ siècle
+  *[20e]: 20ᵉ siècle
+  *[XXIe]: 21ᵉ siècle
+  *[[USD](/wiki/Dollar_am%C3%A9ricain "Dollar américain")]: USD
+  *[éd.]: édition
+  *[p.]: pages
+  *[Pr]: Professeur
+  *[ Dr]: Docteur
+  *[vol.]: volume
+  *[II]: 2
+  *[(en)]: Langue : anglais
+  *[no]: numéro
+  *[(fr)]: Langue : français
+  *[[PDF]]: Document au format Portable Document Format (PDF) d'Adobe
+  *[[vidéo]]: Vidéo au format MPEG, AVI...
+  *[coll.]: collection
+  *[1re]: première
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+

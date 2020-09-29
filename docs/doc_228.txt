@@ -1,0 +1,3325 @@
+# Aide:Homonymie
+
+Une page de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[**Aide de Wikipédia**](/wiki/Aide:Accueil "Aide:Accueil")
+![>](//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Breadcrumb_separator_2.svg/8px-
+Breadcrumb_separator_2.svg.png) [Consulter le contenu, faire une recherche,
+etc.](/wiki/Aide:Accueil/Consulter "Aide:Accueil/Consulter")
+
+**Niveau débutant**
+
+Nous vous recommandons de lire auparavant
+[Wikipédia:Homonymie](/wiki/Wikip%C3%A9dia:Homonymie "Wikipédia:Homonymie")
+qui regroupe les règles et recommandations au sujet des homonymies.
+
+Cette page est un **guide** destiné à aider les utilisateurs de Wikipédia à
+résoudre les problèmes posés par les « **différents sujets et articles
+partageant un même nom** ».
+
+Une page d'homonymie n'est pas destinée à lister tous les mots composés,
+titres ou expressions contenant un même terme. Il y a la fonction «
+[Recherche](/wiki/Aide:Recherche "Aide:Recherche") » pour cela. Une page
+d'homonymie n'est pas non plus un article du
+[Wiktionnaire](/wiki/Aide:Wiktionnaire "Aide:Wiktionnaire") : elle n'est pas
+censée définir ou lister des termes courants du langage, en particulier s'ils
+n'ont pas d'article encyclopédique associé - Cf.
+[Wikipédia:Homonymie](/wiki/Wikip%C3%A9dia:Homonymie "Wikipédia:Homonymie").
+
+## Sommaire
+
+  * 1 Qu'est-ce qu'une homonymie ?
+  * 2 Comment indiquer l'homonymie de titre dans un article
+  * 3 Comment créer une page d'homonymie
+  * 4 Comment différencier le titre de plusieurs articles homonymes
+  * 5 Erreurs courantes
+    * 5.1 Usage immodéré des parenthèses
+    * 5.2 Virgule au lieu des parenthèses
+    * 5.3 Article traitant de plusieurs sujets différents
+    * 5.4 Lien vers une page d'homonymie
+    * 5.5 Lien interlangue (ou « interwiki) » sur une page d'homonymie vers un article
+    * 5.6 Homonymies bifides
+  * 6 Homonymies d'anthroponyme
+    * 6.1 Arborescence des homonymies d'anthroponyme
+    * 6.2 Nom de famille
+    * 6.3 Prénom
+    * 6.4 Mention à ajouter
+  * 7 D'autres outils
+  * 8 Voir aussi
+
+## Qu'est-ce qu'une homonymie ?
+
+[![Icône
+d'homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/180px-
+Disambig_colour.svg.png)](/wiki/Fichier:Disambig_colour.svg)
+
+[](/wiki/Fichier:Disambig_colour.svg "Agrandir")
+
+Un titre, plusieurs articles, comment trouver son chemin ?
+
+Il arrive que plusieurs articles partagent un même titre pour des sujets très
+différents. Par exemple pour [Mercure](/wiki/Mercure "Mercure") :
+
+  * Le dieu romain [Mercure](/wiki/Mercure_\(mythologie\) "Mercure \(mythologie\)")
+  * La planète [Mercure](/wiki/Mercure_\(plan%C3%A8te\) "Mercure \(planète\)")
+  * L'élément chimique [mercure](/wiki/Mercure_\(chimie\) "Mercure \(chimie\)")
+
+Comme le titre est l'identifiant d'un article dans l'encyclopédie, on va
+chercher comment lever l'ambigüité (dans le jargon,
+[désambigüisation](https://fr.wiktionary.org/wiki/d%C3%A9sambigu%C3%AFsation
+"wikt:désambiguïsation")) tout en gardant un nommage cohérent. On a différents
+types d'[homonymies](https://fr.wiktionary.org/wiki/homonymie
+"wikt:homonymie") :
+
+  * **Homonymies strictes :**
+
+[Homonymie](/wiki/Homonymie "Homonymie") parfaite
+
+    Les titres partagent la même forme alors qu'ils ont une origine différente, comme la [scolopendre](/wiki/Scolopendre "Scolopendre") (à la fois le mille-pattes et la fougère).
+[Polysémie](/wiki/Polys%C3%A9mie "Polysémie")
+
+    Les titres ont tous la même origine, mais ont des significations différentes ([Mercure](/wiki/Mercure "Mercure")).
+
+  * **Homonymies approximatives :**
+
+[Paronymie](/wiki/Paronymie "Paronymie")
+
+    Pour des titres similaires comme [Tâche](/wiki/T%C3%A2che "Tâche") et [Tache](/wiki/Tache "Tache"). Voir [Aide:Paronymie](/wiki/Aide:Paronymie "Aide:Paronymie").
+[Patronymes](/wiki/Patronyme "Patronyme")
+
+    De nombreuses personnes connues portent un nom de famille semblable. Voir [Catégorie:Homonymie de patronyme](/wiki/Cat%C3%A9gorie:Homonymie_de_patronyme "Catégorie:Homonymie de patronyme").
+[Isoméries](/wiki/Isom%C3%A9rie "Isomérie")
+
+    Pour certains éléments chimiques. Voir [Aide:Isomérie](/wiki/Aide:Isom%C3%A9rie "Aide:Isomérie").
+«
+[Biohomonymies](/wiki/Cat%C3%A9gorie:Nom_vernaculaire_ou_nom_normalis%C3%A9_ambigu
+"Catégorie:Nom vernaculaire ou nom normalisé ambigu") »
+
+    Noms vernaculaires en biologie qui confondent plusieurs espèces dans un concept commun. Ils peuvent faire l'objet d'un article intermédiaire sous certaines conditions : voir aussi [Projet:Biologie/Biohomonymie](/wiki/Projet:Biologie/Biohomonymie "Projet:Biologie/Biohomonymie").
+[Pages
+d'internationalisation](/wiki/Cat%C3%A9gorie:Page_d%27internationalisation
+"Catégorie:Page d'internationalisation")
+
+    Pour les institutions de différents pays semblables comme [Cour suprême](/wiki/Cour_supr%C3%AAme "Cour suprême").
+
+Il existe même une catégorie pour les [homonymies de quelque chose qui
+n'existe
+pas](/wiki/Cat%C3%A9gorie:Page_d%27homonymie_pour_quelque_chose_qui_n%27existe_pas
+"Catégorie:Page d'homonymie pour quelque chose qui n'existe pas").
+
+## Comment indiquer l'homonymie de titre dans un article
+
+Les éléments suivants permettent d'indiquer une homonymie. Il s'agit de
+modèles ([comment les insérer](/wiki/Aide:Ins%C3%A9rer_un_mod%C3%A8le
+"Aide:Insérer un modèle")).
+
+  1. Cliquez sur **modifier**. L'[éditeur visuel](/wiki/Wikip%C3%A9dia:%C3%89diteurVisuel "Wikipédia:ÉditeurVisuel") s'ouvre.
+  2. **Insérer** [![VisualEditor - Icon - Expand.svg](//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/VisualEditor_-_Icon_-_Expand.svg/20px-VisualEditor_-_Icon_-_Expand.svg.png)](/wiki/Fichier:VisualEditor_-_Icon_-_Expand.svg)
+  3. [![VisualEditor - Icon - Template.svg](//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/VisualEditor_-_Icon_-_Template.svg/24px-VisualEditor_-_Icon_-_Template.svg.png)](/wiki/Fichier:VisualEditor_-_Icon_-_Template.svg) **Modèle**
+  4. Renseignez le modèle **** dans le champ de recherche.
+  5. Renseignez les champs concernés.
+  6. Enregistrez.
+
+Autre solution, quand vous modifiez une page ou discutez avec [Discussions
+structurées](/wiki/Wikip%C3%A9dia:Discussions_structur%C3%A9es
+"Wikipédia:Discussions structurées") :
+
+  1. Tapez `{{`
+  2. Renseignez le modèle **** dans le champ de recherche.
+  3. Renseignez les champs concernés.
+  4. Enregistrez.
+
+* * *
+
+[![VisualEditor - Icon -
+Help.svg](//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/VisualEditor_-
+_Icon_-_Help.svg/18px-VisualEditor_-_Icon_-
+_Help.svg.png)](/wiki/Fichier:VisualEditor_-_Icon_-_Help.svg) La plupart des
+modèles sont documentés directement dans l’éditeur visuel.  
+[Aide générale de l’éditeur visuel à propos des
+modèles](/wiki/Aide:%C3%89diteurVisuel#Modifier_des_mod.C3.A8les
+"Aide:ÉditeurVisuel").
+
+Ces modèles sont à insérer en haut de l'article.
+
+Modèles de bandeaux d'homonymie les plus courants  Modèle  | Code  | Rendu  
+---|---|---  
+[{{Voir homonymes}}](/wiki/Mod%C3%A8le:Voir_homonymes "Modèle:Voir
+homonymes")1 | `{{Voir homonymes}}` |
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Homonymie
+(homonymie)](/wiki/Homonymie_\(homonymie\) "Homonymie \(homonymie\)").  
+  
+`{{Voir homonymes|Mercure}}` |
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Mercure](/wiki/Mercure "Mercure").  
+  
+[{{Voir homonyme}}](/wiki/Mod%C3%A8le:Voir_homonyme "Modèle:Voir homonyme") |
+`{{Voir homonyme|Parti fédéraliste (France)}}` |
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article homonyme, voir [Parti fédéraliste
+(France)](/wiki/Parti_f%C3%A9d%C3%A9raliste_\(France\) "Parti fédéraliste
+\(France\)").  
+  
+[{{Voir homophones}}](/wiki/Mod%C3%A8le:Voir_homophones "Modèle:Voir
+homophones") | `{{Voir homophones|Beirut}}` |
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article ayant un titre homophone, voir [Beirut](/wiki/Beirut "Beirut").  
+  
+[{{Autre}}](/wiki/Mod%C3%A8le:Autre "Modèle:Autre") | `{{Autre|le Sujet
+B|Article}}` |
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour le Sujet B, voir [Article](/wiki/Article "Article").  
+  
+[{{Confusion}}](/wiki/Mod%C3%A8le:Confusion "Modèle:Confusion") |
+`{{Confusion|confiserie}}` |
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Ne doit pas être confondu avec [confiserie](/wiki/Confiserie "Confiserie").  
+  
+[{{Redirect}}](/wiki/Mod%C3%A8le:Redirect "Modèle:Redirect") |
+`{{Redirect|Terme}}` |
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme » redirige ici. Pour les autres significations, voir [Terme
+(homonymie)](/w/index.php?title=Terme_\(homonymie\)&action=edit&redlink=1
+"Terme \(homonymie\) \(page inexistante\)").  
+  
+`{{Redirect|Terme|homonymie=Page}}` |
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme » redirige ici. Pour les autres significations, voir [Page](/wiki/Page
+"Page").  
+  
+  * 1 Utilisé sans paramètre, ce modèle crée un lien en ajoutant _(homonymie)_ au titre de l'article dans lequel il est posé.
+
+[v](/wiki/Mod%C3%A8le:Palette_Mod%C3%A8les_d%27homonymie_pour_articles
+"Modèle:Palette Modèles d'homonymie pour articles") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Mod%C3%A8les_d%27homonymie_pour_articles&action=edit)
+
+![](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png) Modèles d'homonymie, de confusion et de
+[redirection](/wiki/Aide:Redirection "Aide:Redirection")  
+  
+---  
+| Objectif |  | Modèles utilisables | | **Code**|  **Résultat**  
+---|---  
+Lien simple vers une page d'homonymie ou d'autres articles homonymes |  |
+[{{Voir homonymes}}](/wiki/Mod%C3%A8le:Voir_homonymes "Modèle:Voir homonymes")  
+(maximum 5 pages) | | **Lien vers une page d'homonymie ou _plusieurs_ autres
+articles homonyme ; si aucune page n'est spécifiée, rajoute `(homonymie)` au
+titre de l'article.**  
+---  
+  
+`{{Voir homonymes}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Homonymie
+(homonymie)](/wiki/Homonymie_\(homonymie\) "Homonymie \(homonymie\)").  
+  
+`{{Voir homonymes|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Voir homonymes|Article1|Article2|Article3|Article4|Article5}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)"),
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)"), [Article4](/w/index.php?title=Article4&action=edit&redlink=1
+"Article4 \(page inexistante\)") et
+[Article5](/w/index.php?title=Article5&action=edit&redlink=1 "Article5 \(page
+inexistante\)").  
+  
+`{{Voir homonymes|mef=[[ArticlePrincipal]], ou [[Article2]] pour le Sujet2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir
+[ArticlePrincipal](/w/index.php?title=ArticlePrincipal&action=edit&redlink=1
+"ArticlePrincipal \(page inexistante\)"), ou
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)") pour le Sujet2.  
+  
+[{{Voir homonyme}}](/wiki/Mod%C3%A8le:Voir_homonyme "Modèle:Voir homonyme")  
+(1 page) | | **Lien vers un _unique_ autre article homonyme.**  
+---  
+  
+`{{Voir homonyme|ArticleA}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article homonyme, voir
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+`{{Voir homonyme|mef=l'article [[ArticleA]]}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article homonyme, voir l'article
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+Renvoi vers d'autres articles homonymes ou proches |  |
+[{{Autre}}](/wiki/Mod%C3%A8le:Autre "Modèle:Autre")  
+(maximum 2 pages) | | **Pour renvoyer vers un ou deux autres articles.**  
+---  
+  
+`{{Autre|le SujetA|ArticleA}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour le SujetA, voir
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+`{{Autre|les composants|Article1|Article2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les composants, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)") et
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)").  
+  
+[{{2autres}}](/wiki/Mod%C3%A8le:2autres "Modèle:2autres")  
+(2 pages) | | **Lien vers deux autres articles homonymes, avec leurs sujets
+précisé.**  
+---  
+  
+`{{2autres||Sujet1|Article1|Sujet2|Article2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour Sujet1, voir [Article1](/w/index.php?title=Article1&action=edit&redlink=1
+"Article1 \(page inexistante\)"). Pour Sujet2, voir
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)").  
+  
+[{{3autres}}](/wiki/Mod%C3%A8le:3autres "Modèle:3autres")  
+(3 pages) | | **Lien vers trois autres articles homonymes, avec leurs sujets
+précisé.**  
+---  
+  
+`{{3autres||Sujet1|Article1|Sujet2|Article2|Sujet3|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour Sujet1, voir [Article1](/w/index.php?title=Article1&action=edit&redlink=1
+"Article1 \(page inexistante\)"). Pour Sujet2, voir
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)"). Pour Sujet3, voir
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+[{{Voir homonyme}}](/wiki/Mod%C3%A8le:Voir_homonyme "Modèle:Voir homonyme")  
+(texte libre) | | **Pour renvoyer vers un autre article homonyme, avec texte
+libre.**  
+---  
+  
+`{{Voir homonyme|texte=Pour le SujetA, voir [[ArticleA]].}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour le SujetA, voir
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+Précision du sujet de l'article et renvoi vers d'autres articles homonymes ou
+proches |  | [{{Autre4}}](/wiki/Mod%C3%A8le:Autre4 "Modèle:Autre4")  
+(maximum 2 pages) | | **Précise le sujet traité dans cet article, et renvoie
+vers un ou deux autres articles ; si aucune page n'est spécifiée, rajoute
+`(homonymie)` au titre de l'article.**  
+---  
+  
+`{{Autre4|SujetTraité}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cet article concerne SujetTraité. Pour les autres significations, voir
+[Homonymie (homonymie)](/wiki/Homonymie_\(homonymie\) "Homonymie
+\(homonymie\)").  
+  
+`{{Autre4|SujetTraité|AutreSujet|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cet article concerne SujetTraité. Pour AutreSujet, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Autre4|SujetTraité|les autres sujets|Article1|Article2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cet article concerne SujetTraité. Pour les autres sujets, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)") et
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)").  
+  
+[{{Autre5}}](/wiki/Mod%C3%A8le:Autre5 "Modèle:Autre5")  
+(3 pages) | | **Précise le sujet traité dans cet article, et renvoie vers
+trois autres articles.**  
+---  
+  
+`{{Autre5|SujetTraité|les autres sujets|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cet article concerne SujetTraité. Pour les autres sujets, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+[{{2autres}}](/wiki/Mod%C3%A8le:2autres "Modèle:2autres")  
+(2 pages) | | **Précise le sujet traité dans cet article, et renvoie vers deux
+autres articles avec leurs sujets précisés.**  
+---  
+  
+`{{2autres|SujetTraité|Sujet1|Article1|Sujet2|Article2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cet article concerne SujetTraité. Pour Sujet1, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"). Pour Sujet2, voir
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)").  
+  
+[{{3autres}}](/wiki/Mod%C3%A8le:3autres "Modèle:3autres")  
+(3 pages) | | **Précise le sujet traité dans cet article, et renvoie vers
+trois autres articles avec leurs sujets précisés.**  
+---  
+  
+`{{3autres|SujetTraité|Sujet1|Article1|Sujet2|Article2|Sujet3|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cet article concerne SujetTraité. Pour Sujet1, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"). Pour Sujet2, voir
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)"). Pour Sujet3, voir
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+Homophonie / Paronymie |  | [{{Voir
+homophones}}](/wiki/Mod%C3%A8le:Voir_homophones "Modèle:Voir homophones")  
+(maximum 10 pages) | | **Pour les cas d'homophonie simple ; si aucune page
+n'est spécifiée, rajoute `(homonymie)` au titre de l'article.**  
+---  
+  
+`{{Voir homophones}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article ayant un titre homophone, voir [Homonymie
+(homonymie)](/wiki/Homonymie_\(homonymie\) "Homonymie \(homonymie\)").  
+  
+`{{Voir homophones|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article ayant un titre homophone, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Voir homophones|Article1|pluriel=oui}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles ayant des titres homophones, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Voir homophones|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles ayant des titres homophones, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+`{{Voir homophones|mef=l'article [[ArticleA]]}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article ayant un titre homophone, voir l'article
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+[{{Redirect homophones}}](/wiki/Mod%C3%A8le:Redirect_homophones
+"Modèle:Redirect homophones")  
+(maximum 9 pages) | | **Message de redirection avec renvoi vers un ou
+plusieurs autres articles homophones.**  
+---  
+  
+`{{Redirect homophones|Terme1|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Pour l’article homophone, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Redirect homophones|Terme1|Article1|pluriel=oui}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Pour les articles homophones, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Redirect homophones|Terme1|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Pour les articles homophones, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+[{{Voir paronymes}}](/wiki/Mod%C3%A8le:Voir_paronymes "Modèle:Voir paronymes")  
+(maximum 10 pages) | | **Pour les cas de paronymie.**  
+---  
+  
+`{{Voir paronymes}}`
+
+|
+
+[![Page d’aide sur la
+paronymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Paronymie "Aide:Paronymie")
+
+Cet article possède un [paronyme](/wiki/Paronymie "Paronymie"), voir
+[Homonymie
+(paronymie)](/w/index.php?title=Homonymie_\(paronymie\)&action=edit&redlink=1
+"Homonymie \(paronymie\) \(page inexistante\)").  
+  
+`{{Voir paronymes|Article1}}`
+
+|
+
+[![Page d’aide sur la
+paronymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Paronymie "Aide:Paronymie")
+
+Cet article possède un [paronyme](/wiki/Paronymie "Paronymie"), voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Voir paronymes|Article1|pluriel=oui}}`
+
+|
+
+[![Page d’aide sur la
+paronymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Paronymie "Aide:Paronymie")
+
+Cet article possède des [paronymes](/wiki/Paronymie "Paronymie"), voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Voir paronymes|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur la
+paronymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Paronymie "Aide:Paronymie")
+
+Cet article possède des [paronymes](/wiki/Paronymie "Paronymie"), voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+Confusion |  | [{{Confusion}}](/wiki/Mod%C3%A8le:Confusion "Modèle:Confusion")  
+(maximum 10 pages) | | **Pour éviter une confusion avec un ou plusieurs autres
+articles.**  
+---  
+  
+`{{Confusion|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Ne doit pas être confondu avec
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Confusion|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Ne doit pas être confondu avec
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") ou
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+`{{Confusion|texte=Ne doit pas être confondu avec l'[[article1]], situé au
+Pays.}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Ne doit pas être confondu avec
+l'[article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1
+\(page inexistante\)"), situé au Pays.  
+  
+[{{Redirect confusion}}](/wiki/Mod%C3%A8le:Redirect_confusion "Modèle:Redirect
+confusion")  
+(maximum 9 pages) | | **Message de redirection combiné avec un message de
+confusion avec lien vers un ou plusieurs autres articles.**  
+---  
+  
+`{{Redirect confusion|Terme1|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Ne pas confondre avec
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Redirect confusion|Terme1|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Ne pas confondre avec
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") ni
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+`{{Redirect confusion|Terme1|texte=Ne doit pas être confondu avec
+l'[[article1]], situé au Pays.}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Ne doit pas être confondu avec
+l'[article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1
+\(page inexistante\)"), situé au Pays.  
+  
+Avertir qu'un terme redirige sur la page |  |
+[{{Redirect}}](/wiki/Mod%C3%A8le:Redirect "Modèle:Redirect")  
+(1 redirection, maximum 9 pages) | | **Message de redirection depuis un terme,
+avec renvoi vers une ou plusieurs pages d'homonymie/articles ; si aucune page
+n'est spécifiée avec le paramètre `homonymie=`, rajoute `(homonymie)` au titre
+de l'article.**  
+---  
+  
+`{{Redirect|Terme1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour les autres significations, voir [Terme1
+(homonymie)](/w/index.php?title=Terme1_\(homonymie\)&action=edit&redlink=1
+"Terme1 \(homonymie\) \(page inexistante\)").  
+  
+`{{Redirect|Terme1|Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour les autres significations, voir [Terme1
+(homonymie)](/w/index.php?title=Terme1_\(homonymie\)&action=edit&redlink=1
+"Terme1 \(homonymie\) \(page inexistante\)") et
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Redirect|Terme1|homonymie=Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour les autres significations, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Redirect|Terme1|homonymie=Page1|Page2|Page3}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour les autres significations, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)"), [Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2
+\(page inexistante\)") et
+[Page3](/w/index.php?title=Page3&action=edit&redlink=1 "Page3 \(page
+inexistante\)").  
+  
+`{{Redirect|Terme1|homonymie=Page1|autres=texte libre}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour texte libre, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+[{{Redirect2}}](/wiki/Mod%C3%A8le:Redirect2 "Modèle:Redirect2")  
+(2 redirections, maximum 8 pages) | | **Message de redirection depuis deux
+termes, avec renvoi vers une ou plusieurs pages d'homonymie/articles ; si
+aucune page n'est spécifiée avec le paramètre `homonymie=`, rajoute
+`(homonymie)` au titre de l'article.**  
+---  
+  
+`{{Redirect2|Terme1|Terme2}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » et « Terme2 » redirigent ici. Pour les autres significations, voir
+[Terme1
+(homonymie)](/w/index.php?title=Terme1_\(homonymie\)&action=edit&redlink=1
+"Terme1 \(homonymie\) \(page inexistante\)").  
+  
+`{{Redirect2|Terme1|Terme2|Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » et « Terme2 » redirigent ici. Pour les autres significations, voir
+[Terme1
+(homonymie)](/w/index.php?title=Terme1_\(homonymie\)&action=edit&redlink=1
+"Terme1 \(homonymie\) \(page inexistante\)") et
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Redirect2|Terme1|Terme2|homonymie=Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » et « Terme2 » redirigent ici. Pour les autres significations, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Redirect2|Terme1|Terme2|homonymie=Page1|Page2|Page3}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » et « Terme2 » redirigent ici. Pour les autres significations, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)"), [Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2
+\(page inexistante\)") et
+[Page3](/w/index.php?title=Page3&action=edit&redlink=1 "Page3 \(page
+inexistante\)").  
+  
+`{{Redirect2|Terme1|Terme2|autres=texte libre|homonymie=Page1|Page2|Page3}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » et « Terme2 » redirigent ici. Pour texte libre, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)"), [Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2
+\(page inexistante\)") et
+[Page3](/w/index.php?title=Page3&action=edit&redlink=1 "Page3 \(page
+inexistante\)").  
+  
+[{{Redirect3}}](/wiki/Mod%C3%A8le:Redirect3 "Modèle:Redirect3")  
+(3 redirections, maximum 7 pages) | | **Message de redirection depuis trois
+termes, avec renvoi vers une ou plusieurs pages d'homonymie/articles ; si
+aucune page n'est spécifiée avec le paramètre `homonymie=`, rajoute
+`(homonymie)` au titre de l'article.**  
+---  
+  
+`{{Redirect3|Terme1|Terme2|Terme3}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 », « Terme2 » et « Terme3 » redirigent ici. Pour les autres
+significations, voir [Terme1
+(homonymie)](/w/index.php?title=Terme1_\(homonymie\)&action=edit&redlink=1
+"Terme1 \(homonymie\) \(page inexistante\)").  
+  
+`{{Redirect3|Terme1|Terme2|Terme3|Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 », « Terme2 » et « Terme3 » redirigent ici. Pour les autres
+significations, voir [Terme1
+(homonymie)](/w/index.php?title=Terme1_\(homonymie\)&action=edit&redlink=1
+"Terme1 \(homonymie\) \(page inexistante\)") et
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Redirect3|Terme1|Terme2|Terme3|homonymie=Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 », « Terme2 » et « Terme3 » redirigent ici. Pour les autres
+significations, voir [Page1](/w/index.php?title=Page1&action=edit&redlink=1
+"Page1 \(page inexistante\)").  
+  
+`{{Redirect3|Terme1|Terme2|Terme3|homonymie=Page1|Page2|Page3}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 », « Terme2 » et « Terme3 » redirigent ici. Pour les autres
+significations, voir [Page1](/w/index.php?title=Page1&action=edit&redlink=1
+"Page1 \(page inexistante\)"),
+[Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2 \(page
+inexistante\)") et [Page3](/w/index.php?title=Page3&action=edit&redlink=1
+"Page3 \(page inexistante\)").  
+  
+`{{Redirect3|Terme1|Terme2|Terme3|autres=texte
+libre|homonymie=Page1|Page2|Page3}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 », « Terme2 » et « Terme3 » redirigent ici. Pour texte libre, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)"), [Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2
+\(page inexistante\)") et
+[Page3](/w/index.php?title=Page3&action=edit&redlink=1 "Page3 \(page
+inexistante\)").  
+  
+[{{Redirect5}}](/wiki/Mod%C3%A8le:Redirect5 "Modèle:Redirect5")  
+(1 redirection, maximum 2 pages, avec texte libre) | | **Message de
+redirection depuis un terme, avec renvoi vers une ou deux pages
+d'homonymie/articles, avec texte libre pour chaque renvoi ; si aucune page
+n'est spécifiée avec le paramètre `homonymie=`, rajoute `(homonymie)` au titre
+de l'article.**  
+---  
+  
+`{{Redirect5|Terme1|texte libre 1|Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour texte libre 1, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Redirect5|Terme1|texte libre 1|Page1|texte libre2|Page2}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour texte libre 1, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)"). Pour texte libre2, voir
+[Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2 \(page
+inexistante\)").  
+  
+`{{Redirect5|Terme1|texte libre 1|Page1||Page2}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour texte libre 1, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)"). Pour les autres significations, voir
+[Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2 \(page
+inexistante\)").  
+  
+[{{Redirect homophones}}](/wiki/Mod%C3%A8le:Redirect_homophones
+"Modèle:Redirect homophones")  
+(maximum 9 pages) | | **Message de redirection avec renvoi vers un ou
+plusieurs autres articles homophones.**  
+---  
+  
+`{{Redirect homophones|Terme1|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Pour l’article homophone, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Redirect homophones|Terme1|Article1|pluriel=oui}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Pour les articles homophones, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Redirect homophones|Terme1|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Pour les articles homophones, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+[{{Redirect confusion}}](/wiki/Mod%C3%A8le:Redirect_confusion "Modèle:Redirect
+confusion")  
+(maximum 9 pages) | | **Message de redirection combiné avec un message de
+confusion avec lien vers un ou plusieurs autres articles.**  
+---  
+  
+`{{Redirect confusion|Terme1|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Ne pas confondre avec
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Redirect confusion|Terme1|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Ne pas confondre avec
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") ni
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+`{{Redirect confusion|Terme1|texte=Ne doit pas être confondu avec
+l'[[article1]], situé au Pays.}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Ne doit pas être confondu avec
+l'[article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1
+\(page inexistante\)"), situé au Pays.  
+  
+Modèles spécialisés et divers |  | [{{Voir
+internationalisation}}](/wiki/Mod%C3%A8le:Voir_internationalisation
+"Modèle:Voir internationalisation")  
+(1 page) | | **À utiliser sur un article détaillé concernant un sujet dans un
+pays spécifique, permet de lier vers un article plus général ou une page
+d'homonymie concernant le même sujet dans d'autres pays.**  
+---  
+  
+`{{Voir internationalisation|ArticleA}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres articles nationaux ou selon les autres juridictions, voir
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+`{{Voir internationalisation|ArticleA|texte personalisé}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour texte personalisé, voir
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+[{{Voir famille}}](/wiki/Mod%C3%A8le:Voir_famille "Modèle:Voir famille")  
+(1 page) | | **Lien vers l'article concernant les autres membres d'une même
+famille.**  
+---  
+  
+`{{Voir famille|ArticleA}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres membres de la famille, voir
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+`{{Voir famille|mef=[[Généalogie des ArticleA|ArticleA]]}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres membres de la famille, voir
+[ArticleA](/w/index.php?title=G%C3%A9n%C3%A9alogie_des_ArticleA&action=edit&redlink=1
+"Généalogie des ArticleA \(page inexistante\)").  
+  
+[{{Voir familles}}](/wiki/Mod%C3%A8le:Voir_familles "Modèle:Voir familles")  
+(maximum 3 pages) | | **Lien vers les articles concernant les autres membres
+de plusieurs familles.**  
+---  
+  
+`{{Voir familles|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres membres des familles, voir :
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+[{{Voir famille et homonyme}}](/wiki/Mod%C3%A8le:Voir_famille_et_homonyme
+"Modèle:Voir famille et homonyme")  
+(maximum 5 pages) | | **Lien vers l'article de la famille pour les autres
+membres + lien vers les articles homonymes.**  
+---  
+  
+`{{Voir famille et homonyme|fam=[[Généalogie des Tudors|Tudors]]|Henri|Henri
+VII}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres membres de cette famille, voir :
+[Tudors](/wiki/G%C3%A9n%C3%A9alogie_des_Tudors "Généalogie des Tudors") et
+pour les homonymes, voir [Henri](/wiki/Henri "Henri") et [Henri
+VII](/wiki/Henri_VII "Henri VII").  
+  
+[{{Homonymie-nombre}}](/wiki/Mod%C3%A8le:Homonymie-nombre "Modèle:Homonymie-
+nombre")  
+(2 liens prédéfinis + 1 lien libre) | | **Modèle à utiliser sur les articles
+d'années, établi automatiquement un lien vers l'année av. J.C. et un lien vers
+la page d'homonymie de nombre correspondant à l'année. Si le nombre n'est pas
+indiqué, le titre de la page sera utilisé.**  
+---  
+  
+`{{Homonymie-nombre}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+Cette page concerne l'année **21** du [calendrier
+julien](/wiki/Calendrier_julien "Calendrier julien"). Pour l'année 21 av.
+J.-C., voir [21 av. J.-C.](/wiki/21_av._J.-C. "21 av. J.-C."). Pour le nombre
+21, voir [21 (nombre)](/wiki/21_\(nombre\) "21 \(nombre\)").  
+  
+`{{Homonymie-nombre|nombre=21}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+Cette page concerne l'année **21** du [calendrier
+julien](/wiki/Calendrier_julien "Calendrier julien"). Pour l'année 21 av.
+J.-C., voir [21 av. J.-C.](/wiki/21_av._J.-C. "21 av. J.-C."). Pour le nombre
+21, voir [21 (nombre)](/wiki/21_\(nombre\) "21 \(nombre\)").  
+  
+`{{Homonymie-nombre|nombre=21|pour=le film|voir=Las Vegas 21}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+Cette page concerne l'année **21** du [calendrier
+julien](/wiki/Calendrier_julien "Calendrier julien"). Pour l'année 21 av.
+J.-C., voir [21 av. J.-C.](/wiki/21_av._J.-C. "21 av. J.-C."). Pour le nombre
+21, voir [21 (nombre)](/wiki/21_\(nombre\) "21 \(nombre\)"). Pour le film,
+voir [Las Vegas 21](/wiki/Las_Vegas_21 "Las Vegas 21").  
+  
+[{{Voir cathédrales}}](/wiki/Mod%C3%A8le:Voir_cath%C3%A9drales "Modèle:Voir
+cathédrales") | | **Modèle d'homonymie de cathédrales, avec de nombreuses
+options de configuration, permettant d'afficher un bandeau d'homonymie combiné
+avec un bandeau de confusion. Ce modèle sophistiqué vérifie automatiquement
+l'existence d'articles homonymes, et affiche les bandeaux adéquats. Voir
+la[documentation du modèle](/wiki/Mod%C3%A8le:Voir_cath%C3%A9drales
+"Modèle:Voir cathédrales").**  
+---  
+  
+`{{Voir cathédrales|Saint-André|de Québec}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cette [cathédrale](/wiki/Cath%C3%A9drale "Cathédrale") ne doit pas être
+confondue avec une autre [cathédrale de
+Québec](/wiki/Liste_des_cath%C3%A9drales_de_Qu%C3%A9bec "Liste des cathédrales
+de Québec").  
+[![Page d'aide sur
+l'homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie") D’autres
+cathédrales portent le nom de [cathédrale Saint-
+André](/wiki/Cath%C3%A9drale_Saint-Andr%C3%A9 "Cathédrale Saint-André").  
+  
+_D'autres possibilités et options disponibles sur la **[documentation du
+modèle](/wiki/Mod%C3%A8le:Voir_cath%C3%A9drales "Modèle:Voir cathédrales")**._  
+  
+[{{Voir basiliques}}](/wiki/Mod%C3%A8le:Voir_basiliques "Modèle:Voir
+basiliques") | | **Modèle d'homonymie de basiliques, avec de nombreuses
+options de configuration, permettant d'afficher un bandeau d'homonymie combiné
+avec un bandeau de confusion. Ce modèle sophistiqué vérifie automatiquement
+l'existence d'articles homonymes, et affiche les bandeaux adéquats. Voir
+la[documentation du modèle](/wiki/Mod%C3%A8le:Voir_basiliques "Modèle:Voir
+basiliques").**  
+---  
+  
+`{{Voir basiliques|Notre-Dame|de Québec}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cette [basilique](/wiki/Basilique_\(christianisme\) "Basilique
+\(christianisme\)") n’est pas la seule [basilique Notre-
+Dame](/wiki/Basilique_Notre-Dame "Basilique Notre-Dame").  
+  
+_D'autres possibilités et options disponibles sur la **[documentation du
+modèle](/wiki/Mod%C3%A8le:Voir_basiliques "Modèle:Voir basiliques")**._  
+  
+[{{Autres navires}}](/wiki/Mod%C3%A8le:Autres_navires "Modèle:Autres navires")  
+(maximum 2 pages) | | **Modèle d'homonymie pour navire ; si aucune page n'est
+spécifiée, établit un lien vers le nom de la page actuelle, sans les
+parenthèses. Assurez-vous dans ce cas que le lien pointe bien vers une page
+d'homonymie.**  
+---  
+  
+`{{Autres navires}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres navires du même nom, voir [Homonymie](/wiki/Homonymie
+"Homonymie").  
+  
+`{{Autres navires|Page1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres navires du même nom, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Autres navires|Page1|Page2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres navires du même nom, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)") et [Page2](/w/index.php?title=Page2&action=edit&redlink=1
+"Page2 \(page inexistante\)").  
+  
+[{{Autres classes}}](/wiki/Mod%C3%A8le:Autres_classes "Modèle:Autres classes")  
+(maximum 2 pages) | | **Modèle d'homonymie pour classe de navire.**  
+---  
+  
+`{{Autres classes|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres classes de navires du même nom, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Autres classes|Article1|Article2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres classes de navires du même nom, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)") et
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)").  
+  
+[{{Article général}}](/wiki/Mod%C3%A8le:Article_g%C3%A9n%C3%A9ral
+"Modèle:Article général")  
+(maximum 10 pages) | | **Lien vers l'article général concernant un sujet, à
+utiliser sur un article détaillant seulement une partie du sujet.**  
+---  
+  
+`{{Article général|Article1}}`
+
+|
+
+Pour un article plus général, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Article général|Article1|Article2|Article3}}`
+
+|
+
+Pour des articles plus généraux, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+[{{Page annexe}}](/wiki/Mod%C3%A8le:Page_annexe "Modèle:Page annexe")  
+(maximum 5 pages) | | **Lien vers l'article général concernant un sujet, à
+utiliser sur une page annexe au sujet.**  
+---  
+  
+`{{Page annexe|Article1}}`
+
+|
+
+![Page d'aide sur
+l'homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nuvola_kdict_glass.svg/30px-
+Nuvola_kdict_glass.svg.png)
+
+Cette page est une annexe de l'article «
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)") ».  
+  
+`{{Page annexe|Article1|Article2|Article3}}`
+
+|
+
+![Page d'aide sur
+l'homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nuvola_kdict_glass.svg/30px-
+Nuvola_kdict_glass.svg.png)
+
+Cette page est une annexe aux articles
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+Et si rien de tout cela ne convient... |  | [{{Bandeau
+homonymie}}](/wiki/Mod%C3%A8le:Bandeau_homonymie "Modèle:Bandeau homonymie")  
+(texte libre) | | **Permet d'insérer un texte libre, quand aucun des modèles
+disponibles ne convient.**  
+---  
+  
+`{{Bandeau homonymie|Texte libre.}}`
+
+|
+
+Texte libre.  
+  
+`{{Bandeau homonymie|Texte libre.|icône=homonymie}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Texte libre.  
+  
+`{{Bandeau homonymie|Texte libre.|icône=paronymie}}`
+
+|
+
+[![Page d’aide sur la
+paronymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Paronymie "Aide:Paronymie")
+
+Texte libre.  
+  
+`{{Bandeau homonymie|Texte libre.|icône=homophonie}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Texte libre.  
+  
+`{{Bandeau homonymie|Texte libre.|icône=confusion}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Texte libre.  
+  
+## Comment créer une page d'homonymie
+
+Prenons l'exemple de « Jean-Baptiste Noirot », un nom porté par un général et
+un député :
+
+  1. Admettons que l'article sur le député existe déjà : 
+    * renommer l'article ([comment ?](/wiki/Aide:Comment_renommer_une_page "Aide:Comment renommer une page")) « Jean-Baptiste Noirot » en « Jean-Baptiste Noirot (député) »
+  2. présenter sur « Jean-Baptiste Noirot » le fait qu'il existe deux personnes ([exemple](/wiki/Jean-Baptiste_Noirot "Jean-Baptiste Noirot")) : 
+    * un **modèle d'homonymie** placé au sommet de la page. Ce modèle affiche un message particulier et catégorise la page. Il en existe plusieurs suivant les liens homonymes à différencier : 
+      * [{{homonymie}}](/wiki/Mod%C3%A8le:Homonymie "Modèle:Homonymie"), le plus général, à utiliser par défaut ;
+      * [anthroponyme](/wiki/Anthroponyme "Anthroponyme")
+        * [{{patronymie}}](/wiki/Mod%C3%A8le:Patronymie "Modèle:Patronymie"), pour les pages faisant une liste de personnes portant le même [nom de famille](/wiki/Nom_de_famille "Nom de famille") ;
+        * [{{personnes homonymes}}](/wiki/Mod%C3%A8le:Personnes_homonymes "Modèle:Personnes homonymes"), pour les pages faisant la liste des personnes portant un même prénom _et_ nom. Exemple : [John Smith](/wiki/John_Smith "John Smith") ;
+        * [{{homonymie dynastique}}](/wiki/Mod%C3%A8le:Homonymie_dynastique "Modèle:Homonymie dynastique"), pour les pages faisant la liste des souverains portant un même nom. Exemple : [Louis IV](/wiki/Louis_IV "Louis IV") et [Catherine de Russie](/wiki/Catherine_de_Russie "Catherine de Russie") ;
+      * [{{toponymie}}](/wiki/Mod%C3%A8le:Toponymie "Modèle:Toponymie"), pour les pages faisant la liste des lieux portant un même nom ; 
+        * [{{villes homonymes}}](/wiki/Mod%C3%A8le:Villes_homonymes "Modèle:Villes homonymes"), pour les pages faisant la liste des localités (villes ou villages) portant un même nom ;
+        * [{{arrondissements homonymes}}](/wiki/Mod%C3%A8le:Arrondissements_homonymes "Modèle:Arrondissements homonymes"), pour les pages faisant la liste des [arrondissements](/wiki/Arrondissement "Arrondissement") portant un même nom. Exemple : [1er arrondissement](/wiki/1er_arrondissement "1er arrondissement") ;
+        * [{{cantons homonymes}}](/wiki/Mod%C3%A8le:Cantons_homonymes "Modèle:Cantons homonymes"), pour les pages faisant la liste des [cantons français](/wiki/Cantons_fran%C3%A7ais "Cantons français") portant un même nom. Exemple : [Canton de Beaumont](/wiki/Canton_de_Beaumont "Canton de Beaumont") ;
+      * [{{unités homonymes}}](/wiki/Mod%C3%A8le:Unit%C3%A9s_homonymes "Modèle:Unités homonymes"), pour les pages faisant la liste des unités militaires ou régiments portant le même nom. Exemple : [1er régiment de cavalerie](/wiki/1er_r%C3%A9giment_de_cavalerie "1er régiment de cavalerie") ;
+      * [{{titres homonymes}}](/wiki/Mod%C3%A8le:Titres_homonymes "Modèle:Titres homonymes"), pour les pages faisant la liste d'œuvres portant le même titre. Exemple : _[Amor de mis amores](/wiki/Amor_de_mis_amores "Amor de mis amores")_ ;
+      * [{{paronymie}}](/wiki/Mod%C3%A8le:Paronymie "Modèle:Paronymie"), pour les sujets et articles ayant des noms très proches graphiquement ;
+    * La **liste des articles homonymes**. Une description succincte (une phrase maximum) permet de différencier rapidement le sujet de chaque article 
+      * Ces articles sont souvent listés par section thématique, par exemple « Patronyme » ou « Toponyme » ;
+      * [{{nom de famille}}](/wiki/Mod%C3%A8le:Nom_de_famille "Modèle:Nom de famille") insère une présentation au début de la section « Patronyme » et ajoute automatiquement la [catégorie « Homonymie de patronyme »](/wiki/Cat%C3%A9gorie:Homonymie_de_patronyme "Catégorie:Homonymie de patronyme") ;
+      * [{{nom de lieu}}](/wiki/Mod%C3%A8le:Nom_de_lieu "Modèle:Nom de lieu") insère une présentation au début de la section « Toponyme » et ajoute automatiquement la [catégorie « Homonymie de toponyme »](/wiki/Cat%C3%A9gorie:Homonymie_de_toponyme "Catégorie:Homonymie de toponyme") ;
+  3. créer « Jean-Baptiste Noirot (général) » ;
+  4. placer un modèle de bandeau pour page d'homonymie sur les deux articles ainsi séparés :
+
+Modèles de bandeaux d'homonymie les plus courants  Modèle  | Code  | Rendu  
+---|---|---  
+[{{Voir homonymes}}](/wiki/Mod%C3%A8le:Voir_homonymes "Modèle:Voir homonymes")
+| `{{Voir homonymes}}` |
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Homonymie
+(homonymie)](/wiki/Homonymie_\(homonymie\) "Homonymie \(homonymie\)").  
+  
+`{{Voir homonymes|Mercure}}` |
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Mercure](/wiki/Mercure "Mercure").  
+  
+[{{Voir homonyme}}](/wiki/Mod%C3%A8le:Voir_homonyme "Modèle:Voir homonyme") |
+`{{Voir homonyme|Parti fédéraliste (France)}}` |
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article homonyme, voir [Parti fédéraliste
+(France)](/wiki/Parti_f%C3%A9d%C3%A9raliste_\(France\) "Parti fédéraliste
+\(France\)").  
+  
+[{{Voir homophones}}](/wiki/Mod%C3%A8le:Voir_homophones "Modèle:Voir
+homophones") | `{{Voir homophones|Beirut}}` |
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article ayant un titre homophone, voir [Beirut](/wiki/Beirut "Beirut").  
+  
+[{{Autre}}](/wiki/Mod%C3%A8le:Autre "Modèle:Autre") | `{{Autre|le Sujet
+B|Article}}` |
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour le Sujet B, voir [Article](/wiki/Article "Article").  
+  
+[{{Confusion}}](/wiki/Mod%C3%A8le:Confusion "Modèle:Confusion") |
+`{{Confusion|confiserie}}` |
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Ne doit pas être confondu avec [confiserie](/wiki/Confiserie "Confiserie").  
+  
+[{{Redirect}}](/wiki/Mod%C3%A8le:Redirect "Modèle:Redirect") |
+`{{Redirect|Terme}}` |
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme » redirige ici. Pour les autres significations, voir [Terme
+(homonymie)](/w/index.php?title=Terme_\(homonymie\)&action=edit&redlink=1
+"Terme \(homonymie\) \(page inexistante\)").  
+  
+`{{Redirect|Terme|homonymie=Page}}` |
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme » redirige ici. Pour les autres significations, voir [Page](/wiki/Page
+"Page").  
+  
+[v](/wiki/Mod%C3%A8le:Palette_Mod%C3%A8les_d%27homonymie_pour_articles
+"Modèle:Palette Modèles d'homonymie pour articles") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Mod%C3%A8les_d%27homonymie_pour_articles&action=edit)
+
+![](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png) Modèles d'homonymie, de confusion et de
+[redirection](/wiki/Aide:Redirection "Aide:Redirection")  
+  
+---  
+| Objectif |  | Modèles utilisables | | **Code**|  **Résultat**  
+---|---  
+Lien simple vers une page d'homonymie ou d'autres articles homonymes |  |
+[{{Voir homonymes}}](/wiki/Mod%C3%A8le:Voir_homonymes "Modèle:Voir homonymes")  
+(maximum 5 pages) | | **Lien vers une page d'homonymie ou _plusieurs_ autres
+articles homonyme ; si aucune page n'est spécifiée, rajoute `(homonymie)` au
+titre de l'article.**  
+---  
+  
+`{{Voir homonymes}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Homonymie
+(homonymie)](/wiki/Homonymie_\(homonymie\) "Homonymie \(homonymie\)").  
+  
+`{{Voir homonymes|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Voir homonymes|Article1|Article2|Article3|Article4|Article5}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)"),
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)"), [Article4](/w/index.php?title=Article4&action=edit&redlink=1
+"Article4 \(page inexistante\)") et
+[Article5](/w/index.php?title=Article5&action=edit&redlink=1 "Article5 \(page
+inexistante\)").  
+  
+`{{Voir homonymes|mef=[[ArticlePrincipal]], ou [[Article2]] pour le Sujet2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir
+[ArticlePrincipal](/w/index.php?title=ArticlePrincipal&action=edit&redlink=1
+"ArticlePrincipal \(page inexistante\)"), ou
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)") pour le Sujet2.  
+  
+[{{Voir homonyme}}](/wiki/Mod%C3%A8le:Voir_homonyme "Modèle:Voir homonyme")  
+(1 page) | | **Lien vers un _unique_ autre article homonyme.**  
+---  
+  
+`{{Voir homonyme|ArticleA}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article homonyme, voir
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+`{{Voir homonyme|mef=l'article [[ArticleA]]}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article homonyme, voir l'article
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+Renvoi vers d'autres articles homonymes ou proches |  |
+[{{Autre}}](/wiki/Mod%C3%A8le:Autre "Modèle:Autre")  
+(maximum 2 pages) | | **Pour renvoyer vers un ou deux autres articles.**  
+---  
+  
+`{{Autre|le SujetA|ArticleA}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour le SujetA, voir
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+`{{Autre|les composants|Article1|Article2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les composants, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)") et
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)").  
+  
+[{{2autres}}](/wiki/Mod%C3%A8le:2autres "Modèle:2autres")  
+(2 pages) | | **Lien vers deux autres articles homonymes, avec leurs sujets
+précisé.**  
+---  
+  
+`{{2autres||Sujet1|Article1|Sujet2|Article2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour Sujet1, voir [Article1](/w/index.php?title=Article1&action=edit&redlink=1
+"Article1 \(page inexistante\)"). Pour Sujet2, voir
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)").  
+  
+[{{3autres}}](/wiki/Mod%C3%A8le:3autres "Modèle:3autres")  
+(3 pages) | | **Lien vers trois autres articles homonymes, avec leurs sujets
+précisé.**  
+---  
+  
+`{{3autres||Sujet1|Article1|Sujet2|Article2|Sujet3|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour Sujet1, voir [Article1](/w/index.php?title=Article1&action=edit&redlink=1
+"Article1 \(page inexistante\)"). Pour Sujet2, voir
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)"). Pour Sujet3, voir
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+[{{Voir homonyme}}](/wiki/Mod%C3%A8le:Voir_homonyme "Modèle:Voir homonyme")  
+(texte libre) | | **Pour renvoyer vers un autre article homonyme, avec texte
+libre.**  
+---  
+  
+`{{Voir homonyme|texte=Pour le SujetA, voir [[ArticleA]].}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour le SujetA, voir
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+Précision du sujet de l'article et renvoi vers d'autres articles homonymes ou
+proches |  | [{{Autre4}}](/wiki/Mod%C3%A8le:Autre4 "Modèle:Autre4")  
+(maximum 2 pages) | | **Précise le sujet traité dans cet article, et renvoie
+vers un ou deux autres articles ; si aucune page n'est spécifiée, rajoute
+`(homonymie)` au titre de l'article.**  
+---  
+  
+`{{Autre4|SujetTraité}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cet article concerne SujetTraité. Pour les autres significations, voir
+[Homonymie (homonymie)](/wiki/Homonymie_\(homonymie\) "Homonymie
+\(homonymie\)").  
+  
+`{{Autre4|SujetTraité|AutreSujet|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cet article concerne SujetTraité. Pour AutreSujet, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Autre4|SujetTraité|les autres sujets|Article1|Article2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cet article concerne SujetTraité. Pour les autres sujets, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)") et
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)").  
+  
+[{{Autre5}}](/wiki/Mod%C3%A8le:Autre5 "Modèle:Autre5")  
+(3 pages) | | **Précise le sujet traité dans cet article, et renvoie vers
+trois autres articles.**  
+---  
+  
+`{{Autre5|SujetTraité|les autres sujets|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cet article concerne SujetTraité. Pour les autres sujets, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+[{{2autres}}](/wiki/Mod%C3%A8le:2autres "Modèle:2autres")  
+(2 pages) | | **Précise le sujet traité dans cet article, et renvoie vers deux
+autres articles avec leurs sujets précisés.**  
+---  
+  
+`{{2autres|SujetTraité|Sujet1|Article1|Sujet2|Article2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cet article concerne SujetTraité. Pour Sujet1, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"). Pour Sujet2, voir
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)").  
+  
+[{{3autres}}](/wiki/Mod%C3%A8le:3autres "Modèle:3autres")  
+(3 pages) | | **Précise le sujet traité dans cet article, et renvoie vers
+trois autres articles avec leurs sujets précisés.**  
+---  
+  
+`{{3autres|SujetTraité|Sujet1|Article1|Sujet2|Article2|Sujet3|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cet article concerne SujetTraité. Pour Sujet1, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"). Pour Sujet2, voir
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)"). Pour Sujet3, voir
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+Homophonie / Paronymie |  | [{{Voir
+homophones}}](/wiki/Mod%C3%A8le:Voir_homophones "Modèle:Voir homophones")  
+(maximum 10 pages) | | **Pour les cas d'homophonie simple ; si aucune page
+n'est spécifiée, rajoute `(homonymie)` au titre de l'article.**  
+---  
+  
+`{{Voir homophones}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article ayant un titre homophone, voir [Homonymie
+(homonymie)](/wiki/Homonymie_\(homonymie\) "Homonymie \(homonymie\)").  
+  
+`{{Voir homophones|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article ayant un titre homophone, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Voir homophones|Article1|pluriel=oui}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles ayant des titres homophones, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Voir homophones|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles ayant des titres homophones, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+`{{Voir homophones|mef=l'article [[ArticleA]]}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article ayant un titre homophone, voir l'article
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+[{{Redirect homophones}}](/wiki/Mod%C3%A8le:Redirect_homophones
+"Modèle:Redirect homophones")  
+(maximum 9 pages) | | **Message de redirection avec renvoi vers un ou
+plusieurs autres articles homophones.**  
+---  
+  
+`{{Redirect homophones|Terme1|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Pour l’article homophone, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Redirect homophones|Terme1|Article1|pluriel=oui}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Pour les articles homophones, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Redirect homophones|Terme1|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Pour les articles homophones, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+[{{Voir paronymes}}](/wiki/Mod%C3%A8le:Voir_paronymes "Modèle:Voir paronymes")  
+(maximum 10 pages) | | **Pour les cas de paronymie.**  
+---  
+  
+`{{Voir paronymes}}`
+
+|
+
+[![Page d’aide sur la
+paronymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Paronymie "Aide:Paronymie")
+
+Cet article possède un [paronyme](/wiki/Paronymie "Paronymie"), voir
+[Homonymie
+(paronymie)](/w/index.php?title=Homonymie_\(paronymie\)&action=edit&redlink=1
+"Homonymie \(paronymie\) \(page inexistante\)").  
+  
+`{{Voir paronymes|Article1}}`
+
+|
+
+[![Page d’aide sur la
+paronymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Paronymie "Aide:Paronymie")
+
+Cet article possède un [paronyme](/wiki/Paronymie "Paronymie"), voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Voir paronymes|Article1|pluriel=oui}}`
+
+|
+
+[![Page d’aide sur la
+paronymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Paronymie "Aide:Paronymie")
+
+Cet article possède des [paronymes](/wiki/Paronymie "Paronymie"), voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Voir paronymes|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur la
+paronymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Paronymie "Aide:Paronymie")
+
+Cet article possède des [paronymes](/wiki/Paronymie "Paronymie"), voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+Confusion |  | [{{Confusion}}](/wiki/Mod%C3%A8le:Confusion "Modèle:Confusion")  
+(maximum 10 pages) | | **Pour éviter une confusion avec un ou plusieurs autres
+articles.**  
+---  
+  
+`{{Confusion|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Ne doit pas être confondu avec
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Confusion|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Ne doit pas être confondu avec
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") ou
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+`{{Confusion|texte=Ne doit pas être confondu avec l'[[article1]], situé au
+Pays.}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Ne doit pas être confondu avec
+l'[article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1
+\(page inexistante\)"), situé au Pays.  
+  
+[{{Redirect confusion}}](/wiki/Mod%C3%A8le:Redirect_confusion "Modèle:Redirect
+confusion")  
+(maximum 9 pages) | | **Message de redirection combiné avec un message de
+confusion avec lien vers un ou plusieurs autres articles.**  
+---  
+  
+`{{Redirect confusion|Terme1|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Ne pas confondre avec
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Redirect confusion|Terme1|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Ne pas confondre avec
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") ni
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+`{{Redirect confusion|Terme1|texte=Ne doit pas être confondu avec
+l'[[article1]], situé au Pays.}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Ne doit pas être confondu avec
+l'[article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1
+\(page inexistante\)"), situé au Pays.  
+  
+Avertir qu'un terme redirige sur la page |  |
+[{{Redirect}}](/wiki/Mod%C3%A8le:Redirect "Modèle:Redirect")  
+(1 redirection, maximum 9 pages) | | **Message de redirection depuis un terme,
+avec renvoi vers une ou plusieurs pages d'homonymie/articles ; si aucune page
+n'est spécifiée avec le paramètre `homonymie=`, rajoute `(homonymie)` au titre
+de l'article.**  
+---  
+  
+`{{Redirect|Terme1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour les autres significations, voir [Terme1
+(homonymie)](/w/index.php?title=Terme1_\(homonymie\)&action=edit&redlink=1
+"Terme1 \(homonymie\) \(page inexistante\)").  
+  
+`{{Redirect|Terme1|Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour les autres significations, voir [Terme1
+(homonymie)](/w/index.php?title=Terme1_\(homonymie\)&action=edit&redlink=1
+"Terme1 \(homonymie\) \(page inexistante\)") et
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Redirect|Terme1|homonymie=Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour les autres significations, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Redirect|Terme1|homonymie=Page1|Page2|Page3}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour les autres significations, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)"), [Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2
+\(page inexistante\)") et
+[Page3](/w/index.php?title=Page3&action=edit&redlink=1 "Page3 \(page
+inexistante\)").  
+  
+`{{Redirect|Terme1|homonymie=Page1|autres=texte libre}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour texte libre, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+[{{Redirect2}}](/wiki/Mod%C3%A8le:Redirect2 "Modèle:Redirect2")  
+(2 redirections, maximum 8 pages) | | **Message de redirection depuis deux
+termes, avec renvoi vers une ou plusieurs pages d'homonymie/articles ; si
+aucune page n'est spécifiée avec le paramètre `homonymie=`, rajoute
+`(homonymie)` au titre de l'article.**  
+---  
+  
+`{{Redirect2|Terme1|Terme2}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » et « Terme2 » redirigent ici. Pour les autres significations, voir
+[Terme1
+(homonymie)](/w/index.php?title=Terme1_\(homonymie\)&action=edit&redlink=1
+"Terme1 \(homonymie\) \(page inexistante\)").  
+  
+`{{Redirect2|Terme1|Terme2|Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » et « Terme2 » redirigent ici. Pour les autres significations, voir
+[Terme1
+(homonymie)](/w/index.php?title=Terme1_\(homonymie\)&action=edit&redlink=1
+"Terme1 \(homonymie\) \(page inexistante\)") et
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Redirect2|Terme1|Terme2|homonymie=Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » et « Terme2 » redirigent ici. Pour les autres significations, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Redirect2|Terme1|Terme2|homonymie=Page1|Page2|Page3}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » et « Terme2 » redirigent ici. Pour les autres significations, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)"), [Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2
+\(page inexistante\)") et
+[Page3](/w/index.php?title=Page3&action=edit&redlink=1 "Page3 \(page
+inexistante\)").  
+  
+`{{Redirect2|Terme1|Terme2|autres=texte libre|homonymie=Page1|Page2|Page3}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » et « Terme2 » redirigent ici. Pour texte libre, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)"), [Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2
+\(page inexistante\)") et
+[Page3](/w/index.php?title=Page3&action=edit&redlink=1 "Page3 \(page
+inexistante\)").  
+  
+[{{Redirect3}}](/wiki/Mod%C3%A8le:Redirect3 "Modèle:Redirect3")  
+(3 redirections, maximum 7 pages) | | **Message de redirection depuis trois
+termes, avec renvoi vers une ou plusieurs pages d'homonymie/articles ; si
+aucune page n'est spécifiée avec le paramètre `homonymie=`, rajoute
+`(homonymie)` au titre de l'article.**  
+---  
+  
+`{{Redirect3|Terme1|Terme2|Terme3}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 », « Terme2 » et « Terme3 » redirigent ici. Pour les autres
+significations, voir [Terme1
+(homonymie)](/w/index.php?title=Terme1_\(homonymie\)&action=edit&redlink=1
+"Terme1 \(homonymie\) \(page inexistante\)").  
+  
+`{{Redirect3|Terme1|Terme2|Terme3|Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 », « Terme2 » et « Terme3 » redirigent ici. Pour les autres
+significations, voir [Terme1
+(homonymie)](/w/index.php?title=Terme1_\(homonymie\)&action=edit&redlink=1
+"Terme1 \(homonymie\) \(page inexistante\)") et
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Redirect3|Terme1|Terme2|Terme3|homonymie=Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 », « Terme2 » et « Terme3 » redirigent ici. Pour les autres
+significations, voir [Page1](/w/index.php?title=Page1&action=edit&redlink=1
+"Page1 \(page inexistante\)").  
+  
+`{{Redirect3|Terme1|Terme2|Terme3|homonymie=Page1|Page2|Page3}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 », « Terme2 » et « Terme3 » redirigent ici. Pour les autres
+significations, voir [Page1](/w/index.php?title=Page1&action=edit&redlink=1
+"Page1 \(page inexistante\)"),
+[Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2 \(page
+inexistante\)") et [Page3](/w/index.php?title=Page3&action=edit&redlink=1
+"Page3 \(page inexistante\)").  
+  
+`{{Redirect3|Terme1|Terme2|Terme3|autres=texte
+libre|homonymie=Page1|Page2|Page3}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 », « Terme2 » et « Terme3 » redirigent ici. Pour texte libre, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)"), [Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2
+\(page inexistante\)") et
+[Page3](/w/index.php?title=Page3&action=edit&redlink=1 "Page3 \(page
+inexistante\)").  
+  
+[{{Redirect5}}](/wiki/Mod%C3%A8le:Redirect5 "Modèle:Redirect5")  
+(1 redirection, maximum 2 pages, avec texte libre) | | **Message de
+redirection depuis un terme, avec renvoi vers une ou deux pages
+d'homonymie/articles, avec texte libre pour chaque renvoi ; si aucune page
+n'est spécifiée avec le paramètre `homonymie=`, rajoute `(homonymie)` au titre
+de l'article.**  
+---  
+  
+`{{Redirect5|Terme1|texte libre 1|Page1}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour texte libre 1, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Redirect5|Terme1|texte libre 1|Page1|texte libre2|Page2}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour texte libre 1, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)"). Pour texte libre2, voir
+[Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2 \(page
+inexistante\)").  
+  
+`{{Redirect5|Terme1|texte libre 1|Page1||Page2}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Terme1 » redirige ici. Pour texte libre 1, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)"). Pour les autres significations, voir
+[Page2](/w/index.php?title=Page2&action=edit&redlink=1 "Page2 \(page
+inexistante\)").  
+  
+[{{Redirect homophones}}](/wiki/Mod%C3%A8le:Redirect_homophones
+"Modèle:Redirect homophones")  
+(maximum 9 pages) | | **Message de redirection avec renvoi vers un ou
+plusieurs autres articles homophones.**  
+---  
+  
+`{{Redirect homophones|Terme1|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Pour l’article homophone, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Redirect homophones|Terme1|Article1|pluriel=oui}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Pour les articles homophones, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Redirect homophones|Terme1|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Pour les articles homophones, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+[{{Redirect confusion}}](/wiki/Mod%C3%A8le:Redirect_confusion "Modèle:Redirect
+confusion")  
+(maximum 9 pages) | | **Message de redirection combiné avec un message de
+confusion avec lien vers un ou plusieurs autres articles.**  
+---  
+  
+`{{Redirect confusion|Terme1|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Ne pas confondre avec
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Redirect confusion|Terme1|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Ne pas confondre avec
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") ni
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+`{{Redirect confusion|Terme1|texte=Ne doit pas être confondu avec
+l'[[article1]], situé au Pays.}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+« Terme1 » redirige ici. Ne doit pas être confondu avec
+l'[article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1
+\(page inexistante\)"), situé au Pays.  
+  
+Modèles spécialisés et divers |  | [{{Voir
+internationalisation}}](/wiki/Mod%C3%A8le:Voir_internationalisation
+"Modèle:Voir internationalisation")  
+(1 page) | | **À utiliser sur un article détaillé concernant un sujet dans un
+pays spécifique, permet de lier vers un article plus général ou une page
+d'homonymie concernant le même sujet dans d'autres pays.**  
+---  
+  
+`{{Voir internationalisation|ArticleA}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres articles nationaux ou selon les autres juridictions, voir
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+`{{Voir internationalisation|ArticleA|texte personalisé}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour texte personalisé, voir
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+[{{Voir famille}}](/wiki/Mod%C3%A8le:Voir_famille "Modèle:Voir famille")  
+(1 page) | | **Lien vers l'article concernant les autres membres d'une même
+famille.**  
+---  
+  
+`{{Voir famille|ArticleA}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres membres de la famille, voir
+[ArticleA](/w/index.php?title=ArticleA&action=edit&redlink=1 "ArticleA \(page
+inexistante\)").  
+  
+`{{Voir famille|mef=[[Généalogie des ArticleA|ArticleA]]}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres membres de la famille, voir
+[ArticleA](/w/index.php?title=G%C3%A9n%C3%A9alogie_des_ArticleA&action=edit&redlink=1
+"Généalogie des ArticleA \(page inexistante\)").  
+  
+[{{Voir familles}}](/wiki/Mod%C3%A8le:Voir_familles "Modèle:Voir familles")  
+(maximum 3 pages) | | **Lien vers les articles concernant les autres membres
+de plusieurs familles.**  
+---  
+  
+`{{Voir familles|Article1|Article2|Article3}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres membres des familles, voir :
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+[{{Voir famille et homonyme}}](/wiki/Mod%C3%A8le:Voir_famille_et_homonyme
+"Modèle:Voir famille et homonyme")  
+(maximum 5 pages) | | **Lien vers l'article de la famille pour les autres
+membres + lien vers les articles homonymes.**  
+---  
+  
+`{{Voir famille et homonyme|fam=[[Généalogie des Tudors|Tudors]]|Henri|Henri
+VII}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres membres de cette famille, voir :
+[Tudors](/wiki/G%C3%A9n%C3%A9alogie_des_Tudors "Généalogie des Tudors") et
+pour les homonymes, voir [Henri](/wiki/Henri "Henri") et [Henri
+VII](/wiki/Henri_VII "Henri VII").  
+  
+[{{Homonymie-nombre}}](/wiki/Mod%C3%A8le:Homonymie-nombre "Modèle:Homonymie-
+nombre")  
+(2 liens prédéfinis + 1 lien libre) | | **Modèle à utiliser sur les articles
+d'années, établi automatiquement un lien vers l'année av. J.C. et un lien vers
+la page d'homonymie de nombre correspondant à l'année. Si le nombre n'est pas
+indiqué, le titre de la page sera utilisé.**  
+---  
+  
+`{{Homonymie-nombre}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+Cette page concerne l'année **21** du [calendrier
+julien](/wiki/Calendrier_julien "Calendrier julien"). Pour l'année 21 av.
+J.-C., voir [21 av. J.-C.](/wiki/21_av._J.-C. "21 av. J.-C."). Pour le nombre
+21, voir [21 (nombre)](/wiki/21_\(nombre\) "21 \(nombre\)").  
+  
+`{{Homonymie-nombre|nombre=21}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+Cette page concerne l'année **21** du [calendrier
+julien](/wiki/Calendrier_julien "Calendrier julien"). Pour l'année 21 av.
+J.-C., voir [21 av. J.-C.](/wiki/21_av._J.-C. "21 av. J.-C."). Pour le nombre
+21, voir [21 (nombre)](/wiki/21_\(nombre\) "21 \(nombre\)").  
+  
+`{{Homonymie-nombre|nombre=21|pour=le film|voir=Las Vegas 21}}`
+
+|
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+Cette page concerne l'année **21** du [calendrier
+julien](/wiki/Calendrier_julien "Calendrier julien"). Pour l'année 21 av.
+J.-C., voir [21 av. J.-C.](/wiki/21_av._J.-C. "21 av. J.-C."). Pour le nombre
+21, voir [21 (nombre)](/wiki/21_\(nombre\) "21 \(nombre\)"). Pour le film,
+voir [Las Vegas 21](/wiki/Las_Vegas_21 "Las Vegas 21").  
+  
+[{{Voir cathédrales}}](/wiki/Mod%C3%A8le:Voir_cath%C3%A9drales "Modèle:Voir
+cathédrales") | | **Modèle d'homonymie de cathédrales, avec de nombreuses
+options de configuration, permettant d'afficher un bandeau d'homonymie combiné
+avec un bandeau de confusion. Ce modèle sophistiqué vérifie automatiquement
+l'existence d'articles homonymes, et affiche les bandeaux adéquats. Voir
+la[documentation du modèle](/wiki/Mod%C3%A8le:Voir_cath%C3%A9drales
+"Modèle:Voir cathédrales").**  
+---  
+  
+`{{Voir cathédrales|Saint-André|de Québec}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cette [cathédrale](/wiki/Cath%C3%A9drale "Cathédrale") ne doit pas être
+confondue avec une autre [cathédrale de
+Québec](/wiki/Liste_des_cath%C3%A9drales_de_Qu%C3%A9bec "Liste des cathédrales
+de Québec").  
+[![Page d'aide sur
+l'homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie") D’autres
+cathédrales portent le nom de [cathédrale Saint-
+André](/wiki/Cath%C3%A9drale_Saint-Andr%C3%A9 "Cathédrale Saint-André").  
+  
+_D'autres possibilités et options disponibles sur la **[documentation du
+modèle](/wiki/Mod%C3%A8le:Voir_cath%C3%A9drales "Modèle:Voir cathédrales")**._  
+  
+[{{Voir basiliques}}](/wiki/Mod%C3%A8le:Voir_basiliques "Modèle:Voir
+basiliques") | | **Modèle d'homonymie de basiliques, avec de nombreuses
+options de configuration, permettant d'afficher un bandeau d'homonymie combiné
+avec un bandeau de confusion. Ce modèle sophistiqué vérifie automatiquement
+l'existence d'articles homonymes, et affiche les bandeaux adéquats. Voir
+la[documentation du modèle](/wiki/Mod%C3%A8le:Voir_basiliques "Modèle:Voir
+basiliques").**  
+---  
+  
+`{{Voir basiliques|Notre-Dame|de Québec}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cette [basilique](/wiki/Basilique_\(christianisme\) "Basilique
+\(christianisme\)") n’est pas la seule [basilique Notre-
+Dame](/wiki/Basilique_Notre-Dame "Basilique Notre-Dame").  
+  
+_D'autres possibilités et options disponibles sur la **[documentation du
+modèle](/wiki/Mod%C3%A8le:Voir_basiliques "Modèle:Voir basiliques")**._  
+  
+[{{Autres navires}}](/wiki/Mod%C3%A8le:Autres_navires "Modèle:Autres navires")  
+(maximum 2 pages) | | **Modèle d'homonymie pour navire ; si aucune page n'est
+spécifiée, établit un lien vers le nom de la page actuelle, sans les
+parenthèses. Assurez-vous dans ce cas que le lien pointe bien vers une page
+d'homonymie.**  
+---  
+  
+`{{Autres navires}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres navires du même nom, voir [Homonymie](/wiki/Homonymie
+"Homonymie").  
+  
+`{{Autres navires|Page1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres navires du même nom, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)").  
+  
+`{{Autres navires|Page1|Page2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres navires du même nom, voir
+[Page1](/w/index.php?title=Page1&action=edit&redlink=1 "Page1 \(page
+inexistante\)") et [Page2](/w/index.php?title=Page2&action=edit&redlink=1
+"Page2 \(page inexistante\)").  
+  
+[{{Autres classes}}](/wiki/Mod%C3%A8le:Autres_classes "Modèle:Autres classes")  
+(maximum 2 pages) | | **Modèle d'homonymie pour classe de navire.**  
+---  
+  
+`{{Autres classes|Article1}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres classes de navires du même nom, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Autres classes|Article1|Article2}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les autres classes de navires du même nom, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)") et
+[Article2](/w/index.php?title=Article2&action=edit&redlink=1 "Article2 \(page
+inexistante\)").  
+  
+[{{Article général}}](/wiki/Mod%C3%A8le:Article_g%C3%A9n%C3%A9ral
+"Modèle:Article général")  
+(maximum 10 pages) | | **Lien vers l'article général concernant un sujet, à
+utiliser sur un article détaillant seulement une partie du sujet.**  
+---  
+  
+`{{Article général|Article1}}`
+
+|
+
+Pour un article plus général, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)").  
+  
+`{{Article général|Article1|Article2|Article3}}`
+
+|
+
+Pour des articles plus généraux, voir
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+[{{Page annexe}}](/wiki/Mod%C3%A8le:Page_annexe "Modèle:Page annexe")  
+(maximum 5 pages) | | **Lien vers l'article général concernant un sujet, à
+utiliser sur une page annexe au sujet.**  
+---  
+  
+`{{Page annexe|Article1}}`
+
+|
+
+![Page d'aide sur
+l'homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nuvola_kdict_glass.svg/30px-
+Nuvola_kdict_glass.svg.png)
+
+Cette page est une annexe de l'article «
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)") ».  
+  
+`{{Page annexe|Article1|Article2|Article3}}`
+
+|
+
+![Page d'aide sur
+l'homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nuvola_kdict_glass.svg/30px-
+Nuvola_kdict_glass.svg.png)
+
+Cette page est une annexe aux articles
+[Article1](/w/index.php?title=Article1&action=edit&redlink=1 "Article1 \(page
+inexistante\)"), [Article2](/w/index.php?title=Article2&action=edit&redlink=1
+"Article2 \(page inexistante\)") et
+[Article3](/w/index.php?title=Article3&action=edit&redlink=1 "Article3 \(page
+inexistante\)").  
+  
+Et si rien de tout cela ne convient... |  | [{{Bandeau
+homonymie}}](/wiki/Mod%C3%A8le:Bandeau_homonymie "Modèle:Bandeau homonymie")  
+(texte libre) | | **Permet d'insérer un texte libre, quand aucun des modèles
+disponibles ne convient.**  
+---  
+  
+`{{Bandeau homonymie|Texte libre.}}`
+
+|
+
+Texte libre.  
+  
+`{{Bandeau homonymie|Texte libre.|icône=homonymie}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Texte libre.  
+  
+`{{Bandeau homonymie|Texte libre.|icône=paronymie}}`
+
+|
+
+[![Page d’aide sur la
+paronymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Paronymie "Aide:Paronymie")
+
+Texte libre.  
+  
+`{{Bandeau homonymie|Texte libre.|icône=homophonie}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Texte libre.  
+  
+`{{Bandeau homonymie|Texte libre.|icône=confusion}}`
+
+|
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Texte libre.  
+  
+  
+Sur la page d'homonymie, ne mettre ni bandeaux de portails, ni bandeaux
+d'ébauche, ni catégorie (les catégories de la page sont gérées par le bandeau
+d'homonymie).
+
+Si un des articles éclipse suffisamment les autres, [{{Voir
+homonymes}}](/wiki/Mod%C3%A8le:Voir_homonymes "Modèle:Voir homonymes") est
+ajouté au sommet de cet article (qui garde alors le titre « Jean-Baptiste
+Noirot ») et créer une page d'homonymie sous ce nom : « Jean-Baptiste Noirot
+(homonymie) ». Il est parfois délicat de déterminer si un sujet éclipse
+suffisamment les autres. Quelques pistes :
+
+  1. L'étude quantitative des [pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es "Spécial:Pages liées") à l'article (cliquer sur « pages liées » dans la boîte _Outils_ de la colonne à gauche) peut fournir un critère pratique, mais si l'article en question possède une ou des palettes de navigation, le compte de pages liées peut être largement surestimé.
+  2. On peut aussi privilégier le sens originel d'un mot par rapport à ses dérivés ([souris](/wiki/Souris "Souris") et [souris (informatique)](/wiki/Souris_\(informatique\) "Souris \(informatique\)")).
+  3. Des statistiques des visiteurs peuvent aider à interpréter la popularité des différents articles homonymes. [Dès le 1 juillet 2015](https://tools.wmflabs.org/pageviews/) et [un outil plus ancien en anglais](http://stats.grok.se) peuvent les fournir.
+
+## Comment différencier le titre de plusieurs articles homonymes
+
+Article connexe : [Wikipédia:Conventions sur les
+titres](/wiki/Wikip%C3%A9dia:Conventions_sur_les_titres "Wikipédia:Conventions
+sur les titres").
+
+Le titre doit être la forme longue du sujet
+
+    
+    L'[abréviation](/wiki/Abr%C3%A9viation "Abréviation") peut alors être elle-même une page d'homonymie pour des articles non homonymes. Ainsi « [FFF](/wiki/FFF "FFF") » est une page d'homonymie listant : 
+
+  * la [Fédération française de football](/wiki/F%C3%A9d%C3%A9ration_fran%C3%A7aise_de_football "Fédération française de football") ;
+  * la [Fédération française de fonck](/wiki/F%C3%A9d%C3%A9ration_fran%C3%A7aise_de_fonck "Fédération française de fonck").
+
+    Dans certains cas, une des significations de l'abréviation éclipse les autres, par exemple « [LCI](/wiki/LCI "LCI") » qui désigne couramment [La Chaîne Info](/wiki/La_Cha%C3%AEne_Info "La Chaîne Info"). Il faut alors [rediriger](/wiki/Aide:Redirection "Aide:Redirection") la page du sigle ([LCI](/wiki/LCI "LCI")) vers l'article ([La Chaîne Info](/wiki/La_Cha%C3%AEne_Info "La Chaîne Info")), et créer la page [LCI (homonymie)](/wiki/LCI_\(homonymie\) "LCI \(homonymie\)") pour mentionner les autres significations.
+
+On crée une page d'homonymie pour certains mots utilisés dans le titre de
+nombreux articles
+
+    
+    Ainsi « [zone](/wiki/Zone "Zone") » est une page d'homonymie listant : 
+
+  * la [zone euro](/wiki/Zone_euro "Zone euro") ;
+  * la [zone franc](/wiki/Zone_franc "Zone franc") ;
+  * la [Zone 51](/wiki/Zone_51 "Zone 51") ;
+  * etc.
+
+    Dans ces cas, l'usage de parenthèses dans le titre violerait les conventions de dénomination.
+
+Lorsque le titre naturel et complet d'un article entre en collision avec le
+titre d'un autre article, l'usage d'une indication différenciatrice entre
+parenthèses se justifie
+
+    
+    Par exemple avec [Mercure (mythologie)](/wiki/Mercure_\(mythologie\) "Mercure \(mythologie\)"), [Mercure (planète)](/wiki/Mercure_\(plan%C3%A8te\) "Mercure \(planète\)") et [Mercure (chimie)](/wiki/Mercure_\(chimie\) "Mercure \(chimie\)").
+    L'indication entre parenthèses fait souvent partie d'une série, comme [Mercure (planète)](/wiki/Mercure_\(plan%C3%A8te\) "Mercure \(planète\)"), [Vénus (planète)](/wiki/V%C3%A9nus_\(plan%C3%A8te\) "Vénus \(planète\)"), [Mars (planète)](/wiki/Mars_\(plan%C3%A8te\) "Mars \(planète\)"), [Jupiter (planète)](/wiki/Jupiter_\(plan%C3%A8te\) "Jupiter \(planète\)"), etc.
+    Les parenthèses d'un titre ne sont pas censées apparaître dans les articles : à la lecture, le contexte de la phrase doit permettre de déterminer vers quel sens du mot dirige le lien.
+
+## Erreurs courantes
+
+Article connexe : [Utilisateur:ParaBenT/Titre mal formé avec
+parenthèses](/wiki/Utilisateur:ParaBenT/Titre_mal_form%C3%A9_avec_parenth%C3%A8ses
+"Utilisateur:ParaBenT/Titre mal formé avec parenthèses").
+
+### Usage immodéré des parenthèses
+
+Le titre doit précisément identifier le sujet sans utiliser de parenthèses.
+Celles-ci ne sont à utiliser qu'en dernier recours. Un article sur l'économie
+du Mexique doit s'appeler [Économie du Mexique](/wiki/%C3%89conomie_du_Mexique
+"Économie du Mexique"), pas [Économie
+(Mexique)](/w/index.php?title=%C3%89conomie_\(Mexique\)&action=edit&redlink=1
+"Économie \(Mexique\) \(page inexistante\)") ni [Mexique
+(économie)](/w/index.php?title=Mexique_\(%C3%A9conomie\)&action=edit&redlink=1
+"Mexique \(économie\) \(page inexistante\)").
+
+### Virgule au lieu des parenthèses
+
+L'usage d'une virgule au lieu de parenthèses est utilisé sur la [Wikipédia
+anglophone](https://en.wikipedia.org/wiki/ "en:") pour les localités et les
+personnes détenant un titre de noblesse. Cette forme est proscrite sur la
+Wikipédia francophone. On aura ainsi :
+
+  * [Laval (Québec)](/wiki/Laval_\(Qu%C3%A9bec\) "Laval \(Québec\)") et non [Laval, Québec](https://en.wikipedia.org/wiki/Laval,_Quebec "en:Laval, Quebec") ;
+  * [John Churchill (1er duc de Marlborough)](/wiki/John_Churchill_\(1er_duc_de_Marlborough\) "John Churchill \(1er duc de Marlborough\)") et non [John Churchill, 1er duc de Marlborough](https://en.wikipedia.org/wiki/John_Churchill,_1st_Duke_of_Marlborough "en:John Churchill, 1st Duke of Marlborough").
+
+### Article traitant de plusieurs sujets différents
+
+Parfois une page d'homonymie rassemble en fait de nombreux mini-articles
+traitant succinctement de plusieurs sujets homonymes. Cette confusion rend
+généralement impossible l'établissement de liens [interwikis](/wiki/Interwiki
+"Interwiki") entre différentes langues et fait appartenir la page à de
+nombreuses [Catégories](/wiki/Aide:Cat%C3%A9gorie "Aide:Catégorie") sans
+relation. Dans un tel cas, il est recommandé d'effectuer une
+[scission](/wiki/Aide:Scission "Aide:Scission") en créant des articles
+différents pour chaque entrée de la page dont le sujet est admissible. Un
+transfert d'une partie de l'historique de la page d'homonymie peut être
+nécessaire pour respecter la [GFDL](/wiki/Licence_de_documentation_libre_GNU
+"Licence de documentation libre GNU").
+
+### Lien vers une page d'homonymie
+
+Article détaillé : [Projet:Liens vers les pages
+d'homonymie](/wiki/Projet:Liens_vers_les_pages_d%27homonymie "Projet:Liens
+vers les pages d'homonymie").
+
+Sauf cas particuliers, le corps des articles ne doit pas contenir de liens
+vers des pages d'homonymie. Les liens doivent pointer directement vers le bon
+article, et ce même si ce dernier n'existe pas (dans ce cas, le lien est
+rouge).
+
+Pour faire un lien explicite vers une page d'homonymie, il y a plusieurs
+solutions :
+
+  * [{{Lien vers une page d'homonymie |Mars}}](/wiki/Mod%C3%A8le:Lien_vers_une_page_d%27homonymie "Modèle:Lien vers une page d'homonymie") donne : [Mars](/wiki/Mars "Mars") [![Page d'aide sur l'homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/15px-Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie").
+  * [{{Page h|Mars}}](/wiki/Mod%C3%A8le:Page_h "Modèle:Page h") donne : [Mars](/wiki/Mars "Mars") [![Ce lien renvoie vers une page d'homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/15px-Disambig_colour.svg.png)](/wiki/Mars "Mars").
+  * [{{Page h'|Mars}}](/wiki/Mod%C3%A8le:Page_h%27 "Modèle:Page h'") donne : [Mars](/wiki/Mars "Mars") (pour conserver le rendu normal tout en indiquant l'intention de faire un lien vers une page d'homonymie)
+
+Le modèle [{{Lien vers une page d'homonymie
+}}](/wiki/Mod%C3%A8le:Lien_vers_une_page_d%27homonymie "Modèle:Lien vers une
+page d'homonymie") est à utiliser pour signaler un lien à corriger. Les
+modèles [{{Page h}}](/wiki/Mod%C3%A8le:Page_h "Modèle:Page h") et [{{Page
+h'}}](/wiki/Mod%C3%A8le:Page_h%27 "Modèle:Page h'") sont à utiliser pour un
+lien volontaire vers une page d'homonymie, et non parce qu'il n’existe pas de
+lien plus adapté.
+
+### Lien interlangue (ou « interwiki) » sur une page d'homonymie vers un
+article
+
+Les « [liens interlangues sur la gauche de la
+page](/wiki/Aide:Lien_interlangue#Liens_interlangues_à_gauche_de_la_page
+"Aide:Lien interlangue") » (faisant partie des [métadonnées d'une
+page](/wiki/Wikip%C3%A9dia:Conventions_de_plan#Métadonnées
+"Wikipédia:Conventions de plan") d'homonymie) ne devraient pointer que vers
+les pages d'homonymie équivalentes dans d'autres langues, et non pas vers l'un
+des nombreux sujets différents de la liste.
+
+Maintenant ces liens interlangues sont gérés par
+[Wikidata](/wiki/Wikip%C3%A9dia:Wikidata "Wikipédia:Wikidata") ; se reporter
+donc à [la section
+dédiée](/wiki/Wikip%C3%A9dia:Wikidata#Liens_interlangues_ou_interwikis_\(phase_1\)
+"Wikipédia:Wikidata") pour plus de précisions sur les nouvelles procédures.
+
+### Homonymies bifides
+
+Dans le cas où il n'existe que deux homonymes et qu'un des deux articles
+éclipse manifestement l'autre, il est préférable de ne pas créer de page
+d'homonymie et de lier directement les deux articles par le modèle
+[{{autre}}](/wiki/Mod%C3%A8le:Autre "Modèle:Autre") ou le modèle [{{voir
+homonyme}}](/wiki/Mod%C3%A8le:Voir_homonyme "Modèle:Voir homonyme"), ce qui
+évite de compliquer inutilement la navigation.
+
+## Homonymies d'anthroponyme
+
+Il est souhaitable de rassembler l'ensemble des
+[anthroponymes](/wiki/Anthroponyme "Anthroponyme") dans un même paragraphe
+ayant pour titre "Anthroponymie" ; comme cela est souvent le cas pour tous les
+[toponymes](/wiki/Toponyme "Toponyme") qui sont rassemblés dans un paragraphe
+appelé "Toponymie". Il est souhaitable de les classer selon l'arborescence
+suivante. Voir l'exemple de [Gay](/wiki/Gay "Gay").
+
+### Arborescence des homonymies d'anthroponyme
+
+_**Rappel**_ : quatre catégories existent pour classer les pages d'homonymies
+liées aux personnes :
+
+  1. **[Catégorie:Homonymie de prénom](/wiki/Cat%C3%A9gorie:Homonymie_de_pr%C3%A9nom "Catégorie:Homonymie de prénom")** , pour les pages ne spécifiant **que le prénom** ( _Ex : [Adèle](/wiki/Ad%C3%A8le "Adèle"),..._). Cette catégorie inclut aussi les sous-catégories : 
+    1. [Catégorie:Homonymie de saints chrétiens](/wiki/Cat%C3%A9gorie:Homonymie_de_saints_chr%C3%A9tiens "Catégorie:Homonymie de saints chrétiens")
+    2. [Catégorie:Homonymie dynastique](/wiki/Cat%C3%A9gorie:Homonymie_dynastique "Catégorie:Homonymie dynastique"), pour les pages où les personnes homonymes portent un _titre lié à une dynastie_ ( _Ex : [Louis IV](/wiki/Louis_IV "Louis IV"), [Catherine de Russie](/wiki/Catherine_de_Russie "Catherine de Russie")..._)
+  2. **[Catégorie:Homonymie de nom de famille](/wiki/Cat%C3%A9gorie:Homonymie_de_nom_de_famille "Catégorie:Homonymie de nom de famille")** , pour les pages ne spécifiant **que le nom de famille**. Cette catégorie inclut aussi les sous-catégories : 
+    1. [Catégorie:Homonymie de patronyme](/wiki/Cat%C3%A9gorie:Homonymie_de_patronyme "Catégorie:Homonymie de patronyme"), pour les pages ne spécifiant _que le patronyme_ ( _Ex : [Washington](/wiki/Washington "Washington"), [Gagnon](/wiki/Gagnon "Gagnon"),..._). Cette catégorie inclut aussi les sous-catégories d'homonymie de patronyme classées par pays, par région...
+    2. [Catégorie:Homonymie de matronyme](/wiki/Cat%C3%A9gorie:Homonymie_de_matronyme "Catégorie:Homonymie de matronyme"), pour les pages ne spécifiant _que le matronyme_
+  3. **[Catégorie:Homonymie de surnom](/wiki/Cat%C3%A9gorie:Homonymie_de_surnom "Catégorie:Homonymie de surnom")** , pour les pages ne spécifiant **que le surnom** ( _Ex : Gay (surnom)..._)
+  4. **[Catégorie:Homonymie de personnes](/wiki/Cat%C3%A9gorie:Homonymie_de_personnes "Catégorie:Homonymie de personnes")** , pour les pages d'homonymie spécifiant **prénom et nom** ( _Ex : [Olivia Williams](/wiki/Olivia_Williams "Olivia Williams"), [Andrea Tafi](/wiki/Andrea_Tafi "Andrea Tafi"),..._). Cette catégorie inclut aussi les sous-catégories : 
+    1. [Catégorie:Homonymie de pseudonyme](/wiki/Cat%C3%A9gorie:Homonymie_de_pseudonyme "Catégorie:Homonymie de pseudonyme"), pour les pages ne spécifiant _que le pseudonyme_ ( _Ex : [Angelo](/wiki/Angelo "Angelo")..._)
+    2. [Catégorie:Homonymie de nom romain](/wiki/Cat%C3%A9gorie:Homonymie_de_nom_romain "Catégorie:Homonymie de nom romain")
+
+Choisissez la catégorie la plus adaptée.
+
+**Voir aussi**
+
+Aide détaillée : Aide:Homonymie.
+
+Aide détaillée : [Projet:Anthroponymie/Débat sur les pages
+d'homonymie](/wiki/Projet:Anthroponymie/D%C3%A9bat_sur_les_pages_d%27homonymie
+"Projet:Anthroponymie/Débat sur les pages d'homonymie").
+
+### Nom de famille
+
+Il est souhaitable de créer une page d'homonymie pour des personnes portant le
+même nom de famille.
+
+Dans le cas où il existerait un article sur ce nom de famille, il est
+souhaitable d'inclure ces homonymes dans cet article sur le nom de famille et
+non dans la page d'homonymie générale. Cela afin de :
+
+  * simplifier la page d'homonymie générale ;
+  * aligner la présentation sur celle de Wikipédia en anglais ;
+  * suivre les recommendations du [portail de l'anthroponymie](/wiki/Portail:Anthroponymie "Portail:Anthroponymie").
+
+Dans ce cas, cet article est rattaché au portail de l'anthroponymie. Par
+exemple : [Gay (patronyme)](/wiki/Gay_\(patronyme\) "Gay \(patronyme\)").
+
+### Prénom
+
+Il n'est pas souhaitable de créer une page d'homonymie pour des personnes
+portant le même prénom.
+
+Un prénom en commun ne constituant, de toute façon, pas une homonymie et la
+liste étant ou nécessairement subjective ou potentiellement trop longue. Dans
+ce cas, il vaut mieux utiliser, sur la page, le modèle
+[{{prénom}}](/wiki/Mod%C3%A8le:Pr%C3%A9nom "Modèle:Prénom") dont la syntaxe
+est la suivante, le prénom _Pierre_ étant ici cité à titre d'exemple :
+{{prénom|Pierre}}
+
+Rendu sur la page pour Pierre : _Pour les articles sur les personnes portant
+ce prénom, consulter la[liste générée
+automatiquement](/wiki/Sp%C3%A9cial:Index/Pierre "Spécial:Index/Pierre")._  
+
+Dans le cas où il existerait un article sur ce prénom, il est souhaitable
+d'inclure ces homonymes dans cet article sur le prénom et non dans la page
+d'homonymie générale. Cela afin de :
+
+  * simplifier la page d'homonymie générale ;
+  * aligner la présentation sur celle de Wikipédia en anglais ;
+  * suivre les recommendations du portail de l'anthroponymie.
+
+Dans ce cas, cet article est rattaché au portail de l'anthroponymie. Par
+exemple : [Gay (prénom)](/wiki/Gay_\(pr%C3%A9nom\) "Gay \(prénom\)").
+
+### Mention à ajouter
+
+Dans les cas précédents, on ajoute dans l'article d'homonymie général, sous
+les liens redirectionnels des articles d'anthroponyme, la mention :
+
+[![Searchtool-80%.png](//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Searchtool-80%25.png/15px-
+Searchtool-80%25.png)](/wiki/Fichier:Searchtool-80%25.png) | Les personnes
+réelles et les personnages fictifs portant un prénom, un nom de famille, ou un
+anthroponyme homonyme se trouvent directement dans les articles détaillés
+correspondants. [En savoir plus](/wiki/Projet:Anthroponymie/Sondages
+"Projet:Anthroponymie/Sondages")  
+---|---  
+  
+Voir l'exemple de [Gay](/wiki/Gay "Gay").
+
+## D'autres outils
+
+  * [Wiki ViewStats](https://iw.toolforge.org/wikiviewstats "toollabs:wikiviewstats"), un outil de [Tool Labs](https://wikitech.wikimedia.org/wiki/ "wikitech:") qui affiche les statistiques de trafic de page, global et par langue / par project - avec le soutien d'homonymie. Par exemple : [ Mercure (page d'homonymie)](https://iw.toolforge.org/wikiviewstats/index.php%3Flang%3Dfr%26project%3D%26page%3DMercure "toollabs:wikiviewstats/index.php?lang=fr&project=&page=Mercure") ou [ Mousse* (toutes les pages commençant par mousse)](https://iw.toolforge.org/wikiviewstats/index.php%3Flang%3Dfr%26project%3D%26page%3Dmousse* "toollabs:wikiviewstats/index.php?lang=fr&project=&page=mousse*")
+  * Les gadgets _[HomonymiesEnCouleur](/wiki/Aide:Homonymies_en_couleur "Aide:Homonymies en couleur")_ et _[verifHomon](/wiki/Aide:V%C3%A9rification_des_homonymies "Aide:Vérification des homonymies")_ permettent la coloration des liens vers des pages d'homonymie, dans les articles.
+
+## Voir aussi
+
+  * [Aide:Comment renommer une page](/wiki/Aide:Comment_renommer_une_page "Aide:Comment renommer une page")
+  * [Aide:Paronymie](/wiki/Aide:Paronymie "Aide:Paronymie")
+  * [Catégorie:Modèle d'homonymie](/wiki/Cat%C3%A9gorie:Mod%C3%A8le_d%27homonymie "Catégorie:Modèle d'homonymie")
+  * [Modèle:Confusion](/wiki/Mod%C3%A8le:Confusion "Modèle:Confusion")
+  * [Modèle:Voir homophones](/wiki/Mod%C3%A8le:Voir_homophones "Modèle:Voir homophones")
+  * [Projet:Liens vers les pages d'homonymie](/wiki/Projet:Liens_vers_les_pages_d%27homonymie "Projet:Liens vers les pages d'homonymie")
+  * [Projet:Remplissage des pages d'homonymie](/wiki/Projet:Remplissage_des_pages_d%27homonymie "Projet:Remplissage des pages d'homonymie")
+  * [Spécial:Pages d’homonymie](/wiki/Sp%C3%A9cial:DisambiguationPages "Spécial:DisambiguationPages")
+  * [Spécial:Pages menant vers des pages d’homonymie](/wiki/Sp%C3%A9cial:DisambiguationPageLinks "Spécial:DisambiguationPageLinks")
+  * [Wikipédia:Conventions sur les titres](/wiki/Wikip%C3%A9dia:Conventions_sur_les_titres "Wikipédia:Conventions sur les titres")
+  * [Wikipédia:Prise de décision/Nommage des articles homonymes](/wiki/Wikip%C3%A9dia:Prise_de_d%C3%A9cision/Nommage_des_articles_homonymes "Wikipédia:Prise de décision/Nommage des articles homonymes")
+  * (en) [Wikipedia:Disambiguation](https://en.wikipedia.org/wiki/Wikipedia:Disambiguation "en:Wikipedia:Disambiguation")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Aide:Homonymie&oldid=172642798](https://fr.wikipedia.org/w/index.php?title=Aide:Homonymie&oldid=172642798)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Aide de niveau débutant](/wiki/Cat%C3%A9gorie:Aide_de_niveau_d%C3%A9butant "Catégorie:Aide de niveau débutant")
+  * [Aide pour la consultation de Wikipédia](/wiki/Cat%C3%A9gorie:Aide_pour_la_consultation_de_Wikip%C3%A9dia "Catégorie:Aide pour la consultation de Wikipédia")
+  * [Aide:Homonymie](/wiki/Cat%C3%A9gorie:Aide:Homonymie "Catégorie:Aide:Homonymie")
+
+Catégorie cachée :
+
+  * [Page utilisant un sommaire limité](/wiki/Cat%C3%A9gorie:Page_utilisant_un_sommaire_limit%C3%A9 "Catégorie:Page utilisant un sommaire limité")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Aide:Homonymie "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Aide:Homonymie "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Aide:Homonymie&oldid=172642798 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Aide:Homonymie&action=info "Plus d’informations sur cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q22981376 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Aide%3AHomonymie)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Aide%3AHomonymie&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Aide:Homonymie&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [অসমীয়া](https://as.wikipedia.org/wiki/%E0%A6%B8%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A6%BC:%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A7%B0%E0%A7%8D%E0%A6%A5%E0%A6%A4%E0%A6%BE_%E0%A6%A6%E0%A7%82%E0%A7%B0%E0%A7%80%E0%A6%95%E0%A7%B0%E0%A6%A3 "সহায়:দ্ব্যৰ্থতা দূৰীকৰণ — assamais")
+  * [English](https://en.wikipedia.org/wiki/Help:Disambiguation "Help:Disambiguation — anglais")
+  * [Español](https://es.wikipedia.org/wiki/Ayuda:Desambiguaci%C3%B3n "Ayuda:Desambiguación — espagnol")
+  * [Galego](https://gl.wikipedia.org/wiki/Axuda:Hom%C3%B3nimos "Axuda:Homónimos — galicien")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE:%E0%A4%AC%E0%A4%B9%E0%A5%81%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A5%80 "सहायता:बहुविकल्पी — hindi")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Help:Doorverwijzen "Help:Doorverwijzen — néerlandais")
+  * [Occitan](https://oc.wikipedia.org/wiki/Ajuda:Omonimia "Ajuda:Omonimia — occitan")
+  * [ଓଡ଼ିଆ](https://or.wikipedia.org/wiki/%E0%AC%B8%E0%AC%B9%E0%AC%AF%E0%AD%8B%E0%AC%97:Disambiguation "ସହଯୋଗ:Disambiguation — odia")
+  * [Scots](https://sco.wikipedia.org/wiki/Help:Disambiguation "Help:Disambiguation — écossais")
+  * [سنڌي](https://sd.wikipedia.org/wiki/%D9%85%D8%AF%D8%AF:%D8%B3%D9%84%D8%AC%DA%BE%D8%A7%D8%A6%D9%BE "مدد:سلجھائپ — sindhi")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q22981376#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Aide%3AHomonymie "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Aide%3AHomonymie "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Aide](/wiki/Aide:Homonymie "Consulter la page d’aide \[c\]")
+  * [Discussion](/wiki/Discussion_aide:Homonymie "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Aide:Homonymie)
+  * [Voir le texte source](/w/index.php?title=Aide:Homonymie&action=edit "Cette page est protégée.
+Vous pouvez toutefois en visualiser la source. \[e\]")
+
+  * [Voir l’historique](/w/index.php?title=Aide:Homonymie&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 5 juillet 2020 à 13:32.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes").   
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Aide:Homonymie&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[Cf.]: Confer (reportez-vous à/comparez avec)
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+  *[1er]: Premier
+  *[(en)]: Langue : anglais
+

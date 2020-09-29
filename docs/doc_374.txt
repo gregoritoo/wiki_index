@@ -1,0 +1,1002 @@
+# Calcul stochastique
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Logo_proba_4.svg/45px-
+Logo_proba_4.svg.png)](/wiki/Fichier:Logo_proba_4.svg)
+
+**Cet article est une[ébauche](/wiki/Aide:%C3%89bauche "Aide:Ébauche")
+concernant les [probabilités](/wiki/Th%C3%A9orie_des_probabilit%C3%A9s
+"Théorie des probabilités") et la [statistique](/wiki/Statistique
+"Statistique").**
+
+Vous pouvez partager vos connaissances en l’améliorant ( **[comment
+?](/wiki/Aide:Comment_modifier_une_page "Aide:Comment modifier une page")**)
+selon les recommandations des [projets correspondants](/wiki/Projet:Accueil
+"Projet:Accueil").
+
+Consultez la liste des **tâches à accomplir** en [page de
+discussion](/wiki/Discussion:Calcul_stochastique "Discussion:Calcul
+stochastique").
+
+Le **calcul[stochastique](/wiki/Stochastique "Stochastique")** est l’étude des
+phénomènes aléatoires dépendant du temps. À ce titre, c'est une extension de
+la théorie des [probabilités](/wiki/Probabilit%C3%A9 "Probabilité"). Ne pas
+confondre avec la technique des [calculateurs
+stochastiques](/wiki/Calculateur_stochastique "Calculateur stochastique").
+
+## Sommaire
+
+  * 1 Applications
+  * 2 Processus aléatoires
+  * 3 Filtrations
+    * 3.1 Espérance conditionnelle selon une filtration
+  * 4 Processus d'Itō
+    * 4.1 Intégrale d'Itô
+    * 4.2 Définition d'un processus d'Itô
+  * 5 Prescription de Stratonovich
+  * 6 Processus usuels
+  * 7 Martingales exponentielles
+  * 8 Intégrale de Wiener et intégrale stochastique
+    * 8.1 Intégrale de Wiener
+    * 8.2 Intégrale stochastique
+    * 8.3 Lemme d’Itô
+  * 9 Équations différentielles stochastiques
+  * 10 Processus d’Ornstein-Uhlenbeck
+  * 11 Problèmes de contrôle optimal
+  * 12 Méthodes de simulation
+    * 12.1 Méthode de Monte-Carlo
+    * 12.2 Simulation par arbres recombinants
+  * 13 Notes et références
+  * 14 Voir aussi
+    * 14.1 Bibliographie
+    * 14.2 Articles connexes
+
+##
+Applications[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=1
+"Modifier la section : Applications") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=1 "Modifier
+la section : Applications")]
+
+Le domaine d’application du calcul stochastique comprend la [mécanique
+quantique](/wiki/M%C3%A9canique_quantique "Mécanique quantique"), le
+[traitement du signal](/wiki/Traitement_du_signal "Traitement du signal"), la
+[chimie](/wiki/Chimie "Chimie"), les [mathématiques
+financières](/wiki/Math%C3%A9matiques_financi%C3%A8res "Mathématiques
+financières"), la [météorologie](/wiki/M%C3%A9t%C3%A9orologie "Météorologie")
+et même la [musique](/wiki/Musique#Musique_stochastique "Musique").
+
+## Processus
+aléatoires[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=2
+"Modifier la section : Processus aléatoires") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=2 "Modifier
+la section : Processus aléatoires")]
+
+Un processus aléatoire  X {\displaystyle X}
+![X](https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab)
+est une famille de [variables aléatoires](/wiki/Variable_al%C3%A9atoire
+"Variable aléatoire") indexée par un sous-ensemble de  R {\displaystyle
+\mathbb {R} } ![\\mathbb {R}
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/786849c765da7a84dbc3cce43e96aad58a5868dc)
+ou  N {\displaystyle \mathbb {N} } ![\\mathbb {N}
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/fdf9a96b565ea202d0f4322e9195613fb26a9bed),
+souvent assimilé au temps (voir aussi [Processus
+stochastique](/wiki/Processus_stochastique "Processus stochastique")). C'est
+une fonction de deux variables : le temps et l'état de
+l'[univers](/wiki/Univers_\(probabilit%C3%A9s\) "Univers \(probabilités\)") ω
+{\displaystyle \omega } ![\\omega
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/48eff443f9de7a985bb94ca3bde20813ea737be8).
+L'ensemble des états de l'[univers](/wiki/Univers_\(probabilit%C3%A9s\)
+"Univers \(probabilités\)") est traditionnellement noté  Ω {\displaystyle
+\Omega } ![\\Omega
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/24b0d5ca6f381068d756f6337c08e0af9d1eeb6f).
+L'application qui à un  ω {\displaystyle \omega } ![\\omega
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/48eff443f9de7a985bb94ca3bde20813ea737be8)
+fixé associe  X ( ω , t ) {\displaystyle X(\omega ,t)} ![X\(\\omega
+,t\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/5ffb02fba2816c7e198663e5e409b8e63e971984),
+t {\displaystyle t}
+![t](https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560)
+variable, est appelée _trajectoire_ du processus ; c'est une simple fonction
+du temps (sans caractère aléatoire) qui représente la réalisation particulière
+du processus sous l'occurrence  ω {\displaystyle \omega } ![\\omega
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/48eff443f9de7a985bb94ca3bde20813ea737be8).
+
+Pour un  t {\displaystyle t}
+![t](https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560)
+donné,  X ( ω , t ) {\displaystyle X(\omega ,t)} ![X\(\\omega
+,t\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/5ffb02fba2816c7e198663e5e409b8e63e971984)
+est une simple variable aléatoire dont la valeur exacte n'est connue qu'en t.
+Le [mouvement brownien](/wiki/Mouvement_brownien "Mouvement brownien") est un
+exemple particulièrement simple de processus aléatoire indexé par  R
+{\displaystyle \mathbb {R} } ![\\mathbb {R}
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/786849c765da7a84dbc3cce43e96aad58a5868dc).
+Il peut être défini comme l'unique processus  W t {\displaystyle W_{t}}
+![W_t](https://wikimedia.org/api/rest_v1/media/math/render/svg/50680c5535c83badfa630dba63b583d2eeaa2977)
+à accroissement gaussien tel que la covariance entre  W t {\displaystyle
+W_{t}}
+![W_t](https://wikimedia.org/api/rest_v1/media/math/render/svg/50680c5535c83badfa630dba63b583d2eeaa2977)
+et  W s {\displaystyle W_{s}}
+![W_{s}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b46f7e6c1d04631b9483bfa74e105b09cb2e5263)
+soit  min ( t , s ) {\displaystyle \min(t,s)}
+![\\min\(t,s\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/37ac6599b67248e75deed3ee59b9a5737f130f3b).
+On peut également le voir comme la limite d'une [marche
+aléatoire](/wiki/Marche_al%C3%A9atoire "Marche aléatoire") lorsque le pas de
+temps tend vers 0.
+
+##
+Filtrations[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=3
+"Modifier la section : Filtrations") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=3 "Modifier
+la section : Filtrations")]
+
+Une filtration  F t {\displaystyle F_{t}}
+![F_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/42cf9007bfa40c26216b648363be8f67e73d38cb),
+t ∈ N {\displaystyle t\in \mathbb {N} } ![t\\in {\\mathbb
+{N}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/c7f2886796e3d604f8d6c4aed0534ede6026d8fd)
+est une famille de sous-[tribus](/wiki/Tribu_\(math%C3%A9matiques\) "Tribu
+\(mathématiques\)") emboîtées de  Ω {\displaystyle \Omega } ![\\Omega
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/24b0d5ca6f381068d756f6337c08e0af9d1eeb6f),
+qui peut s’interpréter comme l’information disponible qui évolue au cours du
+temps. Ainsi, une filtration est une famille de sigma-algèbres, indexée par le
+temps  t ≥ 0 {\displaystyle t\geq 0} ![t\\geq
+0](https://wikimedia.org/api/rest_v1/media/math/render/svg/248525429e9cd266f53ab8c52d17bc206c546060)
+telle que  F s ⊂ F t {\displaystyle F_{s}\subset F_{t}} ![F_{s}\\subset
+F_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b379b8a163c0f1e90b3fd61d8b331003cacc09ab)
+si  s ≤ t {\displaystyle s\leq t} ![s\\leq
+t](https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c12f663b9eb8759c0da898cc542d7cb3bcf5e5),
+ce qui reflète l'augmentation de l'information disponible.
+
+### Espérance conditionnelle selon une
+filtration[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=4
+"Modifier la section : Espérance conditionnelle selon une filtration") |
+[modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=4 "Modifier
+la section : Espérance conditionnelle selon une filtration")]
+
+Cette section est vide, insuffisamment détaillée ou incomplète. [Votre
+aide](/wiki/Sp%C3%A9cial:EditPage/Calcul_stochastique "Spécial:EditPage/Calcul
+stochastique") est la bienvenue ! [Comment faire
+?](/wiki/Aide:Comment_modifier_une_page "Aide:Comment modifier une page")
+
+## Processus
+d'Itō[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=5
+"Modifier la section : Processus d'Itō") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=5 "Modifier
+la section : Processus d'Itō")]
+
+Article détaillé : [Processus
+d'Itô](/w/index.php?title=Processus_d%27It%C3%B4&action=edit&redlink=1
+"Processus d'Itô \(page inexistante\)").
+
+Le processus d'Itō, d'après le nom de son inventeur [Kiyoshi
+Itō](/wiki/Kiyoshi_It%C5%8D "Kiyoshi Itō"), traite des opérations
+mathématiques dans un processus stochastique. Le plus important est
+l'intégrale stochastique d'Itō.
+
+### Intégrale
+d'Itô[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=6
+"Modifier la section : Intégrale d'Itô") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=6 "Modifier
+la section : Intégrale d'Itô")]
+
+Article détaillé : [Intégrale d'Itô](/wiki/Int%C3%A9grale_d%27It%C3%B4
+"Intégrale d'Itô").
+
+Avant le calcul, indiquons que :
+
+  * les majuscules telles que  X {\displaystyle X} ![X](https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab) notent les variables aléatoires ;
+  * les majuscules avec en indice un  t {\displaystyle t} ![t](https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560) (par exemple  B t {\displaystyle B_{t}} ![B_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/4f92553a3c8585519e540724dffe9306c83ca2f8)) notent un processus stochastique qui est une famille de variables aléatoires indexée par  t {\displaystyle t} ![t](https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560) ;
+  * un petit  d {\displaystyle \mathrm {d} } ![{\\mathrm  d}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a15022657616b297a2c995d1b314a3aa3442c0cb) à gauche d'un processus (par exemple  d B t {\displaystyle \mathrm {d} B_{t}} ![{\\mathrm  d}B_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ec11266edb7add8c042c3fb399ba7b9d002f71c4)) signifie un changement [infinitésimal](/wiki/Infinit%C3%A9simal "Infinitésimal") dans le processus aléatoire qui est une variable aléatoire.
+
+L'intégrale stochastique d'un processus  X t {\displaystyle X_{t}}
+![X_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/82120d04dfb3cbadc4912951dd12b5568c9cd8f3)
+par rapport à un processus  B t {\displaystyle B_{t}}
+![B_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/4f92553a3c8585519e540724dffe9306c83ca2f8)
+est décrite par l'intégrale :
+
+∫ a b X t d B t {\displaystyle \int _{a}^{b}X_{t}\,\mathrm {d} B_{t}} ![\\int
+_{{a}}^{{b}}X_{t}\\,{\\mathrm
+d}B_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a4ca5a84c9bac5df0dc97a667ba53c33a044302d)
+
+et est définie comme la _limite en moyenne quadratique_ des sommes
+correspondantes de la forme :
+
+∑ X t i ( B t i + 1 − B t i ) . {\displaystyle \sum
+X_{t_{i}}(B_{t_{i+1}}-B_{t_{i}}).} ![\\sum
+X_{{t_{i}}}\(B_{{t_{{i+1}}}}-B_{{t_{i}}}\).](https://wikimedia.org/api/rest_v1/media/math/render/svg/32aa9e479e4f14f478e355b1d4c570543be21610)
+
+Un point essentiel lié à cette intégrale est le [lemme
+d'Itô](/wiki/Lemme_d%27It%C3%B4 "Lemme d'Itô").
+
+La somme comme le produit de variables aléatoires est définie dans la théorie
+des probabilités. La somme implique une convolution de la fonction de densité
+des probabilités, et la multiplication est une addition répétée.
+
+### Définition d'un processus
+d'Itô[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=7
+"Modifier la section : Définition d'un processus d'Itô") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=7 "Modifier
+la section : Définition d'un processus d'Itô")]
+
+Une fois précisée la définition choisie pour une intégrale stochastique, on
+définit alors un _processus d'Itô_ comme étant un processus stochastique  X t
+{\displaystyle X_{t}}
+![X_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/82120d04dfb3cbadc4912951dd12b5568c9cd8f3)
+de la forme :
+
+X t ( ω ) = X 0 ( ω ) + ∫ 0 t u s ( ω ) d s + ∫ 0 t ( v s d B s ) ( ω )
+{\displaystyle X_{t}(\omega )=X_{0}(\omega )+\int _{0}^{t}u_{s}(\omega ){\rm
+{d}}s+\int _{0}^{t}(v_{s}{\rm {d}}B_{s})(\omega )} ![X_{t}\(\\omega
+\)=X_{0}\(\\omega \)+\\int _{0}^{t}u_{s}\(\\omega \){{\\rm {d}}}s+\\int
+_{0}^{t}\(v_{s}{{\\rm {d}}}B_{s}\)\(\\omega
+\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/6d560a128395ff5842baddd761ec23d0da2014a1)
+
+avec  u {\displaystyle u}
+![u](https://wikimedia.org/api/rest_v1/media/math/render/svg/c3e6bb763d22c20916ed4f0bb6bd49d7470cffd8)
+et  v {\displaystyle v}
+![v](https://wikimedia.org/api/rest_v1/media/math/render/svg/e07b00e7fc0847fbd16391c778d65bc25c452597)
+deux fonctions aléatoires satisfaisant quelques hypothèses techniques
+d'adaptation au processus  B t {\displaystyle B_{t}}
+![B_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/4f92553a3c8585519e540724dffe9306c83ca2f8)
+et  ω {\displaystyle \omega } ![\\omega
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/48eff443f9de7a985bb94ca3bde20813ea737be8)
+est une réalisation dans l'espace de probabilité sous-jacent.
+
+Dans le formalisme du calcul différentiel avec la prescription d'Itô on note
+de façon équivalente la relation précédente comme :
+
+d X t = u t d t + v t d B t {\displaystyle {\rm {d}}X_{t}=u_{t}\,{\rm
+{d}}t+v_{t}\,{\rm {d}}B_{t}} ![{{\\rm {d}}}X_{t}=u_{t}\\,{{\\rm
+{d}}}t+v_{t}\\,{{\\rm
+{d}}}B_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b3dbb8baa92ea1a669f3c8e90de90e2aac9fc451)
+
+## Prescription de
+Stratonovich[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=8
+"Modifier la section : Prescription de Stratonovich") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=8 "Modifier
+la section : Prescription de Stratonovich")]
+
+Une autre prescription notable pour définir une intégrale stochastique est la
+prescription de Stratonovich. L'[intégrale de
+Stratonovich](/w/index.php?title=Int%C3%A9grale_de_Stratonovich&action=edit&redlink=1
+"Intégrale de Stratonovich \(page inexistante\)") est définie comme la limite
+des sommes discrètes :
+
+∑ X t i + t i + 1 2 ( B t i + 1 − B t i ) . {\displaystyle \sum X_{\frac
+{t_{i}+t_{i+1}}{2}}(B_{t_{i+1}}-B_{t_{i}}).} ![\\sum X_{{{\\frac
+{t_{i}+t_{{i+1}}}{2}}}}\(B_{{t_{{i+1}}}}-B_{{t_{i}}}\).](https://wikimedia.org/api/rest_v1/media/math/render/svg/3a958bb8b8a148f52275bc13dae064dba42d17f0)
+
+La différence notable avec la prescription d'Itô est que la quantité  X ( t i
++ t i + 1 ) / 2 {\displaystyle X_{(t_{i}+t_{i+1})/2}}
+![X_{{\(t_{i}+t_{{i+1}}\)/2}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/d49262c13aa81b359540bb84cdf9291079c53d46)
+n'est pas indépendante au sens des probabilités de la variable  B t i + 1 − B
+t i {\displaystyle B_{t_{i+1}}-B_{t_{i}}}
+![B_{{t_{{i+1}}}}-B_{{t_{i}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/221cce657c7c0fc6b3e9dd8276ee0d476c73df97).
+Ainsi, contrairement à la prescription d'Itô, dans la prescription de
+Stratonovich on a :
+
+E [ ∫ a b X t d B t ] ≠ 0 {\displaystyle E\left[\int _{a}^{b}X_{t}\,\mathrm
+{d} B_{t}\right]\neq 0} ![E\\left\[\\int _{{a}}^{{b}}X_{t}\\,{\\mathrm
+d}B_{t}\\right\]\\neq
+0](https://wikimedia.org/api/rest_v1/media/math/render/svg/e42b3559ee01041cc947460e7f8673107c1f86bb)
+
+ce qui complique, de ce point de vue, certains calculs. Cependant
+l'utilisation de la prescription de Stratonovich ne choisit pas une direction
+du temps privilégiée contrairement à celle d'Itô ce qui implique que les
+processus stochastiques définis par l'intégrale de Stratonovich satisfont des
+équations différentielles stochastiques bidimensionnelles invariantes par
+renversement du temps. Pour cette raison, cette prescription est souvent
+utilisée en [physique statistique](/wiki/Physique_statistique "Physique
+statistique").
+
+Il faut noter cependant qu'il est possible de passer de l'une à l'autre des
+prescriptions en effectuant des changements de variables simples ce qui les
+rend équivalentes. Le choix de prescription est donc une question de
+convenance.
+
+## Processus
+usuels[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=9
+"Modifier la section : Processus usuels") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=9 "Modifier
+la section : Processus usuels")]
+
+Cette section est vide, insuffisamment détaillée ou incomplète. [Votre
+aide](/wiki/Sp%C3%A9cial:EditPage/Calcul_stochastique "Spécial:EditPage/Calcul
+stochastique") est la bienvenue ! [Comment faire
+?](/wiki/Aide:Comment_modifier_une_page "Aide:Comment modifier une page")
+
+## Martingales
+exponentielles[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=10
+"Modifier la section : Martingales exponentielles") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=10 "Modifier
+la section : Martingales exponentielles")]
+
+Article connexe : [Martingale (calcul
+stochastique)](/wiki/Martingale_\(calcul_stochastique\) "Martingale \(calcul
+stochastique\)").
+
+Cette section est vide, insuffisamment détaillée ou incomplète. [Votre
+aide](/wiki/Sp%C3%A9cial:EditPage/Calcul_stochastique "Spécial:EditPage/Calcul
+stochastique") est la bienvenue ! [Comment faire
+?](/wiki/Aide:Comment_modifier_une_page "Aide:Comment modifier une page")
+
+## Intégrale de Wiener et intégrale
+stochastique[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=11
+"Modifier la section : Intégrale de Wiener et intégrale stochastique") |
+[modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=11 "Modifier
+la section : Intégrale de Wiener et intégrale stochastique")]
+
+### Intégrale de
+Wiener[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=12
+"Modifier la section : Intégrale de Wiener") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=12 "Modifier
+la section : Intégrale de Wiener")]
+
+Notons le mouvement brownien (MB) par  { B t } t ∈ T {\displaystyle
+\\{B_{t}\\}_{t\in T}} ![\\{B_{t}\\}_{{t\\in
+T}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/805c994fb4a9a67a8851a4b68d2108d59070b8d1)
+et l'intégrale de Wiener par  ∫ a b ( . ) d B {\displaystyle \int
+_{a}^{b}(.)\mathrm {d} B} ![\\int _{a}^{b}\(.\){\\mathrm
+d}B](https://wikimedia.org/api/rest_v1/media/math/render/svg/69592c19ec099910ec275d543e969631af11c274).
+
+On dit qu'une fonction  h : [ a , b ] -> R {\displaystyle h:[a,b]\to \mathbb
+{R} } ![h:\[a,b\]\\to \\mathbb{R}
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/1833b6178fc06e33367b794d4c27d8f9e1a9f36e)
+est une fonction en escalier (donc dense dans  L 2 ( [ a , b ] )
+{\displaystyle L^{2}([a,b])}
+![L^{2}\(\[a,b\]\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/9afbae301dd78d6739e6c45a942076bf669595e9))
+dans s'il existe  σ {\displaystyle \sigma } ![\\sigma
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/59f59b7c3e6fdb1d0365a494b81fb9a696138c36)
+une subdivision de  [ a , b ] {\displaystyle [a,b]}
+![\[a,b\]](https://wikimedia.org/api/rest_v1/media/math/render/svg/9c4b788fc5c637e26ee98b45f89a5c08c85f7935)
+et s'il existe  α 0 , . . . , α N σ − 1 ∈ R {\displaystyle \alpha
+_{0},...,\alpha _{N_{\sigma }-1}\in \mathbb {R} } ![\\alpha _{0},...,\\alpha
+_{{N_{{\\sigma }}-1}}\\in \\mathbb{R}
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/0b8f50ecc299ae394af86d48dcb5e231590a57b8)
+tels que :
+
+h = ∑ k = 0 N σ − 1 α k 1 [ t k σ , t k + 1 σ [ {\displaystyle h=\sum
+_{k=0}^{N_{\sigma }-1}\alpha _{k}1_{[t_{k}^{\sigma },t_{k+1}^{\sigma }[}}
+![h=\\sum _{{k=0}}^{{N_{{\\sigma }}-1}}\\alpha _{k}1_{{\[t_{k}^{{\\sigma
+}},t_{{k+1}}^{{\\sigma
+}}\[}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/2ee69d56b13e8a10d7c8cea74895e03ab8f68e61)
+
+Alors, on pose :
+
+∫ a b h ( s ) d B ( s ) = ∑ k = 0 N σ − 1 α k { B ( t k + 1 σ ) − B ( t k σ )
+} {\displaystyle \int _{a}^{b}h(s)\mathrm {d} B(s)=\sum _{k=0}^{N_{\sigma
+}-1}\alpha _{k}\\{B(t_{k+1}^{\sigma })-B(t_{k}^{\sigma })\\}} ![\\int
+_{a}^{b}h\(s\){\\mathrm  d}B\(s\)=\\sum _{{k=0}}^{{N_{{\\sigma }}-1}}\\alpha
+_{k}\\{B\(t_{{k+1}}^{{\\sigma }}\)-B\(t_{k}^{{\\sigma
+}}\)\\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/97e52a54b823e3f5f1b8c97f84e16e397c26a175)
+
+Il est clair que  ∫ a b h ( s ) d B ( s ) {\displaystyle \int
+_{a}^{b}h(s)\mathrm {d} B(s)} ![\\int _{a}^{b}h\(s\){\\mathrm
+d}B\(s\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/e144c063dd5de9f38f975e5289cf5af5c11262c1)
+est une variable aléatoire gaussienne centrée de variance  ∫ a b | h ( s ) | 2
+d s {\displaystyle \int _{a}^{b}|h(s)|^{2}\mathrm {d} s} ![\\int
+_{a}^{b}|h\(s\)|^{2}{\\mathrm
+d}s](https://wikimedia.org/api/rest_v1/media/math/render/svg/bde47c1a7dab7b327023918bce22f0b55064060b).
+
+De plus, soit  g ∈ L 2 ( [ a , b ] ) {\displaystyle g\in L^{2}([a,b])} ![g\\in
+L^{2}\(\[a,b\]\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/a26e68ffbbebfc07b1b8476b1e2a9cc6bcf7a34f)
+et  H n {\displaystyle H_{n}}
+![H_n](https://wikimedia.org/api/rest_v1/media/math/render/svg/e63458b04288bbe116a9a8037dfae0b36b2c639a)
+une suite de fonctions en escalier de  g ∈ L 2 ( [ a , b ] ) {\displaystyle
+g\in L^{2}([a,b])} ![g\\in
+L^{2}\(\[a,b\]\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/a26e68ffbbebfc07b1b8476b1e2a9cc6bcf7a34f).
+Alors, la suite  ( ∫ a b H n ( s ) d B ( s ) ) n ∈ N {\displaystyle \left(\int
+_{a}^{b}H_{n}(s)\mathrm {d} B(s)\right)_{n\in \mathbb {N} }} ![\\left\(\\int
+_{a}^{b}H_{n}\(s\){\\mathrm  d}B\(s\)\\right\)_{{n\\in {\\mathbb
+{N}}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/6c5e3699739107cc541d57aac771d05e1178b5dc)
+converge vers une limite dans  L 2 ( Ω ) {\displaystyle L^{2}(\Omega )}
+![L^{2}\(\\Omega
+\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/2352f79f73ea92b82f762f072e41bb4a4cef2395).
+De plus, cette limite ne dépend pas de la suite  ( H n ) n ∈ N {\displaystyle
+(H_{n})_{n\in \mathbb {N} }} ![\(H_{n}\)_{{n\\in {\\mathbb
+{N}}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ba222cef5f965ca867d431133147126ec1e5d366)
+et est notée par  ∫ a b g ( s ) d B ( s ) {\displaystyle \int
+_{a}^{b}g(s)\mathrm {d} B(s)} ![\\int _{a}^{b}g\(s\){\\mathrm
+d}B\(s\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/7a920b9f45747e5fae2809219a3a4298e83e6eab).
+
+### Intégrale
+stochastique[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=13
+"Modifier la section : Intégrale stochastique") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=13 "Modifier
+la section : Intégrale stochastique")]
+
+Soit  Z {\displaystyle Z}
+![Z](https://wikimedia.org/api/rest_v1/media/math/render/svg/1cc6b75e09a8aa3f04d8584b11db534f88fb56bd)
+le mouvement brownien standard défini sur l’espace probabilisé  ( Ω , A , F ,
+P ) {\displaystyle (\Omega ,A,F,P)} ![\(\\Omega
+,A,F,P\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/0021f1d96f746c089a062fbf8bdb15a7d191ffb3)
+et  σ {\displaystyle \sigma } ![\\sigma
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/59f59b7c3e6fdb1d0365a494b81fb9a696138c36)
+un processus adapté à  F {\displaystyle F}
+![F](https://wikimedia.org/api/rest_v1/media/math/render/svg/545fd099af8541605f7ee55f08225526be88ce57).
+On suppose par ailleurs que  σ {\displaystyle \sigma } ![\\sigma
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/59f59b7c3e6fdb1d0365a494b81fb9a696138c36)
+vérifie :
+
+E ( ∫ 0 T σ s 2 d s ) < + ∞ {\displaystyle E\left(\int _{0}^{T}\sigma
+_{s}^{2}\mathrm {d} s\right)<+\infty } ![E\\left\(\\int _{0}^{T}\\sigma
+_{s}^{2}{\\mathrm  d}s\\right\)<+\\infty
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/b58134abec92d20d424c316e112fda2bc4215ccf).
+
+Alors, l’intégrale stochastique de  σ {\displaystyle \sigma } ![\\sigma
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/59f59b7c3e6fdb1d0365a494b81fb9a696138c36)
+par rapport à  Z {\displaystyle Z}
+![Z](https://wikimedia.org/api/rest_v1/media/math/render/svg/1cc6b75e09a8aa3f04d8584b11db534f88fb56bd)
+est la variable aléatoire :
+
+( ∫ 0 T σ s d Z s ) = lim N -> + ∞ ∑ n = 1 N σ t n − 1 ( Z t n − Z t n − 1 )
+{\displaystyle \left(\int _{0}^{T}\sigma _{s}\mathrm {d} Z_{s}\right)=\lim
+_{N\to +\infty }\sum _{n=1}^{N}\sigma
+_{t_{n-1}}\left(Z_{t_{n}}-Z_{t_{n-1}}\right)} ![{\\displaystyle \\left\(\\int
+_{0}^{T}\\sigma _{s}\\mathrm {d} Z_{s}\\right\)=\\lim _{N\\to +\\infty }\\sum
+_{n=1}^{N}\\sigma
+_{t_{n-1}}\\left\(Z_{t_{n}}-Z_{t_{n-1}}\\right\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a4d635b7d44fa5d0ddd9a5bf4e6e38e7b94c2c9d).
+
+### Lemme
+d’Itô[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=14
+"Modifier la section : Lemme d’Itô") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=14 "Modifier
+la section : Lemme d’Itô")]
+
+Article détaillé : [Lemme d'Itô](/wiki/Lemme_d%27It%C3%B4 "Lemme d'Itô").
+
+Soit  x {\displaystyle x}
+![x](https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4)
+un processus stochastique tel qu'on ait  d x = a d t + b d z {\displaystyle
+\mathrm {d} x=a\mathrm {d} t+b\mathrm {d} z} ![{\\mathrm  d}x=a{\\mathrm
+d}t+b{\\mathrm
+d}z](https://wikimedia.org/api/rest_v1/media/math/render/svg/4e630b7d6dc4f33c6296c7508e2ea70d031ad956)
+où  z {\displaystyle z}
+![z](https://wikimedia.org/api/rest_v1/media/math/render/svg/bf368e72c009decd9b6686ee84a375632e11de98)
+est un processus de Wiener standard.
+
+Alors d'après le [lemme d'Itô](/wiki/Lemme_d%27It%C3%B4 "Lemme d'Itô"), on a
+pour une fonction  G = G ( x , t ) {\displaystyle G=G(x,t)}
+![G=G\(x,t\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/028d39c6ddcb8048f79c01aabccb1992b8f2b226)
+
+d G = ∂ G ∂ t d t + ∂ G ∂ x d x + 1 2 b 2 ∂ 2 G ∂ x 2 d t {\displaystyle
+\mathrm {d} G={\frac {\mathrm {\partial } {G}}{\mathrm {\partial }
+{t}}}\mathrm {d} t+{\frac {\mathrm {\partial } {G}}{\mathrm {\partial }
+{x}}}\mathrm {d} x+{\frac {1}{2}}b^{2}{\frac {\mathrm {\partial }
+^{2}{G}}{\mathrm {\partial } {x^{2}}}}\mathrm {d} t} ![{\\mathrm  d}G={\\frac
+{{\\mathrm  \\partial }{G}}{{\\mathrm  \\partial }{t}}}{\\mathrm  d}t+{\\frac
+{{\\mathrm  \\partial }{G}}{{\\mathrm  \\partial }{x}}}{\\mathrm  d}x+{\\frac
+{1}{2}}b^{2}{\\frac  {{\\mathrm  \\partial }^{2}{G}}{{\\mathrm  \\partial
+}{x^{2}}}}{\\mathrm
+d}t](https://wikimedia.org/api/rest_v1/media/math/render/svg/1d10afcdf6e7437db94bb2401b559b6ec5342158)
+
+## Équations différentielles
+stochastiques[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=15
+"Modifier la section : Équations différentielles stochastiques") | [modifier
+le code](/w/index.php?title=Calcul_stochastique&action=edit&section=15
+"Modifier la section : Équations différentielles stochastiques")]
+
+Article détaillé : [équation différentielle
+stochastique](/wiki/%C3%89quation_diff%C3%A9rentielle_stochastique "Équation
+différentielle stochastique").
+
+Une équation différentielle stochastique (EDS) est la donnée d’une équation du
+type  d X = μ ( X , t ) d t + σ ( X , t ) d W t {\displaystyle \mathrm {d}
+X=\mu (X,t)\mathrm {d} t+\sigma (X,t)\mathrm {d} W_{t}} ![{\\mathrm  d}X=\\mu
+\(X,t\){\\mathrm  d}t+\\sigma \(X,t\){\\mathrm
+d}W_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/fb9d1f41fa69ac3992bf857a8db95194b38dfd4c),
+où  X {\displaystyle X}
+![X](https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab)
+est un processus aléatoire inconnu, que l’on appelle communément équation de
+diffusion. Intégrer l’EDS, c’est trouver l’ensemble des processus vérifiant la
+diffusion entière.
+
+## Processus d’Ornstein-
+Uhlenbeck[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=16
+"Modifier la section : Processus d’Ornstein-Uhlenbeck") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=16 "Modifier
+la section : Processus d’Ornstein-Uhlenbeck")]
+
+Article détaillé : [Processus d'Ornstein-
+Uhlenbeck](/wiki/Processus_d%27Ornstein-Uhlenbeck "Processus d'Ornstein-
+Uhlenbeck").
+
+Le processus d'Ornstein-Uhlenbeck est un processus stochastique décrivant
+(entre autres) la vitesse d'une particule dans un fluide, en dimension 1.
+
+On le définit comme étant la solution  X t {\displaystyle X_{t}}
+![X_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/82120d04dfb3cbadc4912951dd12b5568c9cd8f3)
+de l'équation différentielle stochastique suivante :
+
+d X t = 2 d B t − X t d t {\displaystyle \mathrm {d} X_{t}={\sqrt {2}}\mathrm
+{d} B_{t}-X_{t}\mathrm {d} t} ![{\\mathrm  d}X_{t}={\\sqrt  2}{\\mathrm
+d}B_{t}-X_{t}{\\mathrm
+d}t](https://wikimedia.org/api/rest_v1/media/math/render/svg/d87310cd1120ac25e213186638deec9efd14c993),
+
+où  B t {\displaystyle B_{t}}
+![B_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/4f92553a3c8585519e540724dffe9306c83ca2f8)
+est un mouvement brownien standard, et avec  X 0 {\displaystyle X_{0}}
+![X_{0}](https://wikimedia.org/api/rest_v1/media/math/render/svg/6381fdad2b9f11954b1fc2db08bbaccf634ededa)
+une variable aléatoire donnée.
+
+Le terme  d B t {\displaystyle \mathrm {d} B_{t}} ![{\\mathrm
+d}B_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ec11266edb7add8c042c3fb399ba7b9d002f71c4)
+traduit les nombreux chocs aléatoires subis par la particule, alors que le
+terme  − X t d t {\displaystyle -X_{t}\mathrm {d} t} ![-X_{t}{\\mathrm
+d}t](https://wikimedia.org/api/rest_v1/media/math/render/svg/351be9b98d3beb4225f5155b62ad5888526dd12c)
+représente la force de frottement subie par la particule.
+
+La formule d'Itô appliquée au processus  e t X t {\displaystyle {e^{t}}X_{t}}
+![{e^{t}}X_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ed5c4a2a65d3158810b6e3e0d49de2c33cc85f93)
+nous donne :
+
+d ( e t X t ) = e t X t d t + e t ( 2 d B t − X t d t ) = e t 2 d B t
+{\displaystyle \mathrm {d} ({e^{t}}X_{t})={e^{t}}{X_{t}}\mathrm {d}
+t+{e^{t}}({\sqrt {2}}{\mathrm {d} B_{t}}-{X_{t}}\mathrm {d} t)={e^{t}}{\sqrt
+{2}}{\mathrm {d} B_{t}}} ![{\\mathrm
+d}\({e^{t}}X_{t}\)={e^{t}}{X_{t}}{\\mathrm  d}t+{e^{t}}\({\\sqrt
+{2}}{{\\mathrm  d}B_{t}}-{X_{t}}{\\mathrm  d}t\)={e^{t}}{\\sqrt
+{2}}{{\\mathrm
+d}B_{t}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/bccb6552042e2e0619ba518478396261001cb320),
+
+soit, sous forme intégrale :
+
+X t = X 0 e − t + 2 e − t ∫ 0 t e s d B s {\displaystyle
+X_{t}={X_{0}}e^{-t}+{\sqrt {2}}e^{-t}\int _{0}^{t}{e^{s}}\mathrm {d} B_{s}}
+![X_{t}={X_{0}}e^{{-t}}+{\\sqrt  {2}}e^{{-t}}\\int _{0}^{t}{e^{s}}{\\mathrm
+d}B_{s}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ccafd7d2677e19fcbc89463c5d3993e55c11b6df)
+
+Par exemple, si  X 0 {\displaystyle X_{0}}
+![X_{0}](https://wikimedia.org/api/rest_v1/media/math/render/svg/6381fdad2b9f11954b1fc2db08bbaccf634ededa)
+vaut [presque sûrement](/wiki/Presque_s%C3%BBrement "Presque sûrement") x
+{\displaystyle x}
+![x](https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4),
+la loi de  X t {\displaystyle X_{t}}
+![X_{t}](https://wikimedia.org/api/rest_v1/media/math/render/svg/82120d04dfb3cbadc4912951dd12b5568c9cd8f3)
+est une loi gaussienne de moyenne  x e − t {\displaystyle xe^{-t}}
+![xe^{{-t}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/64d7fa5f1372da052f64613575566caa2980ae50)
+et de variance  1 − e − 2 t {\displaystyle 1-e^{-2t}}
+![1-e^{{-2t}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/869b82e7ba1f33a046394c64758bdc1d03dde1f7),
+ce qui converge en loi quand  t {\displaystyle t}
+![t](https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560)
+tend vers l'infini vers la loi gaussienne centrée réduite.
+
+## Problèmes de contrôle
+optimal[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=17
+"Modifier la section : Problèmes de contrôle optimal") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=17 "Modifier
+la section : Problèmes de contrôle optimal")]
+
+Cette section est vide, insuffisamment détaillée ou incomplète. [Votre
+aide](/wiki/Sp%C3%A9cial:EditPage/Calcul_stochastique "Spécial:EditPage/Calcul
+stochastique") est la bienvenue ! [Comment faire
+?](/wiki/Aide:Comment_modifier_une_page "Aide:Comment modifier une page")
+
+## Méthodes de
+simulation[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=18
+"Modifier la section : Méthodes de simulation") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=18 "Modifier
+la section : Méthodes de simulation")]
+
+### Méthode de Monte-
+Carlo[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=19
+"Modifier la section : Méthode de Monte-Carlo") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=19 "Modifier
+la section : Méthode de Monte-Carlo")]
+
+Les [méthodes de Monte-Carlo](/wiki/M%C3%A9thode_de_Monte-Carlo "Méthode de
+Monte-Carlo") reposent sur la [Loi des grands
+nombres](/wiki/Loi_des_grands_nombres "Loi des grands nombres"). En répétant
+un grand nombre de fois une expérience, de façon (théoriquement) indépendante,
+on obtient une approximation de plus en plus fiable de la vraie valeur de
+l'espérance du phénomène observé.
+
+De telles méthodes sont notamment utilisées en finance pour la valorisation
+d’[options](/wiki/Options "Options") pour lesquelles il n’existe pas de
+formule fermée, mais uniquement des approximations numériques.
+
+### Simulation par arbres
+recombinants[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=20
+"Modifier la section : Simulation par arbres recombinants") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=20 "Modifier
+la section : Simulation par arbres recombinants")]
+
+Cette section est vide, insuffisamment détaillée ou incomplète. [Votre
+aide](/wiki/Sp%C3%A9cial:EditPage/Calcul_stochastique "Spécial:EditPage/Calcul
+stochastique") est la bienvenue ! [Comment faire
+?](/wiki/Aide:Comment_modifier_une_page "Aide:Comment modifier une page")
+
+## Notes et
+références[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=21
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=21 "Modifier
+la section : Notes et références")]
+
+## Voir
+aussi[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=22
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=22 "Modifier
+la section : Voir aussi")]
+
+###
+Bibliographie[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=23
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=23 "Modifier
+la section : Bibliographie")]
+
+  * Nathalie Bartoli et Pierre Del Moral, _Simulation & algorithmes stochastiques_, Cépaduès, 2001 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-85428-560-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-85428-560-3 "Spécial:Ouvrages de référence/2-85428-560-3")).
+  * Mario Lefebvre, _Processus stochastiques appliqués_ , Hermann, 2006 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-7056-6561-7](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-7056-6561-7 "Spécial:Ouvrages de référence/2-7056-6561-7")).
+  * Francis Comets et Thierry Meyre, _Calcul stochastique et modèles de diffusions_ , Dunod, 2006 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-10-050135-6](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-10-050135-6 "Spécial:Ouvrages de référence/2-10-050135-6")).
+  * Bassel Solaiman, _Processus stochastiques pour l'ingénieur_ , Presses Polytechniques et Universitaires Romandes, 2006 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-88074-668-X](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-88074-668-X "Spécial:Ouvrages de référence/2-88074-668-X")).
+
+### Articles
+connexes[[modifier](/w/index.php?title=Calcul_stochastique&veaction=edit&section=24
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Calcul_stochastique&action=edit&section=24 "Modifier
+la section : Articles connexes")]
+
+  * [Chaîne de Markov](/wiki/Cha%C3%AEne_de_Markov "Chaîne de Markov")
+  * [Modèle de Markov caché](/wiki/Mod%C3%A8le_de_Markov_cach%C3%A9 "Modèle de Markov caché")
+  * [Processus de décision markovien](/wiki/Processus_de_d%C3%A9cision_markovien "Processus de décision markovien")
+  * [Mouvement brownien](/wiki/Mouvement_brownien "Mouvement brownien")
+  * [Physique statistique](/wiki/Physique_statistique "Physique statistique")
+  * [Modèle des urnes d'Ehrenfest](/wiki/Mod%C3%A8le_des_urnes_d%27Ehrenfest "Modèle des urnes d'Ehrenfest")
+  * [Processus stochastique](/wiki/Processus_stochastique "Processus stochastique")
+  * [Équation différentielle stochastique](/wiki/%C3%89quation_diff%C3%A9rentielle_stochastique "Équation différentielle stochastique")
+  * [Matrice stochastique](/wiki/Matrice_stochastique "Matrice stochastique")
+  * [Calculateur stochastique](/wiki/Calculateur_stochastique "Calculateur stochastique")
+
+[v](/wiki/Mod%C3%A8le:Palette_Probabilit%C3%A9s_et_statistiques
+"Modèle:Palette Probabilités et statistiques") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Probabilit%C3%A9s_et_statistiques&action=edit)
+
+[Index du projet probabilités et
+statistiques](/wiki/Projet:Probabilit%C3%A9s_et_statistiques
+"Projet:Probabilités et statistiques")  
+  
+---  
+| [Théorie des probabilités](/wiki/Th%C3%A9orie_des_probabilit%C3%A9s "Théorie
+des probabilités")  
+---  
+Bases théoriques |  | Principes généraux | [Axiomes des
+probabilités](/wiki/Axiomes_des_probabilit%C3%A9s "Axiomes des probabilités")
+· [Espace probabilisable](/wiki/Espace_probabilisable "Espace probabilisable")
+· [Probabilité](/wiki/Probabilit%C3%A9 "Probabilité") ·
+[Événement](/wiki/%C3%89v%C3%A9nement_\(probabilit%C3%A9s\) "Événement
+\(probabilités\)") · ![Bon
+article](//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bon_article.svg/10px-
+Bon_article.svg.png) [Tribu](/wiki/Tribu_\(math%C3%A9matiques\) "Tribu
+\(mathématiques\)") ·
+[Indépendance](/wiki/Ind%C3%A9pendance_\(probabilit%C3%A9s\) "Indépendance
+\(probabilités\)") · [Variable aléatoire](/wiki/Variable_al%C3%A9atoire
+"Variable aléatoire") · [Espérance](/wiki/Esp%C3%A9rance_math%C3%A9matique
+"Espérance mathématique") · ![Bon
+article](//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bon_article.svg/10px-
+Bon_article.svg.png) [Variables
+iid](/wiki/Variables_ind%C3%A9pendantes_et_identiquement_distribu%C3%A9es
+"Variables indépendantes et identiquement distribuées")  
+---|---  
+[Convergence de lois](/wiki/Convergence_de_variables_al%C3%A9atoires
+"Convergence de variables aléatoires") | [Théorème central
+limite](/wiki/Th%C3%A9or%C3%A8me_central_limite "Théorème central limite") ·
+[Loi des grands nombres](/wiki/Loi_des_grands_nombres "Loi des grands
+nombres") · [Théorème de Borel-Cantelli](/wiki/Th%C3%A9or%C3%A8me_de_Borel-
+Cantelli "Théorème de Borel-Cantelli")  
+Calcul stochastique | [Marche aléatoire](/wiki/Marche_al%C3%A9atoire "Marche
+aléatoire") · [Chaîne de Markov](/wiki/Cha%C3%AEne_de_Markov "Chaîne de
+Markov") · [Processus stochastique](/wiki/Processus_stochastique "Processus
+stochastique") · [Processus de Markov](/wiki/Processus_de_Markov "Processus de
+Markov") · [Martingale](/wiki/Martingale_\(calcul_stochastique\) "Martingale
+\(calcul stochastique\)") · [Mouvement brownien](/wiki/Mouvement_brownien
+"Mouvement brownien") · [Équation différentielle
+stochastique](/wiki/%C3%89quation_diff%C3%A9rentielle_stochastique "Équation
+différentielle stochastique")  
+[Lois de probabilité](/wiki/Loi_de_probabilit%C3%A9 "Loi de probabilité") |  |
+Lois continues | [Loi exponentielle](/wiki/Loi_exponentielle "Loi
+exponentielle") · ![Bon
+article](//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bon_article.svg/10px-
+Bon_article.svg.png) [Loi normale](/wiki/Loi_normale "Loi normale") · [Loi
+uniforme](/wiki/Loi_uniforme_continue "Loi uniforme continue") · [Loi de
+Student](/wiki/Loi_de_Student "Loi de Student") · [Loi de
+Fisher](/wiki/Loi_de_Fisher "Loi de Fisher") · [Loi du
+χ²](/wiki/Loi_du_%CF%87%C2%B2 "Loi du χ²")  
+---|---  
+Lois discrètes | [Loi de Bernoulli](/wiki/Loi_de_Bernoulli "Loi de Bernoulli")
+· ![Bon
+article](//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bon_article.svg/10px-
+Bon_article.svg.png) [Loi binomiale](/wiki/Loi_binomiale "Loi binomiale") ·
+[Loi de Poisson](/wiki/Loi_de_Poisson "Loi de Poisson") · [Loi
+géométrique](/wiki/Loi_g%C3%A9om%C3%A9trique "Loi géométrique") · [Loi
+hypergéométrique](/wiki/Loi_hyperg%C3%A9om%C3%A9trique "Loi hypergéométrique")  
+Mélange entre statistiques et probabilités |  | [Intervalle de
+confiance](/wiki/Intervalle_de_confiance "Intervalle de confiance")  
+---  
+[Théorie des statistiques](/wiki/Statistique "Statistique")  
+---  
+[Statistiques descriptives](/wiki/Statistique_descriptive "Statistique
+descriptive") |  | Bases théoriques |
+
+  * [Une statistique](/wiki/Statistique_\(indicateur\) "Statistique \(indicateur\)")
+  * [Caractère](/w/index.php?title=Caract%C3%A8re_\(statistique\)&action=edit&redlink=1 "Caractère \(statistique\) \(page inexistante\)")
+  * [Échantillon](/wiki/%C3%89chantillon_\(statistiques\) "Échantillon \(statistiques\)")
+  * [Erreur type](/wiki/Erreur_type "Erreur type")
+  * [Intervalle de confiance](/wiki/Intervalle_de_confiance "Intervalle de confiance")
+  * [Fonction de répartition empirique](/wiki/Fonction_de_r%C3%A9partition_empirique "Fonction de répartition empirique")
+  * [Théorème de Glivenko-Cantelli](/wiki/Th%C3%A9or%C3%A8me_de_Glivenko-Cantelli "Théorème de Glivenko-Cantelli")
+  * [Inférence bayésienne](/wiki/Inf%C3%A9rence_bay%C3%A9sienne "Inférence bayésienne")
+  * [Régression linéaire](/wiki/R%C3%A9gression_lin%C3%A9aire "Régression linéaire")
+  * [Méthode des moindres carrés](/wiki/M%C3%A9thode_des_moindres_carr%C3%A9s "Méthode des moindres carrés")
+  * [Analyse des données](/wiki/Analyse_des_donn%C3%A9es "Analyse des données")
+  * [Corrélation](/wiki/Corr%C3%A9lation_\(statistiques\) "Corrélation \(statistiques\)")
+
+  
+  
+---|---  
+[Tableaux](/wiki/Tableau_\(statistique\) "Tableau \(statistique\)") |
+
+  * [Tableau de contingence](/wiki/Tableau_de_contingence "Tableau de contingence")
+  * [Tableau disjonctif complet](/wiki/Tableau_disjonctif_complet "Tableau disjonctif complet")
+  * [Table de Burt](/wiki/Table_de_Burt "Table de Burt")
+
+  
+  
+[Graphes](/wiki/Repr%C3%A9sentation_graphique_de_donn%C3%A9es "Représentation
+graphique de données") |
+
+  * [Histogramme](/wiki/Histogramme "Histogramme")
+  * [Diagramme à barres](/wiki/Diagramme_%C3%A0_barres "Diagramme à barres")
+  * [Graphique en aires](/wiki/Graphique_en_aires "Graphique en aires")
+  * [Diagramme circulaire](/wiki/Diagramme_circulaire "Diagramme circulaire")
+  * [Treemap](/wiki/Treemap "Treemap")
+  * [Boîte à moustaches](/wiki/Bo%C3%AEte_%C3%A0_moustaches "Boîte à moustaches")
+  * [Nuage de points](/wiki/Nuage_de_points_\(statistique\) "Nuage de points \(statistique\)")
+  * [Graphique à bulles](/wiki/Graphique_%C3%A0_bulles "Graphique à bulles")
+  * [Diagramme en cascade](/wiki/Diagramme_en_cascade "Diagramme en cascade")
+  * [Graphique en entonnoir](/wiki/Graphique_en_entonnoir "Graphique en entonnoir")
+  * [Diagramme de Kiviat](/wiki/Diagramme_de_Kiviat "Diagramme de Kiviat")
+  * [Corrélogramme](/wiki/Corr%C3%A9logramme "Corrélogramme")
+  * [Graphique en forêt](/wiki/Graphique_en_for%C3%AAt "Graphique en forêt")
+  * [Diagramme branche-et-feuille](/wiki/Diagramme_branche-et-feuille "Diagramme branche-et-feuille")
+  * [Heat map](/wiki/Heat_map "Heat map")
+  * [Sparkline](/wiki/Sparkline "Sparkline")
+
+  
+  
+[Paramètres de position](/wiki/Indicateur_de_position "Indicateur de
+position") |
+
+  * [Moyenne arithmétique](/wiki/Moyenne_arithm%C3%A9tique "Moyenne arithmétique")
+  * [Mode](/wiki/Mode_\(statistiques\) "Mode \(statistiques\)")
+  * [Médiane](/wiki/M%C3%A9diane_\(statistiques\) "Médiane \(statistiques\)")
+  * [Quantile](/wiki/Quantile "Quantile")
+    * [Quartile](/wiki/Quartile "Quartile")
+    * [Décile](/wiki/D%C3%A9cile "Décile")
+    * [Centile](/wiki/Centile "Centile")
+
+  
+  
+[Paramètres de dispersion](/wiki/Indicateur_de_dispersion "Indicateur de
+dispersion") |
+
+  * [Étendue](/wiki/%C3%89tendue_\(statistique\) "Étendue \(statistique\)")
+  * [Écart moyen](/wiki/%C3%89cart_moyen "Écart moyen")
+  * [Variance](/wiki/Variance_\(math%C3%A9matiques\) "Variance \(mathématiques\)")
+  * [Écart type](/wiki/%C3%89cart_type "Écart type")
+  * [Écart interquartile](/wiki/%C3%89cart_interquartile "Écart interquartile")
+  * [Coefficient de variation](/wiki/Coefficient_de_variation "Coefficient de variation")
+
+  
+  
+Paramètres de forme |
+
+  * [Coefficient d'asymétrie](/wiki/Asym%C3%A9trie_\(statistiques\) "Asymétrie \(statistiques\)")
+  * [Coefficient d'aplatissement](/wiki/Kurtosis "Kurtosis")
+
+  
+  
+[Statistiques inductives](/wiki/Test_statistique "Test statistique") |  |
+Bases théoriques | [Hypothèse statistique](/wiki/Hypoth%C3%A8se_statistique
+"Hypothèse statistique") · [Hypothèse nulle](/wiki/Hypoth%C3%A8se_nulle
+"Hypothèse nulle") · [Estimateur](/wiki/Estimateur_\(statistique\) "Estimateur
+\(statistique\)") · [Signification
+statistique](/wiki/Signification_statistique "Signification statistique") ·
+[Sensibilité et spécificité](/wiki/Sensibilit%C3%A9_et_sp%C3%A9cificit%C3%A9
+"Sensibilité et spécificité") · [Courbe ROC](/wiki/Courbe_ROC "Courbe ROC") ·
+[Nombre de sujets nécessaires](/wiki/Nombre_de_sujets_n%C3%A9cessaires "Nombre
+de sujets nécessaires") · [Valeur p](/wiki/Valeur_p "Valeur p") · [Contraste
+(statistiques)](/wiki/Contraste_\(statistiques\) "Contraste \(statistiques\)")
+· [Statistique de test](/wiki/Statistique_de_test "Statistique de test") ·
+[Taille d'effet](/wiki/Taille_d%27effet "Taille d'effet") · [Puissance
+statistique](/wiki/Puissance_statistique "Puissance statistique")  
+---|---  
+Tests paramétriques | [Test d'hypothèse](/wiki/Test_d%27hypoth%C3%A8se "Test
+d'hypothèse") · [Test de Bartlett](/wiki/Test_de_Bartlett "Test de Bartlett")
+· [Test de normalité](/wiki/Test_de_normalit%C3%A9 "Test de normalité") ·
+[Test de Fisher d'égalité de deux
+variances](/wiki/Test_de_Fisher_d%27%C3%A9galit%C3%A9_de_deux_variances "Test
+de Fisher d'égalité de deux variances") · [Test
+d'Hausman](/wiki/Test_d%27Hausman "Test d'Hausman") · [Test d'Anderson-
+Darling](/wiki/Test_d%27Anderson-Darling "Test d'Anderson-Darling") · [Test de
+Banerji](/wiki/Test_de_Banerji_\(statistiques\) "Test de Banerji
+\(statistiques\)") · [Test de Durbin-Watson](/wiki/Test_de_Durbin-Watson "Test
+de Durbin-Watson") · [Test de Goldfeld et
+Quandt](/wiki/Test_de_Goldfeld_et_Quandt "Test de Goldfeld et Quandt") · [Test
+de Jarque-Bera](/wiki/Test_de_Jarque-Bera "Test de Jarque-Bera") · [Test de
+Mood](/wiki/Test_de_Mood "Test de Mood") · [Test de
+Lilliefors](/wiki/Test_de_Lilliefors "Test de Lilliefors") · [Test de
+Wald](/wiki/Test_de_Wald "Test de Wald") · [Test T pour des échantillons
+indépendants](/wiki/Test_de_Student "Test de Student") · [Test T pour des
+échantillons appariés](/wiki/Test_de_Student "Test de Student") · [Test de
+corrélation de Pearson](/wiki/Corr%C3%A9lation_\(statistiques\) "Corrélation
+\(statistiques\)")  
+Tests non-paramétriques | [Test U de Mann-Whitney](/wiki/Test_de_Wilcoxon-
+Mann-Whitney "Test de Wilcoxon-Mann-Whitney") · [Test de Kruskal-
+Wallis](/wiki/Test_de_Kruskal-Wallis "Test de Kruskal-Wallis") · [Test exact
+de Fisher](/wiki/Test_exact_de_Fisher "Test exact de Fisher") · [Test de
+Kolmogorov-Smirnov](/wiki/Test_de_Kolmogorov-Smirnov "Test de Kolmogorov-
+Smirnov") · [Test de Shapiro-Wilk](/wiki/Test_de_Shapiro-Wilk "Test de
+Shapiro-Wilk") · [Test de Chow](/wiki/Test_de_Chow "Test de Chow") · [Test de
+McNemar](/wiki/Test_de_McNemar "Test de McNemar") · [Test de
+Spearman](/wiki/Corr%C3%A9lation_de_Spearman "Corrélation de Spearman") · [Tau
+de Kendall](/wiki/Tau_de_Kendall "Tau de Kendall") · [Test
+Gamma](/wiki/Test_Gamma "Test Gamma") · [Test des suites de Wald-
+Wolfowitz](/wiki/Test_des_suites_de_Wald-Wolfowitz "Test des suites de Wald-
+Wolfowitz") · [Test de la
+médiane](/wiki/M%C3%A9thode_m%C3%A9diane-m%C3%A9diane "Méthode médiane-
+médiane") · [Test des signes](/wiki/Test_des_signes "Test des signes") ·
+[ANOVA de Friedman](/wiki/ANOVA_de_Friedman "ANOVA de Friedman") ·
+[Concordance de Kendall](/wiki/Concordance_de_Kendall "Concordance de
+Kendall") · [Test Q de Cochran](/wiki/Test_Q_de_Cochran "Test Q de Cochran") ·
+[Test des rangs signés de
+Wilcoxon](/wiki/Test_des_rangs_sign%C3%A9s_de_Wilcoxon "Test des rangs signés
+de Wilcoxon") · [Test de Sargan](/wiki/Test_de_Sargan "Test de Sargan")  
+Application  
+---  
+[Économétrie](/wiki/%C3%89conom%C3%A9trie "Économétrie") · [Mécanique
+statistique](/wiki/Physique_statistique "Physique statistique") · [Jeu de
+hasard](/wiki/Jeu_de_hasard "Jeu de hasard") ·
+[Biomathématique](/wiki/Biomath%C3%A9matique "Biomathématique") ·
+[Biostatistique](/wiki/Biostatistique "Biostatistique") · [Mathématiques
+financières](/wiki/Math%C3%A9matiques_financi%C3%A8res "Mathématiques
+financières")  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Logo_proba_4.svg/31px-Logo_proba_4.svg.png)](/wiki/Portail:Probabilit%C3%A9s_et_statistiques "Portail des probabilités et de la statistique") [Portail des probabilités et de la statistique](/wiki/Portail:Probabilit%C3%A9s_et_statistiques "Portail:Probabilités et statistiques")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Calcul_stochastique&oldid=172193043](https://fr.wikipedia.org/w/index.php?title=Calcul_stochastique&oldid=172193043)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Processus stochastique](/wiki/Cat%C3%A9gorie:Processus_stochastique "Catégorie:Processus stochastique")
+  * [Mathématiques financières](/wiki/Cat%C3%A9gorie:Math%C3%A9matiques_financi%C3%A8res "Catégorie:Mathématiques financières")
+
+Catégories cachées :
+
+  * [Wikipédia:ébauche probabilités et statistiques](/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia:%C3%A9bauche_probabilit%C3%A9s_et_statistiques "Catégorie:Wikipédia:ébauche probabilités et statistiques")
+  * [Article avec une section vide ou incomplète](/wiki/Cat%C3%A9gorie:Article_avec_une_section_vide_ou_incompl%C3%A8te "Catégorie:Article avec une section vide ou incomplète")
+  * [Portail:Probabilités et statistiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Probabilit%C3%A9s_et_statistiques/Articles_li%C3%A9s "Catégorie:Portail:Probabilités et statistiques/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Article de qualité en allemand](/wiki/Cat%C3%A9gorie:Article_de_qualit%C3%A9_en_allemand "Catégorie:Article de qualité en allemand")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Calcul_stochastique "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Calcul_stochastique "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Calcul_stochastique&oldid=172193043 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Calcul_stochastique&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Calcul_stochastique&id=172193043&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q1308570 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Calcul+stochastique)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Calcul_stochastique&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Calcul_stochastique&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikiversité](https://fr.wikiversity.org/wiki/Probabilit%C3%A9s_de_l%27ing%C3%A9nieur_:_algorithmes_stochastiques_et_simulation)
+
+###  Dans d’autres langues
+
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%AD%D8%B3%D8%A7%D8%A8_%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B6%D9%84_%D9%88%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%85%D9%84_%D8%A7%D9%84%D8%B9%D8%B4%D9%88%D8%A7%D8%A6%D9%8A "حساب التفاضل والتكامل العشوائي — arabe")
+  * [Deutsch](https://de.wikipedia.org/wiki/Stochastische_Analysis "Stochastische Analysis — allemand")
+  * [English](https://en.wikipedia.org/wiki/Stochastic_calculus "Stochastic calculus — anglais")
+  * [Español](https://es.wikipedia.org/wiki/C%C3%A1lculo_estoc%C3%A1stico "Cálculo estocástico — espagnol")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D9%86_%D8%AA%D8%B5%D8%A7%D8%AF%D9%81%DB%8C "حسابان تصادفی — persan")
+  * [Galego](https://gl.wikipedia.org/wiki/C%C3%A1lculo_estoc%C3%A1stico "Cálculo estocástico — galicien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E8%A7%A3%E6%9E%90 "確率解析 — japonais")
+  * [한국어](https://ko.wikipedia.org/wiki/%ED%99%95%EB%A5%A0%EB%AF%B8%EC%A0%81%EB%B6%84%ED%95%99 "확률미적분학 — coréen")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Stochastische_analyse "Stochastische analyse — néerlandais")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Stokastisk_analyse "Stokastisk analyse — norvégien bokmål")
+  * [Português](https://pt.wikipedia.org/wiki/C%C3%A1lculo_estoc%C3%A1stico "Cálculo estocástico — portugais")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D1%85%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB "Стохастический интеграл — russe")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D1%96%D1%8F_%D0%B2%D0%B8%D0%BF%D0%B0%D0%B4%D0%BA%D0%BE%D0%B2%D0%B8%D1%85_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%96%D0%B2 "Теорія випадкових процесів — ukrainien")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Vi_ph%C3%A2n_ng%E1%BA%ABu_nhi%C3%AAn "Vi phân ngẫu nhiên — vietnamien")
+  * [中文](https://zh.wikipedia.org/wiki/%E9%9A%8F%E6%9C%BA%E5%88%86%E6%9E%90 "随机分析 — chinois")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q1308570#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Calcul+stochastique "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Calcul+stochastique "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Calcul_stochastique "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Calcul_stochastique "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Calcul_stochastique)
+  * [Modifier](/w/index.php?title=Calcul_stochastique&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Calcul_stochastique&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Calcul_stochastique&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 21 juin 2020 à 01:10.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Calcul_stochastique "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Calcul_stochastique&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+

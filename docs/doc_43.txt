@@ -1,0 +1,509 @@
+# Axiome
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Homoph_colour.svg/20px-
+Homoph_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article ayant un titre homophone, voir [Axiom](/wiki/Axiom "Axiom").
+
+[![Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir
+plus sur les
+bandeaux.](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Aide:Bandeau "Si ce bandeau n'est plus pertinent,
+retirez-le. Cliquez ici pour en savoir plus sur les bandeaux.")
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2017-fr.wp-orange-
+source.svg/45px-2017-fr.wp-orange-source.svg.png)](/wiki/Fichier:2017-fr.wp-
+orange-source.svg)
+
+**Cet article[ne cite pas suffisamment ses
+sources](/wiki/Wikip%C3%A9dia:Citez_vos_sources "Wikipédia:Citez vos
+sources")** (mars 2017).
+
+Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez
+des sites web de qualité traitant du thème abordé ici, merci de compléter
+l'article en donnant les **références utiles à
+sa[vérifiabilité](/wiki/Wikip%C3%A9dia:V%C3%A9rifiabilit%C3%A9
+"Wikipédia:Vérifiabilité")** et en les liant à la section « [Notes et
+références](/wiki/Aide:Ins%C3%A9rer_une_r%C3%A9f%C3%A9rence "Aide:Insérer une
+référence") »
+
+**En pratique :** [Quelles sources sont attendues
+?](/wiki/Wikip%C3%A9dia:Citez_vos_sources#Qualité_des_sources "Wikipédia:Citez
+vos sources") [Comment ajouter mes sources
+?](/wiki/Aide:Ins%C3%A9rer_une_r%C3%A9f%C3%A9rence_\(%C3%89diteur_visuel\)
+"Aide:Insérer une référence \(Éditeur visuel\)")
+
+Un **axiome** (du [grec ancien](/wiki/Grec_ancien "Grec ancien") αξιωμα/
+_axioma_ , « considéré comme digne, convenable, évident en soi » – lui-même
+dérivé de αξιος ( _axios_ ), « digne ») est une
+[proposition](/wiki/Proposition_\(philosophie\) "Proposition \(philosophie\)")
+non démontrée, utilisée comme fondement d’un [raisonnement](/wiki/Raisonnement
+"Raisonnement") ou d’une [théorie
+mathématique](/wiki/Th%C3%A9orie#Math.C3.A9matiques "Théorie").
+
+## Sommaire
+
+  * 1 Histoire
+    * 1.1 Antiquité
+  * 2 Description
+    * 2.1 Épistémologique
+    * 2.2 Mathématiques
+      * 2.2.1 Exemple : arithmétique usuelle
+      * 2.2.2 D'autres systèmes axiomatiques
+  * 3 Références
+  * 4 Voir aussi
+    * 4.1 Bibliographie
+    * 4.2 Articles connexes
+    * 4.3 Lien externe
+
+## Histoire[[modifier](/w/index.php?title=Axiome&veaction=edit&section=1
+"Modifier la section : Histoire") | [modifier le
+code](/w/index.php?title=Axiome&action=edit&section=1 "Modifier la section :
+Histoire")]
+
+### Antiquité[[modifier](/w/index.php?title=Axiome&veaction=edit&section=2
+"Modifier la section : Antiquité") | [modifier le
+code](/w/index.php?title=Axiome&action=edit&section=2 "Modifier la section :
+Antiquité")]
+
+Pour [Euclide](/wiki/Euclide "Euclide") et certains
+[philosophes](/wiki/Philosophe "Philosophe") grecs de
+l’[Antiquité](/wiki/Antiquit%C3%A9 "Antiquité"), un axiome était une
+affirmation qu'ils considéraient comme évidente et qui n'avait nul besoin de
+démonstration.
+
+## Description[[modifier](/w/index.php?title=Axiome&veaction=edit&section=3
+"Modifier la section : Description") | [modifier le
+code](/w/index.php?title=Axiome&action=edit&section=3 "Modifier la section :
+Description")]
+
+###
+Épistémologique[[modifier](/w/index.php?title=Axiome&veaction=edit&section=4
+"Modifier la section : Épistémologique") | [modifier le
+code](/w/index.php?title=Axiome&action=edit&section=4 "Modifier la section :
+Épistémologique")]
+
+Pour l'[épistémologie](/wiki/%C3%89pist%C3%A9mologie "Épistémologie") (branche
+de la [philosophie des sciences](/wiki/Philosophie_des_sciences "Philosophie
+des sciences")), un axiome est une vérité évidente en soi sur laquelle une
+autre connaissance peut se reposer, autrement dit peut être construite[1].
+Précisons que tous les épistémologues n'admettent pas que les axiomes, dans ce
+sens du terme, existent. Dans certains courants philosophiques, comme
+l'[objectivisme](/wiki/Objectivisme_\(Ayn_Rand\) "Objectivisme \(Ayn Rand\)"),
+le mot _axiome_ a une connotation particulière. Un énoncé est axiomatique s'il
+est impossible de le nier sans se contredire. Exemple : « Il existe une vérité
+absolue » ou « Le langage existe » sont des axiomes.
+
+### Mathématiques[[modifier](/w/index.php?title=Axiome&veaction=edit&section=5
+"Modifier la section : Mathématiques") | [modifier le
+code](/w/index.php?title=Axiome&action=edit&section=5 "Modifier la section :
+Mathématiques")]
+
+En [mathématiques](/wiki/Math%C3%A9matiques "Mathématiques"), le mot _axiome_
+désignait une proposition qui est évidente en soi dans la tradition
+mathématique des _[Éléments](/wiki/%C3%89l%C3%A9ments_d%27Euclide "Éléments
+d'Euclide")_ d’Euclide. L’axiome est utilisé désormais, en [logique
+mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique"), pour
+désigner une vérité première, à l'intérieur d'une [théorie](/wiki/Th%C3%A9orie
+"Théorie"). L'ensemble des axiomes d'une [théorie](/wiki/Th%C3%A9orie
+"Théorie") est appelé **axiomatique** ou [théorie
+axiomatique](/wiki/Th%C3%A9orie_axiomatique "Théorie axiomatique"). Cette
+axiomatique doit être [non
+contradictoire](/wiki/Contradiction#Logique_formelle "Contradiction"). Cette
+axiomatique définit la théorie. Un axiome représente donc un point de départ
+dans un système de logique. La pertinence d'une théorie dépend de la
+pertinence de ses axiomes et de leur interprétation. L'axiome est donc à la
+logique mathématique, ce qu'est le [postulat](/wiki/Postulat "Postulat") à la
+[physique théorique](/wiki/Physique_th%C3%A9orique "Physique théorique"). Dans
+tout système de [logique](/wiki/Logique "Logique") formelle, il y a comme
+point de départ des axiomes.
+
+#### Exemple : arithmétique
+usuelle[[modifier](/w/index.php?title=Axiome&veaction=edit&section=6 "Modifier
+la section : Exemple : arithmétique usuelle") | [modifier le
+code](/w/index.php?title=Axiome&action=edit&section=6 "Modifier la section :
+Exemple : arithmétique usuelle")]
+
+Par exemple, on peut définir une arithmétique simple, comprenant un ensemble
+de « nombres », une [loi de composition](/wiki/Loi_de_composition "Loi de
+composition") : l'addition notée "+",
+[interne](/wiki/Loi_de_composition_interne "Loi de composition interne") à cet
+ensemble, une [égalité](/wiki/%C3%89galit%C3%A9_\(math%C3%A9matiques\)
+"Égalité \(mathématiques\)") qui est réflexive, symétrique et transitive, et
+en posant (en s'inspirant un peu de [Peano](/wiki/Giuseppe_Peano "Giuseppe
+Peano")) :
+
+  1. un nombre noté 0 existe
+  2. tout nombre X a un successeur noté succ(X)
+  3. X + 0 = X
+  4. succ(X) + Y = X + succ(Y)
+
+Des [théorèmes](/wiki/Th%C3%A9or%C3%A8me "Théorème") peuvent être démontrés à
+partir de ces axiomes.
+
+En utilisant ces axiomes, et en définissant les mots usuels 1, 2, 3, et ainsi
+de suite pour désigner les successeurs de 0 : succ(0), succ(succ(0)),
+succ(succ(succ(0))) respectivement, nous pouvons démontrer ce qui suit :
+
+    succ(X) = X + 1 (axiome 4 et 3)
+
+et
+
+1 + 2 = 1 + succ(1) | Développement de l'abréviation (2 = succ(1))  
+---|---  
+1 + 2 = succ(1) + 1 | Axiome 4  
+1 + 2 = 2 + 1 | Développement de l'abréviation (2 = succ(1))  
+1 + 2 = 2 + succ(0) | Développement de l'abréviation (1 = succ(0))  
+1 + 2 = 2 + 1 = succ(2) + 0 = 0 + succ(2) | Axiome 4  
+1 + 2 = 3 = 0 + 3 | Axiome 3 et utilisation de l'abréviation (succ(2) = 3)  
+0 + 1 = 1 + 0 = 1 | Axiome 4 et 3 (1+0=1)  
+X + succ(X) = succ(X) + X | pour tout X Axiome 4 et la symétrie de l'égalité  
+  
+#### D'autres systèmes
+axiomatiques[[modifier](/w/index.php?title=Axiome&veaction=edit&section=7
+"Modifier la section : D'autres systèmes axiomatiques") | [modifier le
+code](/w/index.php?title=Axiome&action=edit&section=7 "Modifier la section :
+D'autres systèmes axiomatiques")]
+
+Tout résultat qui peut être déduit des axiomes n'est pas un axiome. Toute
+affirmation qui ne peut être déduite des axiomes et dont la négation ne peut
+pas non plus être déduite de ces mêmes axiomes peut être ajoutée comme axiome
+sans en modifier la cohérence. On dit qu'une telle affirmation est
+_indépendante_ des axiomes précédents. En revanche, l'ajout d'un nouvel axiome
+permet de démontrer de nouveaux théorèmes.
+
+Probablement le plus ancien et aussi le plus célèbre système d'axiomes est
+celui des 5 [postulats](/wiki/Postulat "Postulat") d'[Euclide](/wiki/Euclide
+"Euclide"). Ceux-ci s'avérèrent être assez incomplets, et beaucoup plus
+d'axiomes sont nécessaires pour caractériser complètement la géométrie
+d'Euclide ([Hilbert](/wiki/David_Hilbert "David Hilbert") en a utilisé 26 dans
+[son axiomatique de la géométrie euclidienne](/wiki/Axiomes_de_Hilbert
+"Axiomes de Hilbert")).
+
+Le cinquième postulat (par un point en dehors d'une droite, il passe
+exactement une parallèle à cette droite) a été suspecté d'être une conséquence
+des 4 premiers pendant presque deux millénaires. Finalement, le cinquième
+postulat s'est avéré être indépendant des quatre premiers. En effet, nous
+pouvons supposer qu'aucune parallèle ne passe par un point situé en dehors
+d'une droite, ou qu'il existe une unique parallèle, ou encore qu'il en existe
+une infinité. Chacun de ces choix nous donne différentes formes alternatives
+de géométrie, dans lesquelles les mesures des angles intérieurs d'un triangle
+s'ajoutent pour donner une valeur inférieure, égale ou supérieure à la mesure
+de l'angle formé par une droite (angle plat). Ces géométries sont connues en
+tant que géométries
+[elliptique](/wiki/G%C3%A9om%C3%A9trie_non_euclidienne#La_géométrie_elliptique
+"Géométrie non euclidienne"),
+[euclidienne](/wiki/G%C3%A9om%C3%A9trie_euclidienne "Géométrie euclidienne")
+et [hyperbolique](/wiki/G%C3%A9om%C3%A9trie_hyperbolique "Géométrie
+hyperbolique") respectivement. La [relativité
+générale](/wiki/Relativit%C3%A9_g%C3%A9n%C3%A9rale "Relativité générale")
+affirme que la masse donne à l'espace une courbure, c'est-à-dire que l'espace
+physique n'est pas euclidien.
+
+[Au XXe siècle](/wiki/Histoire_des_math%C3%A9matiques#XXe.C2.A0siècle
+"Histoire des mathématiques"), les [théorèmes d'incomplétude de
+Gödel](/wiki/Th%C3%A9or%C3%A8mes_d%27incompl%C3%A9tude_de_G%C3%B6del
+"Théorèmes d'incomplétude de Gödel") énoncent qu'aucune liste explicite
+d'axiomes suffisante pour démontrer quelques théorèmes très élémentaires sur
+les entiers (par exemple l'[arithmétique de
+Robinson](/wiki/Arithm%C3%A9tique_de_Robinson "Arithmétique de Robinson")) ne
+peut être à la fois complète (chaque proposition peut être démontrée ou
+réfutée à l'intérieur du système) et cohérente (aucune proposition ne peut
+être à la fois démontrée et réfutée).
+
+## Références[[modifier](/w/index.php?title=Axiome&veaction=edit&section=8
+"Modifier la section : Références") | [modifier le
+code](/w/index.php?title=Axiome&action=edit&section=8 "Modifier la section :
+Références")]
+
+  1. ↑ D'après [Euclide](/wiki/Euclide "Euclide").
+
+(en) Cet article est partiellement ou en totalité issu de l’article de
+Wikipédia en [anglais](/wiki/Anglais "Anglais") intitulé «
+[Axiom](https://en.wikipedia.org/wiki/Axiom?oldid=901510) » ([voir la liste
+des auteurs](https://en.wikipedia.org/wiki/Axiom?action=history)).
+
+## Voir aussi[[modifier](/w/index.php?title=Axiome&veaction=edit&section=9
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Axiome&action=edit&section=9 "Modifier la section :
+Voir aussi")]
+
+Sur les autres projets Wikimedia :
+
+  * [axiome](https://fr.wiktionary.org/wiki/axiome "wikt:axiome"), sur le Wiktionnaire
+
+###
+Bibliographie[[modifier](/w/index.php?title=Axiome&veaction=edit&section=10
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Axiome&action=edit&section=10 "Modifier la section :
+Bibliographie")]
+
+[Robert Blanché](/wiki/Robert_Blanch%C3%A9 "Robert Blanché"), _L’Axiomatique_
+, éd. P.U.F. coll. Quadrige, 112 pages, 1955.
+
+### Articles
+connexes[[modifier](/w/index.php?title=Axiome&veaction=edit&section=11
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Axiome&action=edit&section=11 "Modifier la section :
+Articles connexes")]
+
+  * [Axiomatisation](/wiki/Axiomatisation "Axiomatisation")
+  * [Axiome d'anti-fondation](/wiki/Axiome_d%27anti-fondation "Axiome d'anti-fondation")
+  * [Axiome d'Archimède](/wiki/Axiome_d%27Archim%C3%A8de "Axiome d'Archimède")
+  * [Axiome de la borne supérieure](/wiki/Nombre_r%C3%A9el#Approche_axiomatique "Nombre réel")
+  * [Les six axiomes de la Foi](/wiki/Foi_musulmane#Les_six_axiomes_de_la_Foi "Foi musulmane")
+  * [Axiome du choix](/wiki/Axiome_du_choix "Axiome du choix")
+  * [Axiome de l'ensemble des parties](/wiki/Axiome_de_l%27ensemble_des_parties "Axiome de l'ensemble des parties")
+  * [Axiome de l'ensemble vide](/wiki/Axiome_de_l%27ensemble_vide "Axiome de l'ensemble vide")
+  * [Axiome d'Euclide](/wiki/Axiome_d%27Euclide "Axiome d'Euclide")
+  * [Axiome d'extensionnalité](/wiki/Axiome_d%27extensionnalit%C3%A9 "Axiome d'extensionnalité")
+  * [Axiome de fondation](/wiki/Axiome_de_fondation "Axiome de fondation")
+  * [Axiomes de Hilbert](/wiki/Axiomes_de_Hilbert "Axiomes de Hilbert")
+  * [Axiome de l'infini](/wiki/Axiome_de_l%27infini "Axiome de l'infini")
+  * [Axiome de la paire](/wiki/Axiome_de_la_paire "Axiome de la paire")
+  * [Axiome de Pasch](/wiki/Axiome_de_Pasch "Axiome de Pasch")
+  * [Axiomes de Peano](/wiki/Axiomes_de_Peano "Axiomes de Peano")
+  * [Axiome de remplacement](/wiki/Sch%C3%A9ma_d%27axiomes_de_remplacement "Schéma d'axiomes de remplacement")
+  * [Axiome de la réunion](/wiki/Axiome_de_la_r%C3%A9union "Axiome de la réunion")
+  * [Axiome de séparation](/wiki/Axiome_de_s%C3%A9paration_\(topologie\) "Axiome de séparation \(topologie\)")
+  * [Axiomes IST de l'analyse non standard](/wiki/Analyse_non_standard "Analyse non standard")
+  * [Axiomes des probabilités](/wiki/Axiomes_des_probabilit%C3%A9s "Axiomes des probabilités")
+  * [Dogme](/wiki/Dogme "Dogme")
+  * [Géométrie euclidienne](/wiki/G%C3%A9om%C3%A9trie_euclidienne "Géométrie euclidienne")
+  * [Mathématiques renversées](/wiki/Math%C3%A9matiques_%C3%A0_rebours "Mathématiques à rebours")
+  * [Postulat](/wiki/Postulat "Postulat")
+  * [Théorie des ensembles](/wiki/Th%C3%A9orie_des_ensembles "Théorie des ensembles")
+
+### Lien externe[[modifier](/w/index.php?title=Axiome&veaction=edit&section=12
+"Modifier la section : Lien externe") | [modifier le
+code](/w/index.php?title=Axiome&action=edit&section=12 "Modifier la section :
+Lien externe")]
+
+(en) [_Metamath_ axioms page](http://us.metamath.org/mpegif/mmset.html#axioms)
+
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logic.svg/48px-Logic.svg.png)](/wiki/Portail:Logique "Portail de la logique") [Portail de la logique](/wiki/Portail:Logique "Portail:Logique")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Axiome&oldid=172107128](https://fr.wikipedia.org/w/index.php?title=Axiome&oldid=172107128)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Vocabulaire des mathématiques](/wiki/Cat%C3%A9gorie:Vocabulaire_des_math%C3%A9matiques "Catégorie:Vocabulaire des mathématiques")
+  * [Logique](/wiki/Cat%C3%A9gorie:Logique "Catégorie:Logique")
+  * [Axiome](/wiki/Cat%C3%A9gorie:Axiome "Catégorie:Axiome")
+  * [Philosophie des mathématiques](/wiki/Cat%C3%A9gorie:Philosophie_des_math%C3%A9matiques "Catégorie:Philosophie des mathématiques")
+  * [Raisonnement mathématique](/wiki/Cat%C3%A9gorie:Raisonnement_math%C3%A9matique "Catégorie:Raisonnement mathématique")
+  * [Philosophie des sciences](/wiki/Cat%C3%A9gorie:Philosophie_des_sciences "Catégorie:Philosophie des sciences")
+
+Catégories cachées :
+
+  * [Article manquant de références depuis mars 2017](/wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences_depuis_mars_2017 "Catégorie:Article manquant de références depuis mars 2017")
+  * [Article manquant de références/Liste complète](/wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences/Liste_compl%C3%A8te "Catégorie:Article manquant de références/Liste complète")
+  * [Portail:Logique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Logique/Articles_li%C3%A9s "Catégorie:Portail:Logique/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Axiome "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Axiome "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Axiome&oldid=172107128 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Axiome&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Axiome&id=172107128&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q17736 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Axiome)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Axiome&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Axiome&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [Alemannisch](https://als.wikipedia.org/wiki/Axiom "Axiom — Alemannisch")
+  * [አማርኛ](https://am.wikipedia.org/wiki/%E1%8A%A5%E1%88%99%E1%8A%95 "እሙን — amharique")
+  * [Aragonés](https://an.wikipedia.org/wiki/Axioma "Axioma — aragonais")
+  * [العربية](https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D9%84%D9%85%D8%A9_\(%D9%81%D9%84%D8%B3%D9%81%D8%A9\) "مسلمة \(فلسفة\) — arabe")
+  * [مصرى](https://arz.wikipedia.org/wiki/%D8%A8%D8%AF%D9%8A%D9%87%D9%8A%D9%87 "بديهيه — arabe égyptien")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Axoma "Axoma — asturien")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Aksiom "Aksiom — azéri")
+  * [Башҡортса](https://ba.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BC%D0%B0 "Аксиома — bachkir")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D1%96%D1%91%D0%BC%D0%B0 "Аксіёма — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D1%96%D1%91%D0%BC%D0%B0 "Аксіёма — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BC%D0%B0 "Аксиома — bulgare")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A6%83%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7 "স্বতঃসিদ্ধ — bengali")
+  * [Brezhoneg](https://br.wikipedia.org/wiki/Aksiom "Aksiom — breton")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Aksiom "Aksiom — bosniaque")
+  * [Català](https://ca.wikipedia.org/wiki/Axioma "Axioma — catalan")
+  * [کوردی](https://ckb.wikipedia.org/wiki/%D8%A8%DB%95%DA%B5%DA%AF%DB%95%D9%86%DB%95%D9%88%DB%8C%D8%B3%D8%AA "بەڵگەنەویست — sorani")
+  * [Čeština](https://cs.wikipedia.org/wiki/Axiom "Axiom — tchèque")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BC%D0%B0 "Аксиома — tchouvache")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Gwireb_\(mathemateg\) "Gwireb \(mathemateg\) — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/Aksiom "Aksiom — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Axiom "Axiom — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%91%CE%BE%CE%AF%CF%89%CE%BC%CE%B1 "Αξίωμα — grec")
+  * [English](https://en.wikipedia.org/wiki/Axiom "Axiom — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Aksiomo "Aksiomo — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Axioma "Axioma — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Aksioom "Aksioom — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Axioma "Axioma — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%84_%D9%85%D9%88%D8%B6%D9%88%D8%B9_\(%D9%85%D9%86%D8%B7%D9%82\) "اصل موضوع \(منطق\) — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Aksiooma "Aksiooma — finnois")
+  * [Nordfriisk](https://frr.wikipedia.org/wiki/Aksiom "Aksiom — frison du Nord")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/Aics%C3%ADm "Aicsím — irlandais")
+  * [Gàidhlig](https://gd.wikipedia.org/wiki/Aicseam "Aicseam — gaélique écossais")
+  * [Galego](https://gl.wikipedia.org/wiki/Axioma "Axioma — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%90%D7%A7%D7%A1%D7%99%D7%95%D7%9E%D7%94 "אקסיומה — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%80%E0%A4%A4 "अभिगृहीत — hindi")
+  * [Fiji Hindi](https://hif.wikipedia.org/wiki/Axiom "Axiom — hindi fidjien")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Aksiom "Aksiom — croate")
+  * [Magyar](https://hu.wikipedia.org/wiki/Axi%C3%B3ma "Axióma — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%B1%D6%84%D5%BD%D5%AB%D5%B8%D5%B4 "Աքսիոմ — arménien")
+  * [Interlingua](https://ia.wikipedia.org/wiki/Axioma "Axioma — interlingua")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Aksioma "Aksioma — indonésien")
+  * [Ido](https://io.wikipedia.org/wiki/Axiomo "Axiomo — ido")
+  * [Íslenska](https://is.wikipedia.org/wiki/Frumsenda "Frumsenda — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Assioma_\(matematica\) "Assioma \(matematica\) — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理 — japonais")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%A5%E1%83%A1%E1%83%98%E1%83%9D%E1%83%9B%E1%83%90 "აქსიომა — géorgien")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BC%D0%B0 "Аксиома — kazakh")
+  * [한국어](https://ko.wikipedia.org/wiki/%EA%B3%B5%EB%A6%AC "공리 — coréen")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BC%D0%B0 "Аксиома — kirghize")
+  * [Latina](https://la.wikipedia.org/wiki/Axioma "Axioma — latin")
+  * [Limburgs](https://li.wikipedia.org/wiki/Axioma "Axioma — limbourgeois")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Aksioma "Aksioma — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Aksioma "Aksioma — letton")
+  * [Malagasy](https://mg.wikipedia.org/wiki/Matoan-kevitra "Matoan-kevitra — malgache")
+  * [Олык марий](https://mhr.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BC%D0%BE "Аксиомо — Eastern Mari")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BC%D0%B0 "Аксиома — macédonien")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B5%8D%E0%B4%B5%E0%B4%AF%E0%B4%82%E2%80%8C%E0%B4%B8%E0%B4%BF%E0%B4%A6%E0%B5%8D%E0%B4%A7%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%AE%E0%B4%BE%E0%B4%A3%E0%B4%82 "സ്വയം‌സിദ്ധപ്രമാണം — malayalam")
+  * [Монгол](https://mn.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BC "Аксиом — mongol")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/Aksiom "Aksiom — malais")
+  * [नेपाल भाषा](https://new.wikipedia.org/wiki/%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%AF%E0%A4%AE "एक्जियम — newari")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Axioma "Axioma — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Aksiom "Aksiom — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Aksiom "Aksiom — norvégien bokmål")
+  * [Novial](https://nov.wikipedia.org/wiki/Axiome "Axiome — novial")
+  * [Occitan](https://oc.wikipedia.org/wiki/Axi%C3%B2ma "Axiòma — occitan")
+  * [ਪੰਜਾਬੀ](https://pa.wikipedia.org/wiki/%E0%A8%A4%E0%A8%A4%E0%A8%B8%E0%A8%AE%E0%A8%95 "ਤਤਸਮਕ — pendjabi")
+  * [Polski](https://pl.wikipedia.org/wiki/Aksjomat "Aksjomat — polonais")
+  * [پنجابی](https://pnb.wikipedia.org/wiki/%D9%85%D9%86%DB%8C%D8%A7_%D9%BE%D8%B1%D9%85%D9%86%DB%8C%D8%A7 "منیا پرمنیا — Western Punjabi")
+  * [Português](https://pt.wikipedia.org/wiki/Axioma "Axioma — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/Axiom%C4%83 "Axiomă — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BC%D0%B0 "Аксиома — russe")
+  * [Русиньскый](https://rue.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D1%96%D0%BE%D0%BC%D0%B0 "Аксіома — ruthène")
+  * [Саха тыла](https://sah.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BC%D0%B0 "Аксиома — iakoute")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/Assioma "Assioma — sicilien")
+  * [Scots](https://sco.wikipedia.org/wiki/Define:Axiom "Define:Axiom — écossais")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Aksiom "Aksiom — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/Axiom "Axiom — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Axi%C3%B3ma "Axióma — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Aksiom "Aksiom — slovène")
+  * [Shqip](https://sq.wikipedia.org/wiki/Aksioma "Aksioma — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BC%D0%B0 "Аксиома — serbe")
+  * [Sunda](https://su.wikipedia.org/wiki/Aksioma "Aksioma — soundanais")
+  * [Svenska](https://sv.wikipedia.org/wiki/Axiom "Axiom — suédois")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%B3%E0%AF%8D "மெய்கோள் — tamoul")
+  * [Тоҷикӣ](https://tg.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BC%D0%B0 "Аксиома — tadjik")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%9E%E0%B8%88%E0%B8%99%E0%B9%8C "สัจพจน์ — thaï")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Aksiyom "Aksiyom — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D1%96%D0%BE%D0%BC%D0%B0 "Аксіома — ukrainien")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Aksioma "Aksioma — ouzbek")
+  * [Vèneto](https://vec.wikipedia.org/wiki/Asioma "Asioma — vénitien")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Ti%C3%AAn_%C4%91%E1%BB%81 "Tiên đề — vietnamien")
+  * [Winaray](https://war.wikipedia.org/wiki/Aksyoma "Aksyoma — waray")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理 — wu")
+  * [ייִדיש](https://yi.wikipedia.org/wiki/%D7%90%D7%A7%D7%A1%D7%99%D7%90%D7%9D "אקסיאם — yiddish")
+  * [中文](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理 — chinois")
+  * [文言](https://zh-classical.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理 — Classical Chinese")
+  * [Bân-lâm-gú](https://zh-min-nan.wikipedia.org/wiki/Kong-siat "Kong-siat — Chinese \(Min Nan\)")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q17736#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Axiome "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Axiome "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Axiome "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Axiome "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Axiome)
+  * [Modifier](/w/index.php?title=Axiome&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Axiome&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Axiome&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 18 juin 2020 à 02:01.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Axiome "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Axiome&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[XXe]: 20ᵉ siècle
+  *[(en)]: Langue : anglais
+

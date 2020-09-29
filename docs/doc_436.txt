@@ -1,0 +1,1629 @@
+# Calcul des propositions
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Déduction](/wiki/D%C3%A9duction
+"Déduction").
+
+Le **calcul des propositions** ou **calcul propositionnel** fait partie de la
+[logique mathématique](/wiki/Logique_math%C3%A9matique "Logique
+mathématique"). Il a pour objet l'étude des relations logiques entre «
+propositions »[1] et définit les lois formelles selon lesquelles les
+propositions complexes sont formées en assemblant des propositions simples au
+moyen des [connecteurs logiques](/wiki/Connecteur_logique "Connecteur
+logique") et celles-ci sont enchaînées pour produire des raisonnements
+valides. Il est un des [systèmes formels](/wiki/Syst%C3%A8me_formel "Système
+formel"), piliers de la [logique mathématique](/wiki/Logique_math%C3%A9matique
+"Logique mathématique") dont il aide à la formulation des concepts [2]. Il est
+considéré comme la forme moderne de la [logique
+stoïcienne](/wiki/Sto%C3%AFcisme#La_logique "Stoïcisme")[3].
+
+## Sommaire
+
+  * 1 Introduction générale
+    * 1.1 Définition d'une proposition
+    * 1.2 Proposition et prédicat
+    * 1.3 Définition d'un système déductif
+    * 1.4 Structure
+  * 2 Présentation
+    * 2.1 Syntaxe
+      * 2.1.1 Les constituants du langage
+      * 2.1.2 Les formules propositionnelles
+        * 2.1.2.1 Quelques conventions syntaxiques
+      * 2.1.3 Les systèmes déductifs
+        * 2.1.3.1 La déduction à la Hilbert
+        * 2.1.3.2 La déduction naturelle
+        * 2.1.3.3 Le calcul des séquents
+        * 2.1.3.4 Exemples de théorèmes
+        * 2.1.3.5 Commentaires
+    * 2.2 Sémantique
+      * 2.2.1 Interprétation booléenne des connecteurs
+      * 2.2.2 Systèmes complets de connecteurs
+  * 3 Principales propriétés
+    * 3.1 Décidabilité, cohérence, complétude, compacité
+    * 3.2 Méthodes de calcul, NP-complétude
+    * 3.3 Algèbre de Boole
+    * 3.4 Formes normales conjonctives, formes normales disjonctives
+  * 4 Logique classique, minimale, intuitionniste
+    * 4.1 Logique absolue
+    * 4.2 Logique positive
+    * 4.3 Logique minimale
+    * 4.4 Logique intuitionniste
+  * 5 Calcul propositionnel quantifié
+  * 6 Notes et références
+  * 7 Voir aussi
+  * 8 Bibliographie
+
+## Introduction
+générale[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=1
+"Modifier la section : Introduction générale") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=1
+"Modifier la section : Introduction générale")]
+
+La notion de _proposition_ a fait l'objet de nombreux débats au cours de
+l'[histoire de la logique](/wiki/Histoire_de_la_logique "Histoire de la
+logique") ; l'idée consensuelle est qu'une proposition est une construction
+[syntaxique](/wiki/Syntaxe "Syntaxe") censée parler de vérité. En [logique
+mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique"), le
+calcul des propositions est la première étape dans la définition de la logique
+et du raisonnement. Il définit les [règles de
+déduction](/wiki/D%C3%A9duction_logique "Déduction logique") qui relient les
+propositions entre elles, sans en examiner le contenu ; il est ainsi une
+première étape dans la construction du [calcul des
+prédicats](/wiki/Calcul_des_pr%C3%A9dicats "Calcul des prédicats"), qui lui
+s'intéresse au contenu des propositions et qui est une formalisation achevée
+du [raisonnement mathématique](/wiki/Logique_et_raisonnement_math%C3%A9matique
+"Logique et raisonnement mathématique"). Le calcul des propositions, ou
+_calcul propositionnel_ est encore appelé _logique des propositions_ ,
+_logique propositionnelle_ ou _calcul des énoncés_.
+
+### Définition d'une
+proposition[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=2
+"Modifier la section : Définition d'une proposition") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=2
+"Modifier la section : Définition d'une proposition")]
+
+Quoique le calcul des propositions ne se préoccupe pas du contenu des
+propositions, mais seulement de leurs relations, il peut être intéressant de
+discuter ce que pourrait être ce contenu. Une proposition donne une
+information sur un état de chose. Ainsi « 2 + 2 = 4 » ou « le livre est ouvert
+» sont deux propositions.
+
+En logique classique ([logique bivalente](/wiki/Principe_de_bivalence
+"Principe de bivalence")), une proposition peut prendre uniquement les valeurs
+_vrai_ ou _faux_. Une phrase [optative](/wiki/Optatif "Optatif") (qui exprime
+un souhait comme « Que Dieu nous protège ! »), une phrase impérative (« viens
+! », « tais-toi ! ») ou une interrogation n'est pas une proposition. « Que
+Dieu nous protège ! » ne peut être ni vraie ni fausse : elle exprime
+uniquement un souhait du locuteur.
+
+Par contre, une phrase comme « Dans ce calcul, _toutes les variables
+informatiques sont toujours strictement positives_ » est une proposition dont
+le contenu a été modifié par le quantificateur _toutes les_ et la modalité
+temporelle _toujours_ et qui est donc supposée s'avérer dans la durée. Ce type
+de proposition relève de la [logique modale](/wiki/Logique_modale "Logique
+modale") et plus précisément de la [logique
+temporelle](/wiki/Logique_temporelle "Logique temporelle"). En effet, la
+modalité _toujours_ affirme sa pérennité dans le temps et elle sera donc
+toujours vraie, tandis que le quantificateur _tout les_ stipule que la
+proposition _sont toujours positives_ s'applique à toutes les variables
+informatiques, ce qui d'ailleurs sort du domaine du calcul des propositions.
+
+### Proposition et
+prédicat[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=3
+"Modifier la section : Proposition et prédicat") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=3
+"Modifier la section : Proposition et prédicat")]
+
+Si une proposition est une assertion ayant une valeur de vérité, un prédicat
+est lui une expression dont la valeur de vérité dépend de variables qu'elle
+renferme. Le prédicat « Mon pays se situe en Europe » sera vrai, faux ou
+indéterminé en fonction de la valeur de la variable « Mon pays ». Si le
+lecteur est français, on obtiendra la proposition « La France se situe en
+Europe », qui est vraie ; si le lecteur est canadien, on obtiendra la
+proposition « Le Canada se situe en Europe », qui est fausse[4] ; si le
+lecteur est russe, on obtiendra la proposition « La Russie se situe en Europe
+» qui est indéterminée, car, comme on sait la Russie est à cheval sur l'Europe
+et l'Asie[5].
+
+### Définition d'un système
+déductif[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=4
+"Modifier la section : Définition d'un système déductif") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=4
+"Modifier la section : Définition d'un système déductif")]
+
+Un _calcul_ ou un _système déductif_ est, en logique, un ensemble de règles
+permettant en un nombre fini d'étapes et selon des règles explicites de
+déterminer si une proposition est vraie. Un tel procédé s'appelle une
+_démonstration_. On associe aussi aux propositions une structure mathématique
+qui permet de garantir que ces raisonnements ou démonstrations ont du sens, on
+dit qu'on lui a donné une sémantique. En calcul des propositions classique,
+cette sémantique n'utilise que deux valeurs, _vrai_ et _faux_ (souvent notées
+1 et 0). Une proposition entièrement déterminée (c'est-à-dire dont les valeurs
+des constituants élémentaires sont déterminées) ne prend qu'une seule de ces
+deux valeurs.
+
+###
+Structure[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=5
+"Modifier la section : Structure") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=5
+"Modifier la section : Structure")]
+
+Dans les théories de la logique mathématique, on considère donc deux points de
+vue dits [syntaxique](/wiki/Syntaxe "Syntaxe") et
+[sémantique](/wiki/S%C3%A9mantique "Sémantique"), c'est le cas en calcul des
+propositions.
+
+  * _Syntaxe des formules propositionnelles_ : il s’agit de définir le langage du calcul des propositions par les règles d’écriture des propositions.
+  * Le sens des formules propositionnelles (qui sont les expressions syntaxiquement correctes) est donné par le sens des connecteurs. Il peut être décrit de deux façons. 
+    * Par la _sémantique_ : il s’agit ici d'interpréter les symboles représentant les connecteurs logiques par des fonctions de la valeur de vérité des propositions de base (ainsi  ¬ {\displaystyle \lnot } ![\\lnot](https://wikimedia.org/api/rest_v1/media/math/render/svg/099107443792f5fec9bebe39b919a690db7198c1) signifie [non](/wiki/N%C3%A9gation_logique "Négation logique")). Ce sens est donné en logique classique par des [tables de vérité](/wiki/Table_de_v%C3%A9rit%C3%A9 "Table de vérité"), dans d'autres logiques par exemple par des [modèles de Kripke](/wiki/S%C3%A9mantique_de_Kripke "Sémantique de Kripke").
+    * Par la _déduction_ : le sens des connecteurs est décrit de façon opératoire, par des règles purement syntaxiques dites _règles d'inférence_. Ces règles permettent la déduction de propositions à partir d'autres. Elles engendrent des propositions spécifiques que l'on appelle des _théorèmes_.
+
+Pour une logique donnée, les règles de déductions envisagées sont correctes
+vis-à-vis de la sémantique, au sens où à partir de propositions vraies on ne
+peut déduire que des propositions vraies. Si la déduction correspond
+parfaitement à la sémantique le système est dit complet.
+
+Le système exposé ci-dessous se situe dans le cadre de la [logique
+classique](/wiki/Logique_classique "Logique classique"), qui est la branche de
+la logique mathématique la plus utilisée en mathématiques. On trouvera plus
+loin une présentation de logiques non classiques. L'adjectif « classique » ne
+doit pas être pris dans un sens de « normalité », mais comme un attribut que
+lui a donné l'[histoire de la logique](/wiki/Histoire_de_la_logique "Histoire
+de la logique"), elle aurait tout aussi bien pu s'appeler « booléenne ».
+
+##
+Présentation[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=6
+"Modifier la section : Présentation") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=6
+"Modifier la section : Présentation")]
+
+###
+Syntaxe[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=7
+"Modifier la section : Syntaxe") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=7
+"Modifier la section : Syntaxe")]
+
+#### Les constituants du
+langage[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=8
+"Modifier la section : Les constituants du langage") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=8
+"Modifier la section : Les constituants du langage")]
+
+À la base de la syntaxe du calcul des propositions sont les **variables
+propositionnelles** ou **propositions atomiques** , notées _p_ , _q_ , etc.,
+qui constituent généralement un ensemble infini
+[dénombrable](/wiki/Ensemble_d%C3%A9nombrable "Ensemble dénombrable").
+
+Les deuxièmes constituants de base du langage du calcul des propositions sont
+les **opérateurs** ou **connecteurs**. Ce sont des symboles qui permettent de
+construire des propositions plus élaborées. Les plus courants de ces
+connecteurs logiques sont :
+
+**et** |  ∧ {\displaystyle \wedge } ![\\wedge
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/1caa4004cb216ef2930bb12fe805a76870caed94)  
+---|---  
+**ou** |  ∨ {\displaystyle \vee } ![\\vee
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/7b76220c6805c9b465d6efbc7686c624f49f3023)  
+**non** |  ¬ {\displaystyle \neg } ![\\neg
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/fa78fd02085d39aa58c9e47a6d4033ce41e02fad)  
+**implique** |  -> {\displaystyle \rightarrow } ![\\rightarrow
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/53e574cc3aa5b4bf5f3f5906caf121a378eef08b)  
+**équivaut à** |  ↔ {\displaystyle \leftrightarrow } ![{\\displaystyle
+\\leftrightarrow
+}](https://wikimedia.org/api/rest_v1/media/math/render/svg/046b918c43e05caf6624fe9b676c69ec9cd6b892)  
+  
+On considère souvent aussi la constante notée ⊥, prononcé « taquet vers le
+haut »[6], « [type vide](/wiki/Type_vide "Type vide") », « _bottom_ » ou « bot
+», qui vise à représenter le _faux_.
+
+À côté de ces symboles on utilise des parenthèses pour lever les ambiguïtés
+dans les formules (choix adopté ci-dessous), ou une notation comme la
+[notation polonaise](/wiki/Notation_polonaise "Notation polonaise"), inventée
+par le logicien polonais [Jan Łukasiewicz](/wiki/Jan_%C5%81ukasiewicz "Jan
+Łukasiewicz"). Il est important que la définition des formules soit simple et
+sans ambiguïtés, pour permettre en particulier les définitions inductives sur
+la structure des formules, mais pratiquement il est possible d'économiser les
+parenthèses, soit en adoptant certaines conventions pour lever les ambiguïtés,
+soit parce que le contexte fait que ces ambiguïtés sont sans importance.
+
+#### Les formules
+propositionnelles[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=9
+"Modifier la section : Les formules propositionnelles") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=9
+"Modifier la section : Les formules propositionnelles")]
+
+Article détaillé : [Formule propositionnelle](/wiki/Formule_propositionnelle
+"Formule propositionnelle").
+
+Le calcul des propositions repose de plus sur des règles de formation
+indiquant comment construire des propositions complexes à partir des
+propositions élémentaires, ou atomes, que sont les variables
+propositionnelles, et d'éventuelles constantes comme ⊥. Ces règles déterminent
+quels assemblages de signes, quels mots, sont bien formés et désignent des
+propositions. La définition dépend d'un choix de connecteurs, et d'un choix
+d'atomes.
+
+On se donne un ensemble  P {\displaystyle {}{\mathcal {P}}} ![{\\displaystyle
+{}{\\mathcal
+{P}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/913a3ac01c88b03f4deb6c8a93c53bc2e4b2e8a8)
+de variables propositionnelles. L'ensemble des formules du calcul des
+propositions (sur  P {\displaystyle {}{\mathcal {P}}} ![{\\displaystyle
+{}{\\mathcal
+{P}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/913a3ac01c88b03f4deb6c8a93c53bc2e4b2e8a8)),
+ou simplement des propositions, est défini par induction, c'est-à-dire que
+c'est le plus petit ensemble tel que :
+
+  * une [variable propositionnelle](/wiki/Variable_propositionnelle "Variable propositionnelle") _p_ de  P {\displaystyle {}{\mathcal {P}}} ![{\\displaystyle {}{\\mathcal {P}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/913a3ac01c88b03f4deb6c8a93c53bc2e4b2e8a8) est une formule ;
+  * ⊥ est une formule ;
+  * si _P_ et _Q_ sont des formules, alors ( _P_ ∧ _Q_ ), ( _P_ ∨ _Q_ ), ( _P_ → _Q_ ), ( _P_ ↔ _Q_ ) et ¬ _P_ sont des propositions.
+
+_Exemples_ : Si _P_ , _Q_ et _R_ sont des propositions,
+
+    
+
+    ( _P_ → _Q_ ) → (¬ _Q_ → ¬ _P_ ) est une proposition.
+    ( _P_ → ⊥) → ⊥ est une proposition.
+    _P_ ∧ ¬ _P_ est une proposition.
+    ( _P_ ∧ _Q_ ) ∨ _R_ est une proposition.
+    _P_ ∧ _Q_ ∨ n'est pas une proposition.
+
+##### Quelques conventions
+syntaxiques[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=10
+"Modifier la section : Quelques conventions syntaxiques") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=10
+"Modifier la section : Quelques conventions syntaxiques")]
+
+Afin d'alléger la présentation des expressions sans mettre en péril l'absence
+d'ambiguïté, on autorise par des conventions syntaxiques certaines entorses à
+la définition ci-dessus.
+
+  * On omet généralement les parenthèses extrêmes des formules.
+
+  * On supprime souvent les parenthèses en _associant_ les expressions de gauche à droite quand il s'agit du même connecteur : _A_ ∧ _B_ ∧ _C_ pour (( _A_ ∧ _B_ ) ∧ _C_ ).
+
+  * L'implication constitue un cas particulier. Par convention, elle est associative à droite : _A_ → _B_ → _C_ → _D_ se lit _A_ → ( _B_ → ( _C_ → _D_ )).
+
+Pour la lisibilité, on utilise également plusieurs formes de parenthèses
+(taille, remplacement par des crochets...)
+
+Par ailleurs, on démontre que seules les parenthèses ouvrantes sont
+nécessaires à la non-ambiguïté de la lecture des formules qui pour cette
+raison sont remplacées par un point "." dans certaines notations.
+
+#### Les systèmes
+déductifs[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=11
+"Modifier la section : Les systèmes déductifs") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=11
+"Modifier la section : Les systèmes déductifs")]
+
+Article détaillé : [Logique mathématique#Systèmes de
+déduction](/wiki/Logique_math%C3%A9matique#Systèmes_de_déduction "Logique
+mathématique").
+
+Le calcul des propositions permet de présenter les trois systèmes déductifs
+les plus connus. On se limite pour cela aux propositions contenant, outre les
+variables propositionnelles, seulement des implications, des disjonctions et
+des occurrences de _faux_ autrement dit de ⊥. On admet que ¬ _P_ est une
+abréviation de _P_ → ⊥. Si _P_ est un théorème, autrement dit une proposition
+qui a une démonstration, on note cela par ⊢ _P_.
+
+Les systèmes déductifs utilisent des **règles de déduction** (appelées aussi
+_règles d'inférence_ ) qui s'écrivent:
+
+φ 1 . . . φ n ψ . {\displaystyle {\frac {\varphi _{1}\quad ...\quad \varphi
+_{n}}{\psi }}.} ![{\\frac  {\\varphi _{1}\\quad ...\\quad \\varphi _{n}}{\\psi
+}}.](https://wikimedia.org/api/rest_v1/media/math/render/svg/a11c3621da8bd781daef6cdb38211543e26e1827)
+
+Les  φ i {\displaystyle \varphi _{i}} ![\\varphi
+_{i}](https://wikimedia.org/api/rest_v1/media/math/render/svg/70503774fb21be77396899900d3aa1e47d8f9e10)
+sont appelées les **prémisses** et  ψ {\displaystyle \psi }
+![\\psi](https://wikimedia.org/api/rest_v1/media/math/render/svg/45e5789e5d9c8f7c79744f43ecaaf8ba42a8553a)
+est appelée la **conclusion**.
+
+##### La déduction à la
+Hilbert[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=12
+"Modifier la section : La déduction à la Hilbert") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=12
+"Modifier la section : La déduction à la Hilbert")]
+
+Article détaillé : [système à la Hilbert](/wiki/Syst%C3%A8me_%C3%A0_la_Hilbert
+"Système à la Hilbert").
+
+Il n'y a qu'une seule règle appelée le _[modus ponens](/wiki/Modus_ponens
+"Modus ponens")_ , elle s'écrit :
+
+⊢ ( P -> Q ) ⊢ P ⊢ Q . {\displaystyle {\frac {\vdash (P\to Q)\quad \vdash
+P}{\vdash Q}}.} ![{\\frac  {\\vdash \(P\\to Q\)\\quad \\vdash P}{\\vdash
+Q}}.](https://wikimedia.org/api/rest_v1/media/math/render/svg/423b4421b685eecf37b6f35f843d2e174d1bd0ca)
+
+Elle peut se comprendre ainsi : _si P -> Q {\displaystyle P\to Q} ![P\\to
+Q](https://wikimedia.org/api/rest_v1/media/math/render/svg/d7cad5b2c2991ae1dbded560c5d875fbf49fe8ea)
+est un théorème et  P {\displaystyle P}
+![P](https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a)
+est un théorème alors  Q {\displaystyle Q}
+![Q](https://wikimedia.org/api/rest_v1/media/math/render/svg/8752c7023b4b3286800fe3238271bbca681219ed)
+est un théorème_. À cela, on peut ajouter :
+
+    trois axiomes pour l'implication et le _faux_ : 
+
+    
+
+  * ⊢ P -> ( Q -> P ) {\displaystyle \vdash P\to (Q\to P)} ![\\vdash P\\to \(Q\\to P\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/d40e8f6217fd0b9c35224fa6f7fc7eca9ca5dea2),
+  * ⊢ ( P -> ( Q -> R ) ) -> ( ( P -> Q ) -> ( P -> R ) ) {\displaystyle \vdash (P\to (Q\to R))\to ((P\to Q)\to (P\to R))} ![\\vdash \(P\\to \(Q\\to R\)\)\\to \(\(P\\to Q\)\\to \(P\\to R\)\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/b89ad0fec41651af118aa17da2a56b2d51431ca7),
+  * ⊢ ( ¬ P -> ¬ Q ) -> ( Q -> P ) {\displaystyle \vdash (\lnot P\to \lnot Q)\to (Q\to P)} ![\\vdash \(\\lnot P\\to \\lnot Q\)\\to \(Q\\to P\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/beba6e45113afe41263c7c191ff9f9589ffeb761) ;
+
+    trois axiomes pour la disjonction : 
+
+    
+
+  * ( P -> R ) -> ( ( Q -> R ) -> ( ( P ∨ Q ) -> R ) ) {\displaystyle {\big (}P\to R)\to ((Q\to R)\to ((P\vee Q)\to R))} ![{\\big \(}P\\to R\)\\to \(\(Q\\to R\)\\to \(\(P\\vee Q\)\\to R\)\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/105de871524e5fd837aff06e250a6719280e1e61),
+  * P -> ( P ∨ Q ) {\displaystyle P\to {\big (}P\vee Q)} ![P\\to {\\big \(}P\\vee Q\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/58c2d9cb4610f8d860542905d473d4ecc988b6fa),
+  * Q -> ( P ∨ Q ) {\displaystyle Q\to {\big (}P\vee Q)} ![Q\\to {\\big \(}P\\vee Q\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/5d8fadd650f2dfedbd7531ee9b00389615c2c6c5).
+
+    trois axiomes pour la conjonction : 
+
+    
+
+  * ( R -> P ) -> ( ( R -> Q ) -> ( R -> ( P ∧ Q ) ) ) {\displaystyle {\big (}R\to P)\to ((R\to Q)\to (R\to (P\wedge Q)))} ![{\\displaystyle {\\big \(}R\\to P\)\\to \(\(R\\to Q\)\\to \(R\\to \(P\\wedge Q\)\)\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/feb78a74d011923d174924604e7672505789f26c),
+  * ( P ∧ Q ) -> P {\displaystyle {\big (}P\wedge Q)\to P} ![{\\displaystyle {\\big \(}P\\wedge Q\)\\to P}](https://wikimedia.org/api/rest_v1/media/math/render/svg/bbb240eec3b1c1042da7172d2b6b704389f348f7).
+  * ( P ∧ Q ) -> Q {\displaystyle {\big (}P\wedge Q)\to Q} ![{\\displaystyle {\\big \(}P\\wedge Q\)\\to Q}](https://wikimedia.org/api/rest_v1/media/math/render/svg/daa316e29be3f59a4937897da87a254ba838abfb).
+
+##### La déduction
+naturelle[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=13
+"Modifier la section : La déduction naturelle") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=13
+"Modifier la section : La déduction naturelle")]
+
+Alors que la déduction à la Hilbert manipule et démontre des théorèmes, la
+[déduction naturelle](/wiki/D%C3%A9duction_naturelle "Déduction naturelle")
+démontre des propositions sous des hypothèses et quand il n'y a pas (plus)
+d'hypothèses, ce sont des théorèmes. Pour dire qu'une proposition  P
+{\displaystyle P}
+![P](https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a)
+est conséquence d'un ensemble  Γ {\displaystyle \Gamma } ![\\Gamma
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/4cfde86a3f7ec967af9955d0988592f0693d2b19)
+d'hypothèses, on écrit  Γ ⊢ P {\displaystyle \Gamma \vdash P} ![\\Gamma
+\\vdash
+P](https://wikimedia.org/api/rest_v1/media/math/render/svg/9df165f6098a08849309a503060e2b902b1858f9).
+Alors que dans la déduction à la Hilbert, il n'y a qu'une règle et plusieurs
+axiomes, dans la déduction naturelle il y a un seul axiome et plusieurs
+règles. Pour chaque connecteur, on classe les règles en _règles
+d'introduction_ et en _règles d'élimination_.
+
+  * L' **axiome** est  Γ , P ⊢ P {\displaystyle \Gamma ,P\vdash P} ![\\Gamma ,P\\vdash P](https://wikimedia.org/api/rest_v1/media/math/render/svg/b967da30dc38b7b1b9cd96b67f55e8963784b5f2).
+  * La règle d' **introduction de l'implication** :
+
+     Γ , P ⊢ Q Γ ⊢ P -> Q {\displaystyle {\frac {\Gamma ,P\vdash Q}{\Gamma \vdash P\to Q}}} ![{\\frac  {\\Gamma ,P\\vdash Q}{\\Gamma \\vdash P\\to Q}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a452fb44fca33297e4c80ab3f0adc87ac01d8138)
+
+  * La règle d' **élimination de l'implication** :
+
+     Γ ⊢ P -> Q Γ ⊢ P Γ ⊢ Q {\displaystyle {\frac {\Gamma \vdash P\to Q\qquad \Gamma \vdash P}{\Gamma \vdash Q}}} ![{\\frac  {\\Gamma \\vdash P\\to Q\\qquad \\Gamma \\vdash P}{\\Gamma \\vdash Q}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/08e04a01c451781b086f4771fc506162c35e56c0)
+
+  * Les deux règles d' **[introduction de la disjonction](/wiki/Introduction_de_la_disjonction "Introduction de la disjonction")** , droite et gauche:
+
+     Γ ⊢ P Γ ⊢ P ∨ Q Γ ⊢ Q Γ ⊢ P ∨ Q {\displaystyle {\frac {\Gamma \vdash P}{\Gamma \vdash P\vee Q}}\qquad \qquad {\frac {\Gamma \vdash Q}{\Gamma \vdash P\vee Q}}} ![{\\frac  {\\Gamma \\vdash P}{\\Gamma \\vdash P\\vee Q}}\\qquad \\qquad {\\frac  {\\Gamma \\vdash Q}{\\Gamma \\vdash P\\vee Q}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e4535e41ac7d40d2006f87c1bb538caa5a9b414c)
+
+  * La règle d' **élimination de la disjonction** :
+
+     Γ ⊢ P ∨ Q Γ , P ⊢ R Γ , Q ⊢ R Γ ⊢ R {\displaystyle {\frac {\Gamma \vdash P\vee Q\qquad \Gamma ,P\vdash R\qquad \Gamma ,Q\vdash R}{\Gamma \vdash R}}} ![{\\frac  {\\Gamma \\vdash P\\vee Q\\qquad \\Gamma ,P\\vdash R\\qquad \\Gamma ,Q\\vdash R}{\\Gamma \\vdash R}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/76ec54f011f03a2855adee25dd13a47e0f9271a9)
+
+  * La règle d' **élimination du faux** :
+
+     Γ ⊢⊥ Γ ⊢ P {\displaystyle {\frac {\Gamma \vdash \perp }{\Gamma \vdash P}}} ![{\\frac  {\\Gamma \\vdash \\perp }{\\Gamma \\vdash P}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/87426b14e1371a9931a708dccf377f0bdcfd2f1e)
+
+En outre, il y a une règle de **réduction à l'absurde** , nécessaire en
+logique classique:
+
+     Γ , ¬ P ⊢⊥ Γ ⊢ P {\displaystyle {\frac {\Gamma ,\neg P\vdash \perp }{\Gamma \vdash P}}} ![{\\frac  {\\Gamma ,\\neg P\\vdash \\perp }{\\Gamma \\vdash P}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/c485e3c645a2dc373582972a832dc3dc10b2ea88)
+
+On remarquera que la règle d'élimination de l'implication est très proche du
+_modus ponens_ , d'ailleurs on l'appelle aussi _modus ponens_. On remarquera
+qu'il n'y pas de règle d'introduction du _faux_ et que la règle d'élimination
+du _faux_ revient à dire que si d'un ensemble d'hypothèses je déduis le _faux_
+(ou l'absurde) alors de ce même ensemble je peux déduire n'importe quoi. On
+remarquera que la réduction à l'absurde est la règle qui correspond au
+raisonnement par l'absurde: pour démontrer  P {\displaystyle P}
+![P](https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a),
+on ajoute  ¬ P {\displaystyle \neg P} ![\\neg
+P](https://wikimedia.org/api/rest_v1/media/math/render/svg/5eb0d6c8752f8c7256d69c62e77dfe4c466dbe58)
+aux hypothèses et si l'on obtient l'absurde, alors on a  P {\displaystyle P}
+![P](https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a).
+
+##### Le [calcul des séquents](/wiki/Calcul_des_s%C3%A9quents "Calcul des
+séquents")[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=14
+"Modifier la section : Le calcul des séquents") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=14
+"Modifier la section : Le calcul des séquents")]
+
+L'une des idées qui ont conduit au calcul des séquents est de n'avoir plus que
+des règles d'introduction en plus d'une règle que l'on appelle **coupure** et
+de **règles structurelles**. Pour cela, on utilise des formules que l'on
+appelle des séquents et qui sont de la forme  Γ ⊢ Δ {\displaystyle \Gamma
+\vdash \Delta } ![\\Gamma \\vdash \\Delta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/d7504f294a8440311c63a42e54fa7f79b4fd4d07)
+où  Γ {\displaystyle \Gamma } ![\\Gamma
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/4cfde86a3f7ec967af9955d0988592f0693d2b19)
+et  Δ {\displaystyle \Delta } ![\\Delta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/32769037c408874e1890f77554c65f39c523ebe2)
+sont des [multiensembles](/wiki/Multiensemble "Multiensemble") de
+propositions. Le séquent  P 1 , . . . , P m ⊢ Q 1 , . . . , Q n {\displaystyle
+P_{1},...,P_{m}\vdash Q_{1},...,Q_{n}} ![P_{1},...,P_{m}\\vdash
+Q_{1},...,Q_{n}](https://wikimedia.org/api/rest_v1/media/math/render/svg/9864b2b7470ba144c71416228244897f1edd855b)
+s'interprète comme l'assertion _de la conjonction des P i {\displaystyle
+P_{i}}
+![P_i](https://wikimedia.org/api/rest_v1/media/math/render/svg/3ba1396129f7be3c7f828a571b6649e6807d10d3)
+on déduit la disjonction des  Q j {\displaystyle Q_{j}}
+![Q_{j}](https://wikimedia.org/api/rest_v1/media/math/render/svg/5db0ad37e47589c5a9f270ca9c06affdacd6c66f)_.
+Les  P i {\displaystyle P_{i}}
+![P_i](https://wikimedia.org/api/rest_v1/media/math/render/svg/3ba1396129f7be3c7f828a571b6649e6807d10d3)
+sont appelés les **antécédents** et les  Q j {\displaystyle Q_{j}}
+![Q_{j}](https://wikimedia.org/api/rest_v1/media/math/render/svg/5db0ad37e47589c5a9f270ca9c06affdacd6c66f)
+sont appelés les **conséquents**. Si la liste des antécédents est vide on
+écrit  ⊢ Δ {\displaystyle \vdash \Delta } ![\\vdash \\Delta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/e13efdd0b8440b8445ef38166d8a802cf46968bd),
+si la liste des conséquents est vide on écrit  Γ ⊢ {\displaystyle \Gamma
+\vdash } ![\\Gamma \\vdash
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/159c29b68185b46f2059ebc52ffa8c75c9f8e026).
+Un théorème est encore un séquent sans antécédents et avec un seul conséquent.
+
+  * L' **axiome** est  A ⊢ A {\displaystyle A\vdash A} ![A\\vdash A](https://wikimedia.org/api/rest_v1/media/math/render/svg/6627a49a818281679e6699d646d0fd6a2ddd34fe).
+
+  * **Introduction de l'implication à droite** :
+
+    
+
+     Γ , A ⊢ Δ , B Γ ⊢ Δ , A -> B {\displaystyle {\frac {\Gamma ,A\vdash \Delta ,B}{\Gamma \vdash \Delta ,A\to B}}} ![{\\frac  {\\Gamma ,A\\vdash \\Delta ,B}{\\Gamma \\vdash \\Delta ,A\\to B}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/2bbb1497efcd2c69aa0abf8d439e96e6f3536971)
+
+  * **Introduction de l'implication à gauche** :
+
+    
+
+     Γ , A ⊢ Δ Γ ′ ⊢ Δ ′ , B Γ , Γ ′ , B -> A ⊢ Δ , Δ ′ {\displaystyle {\frac {\Gamma ,A\vdash \Delta \qquad \Gamma '\vdash \Delta ',B}{\Gamma ,\Gamma ',B\to A\vdash \Delta ,\Delta '}}} ![{\\frac  {\\Gamma ,A\\vdash \\Delta \\qquad \\Gamma '\\vdash \\Delta ',B}{\\Gamma ,\\Gamma ',B\\to A\\vdash \\Delta ,\\Delta '}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f8207f75eb83ae15896872fdea394959a8b6f97f)
+
+  * **Introduction de la disjonction à droite** :
+
+    
+
+     Γ ⊢ Δ , A , B Γ ⊢ Δ , A ∨ B {\displaystyle {\frac {\Gamma \vdash \Delta ,A,B}{\Gamma \vdash \Delta ,A\vee B}}} ![{\\frac  {\\Gamma \\vdash \\Delta ,A,B}{\\Gamma \\vdash \\Delta ,A\\vee B}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a9b39960de4bb9b7546ab21d01cd775df9feeeb7)
+
+  * **Introduction de la disjonction à gauche** :
+
+    
+
+     Γ , A ⊢ Δ Γ ′ , B ⊢ Δ ′ Γ , Γ ′ , A ∨ B ⊢ Δ , Δ ′ {\displaystyle {\frac {\Gamma ,A\vdash \Delta \qquad \Gamma ',B\vdash \Delta '}{\Gamma ,\Gamma ',A\vee B\vdash \Delta ,\Delta '}}} ![{\\frac  {\\Gamma ,A\\vdash \\Delta \\qquad \\Gamma ',B\\vdash \\Delta '}{\\Gamma ,\\Gamma ',A\\vee B\\vdash \\Delta ,\\Delta '}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8c6ba81215fc9fe1c3ec2cb5ab1b686beadcea3e)
+
+  * **Introduction du faux à droite** :
+
+    
+
+     Γ ⊢ Δ Γ ⊢ Δ , ⊥ {\displaystyle {\frac {\Gamma \vdash \Delta }{\Gamma \vdash \Delta ,\perp }}} ![{\\frac  {\\Gamma \\vdash \\Delta }{\\Gamma \\vdash \\Delta ,\\perp }}](https://wikimedia.org/api/rest_v1/media/math/render/svg/5b809d9d212d146d1599fb30b62487eec6773044)
+
+  * **Introduction du faux à gauche** , il a la forme d'un axiome :  ⊥ ⊢ {\displaystyle \quad \perp \ \vdash } ![\\quad \\perp \\ \\vdash ](https://wikimedia.org/api/rest_v1/media/math/render/svg/a006a0f7848e17ca733a49acac632a884445fbca)
+
+  * **Coupure** :
+
+    
+
+     Γ ⊢ Δ , A Γ ′ , A ⊢ Δ ′ Γ , Γ ′ ⊢ Δ , Δ ′ {\displaystyle {\frac {\Gamma \vdash \Delta ,A\qquad \Gamma ',A\vdash \Delta '}{\Gamma ,\Gamma '\vdash \Delta ,\Delta '}}} ![{\\frac  {\\Gamma \\vdash \\Delta ,A\\qquad \\Gamma ',A\\vdash \\Delta '}{\\Gamma ,\\Gamma '\\vdash \\Delta ,\\Delta '}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ab95be770c77aced3e70ac625fb22e9bd3bcfa10)
+
+  * **Affaiblissements** :
+
+    
+
+     Γ ⊢ Δ Γ , A ⊢ Δ Γ ⊢ Δ Γ ⊢ Δ , A {\displaystyle {\frac {\Gamma \vdash \Delta }{\Gamma ,A\vdash \Delta }}\qquad {\frac {\Gamma \vdash \Delta }{\Gamma \vdash \Delta ,A}}} ![{\\frac  {\\Gamma \\vdash \\Delta }{\\Gamma ,A\\vdash \\Delta }}\\qquad {\\frac  {\\Gamma \\vdash \\Delta }{\\Gamma \\vdash \\Delta ,A}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/67b3bcbc5afce57ddf248e42ef6df442cc4ad839)
+
+  * **Contractions**
+
+    
+
+     Γ , A , A ⊢ Δ Γ , A ⊢ Δ Γ ⊢ Δ , A , A Γ ⊢ Δ , A {\displaystyle {\frac {\Gamma ,A,A\vdash \Delta }{\Gamma ,A\vdash \Delta }}\qquad {\frac {\Gamma \vdash \Delta ,A,A}{\Gamma \vdash \Delta ,A}}} ![{\\frac  {\\Gamma ,A,A\\vdash \\Delta }{\\Gamma ,A\\vdash \\Delta }}\\qquad {\\frac  {\\Gamma \\vdash \\Delta ,A,A}{\\Gamma \\vdash \\Delta ,A}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a8b7db2d92e9e1e01096d87dc6e64c46d316e3)
+
+Une coupure traduit l'attitude du mathématicien qui démontre un lemme (la
+proposition  A {\displaystyle A}
+![A](https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3))
+dont il se sert ailleurs dans la démonstration d'un théorème. Ce lemme peut
+exprimer quelque chose qui n'a rien à voir avec le théorème principal, d'où le
+souhait d'éliminer ces lemmes qui sont comme des détours dans la progression
+vers le résultat principal[7]. Un affaiblissement correspond à l'ajout d'une
+proposition superflue soit comme antécédent, soit comme conséquent.
+
+##### Exemples de
+théorèmes[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=15
+"Modifier la section : Exemples de théorèmes") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=15
+"Modifier la section : Exemples de théorèmes")]
+
+Nous indiquons ci-dessous une liste de théorèmes qu'on peut démontrer à l'aide
+des règles précédentes, ainsi que le nom usuel qui leur est attribué par la
+tradition.
+
+    
+
+     ( A -> A ) {\displaystyle {\big (}A\rightarrow \;A)} ![{\\big \(}A\\rightarrow \\;A\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/b9e8430b1796d5cfccfd8a08c3ecf4258374bf8f) | [identité](/wiki/Fonction_identit%C3%A9 "Fonction identité")  
+---|---  
+A ∨ ¬ A {\displaystyle A\lor \lnot A} ![A\\lor \\lnot
+A](https://wikimedia.org/api/rest_v1/media/math/render/svg/42bc39c90e40298464f5f82377cb9e7ed52e938f)
+| [tiers exclu](/wiki/Principe_du_tiers_exclu "Principe du tiers exclu")  
+A -> ¬ ¬ A {\displaystyle A\rightarrow \lnot \lnot A} ![A\\rightarrow \\lnot
+\\lnot
+A](https://wikimedia.org/api/rest_v1/media/math/render/svg/8ada922aa8eaf12e8d5a280761d63608a78d9185)
+| double négation  
+¬ ¬ A -> A {\displaystyle \lnot \lnot A\rightarrow A} ![\\lnot \\lnot
+A\\rightarrow
+A](https://wikimedia.org/api/rest_v1/media/math/render/svg/877eb62d52dd33d941de056d24db7595c7be3092)
+| double négation classique  
+( ( A -> B ) -> A ) -> A {\displaystyle {\big (}{\big (}A\to B{\big )}\to
+A{\big )}\to A} ![{\\big \(}{\\big \(}A\\to B{\\big \)}\\to A{\\big \)}\\to
+A](https://wikimedia.org/api/rest_v1/media/math/render/svg/be25eb6a96bcb139baa9f13f31203e993ed1c8fe)
+| [loi de Peirce](/wiki/Loi_de_Peirce "Loi de Peirce")  
+¬ ( A ∧ ¬ A ) {\displaystyle \lnot (A\land \lnot A)} ![\\lnot \(A\\land \\lnot
+A\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/b138007b0bda898710160b7831c4732388ae8148)
+| [non contradiction](/wiki/Loi_de_non-contradiction "Loi de non-
+contradiction")  
+¬ ( A ∧ B ) ↔ ( ¬ A ∨ ¬ B ) {\displaystyle \lnot (A\land B)\leftrightarrow
+(\lnot A\lor \lnot B)} ![\\lnot \(A\\land B\)\\leftrightarrow \(\\lnot A\\lor
+\\lnot
+B\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/17a937b124e5c449791bb0cbe4c51124c16c6140)
+| [lois de De Morgan](/wiki/Lois_de_De_Morgan "Lois de De Morgan")  
+¬ ( A ∨ B ) ↔ ( ¬ A ∧ ¬ B ) {\displaystyle \lnot (A\lor B)\leftrightarrow
+(\lnot A\land \lnot B)} ![\\lnot \(A\\lor B\)\\leftrightarrow \(\\lnot A\\land
+\\lnot
+B\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/d42d8dc66c19a72eb3e5e894308a36f46770ff3d)  
+( A -> B ) -> ( ¬ B -> ¬ A ) {\displaystyle (A\to B)\to (\lnot B\to \lnot A)}
+![\(A\\to B\)\\to \(\\lnot B\\to \\lnot
+A\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/e65b67a220aac1e11c7bdec3d9d117613d53b543)
+| [contraposition](/wiki/Proposition_contrapos%C3%A9e "Proposition
+contraposée")  
+( ( A -> B ) ∧ A ) -> B {\displaystyle {\big (}(A\to B)\land A)\to B} ![{\\big
+\(}\(A\\to B\)\\land A\)\\to
+B](https://wikimedia.org/api/rest_v1/media/math/render/svg/cc4f56595f442635509af882b9e59417ced8cf8c)
+| [modus ponens](/wiki/Modus_ponens "Modus ponens") (propositionnel)  
+( ( A -> B ) ∧ ¬ B ) -> ¬ A {\displaystyle ((A\to B)\land \lnot B)\to \lnot A}
+![\(\(A\\to B\)\\land \\lnot B\)\\to \\lnot
+A](https://wikimedia.org/api/rest_v1/media/math/render/svg/a493c8efb8356b055672352e1e8ba03df3cc665e)
+| [modus tollens](/wiki/Modus_tollens "Modus tollens") (propositionnel)  
+( ( A -> B ) ∧ ( B -> C ) ) -> ( A -> C ) {\displaystyle {\big (}(A\to B)\land
+(B\to C))\to (A\to C)} ![{\\big \(}\(A\\to B\)\\land \(B\\to C\)\)\\to \(A\\to
+C\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/83700e3cde504834ffa24d6305e2dc026c1e21ee)
+| [modus barbara](/wiki/Syllogisme "Syllogisme") (propositionnel)  
+( A -> B ) -> ( ( B -> C ) -> ( A -> C ) ) {\displaystyle (A\to B)\to {\big
+(}(B\to C)\to (A\to C){\big )}} ![\(A\\to B\)\\to {\\big \(}\(B\\to C\)\\to
+\(A\\to C\){\\big
+\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/26d3cf02171e77b0e5769c1c4042ba31232f7df2)
+| modus barbara (implicatif)  
+( A ∧ ( B ∨ C ) ) ↔ ( ( A ∧ B ) ∨ ( A ∧ C ) ) {\displaystyle {\big (}A\land
+(B\lor C))\leftrightarrow ((A\land B)\lor (A\land C))} ![{\\big \(}A\\land
+\(B\\lor C\)\)\\leftrightarrow \(\(A\\land B\)\\lor \(A\\land
+C\)\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/2e25f9f3547f678d60956b9b3ae5638808796b27)
+| [distributivité](/wiki/Distributivit%C3%A9 "Distributivité")  
+( A ∨ ( B ∧ C ) ) ↔ ( ( A ∨ B ) ∧ ( A ∨ C ) ) {\displaystyle {\big (}A\lor
+(B\land C))\leftrightarrow ((A\lor B)\land (A\lor C))} ![{\\big \(}A\\lor
+\(B\\land C\)\)\\leftrightarrow \(\(A\\lor B\)\\land \(A\\lor
+C\)\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/cd857f8bfc4f54798060672315c80c03d27c6904)  
+  
+#####
+Commentaires[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=16
+"Modifier la section : Commentaires") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=16
+"Modifier la section : Commentaires")]
+
+Les trois systèmes utilisent le même symbole  ⊢ {\displaystyle \vdash }
+![\\vdash
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/a0c0d30cf8cb7dba179e317fcde9583d842e80f6),
+mais cette notation est cohérente. Le format  Γ ⊢ P {\displaystyle \Gamma
+\vdash P} ![\\Gamma \\vdash
+P](https://wikimedia.org/api/rest_v1/media/math/render/svg/9df165f6098a08849309a503060e2b902b1858f9)
+utilisé pour la déduction naturelle est en fait un séquent dans lequel il n'y
+a qu'une seule conclusion, on parle alors d'un séquent naturel. Le format  ⊢ P
+{\displaystyle \vdash P} ![\\vdash
+P](https://wikimedia.org/api/rest_v1/media/math/render/svg/7daaeb8a5a3117f00353de8cb053adfeacdcb40b)
+utilisé pour les théorèmes dans les systèmes à la Hilbert correspond à un
+séquent naturel où il n'y a pas d'hypothèse.
+
+On peut montrer que ces trois systèmes sont équivalents dans le sens où ils
+ont exactement les mêmes théorèmes.
+
+L'aspect « classique » du calcul des propositions est obtenu, dans le système
+à la Hilbert, par l'axiome de contraposition  ⊢ ( ¬ P -> ¬ Q ) -> ( Q -> P )
+{\displaystyle \vdash (\lnot P\to \lnot Q)\to (Q\to P)} ![\\vdash \(\\lnot
+P\\to \\lnot Q\)\\to \(Q\\to
+P\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/beba6e45113afe41263c7c191ff9f9589ffeb761),
+il apparaît dans la déduction naturelle à travers la réduction à l'absurde. Le
+calcul des séquents est classique, mais si l'on se restreint aux séquents avec
+un seul conséquent, il devient intuitionniste.
+
+###
+Sémantique[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=17
+"Modifier la section : Sémantique") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=17
+"Modifier la section : Sémantique")]
+
+Article détaillé : [Théorie des modèles](/wiki/Th%C3%A9orie_des_mod%C3%A8les
+"Théorie des modèles").
+
+La sémantique détermine les règles d'interprétations des propositions.
+Attribuer des valeurs de vérité[8] à chacune des propositions élémentaires
+intervenant dans une proposition revient à choisir un
+[modèle](/wiki/Th%C3%A9orie_des_mod%C3%A8les "Théorie des modèles") de cette
+proposition.
+
+De façon plus précise, si l'on se place en logique classique[9],
+l'interprétation d'une proposition _A_ est le fait d'attribuer une valeur de
+vérité (0 ou 1) aux variables propositionnelles et à expliquer comment les
+connecteurs se comportent vis-à-vis des valeurs de vérité. On donne ce
+comportement par une table de vérité. De cette manière on peut donner une
+valeur 0 ou 1 à chaque proposition qui dépend des valeurs prises par les
+tables de vérité. Il existe trois cas d'interprétation:
+
+  * Quand la proposition prend toujours la valeur 0 quelles que soient les valeurs des variables propositionnelles, la proposition est dite être une **antilogie** ou une **contradiction**. On dit également qu'elle est **insatisfaisable**.
+  * Lorsque la proposition _A_ prend toujours la valeur 1, _A_ est une **tautologie**. On dit aussi que _A_ est **valide** et on notera cette assertion  ⊨ A {\displaystyle \vDash A} ![\\vDash A](https://wikimedia.org/api/rest_v1/media/math/render/svg/4e16fd9aa2a895f487bd2117a08fdbcae64c02aa).
+  * Si la proposition prend au moins une fois la valeur 1, on dit que l'on peut satisfaire _A_ , ou que _A_ est **satisfaisable** (ou encore "satisfiable" par mimétisme avec le terme anglais).
+  * Si la proposition prend au moins une fois la valeur 1 et au moins une fois la valeur 0, c'est une proposition synthétique ou **contingente**.
+
+#### Interprétation [booléenne](/wiki/Alg%C3%A8bre_de_Boole_\(structure\)
+"Algèbre de Boole \(structure\)") des
+connecteurs[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=18
+"Modifier la section : Interprétation booléenne des connecteurs") | [modifier
+le code](/w/index.php?title=Calcul_des_propositions&action=edit&section=18
+"Modifier la section : Interprétation booléenne des connecteurs")]
+
+Nous explicitons le comportement, puis donnons la [table de
+vérité](/wiki/Table_de_v%C3%A9rit%C3%A9 "Table de vérité") associée
+
+  * P ∨ Q {\displaystyle P\lor Q} ![P\\lor Q](https://wikimedia.org/api/rest_v1/media/math/render/svg/7d2bc60d4b9ff5ec772fec5c2ef72a39536d4323) prendra la valeur 1 si et seulement si au moins l'une des deux propositions P ou Q prend la valeur 1.
+
+    
+
+    
+
+    
+
+     P | Q |  P ∨ Q {\displaystyle P\lor Q} ![P\\lor Q](https://wikimedia.org/api/rest_v1/media/math/render/svg/7d2bc60d4b9ff5ec772fec5c2ef72a39536d4323)  
+---|---|---  
+0 | 0 | 0  
+0 | 1 | 1  
+1 | 0 | 1  
+1 | 1 | 1  
+  
+  * P ∧ Q {\displaystyle P\land Q} ![P\\land Q](https://wikimedia.org/api/rest_v1/media/math/render/svg/c5690bb4822d8c821a00cfe3c6644b046a884af4) prendra la valeur 1 si et seulement si les deux propositions P et Q prennent simultanément la valeur 1.
+
+    
+
+    
+
+    
+
+     P | Q |  P ∧ Q {\displaystyle P\land Q} ![P\\land Q](https://wikimedia.org/api/rest_v1/media/math/render/svg/c5690bb4822d8c821a00cfe3c6644b046a884af4)  
+---|---|---  
+0 | 0 | 0  
+0 | 1 | 0  
+1 | 0 | 0  
+1 | 1 | 1  
+  
+  * P -> Q {\displaystyle P\to Q} ![P\\to Q](https://wikimedia.org/api/rest_v1/media/math/render/svg/d7cad5b2c2991ae1dbded560c5d875fbf49fe8ea) prendra la valeur 0 si et seulement si P prend la valeur 1 et Q la valeur 0.
+
+    
+
+    
+
+    
+
+     P | Q |  P -> Q {\displaystyle P\to Q} ![P\\to Q](https://wikimedia.org/api/rest_v1/media/math/render/svg/d7cad5b2c2991ae1dbded560c5d875fbf49fe8ea)  
+---|---|---  
+0 | 0 | 1  
+0 | 1 | 1  
+1 | 0 | 0  
+1 | 1 | 1  
+  
+  * ¬ P {\displaystyle \lnot P} ![\\lnot P](https://wikimedia.org/api/rest_v1/media/math/render/svg/38a32afb77c17696c41588f6deaf9bcd7109b10c) prendra la valeur 1 si et seulement si P prend la valeur 0.
+
+    
+
+    
+
+    
+
+     P |  ¬ P {\displaystyle \lnot P} ![\\lnot P](https://wikimedia.org/api/rest_v1/media/math/render/svg/38a32afb77c17696c41588f6deaf9bcd7109b10c)  
+---|---  
+0 | 1  
+1 | 0  
+  
+  * P ↔ Q {\displaystyle P\leftrightarrow Q} ![P\\leftrightarrow Q](https://wikimedia.org/api/rest_v1/media/math/render/svg/43e9c3ed4d9717db81fc3794218f377bea4f6eb0) prendra la valeur 1 si et seulement si P et Q ont la même valeur.
+
+    
+
+    
+
+    
+
+     P | Q |  P ↔ Q {\displaystyle P\leftrightarrow Q} ![P\\leftrightarrow Q](https://wikimedia.org/api/rest_v1/media/math/render/svg/43e9c3ed4d9717db81fc3794218f377bea4f6eb0)  
+---|---|---  
+0 | 0 | 1  
+0 | 1 | 0  
+1 | 0 | 0  
+1 | 1 | 1  
+  
+  * ⊥ {\displaystyle \perp } ![\\perp ](https://wikimedia.org/api/rest_v1/media/math/render/svg/afb90d6db42aa12f9e2f31176a4ed4e741c69eca) prend la valeur 0.
+
+**Exemple 1** :
+
+    
+
+    (¬ _A_ → _A_ ) → _A_ est une tautologie.
+
+En effet, si on attribue à _A_ la valeur 0, alors ¬ _A_ prend la valeur 1, (¬
+_A_ → _A_ ) prend la valeur 0, et (¬ _A_ → _A_ ) → _A_ prend la valeur 1. De
+même, si on attribue à _A_ la valeur 1, alors ¬ _A_ prend la valeur 0, (¬ _A_
+→ _A_ ) prend la valeur 1, et (¬ _A_ → _A_ ) → _A_ prend la valeur 1.
+
+**Exemple 2** :
+
+    
+
+    _A_ → ( _A_ → ¬ _A_ ) n'est pas une tautologie.
+
+En effet, si on attribue à _A_ la valeur 1, alors ¬ _A_ prend la valeur 0, (
+_A_ → ¬ _A_ ) prend la valeur 0, et _A_ → ( _A_ → ¬ _A_ ) prend la valeur 0.
+
+#### Systèmes complets de
+connecteurs[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=19
+"Modifier la section : Systèmes complets de connecteurs") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=19
+"Modifier la section : Systèmes complets de connecteurs")]
+
+Une table de vérité à _n_ entrées définit un connecteur _n_ -aire. Un ensemble
+de connecteurs propositionnels est dit _complet_ si tout connecteur peut se
+définir au moyen des connecteurs de l'ensemble. Toute table de vérité se
+décrit à l'aide de conjonctions de disjonctions et de négation, par exemple on
+décrit entièrement la table de vérité de l'équivalence ci-dessus par « _p_ ↔
+_q_ prend la valeur vrai si et seulement si _p_ et _q_ prennent la valeur faux
+ou _p_ et _q_ prennent la valeur vraie », c'est-à-dire que _p_ ↔ _q_ ≡ (¬ _p_
+∧ ¬ _q_ ) ∨ ( _p_ ∧ _q_ ). Cette méthode est générale et permet de montrer que
+le système {¬, ∧, ∨} est un système complet de connecteurs. On en déduit que
+{¬, ∧}, {¬, ∨} sont aussi des systèmes complets (à cause des lois de de
+Morgan, _A_ ∨ _B_ ≡ ¬ (¬ _A_ ∧ ¬ _B_ ), _A_ ∧ _B_ ≡ ¬ (¬ _A_ ∨ ¬ _B_ )).
+L'ensemble {¬, →} est également complet : _A_ ∨ _B_ ≡ ¬ _A_ → _B_.
+
+L'ensemble constitué du seul connecteur [NON-ET](/wiki/Fonction_NON-ET
+"Fonction NON-ET") (noté « | » par [Henry Sheffer](/wiki/Henry_Sheffer "Henry
+Sheffer") et du coup appelée la barre de Sheffer[[réf.
+souhaitée]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire "Aide:Référence
+nécessaire")) est également complet, ¬ _P_ étant équivalent à _P_ | _P_ et _P_
+∨ _Q_ à ( _P_ | _P_ ) | ( _Q_ | _Q_ ). Cette particularité est utilisée pour
+la construction de [circuits logiques](/wiki/Circuit_logique "Circuit
+logique"), une seule porte suffit alors pour concevoir tous les circuits
+existants.
+
+## Principales
+propriétés[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=20
+"Modifier la section : Principales propriétés") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=20
+"Modifier la section : Principales propriétés")]
+
+Le calcul propositionnel dispose donc de plusieurs moyens différents pour «
+valider » les propositions : les systèmes de déduction qui démontrent les
+_théorèmes_ et les méthodes sémantiques qui définissent les _tautologies_. La
+question qui se pose est de savoir si ces méthodes coïncident.
+
+### Décidabilité, cohérence, complétude,
+compacité[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=21
+"Modifier la section : Décidabilité, cohérence, complétude, compacité") |
+[modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=21
+"Modifier la section : Décidabilité, cohérence, complétude, compacité")]
+
+Le fait que toute proposition soit démontrable si elle est une tautologie
+exprime une propriété du calcul propositionnel que l'on appelle la
+**complétude** , cela signifie que la présentation déductive du calcul
+propositionnel est équivalente à la présentation sémantique. La complétude
+repose sur les remarques suivantes.
+
+  * Toute proposition démontrée résulte d'un axiome ou de l'application d'une règle sur des propositions déjà démontrées. Or il est facile de vérifier que les axiomes fournissent des tautologies et que les règles conservent les tautologies. Toute proposition démontrée est donc une tautologie. Le calcul propositionnel est **correct**.
+  * La réciproque repose sur le fait suivant: on peut démontrer que pour toute proposition  P {\displaystyle P} ![P](https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a) du calcul propositionnel il existe une proposition  P ′ {\displaystyle P'} ![P'](https://wikimedia.org/api/rest_v1/media/math/render/svg/ef4efa52c8f47f06136f6ebfd1d68c1249aaca39) telle que  P ↔ P ′ {\displaystyle P\leftrightarrow P'} ![P\\leftrightarrow P'](https://wikimedia.org/api/rest_v1/media/math/render/svg/b78f30dce36e0de2d1e380d2196cddeb4e91ca94) et telle que  P ′ {\displaystyle P'} ![P'](https://wikimedia.org/api/rest_v1/media/math/render/svg/ef4efa52c8f47f06136f6ebfd1d68c1249aaca39) soit sous une forme dite normale  Q 1 ∧ Q 2 ∧ ⋯ ∧ Q n {\displaystyle Q_{1}\land Q_{2}\land \cdots \land Q_{n}} ![Q_{1}\\land Q_{2}\\land \\cdots \\land Q_{n}](https://wikimedia.org/api/rest_v1/media/math/render/svg/3da003fcacfcb25fa285c1f08edc07cfde46f4a7) où chaque  Q i {\displaystyle Q_{i}} ![Q_i](https://wikimedia.org/api/rest_v1/media/math/render/svg/b9f7193081d440425e522698e80817b5d558df03) est de la forme  R 1 ∨ R 2 ∨ ⋯ ∨ R k {\displaystyle R_{1}\lor R_{2}\lor \cdots \lor R_{k}} ![R_{1}\\lor R_{2}\\lor \\cdots \\lor R_{k}](https://wikimedia.org/api/rest_v1/media/math/render/svg/0251cb3cf00e1c12240b8475539c552a3af9311a), où chaque  R i {\displaystyle R_{i}} ![R_{i}](https://wikimedia.org/api/rest_v1/media/math/render/svg/db421291be9d0103404ced7495b363437b67b6b1) est un [littéral](/wiki/Litt%C3%A9ral_\(logique\) "Littéral \(logique\)") (c'est-à-dire une proposition de la forme  p {\displaystyle p} ![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36) ou  ¬ p {\displaystyle \lnot p} ![\\lnot p](https://wikimedia.org/api/rest_v1/media/math/render/svg/7370d2cd179d1da7e80b853f12f741864a867405)). Si  P ′ {\displaystyle P'} ![P'](https://wikimedia.org/api/rest_v1/media/math/render/svg/ef4efa52c8f47f06136f6ebfd1d68c1249aaca39) est une tautologie, alors dans chaque  Q i {\displaystyle Q_{i}} ![Q_i](https://wikimedia.org/api/rest_v1/media/math/render/svg/b9f7193081d440425e522698e80817b5d558df03), apparaissent nécessairement une variable propositionnelle  p {\displaystyle p} ![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36) et sa négation  ¬ p {\displaystyle \lnot p} ![\\lnot p](https://wikimedia.org/api/rest_v1/media/math/render/svg/7370d2cd179d1da7e80b853f12f741864a867405). Sinon il existerait  Q i {\displaystyle Q_{i}} ![Q_i](https://wikimedia.org/api/rest_v1/media/math/render/svg/b9f7193081d440425e522698e80817b5d558df03) qui ne vérifierait pas cette condition et il serait possible d'attribuer des valeurs aux  p j {\displaystyle p_{j}} ![p_{j}](https://wikimedia.org/api/rest_v1/media/math/render/svg/499e0821b28c43e9bc2a6360b937de535057bc62) de façon à donner la valeur 0 à  Q i {\displaystyle Q_{i}} ![Q_i](https://wikimedia.org/api/rest_v1/media/math/render/svg/b9f7193081d440425e522698e80817b5d558df03), et donc à  P ′ {\displaystyle P'} ![P'](https://wikimedia.org/api/rest_v1/media/math/render/svg/ef4efa52c8f47f06136f6ebfd1d68c1249aaca39) lui-même. Mais on peut montrer que  p ∨ ¬ p {\displaystyle p\lor \lnot p} ![p\\lor \\lnot p](https://wikimedia.org/api/rest_v1/media/math/render/svg/2bc77fc9ef62aef1541a9a6a060b0731935892ca) est démontrable ( ⊢ p ∨ ¬ p {\displaystyle \vdash p\lor \lnot p} ![\\vdash p\\lor \\lnot p](https://wikimedia.org/api/rest_v1/media/math/render/svg/be79e1e65d78e17ee31419c11b3d0d48b6081903)), puis qu'il en est de même de chaque  Q i {\displaystyle Q_{i}} ![Q_i](https://wikimedia.org/api/rest_v1/media/math/render/svg/b9f7193081d440425e522698e80817b5d558df03), puis de  P ′ {\displaystyle P'} ![P'](https://wikimedia.org/api/rest_v1/media/math/render/svg/ef4efa52c8f47f06136f6ebfd1d68c1249aaca39) lui-même et enfin de  P {\displaystyle P} ![P](https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a). Toute tautologie est alors démontrable. Le calcul propositionnel est _complet_.
+
+L'article [théorème de complétude du calcul des
+propositions](/wiki/Th%C3%A9or%C3%A8me_de_compl%C3%A9tude_du_calcul_des_propositions
+"Théorème de complétude du calcul des propositions") propose une autre
+démonstration plus détaillée.
+
+Il résulte de la complétude du calcul des propositions que :
+
+  * Le calcul des propositions est **décidable** , dans le sens où il existe un algorithme permettant de décider si une proposition est un théorème ou non. Il suffit de dresser sa [table de vérité](/wiki/Table_de_v%C3%A9rit%C3%A9 "Table de vérité") et de voir s'il s'agit d'une tautologie.
+  * Le calcul des propositions est **cohérent** (consistant), c'est-à-dire non contradictoire. Il n'existe aucune proposition  P {\displaystyle P} ![P](https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a) telle qu'on puisse avoir en même temps  ⊢ P {\displaystyle \vdash P} ![\\vdash P](https://wikimedia.org/api/rest_v1/media/math/render/svg/7daaeb8a5a3117f00353de8cb053adfeacdcb40b) et  ⊢ ¬ P {\displaystyle \vdash \lnot P} ![\\vdash \\lnot P](https://wikimedia.org/api/rest_v1/media/math/render/svg/8246562a8baa3c9e3d5257161ab0a42c5e859144) car ces deux propositions seraient des tautologies et on aurait 1 = 0.
+  * Le calcul des propositions est **fortement complet** (maximalement cohérent), dans le sens où tout ajout d'un nouveau schéma d'axiome, non démontrable dans le système initial, rend ce système incohérent.
+
+Supposons donné un nombre infini de propositions. Peut-on satisfaire
+simultanément ces propositions ? Autrement dit, existe-il des valeurs de
+vérité pour leurs variables propositionnelles qui donnent 1 comme valeur de
+vérité à toutes les propositions? Si la réponse est positive pour tout sous-
+ensemble fini de ces propositions, alors elle l'est pour toutes les
+propositions. Cette propriété, qui assure que l'on peut passer de tous les
+sous-ensembles finis à l'ensemble infini tout entier, est appelée la
+**[compacité](/wiki/Th%C3%A9or%C3%A8me_de_compacit%C3%A9 "Théorème de
+compacité")**.
+
+### Méthodes de calcul, NP-
+complétude[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=22
+"Modifier la section : Méthodes de calcul, NP-complétude") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=22
+"Modifier la section : Méthodes de calcul, NP-complétude")]
+
+Nous avons vu que, pour décider si une proposition est démontrable
+classiquement, il suffit de vérifier si c'est une tautologie, c'est-à-dire de
+vérifier si elle prend la valeur de vérité 1 quelles que soient les valeurs de
+vérité de ses variables propositionnelles.
+
+Cette approche brutale se heurte cependant au temps de calcul qu'elle
+requiert. En effet, si la proposition possède _n_ variables propositionnelles,
+il faut calculer 2 _n_ combinaisons de valeurs possibles pour les variables
+propositionnelles, ce qui devient rapidement infaisable pour _n_ grand. Ainsi,
+si _n_ = 30, il faudra énumérer plus d'un milliard de combinaisons de valeurs.
+
+Il existe certes des améliorations possibles. Par exemple, si on attribue la
+valeur de vérité 0 à une variable propositionnelle _p_ , on peut attribuer
+directement la valeur 0 à  p ∧ q {\displaystyle p\land q} ![p\\land
+q](https://wikimedia.org/api/rest_v1/media/math/render/svg/4904e68d8180ec4c12e20fabc15017b60b098b9e)
+indépendamment de la valeur ultérieure attribuée à _q_ , ce qui diminue le
+nombre de calculs à effectuer.
+
+On peut également chercher à voir s'il est possible d'invalider les
+implications. Considérons par exemple la proposition :
+
+    
+
+     ( ( p -> ( q ∧ r ∧ s ) ) ∧ ¬ s ) -> ¬ p {\displaystyle ((p\to (q\land r\land s))\land \lnot s)\to \lnot p} ![\(\(p\\to \(q\\land r\\land s\)\)\\land \\lnot s\)\\to \\lnot p](https://wikimedia.org/api/rest_v1/media/math/render/svg/5ecbff390e302abf84e0234b241b6f03c8b76983)
+
+Étant constituée d'une implication, pour la rendre invalide, il suffit que la
+conclusion  ¬ p {\displaystyle \lnot p} ![\\lnot
+p](https://wikimedia.org/api/rest_v1/media/math/render/svg/7370d2cd179d1da7e80b853f12f741864a867405)
+puisse prendre la valeur 0 (et donc  p {\displaystyle p}
+![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36)
+la valeur 1) et que l'hypothèse  ( ( p -> ( q ∧ r ∧ s ) ) ∧ ¬ s )
+{\displaystyle ((p\to (q\land r\land s))\land \lnot s)} ![\(\(p\\to \(q\\land
+r\\land s\)\)\\land \\lnot
+s\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/1822ce555906b6544c49b6281b30fcc215c47e1c)
+puisse prendre la valeur 1 (et donc  ¬ s {\displaystyle \lnot s} ![\\lnot
+s](https://wikimedia.org/api/rest_v1/media/math/render/svg/2e794f88f24bf51ab084eb04f2a09b8433e3e019)
+et  p -> ( q ∧ r ∧ s ) {\displaystyle p\to (q\land r\land s)} ![p\\to
+\(q\\land r\\land
+s\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/547518d07587ebde4b8909960e09c9bcd61c6722)
+la valeur 1). Mais alors  s {\displaystyle s}
+![s](https://wikimedia.org/api/rest_v1/media/math/render/svg/01d131dfd7673938b947072a13a9744fe997e632)
+prend la valeur 0 et  ( p -> ( q ∧ r ∧ s ) {\displaystyle (p\to (q\land r\land
+s)} ![\(p\\to \(q\\land r\\land
+s\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/a90be087fdfbbda9578d9f1cc447ceaab3735e08)
+ne peut plus prendre que la valeur 0. Il est donc impossible d'invalider
+l'implication et celle-ci est une tautologie.
+
+Mais les améliorations précédentes ne changent pas fondamentalement la
+difficulté du problème. On est donc devant la situation suivante. Étant donnée
+une proposition _f_ , on se demande si _f_ est une tautologie ou non et pour
+cela, on se demande s'il existe des valeurs de vérité attribuables aux
+variables propositionnelles de _f_ qui rendraient _f_ invalide.
+
+  * Une recherche exhaustive demande 2 _n_ vérifications si _f_ possède _n_ variables propositionnelles. Cette démarche est dite déterministe, mais son temps de calcul est exponentiel.
+  * Par contre, si _f_ n'est pas une tautologie, il suffit d'une vérification à faire, à savoir tester précisément la configuration qui invalide _f_. Cette vérification demande un simple calcul booléen, qui se fait en temps polynomial (essentiellement linéaire en fait). Le temps de calcul cesse donc d'être exponentiel, à condition de savoir quelle configuration tester. Celle-ci pourrait par exemple être donnée par un être omniscient auquel on ne ferait pas totalement confiance. Une telle démarche est dite [non déterministe](/wiki/Machine_de_Turing_non_d%C3%A9terministe "Machine de Turing non déterministe").
+
+La question de l'invalidité de _f_ , ainsi que tous les problèmes qui se
+résolvent suivant la méthode que nous venons d'esquisser, sont dits
+[NP](/wiki/NP_\(complexit%C3%A9\) "NP \(complexité\)") (pour polynomial non
+déterministe). Tester l'invalidité de _f_ équivaut par des calculs très
+simples (en temps polynomial) à tester la satisfaisabilité de sa négation. Le
+problème de la satisfaisabilité d'une proposition, à savoir trouver une
+configuration qui donne 1 comme valeur de vérité de la proposition est appelé
+[problème SAT](/wiki/Probl%C3%A8me_SAT "Problème SAT") (de l'anglais _boolean
+**SAT** isfiability problem_). Il joue un rôle fondamental en [théorie de la
+complexité](/wiki/Th%C3%A9orie_de_la_complexit%C3%A9_des_algorithmes "Théorie
+de la complexité des algorithmes"), puisqu'on peut montrer que la découverte
+d'un algorithme déterministe en temps polynomial pour ce problème permettrait
+d'en déduire des algorithmes déterministes en temps polynomial pour tous les
+problèmes de type NP ([théorème de Cook](/wiki/Th%C3%A9or%C3%A8me_de_Cook
+"Théorème de Cook")). On dit que SAT (et donc également le problème de la non-
+démontrabilité d'une proposition) est un problème [NP-complet](/wiki/NP-
+complet "NP-complet"). Le problème de la démontrabilité d'une proposition est
+dit [co-NP](/wiki/Co-NP "Co-NP") (pour complémentaire de NP).
+
+Le problème SAT désigne en fait le plus souvent celui de la satisfaisabilité
+d'une conjonction de clauses (un cas particulier parmi les propositions), mais
+on ramène le problème de la satisfaisabilité d'une proposition à celui-ci par
+une réduction polynomiale (une mise sous forme clausale par
+équisatisfaisabilité, celles par équivalence logique ne fonctionnent pas).
+
+### Algèbre de
+Boole[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=23
+"Modifier la section : Algèbre de Boole") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=23
+"Modifier la section : Algèbre de Boole")]
+
+Article détaillé : [Algèbre de Boole
+(structure)](/wiki/Alg%C3%A8bre_de_Boole_\(structure\) "Algèbre de Boole
+\(structure\)").
+
+Soit E l'ensemble des propositions sur un ensemble de variables
+propositionnelles. La relation binaire définie sur E par l'équivalence
+(classique) entre deux propositions est notée ≡. C'est une [relation
+d'équivalence](/wiki/Relation_d%27%C3%A9quivalence "Relation d'équivalence")
+sur E, compatible avec la conjonction (qui donne la borne inférieure de deux
+éléments), la disjonction (qui donne la borne supérieure de deux éléments), et
+la négation (qui donne le complément). L'[ensemble
+quotient](/wiki/Relation_d%27%C3%A9quivalence#Ensemble_quotient "Relation
+d'équivalence") E/≡ du calcul propositionnel.
+
+Dès que l'ensemble des variables propositionnelles est infini, l'[algèbre de
+Lindenbaum](/wiki/Alg%C3%A8bre_de_Lindenbaum "Algèbre de Lindenbaum") des
+formules propositionnelles ne possède aucun atome, c'est-à-dire aucun élément
+non nul minimal (pour toute formule qui n'est pas une antilogie, on obtient un
+élément strictement inférieur par conjonction avec une variable
+propositionnelle non présente dans la formule). Ceci la distingue de l'algèbre
+de Boole de toutes les parties d'un ensemble, qui a pour atomes les singletons
+de celui-ci.
+
+Les [algèbres de Heyting](/wiki/Alg%C3%A8bre_de_Heyting "Algèbre de Heyting")
+ont été définies par [Arend Heyting](/wiki/Arend_Heyting "Arend Heyting") pour
+interpréter la logique intuitionniste.
+
+### Formes normales conjonctives, formes normales
+disjonctives[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=24
+"Modifier la section : Formes normales conjonctives, formes normales
+disjonctives") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=24
+"Modifier la section : Formes normales conjonctives, formes normales
+disjonctives")]
+
+Articles détaillés : [Forme normale
+disjonctive](/wiki/Forme_normale_disjonctive "Forme normale disjonctive") et
+[Forme normale conjonctive](/wiki/Forme_normale_conjonctive "Forme normale
+conjonctive").
+
+Une **disjonction** est une proposition de la forme  p ∨ q {\displaystyle
+p\lor q} ![p\\lor
+q](https://wikimedia.org/api/rest_v1/media/math/render/svg/18488a87bb6ae7abe9649f7e195980041c1c53dc)
+et une **conjonction** est une proposition de la forme  p ∧ q {\displaystyle
+p\land q} ![p\\land
+q](https://wikimedia.org/api/rest_v1/media/math/render/svg/4904e68d8180ec4c12e20fabc15017b60b098b9e).
+Une proposition est en **forme normale conjonctive (FNC)** si elle est
+composée de **conjonctions de disjonctions**. Une proposition est en **forme
+normale disjonctive (FND)** si elle est composée de **disjonctions de
+conjonctions**.
+
+**Exemples :**
+
+  * p , ¬ p , {\displaystyle p,\lnot p,} ![p,\\lnot p,](https://wikimedia.org/api/rest_v1/media/math/render/svg/4d917ee914747dd628ae92d29efc8645a943e8bf) p ∨ q {\displaystyle p\lor q} ![p\\lor q](https://wikimedia.org/api/rest_v1/media/math/render/svg/18488a87bb6ae7abe9649f7e195980041c1c53dc) et  p ∧ q {\displaystyle p\land q} ![p\\land q](https://wikimedia.org/api/rest_v1/media/math/render/svg/4904e68d8180ec4c12e20fabc15017b60b098b9e) sont à la fois des FNC et des FND.
+  * ( p ∨ q ) ∧ ( ¬ p ∨ r ) ∧ s {\displaystyle (p\lor q)\land (\lnot p\lor r)\land s} ![\(p\\lor q\)\\land \(\\lnot p\\lor r\)\\land s](https://wikimedia.org/api/rest_v1/media/math/render/svg/d5996fb36c031f862ab897503e29b8af055c548f) est en _forme normale conjonctive_.
+  * ( p ∧ q ∧ r ) ∨ ( ¬ p ∧ ¬ s ) ∨ ¬ q {\displaystyle (p\land q\land r)\lor (\lnot p\land \lnot s)\lor \lnot q} ![\(p\\land q\\land r\)\\lor \(\\lnot p\\land \\lnot s\)\\lor \\lnot q](https://wikimedia.org/api/rest_v1/media/math/render/svg/5a3018627b0ca6060d245ad96640e95b9b175385) est en _forme normale disjonctive_.
+
+Lorsque chaque bloc disjonctif d'une FND comporte une et une seule occurrence
+des mêmes variables propositionnelles, on parle alors de FND _distinguée_.
+
+Lorsque chaque bloc conjonctif d'une FNC comporte une et une seule occurrence
+des mêmes variables propositionnelles, on parle alors de FNC _distinguée_.
+
+**Exemples :**
+
+  * ( p ∨ q ∨ r ) ∧ ( ¬ p ∨ ¬ q ∨ r ) ∧ ( ¬ p ∨ ¬ q ∨ ¬ r ) {\displaystyle (p\lor q\lor r)\land (\lnot p\lor \lnot q\lor r)\land (\lnot p\lor \lnot q\lor \lnot r)} ![\(p\\lor q\\lor r\)\\land \(\\lnot p\\lor \\lnot q\\lor r\)\\land \(\\lnot p\\lor \\lnot q\\lor \\lnot r\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/875521a412d02af09669a8298efbe70de6cb6b44) est en _forme normale conjonctive_ distinguée _._
+  * ( p ∧ q ∧ r ) ∨ ( ¬ p ∧ q ∧ ¬ r ) ∨ ( ¬ p ∧ ¬ q ∧ r ) {\displaystyle (p\land q\land r)\lor (\lnot p\land q\land \lnot r)\lor (\lnot p\land \lnot q\land r)} ![\(p\\land q\\land r\)\\lor \(\\lnot p\\land q\\land \\lnot r\)\\lor \(\\lnot p\\land \\lnot q\\land r\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/298d59e3a56334ae3f480b06eb22e5a9d1902d80) est en _forme normale disjonctive_ distinguée _._
+
+On peut montrer que toute proposition est équivalente à une FND (en admettant
+que  ⊥ {\displaystyle \perp } ![\\perp
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/afb90d6db42aa12f9e2f31176a4ed4e741c69eca)
+est la disjonction d'un ensemble vide de propositions) et est équivalente à
+une FNC (en admettant que T est la conjonction d'un ensemble vide de
+propositions). Autrement dit, pour toute proposition  p {\displaystyle p}
+![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36)
+il existe une proposition  q {\displaystyle q}
+![q](https://wikimedia.org/api/rest_v1/media/math/render/svg/06809d64fa7c817ffc7e323f85997f783dbdf71d)
+en forme normale disjonctive telle que  p {\displaystyle p}
+![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36)
+↔ {\displaystyle \leftrightarrow } ![\\leftrightarrow
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/046b918c43e05caf6624fe9b676c69ec9cd6b892)
+q {\displaystyle q}
+![q](https://wikimedia.org/api/rest_v1/media/math/render/svg/06809d64fa7c817ffc7e323f85997f783dbdf71d)
+et une proposition  r {\displaystyle r}
+![r](https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538)
+en forme normale conjonctive telle que  p {\displaystyle p}
+![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36)
+↔ {\displaystyle \leftrightarrow } ![\\leftrightarrow
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/046b918c43e05caf6624fe9b676c69ec9cd6b892)
+r {\displaystyle r}
+![r](https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538).
+
+## Logique classique, minimale,
+intuitionniste[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=25
+"Modifier la section : Logique classique, minimale, intuitionniste") |
+[modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=25
+"Modifier la section : Logique classique, minimale, intuitionniste")]
+
+Les axiomes et règles du calcul propositionnel que nous avons présentés sont
+ceux de la [logique classique](/wiki/Logique_classique "Logique classique").
+Ils induisent la proposition p ∨ ¬p, appelée [principe du tiers
+exclu](/wiki/Principe_du_tiers_exclu "Principe du tiers exclu"), la
+proposition ¬¬ p → p, appelée élimination de la double négation et la
+proposition ((p → q) → p) → p appelée [loi de Peirce](/wiki/Loi_de_Peirce "Loi
+de Peirce"). Cette logique repose sur le principe qu'une propriété P est
+nécessairement vraie ou fausse. Il est l'un des piliers de la position
+qualifiée de formaliste, adoptée par [Hilbert](/wiki/David_Hilbert "David
+Hilbert") et d'autres. Or cette position qui implique qu'il y a des
+démonstrations qui ne construisent pas l'objet satisfaisant la proposition
+prouvée a été remise en cause par plusieurs mathématiciens, dont le plus connu
+est [Brouwer](/wiki/Luitzen_Egbertus_Jan_Brouwer "Luitzen Egbertus Jan
+Brouwer") conduisant à créer par la suite la [logique
+intuitionniste](/wiki/Logique_intuitionniste "Logique intuitionniste").
+
+Il existe des variantes de logique non classique, notamment la [logique
+minimale](/wiki/Logique_minimale "Logique minimale") de [Ingebrigt
+Johansson](/wiki/Ingebrigt_Johansson "Ingebrigt Johansson")[10] (1936) et la
+[logique intuitionniste](/wiki/Logique_intuitionniste "Logique
+intuitionniste") de [Heyting](/wiki/Heyting "Heyting") (1930). Les connecteurs
+primitifs sont →, ∧, ∨ et ¬. Ces variantes diffèrent l'une de l'autre par le
+choix des axiomes qu'elles utilisent[11].
+
+### Logique
+absolue[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=26
+"Modifier la section : Logique absolue") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=26
+"Modifier la section : Logique absolue")]
+
+La logique absolue utilise les axiomes suivants relatifs à l'implication, la
+conjonction et la disjonction. Elle ne traite pas de la négation.
+
+Axiomes de l'implication (ce sont les deux premiers axiomes de la logique
+classique) :
+
+    
+
+    ax.1 :  p -> ( q -> p ) {\displaystyle p\rightarrow \;(q\rightarrow \;p)} ![p\\rightarrow \\;\(q\\rightarrow \\;p\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/f7fb6979175fcb5fee9890a751e4060a26237e7f)
+    ax.2 :  ( p -> ( q -> r ) ) -> ( ( p -> q ) -> ( p -> r ) ) {\displaystyle (p\rightarrow \;(q\rightarrow \;r))\rightarrow \;((p\rightarrow \;q)\rightarrow \;(p\rightarrow \;r))} ![\(p\\rightarrow \\;\(q\\rightarrow \\;r\)\)\\rightarrow \\;\(\(p\\rightarrow \\;q\)\\rightarrow \\;\(p\\rightarrow \\;r\)\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/a9bfc6d87552c775dc633b8ff9501433b8c48280)
+
+Axiomes de la conjonction  ∧ {\displaystyle \land } ![\\land
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/d6823e5a222eb3ca49672818ac3d13ec607052c4)
+:
+
+    
+
+    ax.3 :  ( p ∧ q ) -> p {\displaystyle (p\land q)\to p} ![\(p\\land q\)\\to p](https://wikimedia.org/api/rest_v1/media/math/render/svg/cd390432fdeb73e64dd58573cd20eca8f78dc6e6)
+    ax.4 :  ( p ∧ q ) -> q {\displaystyle (p\land q)\to q} ![\(p\\land q\)\\to q](https://wikimedia.org/api/rest_v1/media/math/render/svg/11d45991b7ac4681d8d62dc8ad6bd6770ebd2f45)
+    ax.5 :  ( p -> q ) -> ( ( p -> r ) -> ( p -> ( q ∧ r ) ) ) {\displaystyle (p\to q)\to ((p\to r)\to (p\to (q\land r)))} ![\(p\\to q\)\\to \(\(p\\to r\)\\to \(p\\to \(q\\land r\)\)\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/e06abf41e12462bb36e21888fb929cf6df6ecfbe)
+
+Axiomes de la disjonction  ∨ {\displaystyle \lor } ![\\lor
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/ab47f6b1f589aedcf14638df1d63049d233d851a),
+([duaux](/wiki/Dualit%C3%A9_\(math%C3%A9matiques\) "Dualité
+\(mathématiques\)") des précédents) :
+
+    
+
+    ax.8 :  p -> ( p ∨ q ) {\displaystyle p\to (p\lor q)} ![p\\to \(p\\lor q\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/f9e913aa6ef53e0310de47a0cf28f8e65ebea3ab)
+    ax.9 :  q -> ( p ∨ q ) {\displaystyle q\to (p\lor q)} ![q\\to \(p\\lor q\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/df82af9bd40b34486b6d662523785d3603e7c546)
+    ax.10:  ( p -> r ) -> ( ( q -> r ) -> ( ( p ∨ q ) -> r ) ) {\displaystyle (p\to r)\to ((q\to r)\to ((p\lor q)\to r))} ![\(p\\to r\)\\to \(\(q\\to r\)\\to \(\(p\\lor q\)\\to r\)\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/1cc792813fc2b3bdb074bddc5e7ec4fb323c5a32)
+
+L'ensemble des théorèmes de cette logique est inclus strictement dans
+l'ensemble des théorèmes de la logique classique qui n'utilisent pas la
+négation. Il est impossible par exemple d'y prouver la formule  p ∨ ( p -> q )
+{\displaystyle p\lor (p\to q)} ![{\\displaystyle p\\lor \(p\\to
+q\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/6019e48257b88ba7ce963019f9eaa1d70550f29d)
+ou la [loi de Peirce](/wiki/Loi_de_Peirce "Loi de Peirce") ( ( p -> q ) -> p )
+-> p {\displaystyle ((p\to q)\to p)\to p} ![{\\displaystyle \(\(p\\to q\)\\to
+p\)\\to
+p}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f07e912770ed40de573fef6aa7eff29fd9498e2a).
+
+### Logique
+positive[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=27
+"Modifier la section : Logique positive") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=27
+"Modifier la section : Logique positive")]
+
+Si on adjoint aux axiomes ax.1 à ax.8 l'axiome suivant :
+
+    
+
+    ax.9 :  p ∨ ( p -> q ) {\displaystyle p\lor (p\to q)} ![{\\displaystyle p\\lor \(p\\to q\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/6019e48257b88ba7ce963019f9eaa1d70550f29d)
+
+on obtient la logique positive. L'ensemble des théorèmes de cette logique est
+identique à l'ensemble des théorèmes de la logique classique qui n'utilisent
+pas la négation.
+
+### Logique
+minimale[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=28
+"Modifier la section : Logique minimale") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=28
+"Modifier la section : Logique minimale")]
+
+Si on adjoint aux axiomes ax.1 à ax.8 les deux axiomes suivants, relatifs à la
+négation :
+
+    
+
+    ax.10 : ¬ _p_ → ( _p_ → ¬ _q_ )
+    ax.11 : ( _p_ → ¬ _p_ ) → ¬ _p_
+
+on obtient la [logique minimale](/wiki/Logique_minimale "Logique minimale").
+Le premier axiome définit le comportement de la logique vis-à-vis d'une
+contradiction. Le second axiome exprime que, si _p_ implique sa propre
+négation, alors _p_ est invalide.
+
+### Logique
+intuitionniste[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=29
+"Modifier la section : Logique intuitionniste") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=29
+"Modifier la section : Logique intuitionniste")]
+
+La seule différence entre la [logique
+intuitionniste](/wiki/Logique_intuitionniste "Logique intuitionniste") et la
+logique minimale porte sur l'axiome ax.10 qu'on remplace par :
+
+    
+
+    ax.12 : ¬ _p_ → ( _p_ → _q_ )
+
+En présence d'une proposition et de sa négation, les trois logiques,
+classique, intuitionniste et minimale, concluent toutes trois à une
+contradiction ⊥. Mais la différence porte sur l'utilisation que l'on fait de
+cette contradiction :
+
+  * La logique classique déduit de ¬P → ⊥ le fait que P est vrai (raisonnement par l'absurde).
+  * La logique intuitionniste déduit d'une contradiction que toute proposition est démontrable. De ¬P → ⊥, elle déduit la validité de ¬¬P, propriété plus faible que P.
+  * La logique minimale déduit d'une contradiction que toute négation de proposition est démontrable, ce qui est plus faible que ce que propose la logique intuitionniste.
+
+Logique minimale et logique intuitionniste ont toutes deux la proposition ¬(p
+∧ ¬p) comme théorème. En revanche, p ∨ ¬p n'est pas un théorème de ces
+logiques.
+
+De même, elles permettent de démontrer p → ¬¬p mais pas la réciproque. Par
+contre, elles permettent de démontrer l'équivalence entre ¬p et ¬¬¬p. Enfin,
+la proposition (¬p ∨ q) → (p →q) est un théorème de la logique intuitionniste,
+mais pas un théorème de la logique minimale.
+
+[Glivenko](/w/index.php?title=Valery_Ivanovich_Glivenko&action=edit&redlink=1
+"Valery Ivanovich Glivenko \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Valery_Ivanovich_Glivenko "en:Valery
+Ivanovich Glivenko") a démontré en 1929 que p est un théorème du calcul
+propositionnel classique si et seulement si ¬¬p est un théorème du calcul
+propositionnel intuitionniste. Ce résultat ne s'étend pas si l'on remplace «
+intuitionniste » par « minimal ». Il ne s'applique pas non plus au [calcul des
+prédicats](/wiki/Calcul_des_pr%C3%A9dicats "Calcul des prédicats") ; une
+traduction est toutefois possible[12], mais dépend de la structure des
+formules.
+
+Enfin, pour avoir une démonstration de _p ∨ q_ en logique intuitionniste, il
+faut soit une démonstration de _p_ soit une démonstration de _q_ , alors qu'en
+logique classique, une démonstration de _¬(¬p ∧ ¬q)_ suffit.
+
+## Calcul propositionnel
+quantifié[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=30
+"Modifier la section : Calcul propositionnel quantifié") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=30
+"Modifier la section : Calcul propositionnel quantifié")]
+
+On peut introduire les quantificateurs _∃_ (il existe) et _∀_ (quel que soit)
+pour quantifier les propositions (ce qui est à distinguer de la quantification
+du [calcul des prédicats](/wiki/Calcul_des_pr%C3%A9dicats "Calcul des
+prédicats")). Ainsi, pour exemples, on aura comme formules valides du calcul
+propositionnel quantifié, appelé aussi [calcul propositionnel du second
+ordre](/wiki/Logique_d%27ordre_sup%C3%A9rieur "Logique d'ordre supérieur") :
+
+  * ∀p (⊥ → p) : Pour toute proposition, le faux l'implique ;
+  * ∀p (p → T) : Le vrai est impliqué par toute proposition ;
+  * ∃p (p ∨ q) : Prendre p ↔ ¬q (en logique classique) ou p ↔ T (plus généralement), pour exemples.
+
+## Notes et
+références[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=31
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=31
+"Modifier la section : Notes et références")]
+
+  1. ↑ Une _proposition_ est un énoncé _clos_ , c'est-à-dire ne dépendant d'aucun paramètre extérieur, comme « il y a une infinité de nombres premiers » ou « 57 est un nombre premier ». La définition précise du concept de proposition est l'un des objectifs du calcul des propositions.
+  2. ↑ Jose Ferreiros, « The Road to Modern Logic-An Interpretation », _The Bulletin of Symbolic Logic_ , vol. 7, 1er décembre 2001, p. 441-484 ([DOI](/wiki/Digital_Object_Identifier "Digital Object Identifier") [10.2307/2687794](https://dx.doi.org/10.2307%2F2687794), [lire en ligne](https://www.jstor.org/stable/2687794), consulté le 12 septembre 2015).
+  3. ↑ Jean Largeault, Logique mathematique : textes., A. Colin, 1er janvier 1972 ([OCLC](/wiki/Online_Computer_Library_Center "Online Computer Library Center") [301440117](https://worldcat.org/oclc/301440117&lang=fr)), « Contribution à l'histoire de la logique des propositions (Jan Łukasiewicz) », p. 9-25.
+  4. ↑ (en) [« What is the difference between proposition and predicate? »](http://www.answers.com/Q/What_is_the_difference_between_proposition_and_predicate), Answers.com.
+  5. ↑ A noter que l'on aurait aussi pu considérer la Turquie.
+  6. ↑ [PDF] [« Divers symboles mathématiques - A | Intervalle : 27C0–27EF »](https://www.unicode.org/fr/charts/PDF/U27C0.pdf).
+  7. ↑ Mais qui peuvent néanmoins la raccourcir considérablement !
+  8. ↑ Les tables de vérités ont été développées originellement par [Charles Peirce](/wiki/Charles_Sanders_Peirce "Charles Sanders Peirce") avant 1893 (voir Irving H. Annelis, « Peirce's Truth-functional Analysis and the Origin of the Truth Table », _History and Philosophy of Logic_ , 10 octobre 2011, p. 87-97 ([DOI](/wiki/Digital_Object_Identifier "Digital Object Identifier") [https://dx.doi.org/10.1080/01445340.2011.621702](https://dx.doi.org/https%3A%2F%2Fdx.doi.org%2F10.1080%2F01445340.2011.621702), [lire en ligne](https://arxiv.org/abs/1108.2429))) puis indépendamment redécouverte en 1912 par [Wittgenstein](/wiki/Ludwig_Josef_Johann_Wittgenstein "Ludwig Josef Johann Wittgenstein") et [Russell](/wiki/Bertrand_Russell "Bertrand Russell").
+  9. ↑ Pour la logique intuitionniste, on se reportera par exemple à l'article [Sémantique de Kripke](/wiki/S%C3%A9mantique_de_Kripke "Sémantique de Kripke").
+  10. ↑ I. Johansson, _Ingebrigt Der Minimalkalkül, ein reduzierter intuitionistischer Formalismus_ , _Compositio Mathematica_ , 4 (1937), p. 119-136.
+  11. ↑ _Logique et connaissance scientifique_ , sous la direction de [Jean Piaget](/wiki/Jean_Piaget "Jean Piaget"), Encyclopédie de la Pléiade, 1967, p.208-211
+  12. ↑ [Gödel](/wiki/Kurt_G%C3%B6del "Kurt Gödel") et [Kolmogorov](/wiki/Andre%C3%AF_Kolmogorov "Andreï Kolmogorov") en ont proposé.
+
+## Voir
+aussi[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=32
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=32
+"Modifier la section : Voir aussi")]
+
+Sur les autres projets Wikimedia :
+
+  * [Logique des propositions](https://fr.wikiversity.org/wiki/Logique_des_propositions "v:Logique des propositions"), sur Wikiversity
+
+  * [Gottfried Wilhelm Leibniz](/wiki/Gottfried_Wilhelm_Leibniz "Gottfried Wilhelm Leibniz") · [George Boole](/wiki/George_Boole "George Boole") · [Auguste De Morgan](/wiki/Auguste_De_Morgan "Auguste De Morgan") · [Gottlob Frege](/wiki/Gottlob_Frege "Gottlob Frege") · [Charles Sanders Peirce](/wiki/Charles_Sanders_Peirce "Charles Sanders Peirce") · [Bertrand Russell](/wiki/Bertrand_Russell "Bertrand Russell") · [Ludwig Wittgenstein](/wiki/Ludwig_Wittgenstein "Ludwig Wittgenstein")
+  * [Logique polyvalente](/wiki/Logique_polyvalente "Logique polyvalente")
+  * [Fonction logique](/wiki/Fonction_logique "Fonction logique")
+  * [Porte logique](/wiki/Porte_logique "Porte logique")
+  * [Formule propositionnelle](/wiki/Formule_propositionnelle "Formule propositionnelle")
+
+##
+Bibliographie[[modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit&section=33
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Calcul_des_propositions&action=edit&section=33
+"Modifier la section : Bibliographie")]
+
+  * [Robert Blanché](/wiki/Robert_Blanch%C3%A9 "Robert Blanché"), _Introduction à la logique contemporaine_ , Armand Colin - 1951
+  * (de) [Józef Maria Bocheński](/wiki/J%C3%B3zef_Maria_Boche%C5%84ski "Józef Maria Bocheński") et [Albert Menne](/w/index.php?title=Albert_Menne&action=edit&redlink=1 "Albert Menne \(page inexistante\)"), _Grundriß des Logistik_ , UTB, Stuttgart, 1973 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [3-506-99153-1](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/3-506-99153-1 "Spécial:Ouvrages de référence/3-506-99153-1"))
+  * [René Cori](/wiki/Ren%C3%A9_Cori "René Cori") et Daniel Lascar, Logique mathématique I. Calcul propositionnel, algèbres de Boole, calcul des prédicats [[détail des éditions](/wiki/R%C3%A9f%C3%A9rence:Logique_math%C3%A9matique_1\(Cori-Lascar\) "Référence:Logique mathématique 1\(Cori-Lascar\)")], ch I et II
+  * R. David, K. Nour et C. Raffalli, _Introduction à la logique. Théorie de la démonstration. Cours et exercices corrigés_ , Dunod, 2001 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-10006-796-6](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-10006-796-6 "Spécial:Ouvrages de référence/2-10006-796-6"))
+  * G. Dowek, _La Logique_ , Coll. Dominos, Flammarion (1995).
+  * A. Heyting, _Les Fondements des mathématiques. Intuitionnisme. Théorie de la connaissance_ , Paris, Gauthiers-Villars, 1955.
+  * _Logique et Connaissance scientifique_ , Collection de la Pléiade, Gallimard, 1967
+  * Stephen Kleene, _Logique mathématique_ , Armand Colin, 1971 ou Gabay 1987 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-87647-005-5](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-87647-005-5 "Spécial:Ouvrages de référence/2-87647-005-5"))
+  * Yannis Delmas-Rigoutsos et René Lalement, La Logique ou l'art de raisonner, Paris, Le Pommier, 2000, 159 p. [[détail de l’édition](/wiki/R%C3%A9f%C3%A9rence:La_Logique_ou_l%27art_de_raisonner_\(Delmas_et_Lalement\) "Référence:La Logique ou l'art de raisonner \(Delmas et Lalement\)")] ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-7465-0035-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-7465-0035-3 "Spécial:Ouvrages de référence/2-7465-0035-3") et [2-7465-0035-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-7465-0035-3 "Spécial:Ouvrages de référence/2-7465-0035-3"))
+  * (en) [Quine](/wiki/Willard_Van_Orman_Quine "Willard Van Orman Quine"), _Elementary Logic_ , Harvard University Press \- 1980 (1941).
+
+[v](/wiki/Mod%C3%A8le:Palette_Logique "Modèle:Palette Logique") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Logique&action=edit)
+
+[Logique](/wiki/Logique "Logique")  
+  
+---  
+Domaines académiques | [Argumentation](/wiki/Argumentation "Argumentation") ·
+[Axiologie](/wiki/Axiologie "Axiologie") · [Esprit
+critique](/wiki/Esprit_critique "Esprit critique") ·
+[Philosophie](/wiki/Philosophie "Philosophie") · [Histoire de la
+logique](/wiki/Histoire_de_la_logique "Histoire de la logique") · [Logique
+mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique") ·
+[Mathématique](/wiki/Math%C3%A9matiques "Mathématiques") ·
+[Métamathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique") ·
+[Théorie des modèles](/wiki/Th%C3%A9orie_des_mod%C3%A8les "Théorie des
+modèles") · [Philosophie de la logique](/wiki/Philosophie_de_la_logique
+"Philosophie de la logique") · [Philosophie des
+mathématiques](/wiki/Philosophie_des_math%C3%A9matiques "Philosophie des
+mathématiques") · [Théorie des ensembles](/wiki/Th%C3%A9orie_des_ensembles
+"Théorie des ensembles") · [Théorie de la
+démonstration](/wiki/Th%C3%A9orie_de_la_d%C3%A9monstration "Théorie de la
+démonstration")  
+Concepts fondamentaux | [Abduction](/wiki/Abduction_\(logique\) "Abduction
+\(logique\)") · [Synthétique](/wiki/Synth%C3%A9tique_a_priori "Synthétique a
+priori") · [A priori](/wiki/A_priori_et_a_posteriori "A priori et a
+posteriori") · [Déduction](/wiki/D%C3%A9duction_logique "Déduction logique") ·
+[Définition](/wiki/D%C3%A9finition "Définition") ·
+[Description](/wiki/Description "Description") ·
+[Implication](/wiki/Implication_\(logique\) "Implication \(logique\)") ·
+[Inférence](/wiki/Inf%C3%A9rence_\(logique\) "Inférence \(logique\)") ·
+[Induction](/wiki/Induction_\(logique\) "Induction \(logique\)") ·
+[Sens](/wiki/Sens_\(linguistique\) "Sens \(linguistique\)") ·
+[Paradoxe](/wiki/Paradoxe "Paradoxe") · [Mondes
+possibles](/wiki/Mondes_possibles "Mondes possibles") ·
+[Présupposition](/wiki/Pr%C3%A9supposition "Présupposition") ·
+[Probabilité](/wiki/Probabilit%C3%A9 "Probabilité") · [Raison](/wiki/Raison
+"Raison") · [Référence](/wiki/R%C3%A9f%C3%A9rence_\(philosophie\) "Référence
+\(philosophie\)") · [Sémantique](/wiki/S%C3%A9mantique "Sémantique") ·
+[Syllogisme](/wiki/Syllogisme "Syllogisme") · [Vérité](/wiki/V%C3%A9rit%C3%A9
+"Vérité") · [Valeur de vérité](/wiki/Valeur_de_v%C3%A9rit%C3%A9 "Valeur de
+vérité") · [Valide](/wiki/Validit%C3%A9_\(logique\) "Validité \(logique\)")  
+[Esprit critique](/wiki/Esprit_critique "Esprit critique") et logique
+informelle | [Affirmation](/wiki/Affirmation "Affirmation") ·
+[Analyse](/wiki/Analyse_\(philosophie\) "Analyse \(philosophie\)") ·
+[Ambiguïté](/wiki/Ambigu%C3%AFt%C3%A9 "Ambiguïté") ·
+[Conclusion](/wiki/Conclusion_\(logique\) "Conclusion \(logique\)") ·
+[Crédibilité](/wiki/Cr%C3%A9dibilit%C3%A9 "Crédibilité") ·
+[Évidence](/wiki/%C3%89vidence "Évidence") · [Explication](/wiki/Explication
+"Explication") · [Sophisme](/wiki/Sophisme "Sophisme") ·
+[Opinion](/wiki/Opinion "Opinion") · [Parcimonie](/wiki/Parcimonie
+"Parcimonie") · [Prémisse](/wiki/Pr%C3%A9misse "Prémisse") ·
+[Propagande](/wiki/Propagande "Propagande") ·
+[Prudence](/wiki/Prudence_\(vertu\) "Prudence \(vertu\)") ·
+[Rhétorique](/wiki/Rh%C3%A9torique "Rhétorique")  
+[Théories de la déduction](/wiki/Philosophie_de_la_logique "Philosophie de la
+logique") | [Constructivisme](/wiki/Constructivisme_\(math%C3%A9matiques\)
+"Constructivisme \(mathématiques\)") · [Atomisme
+logique](/wiki/Atomisme_logique "Atomisme logique") ·
+[Logicisme](/wiki/Logicisme "Logicisme") · [Nominalisme](/wiki/Nominalisme
+"Nominalisme") · [Pragmatisme](/wiki/Pragmatisme "Pragmatisme") ·
+[Réalisme](/wiki/R%C3%A9alisme_\(philosophie\) "Réalisme \(philosophie\)")  
+[Métalogique](/wiki/M%C3%A9talogique "Métalogique") et
+[métamathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique") |
+[Théorème de Cantor](/wiki/Th%C3%A9or%C3%A8me_de_Cantor "Théorème de Cantor")
+· [Thèse de Church](/wiki/Th%C3%A8se_de_Church "Thèse de Church") ·
+[Fondements des mathématiques](/wiki/Fondements_des_math%C3%A9matiques
+"Fondements des mathématiques") · [Théorème de complétude de
+Gödel](/wiki/Th%C3%A9or%C3%A8me_de_compl%C3%A9tude_de_G%C3%B6del "Théorème de
+complétude de Gödel") · [Théorème d'incomplétude de
+Gödel](/wiki/Th%C3%A9or%C3%A8mes_d%27incompl%C3%A9tude_de_G%C3%B6del
+"Théorèmes d'incomplétude de Gödel") · [Complétude](/wiki/Compl%C3%A9tude
+"Complétude") · [Décidabilité](/wiki/D%C3%A9cidabilit%C3%A9 "Décidabilité") ·
+[Théorème de Löwenheim-Skolem](/wiki/Th%C3%A9or%C3%A8me_de_L%C3%B6wenheim-
+Skolem "Théorème de Löwenheim-Skolem")  
+[Logique mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique")
+| [Algèbre de Boole](/wiki/Alg%C3%A8bre_de_Boole_\(logique\) "Algèbre de Boole
+\(logique\)") · [Calcul des prédicats](/wiki/Calcul_des_pr%C3%A9dicats "Calcul
+des prédicats") · Calcul des propositions · [Théorie de la
+calculabilité](/wiki/Calculabilit%C3%A9 "Calculabilité") · [Déduction
+naturelle](/wiki/D%C3%A9duction_naturelle "Déduction naturelle") · [Logique
+traditionnelle](/wiki/Logique_traditionnelle "Logique traditionnelle") ·
+[Logique classique](/wiki/Logique_classique "Logique classique") · [Logique
+linéaire](/wiki/Logique_lin%C3%A9aire "Logique linéaire") · [Lois de De
+Morgan](/wiki/Lois_de_De_Morgan "Lois de De Morgan") · [Théorie de la
+démonstration](/wiki/Th%C3%A9orie_de_la_d%C3%A9monstration "Théorie de la
+démonstration") · [Théorie des ensembles](/wiki/Th%C3%A9orie_des_ensembles
+"Théorie des ensembles") · [Théorie des
+modèles](/wiki/Th%C3%A9orie_des_mod%C3%A8les "Théorie des modèles")  
+[Logiques non classiques](/wiki/Logique_non_classique "Logique non classique")
+| [Logique de description](/wiki/Logique_de_description "Logique de
+description") · [Logique intuitionniste](/wiki/Logique_intuitionniste "Logique
+intuitionniste") · [Logique minimale](/wiki/Logique_minimale "Logique
+minimale") · [Logique floue](/wiki/Logique_floue "Logique floue") · [Logique
+modale](/wiki/Logique_modale "Logique modale") · [Logique non
+monotone](/wiki/Logique_non_monotone "Logique non monotone") · [Logique
+paracohérente](/wiki/Logique_paracoh%C3%A9rente "Logique paracohérente") ·
+[Logiques sous-structurelles](/wiki/Logiques_sous-structurelles "Logiques
+sous-structurelles") · [Logique de
+Łukasiewicz](/wiki/Logique_de_%C5%81ukasiewicz "Logique de Łukasiewicz")  
+[Logiciens](/wiki/Logique "Logique") | [Aristote](/wiki/Aristote "Aristote") ·
+[Avicenne](/wiki/Avicenne "Avicenne") · [Averroès](/wiki/Averro%C3%A8s
+"Averroès") · [Bain](/wiki/Alexander_Bain_\(philosophe\) "Alexander Bain
+\(philosophe\)") · [Barwise](/wiki/Jon_Barwise "Jon Barwise") ·
+[Bernays](/wiki/Paul_Bernays "Paul Bernays") · [Boole](/wiki/George_Boole
+"George Boole") · [Cantor](/wiki/Georg_Cantor "Georg Cantor") ·
+[Carnap](/wiki/Rudolf_Carnap "Rudolf Carnap") · [Church](/wiki/Alonzo_Church
+"Alonzo Church") · [Chrysippe de Soles](/wiki/Chrysippe_de_Soles "Chrysippe de
+Soles") · [Curry](/wiki/Haskell_Curry "Haskell Curry") · [De
+Morgan](/wiki/Auguste_De_Morgan "Auguste De Morgan") ·
+[Frege](/wiki/Gottlob_Frege "Gottlob Frege") · [Gentzen](/wiki/Gerhard_Gentzen
+"Gerhard Gentzen") · [Gödel](/wiki/Kurt_G%C3%B6del "Kurt Gödel") ·
+[Hilbert](/wiki/David_Hilbert "David Hilbert") ·
+[Kleene](/wiki/Stephen_Cole_Kleene "Stephen Cole Kleene") ·
+[Kripke](/wiki/Saul_Kripke "Saul Kripke") ·
+[Leibniz](/wiki/Gottfried_Wilhelm_Leibniz "Gottfried Wilhelm Leibniz") ·
+[Löwenheim](/wiki/Leopold_L%C3%B6wenheim "Leopold Löwenheim") · [Guillaume
+d'Ockham](/wiki/Guillaume_d%27Ockham "Guillaume d'Ockham") ·
+[Peano](/wiki/Giuseppe_Peano "Giuseppe Peano") ·
+[Peirce](/wiki/Charles_Sanders_Peirce "Charles Sanders Peirce") ·
+[Putnam](/wiki/Hilary_Putnam "Hilary Putnam") ·
+[Quine](/wiki/Willard_Van_Orman_Quine "Willard Van Orman Quine") ·
+[Russell](/wiki/Bertrand_Russell "Bertrand Russell") ·
+[Schröder](/wiki/Ernst_Schr%C3%B6der "Ernst Schröder") ·
+[Scot](/wiki/Jean_Duns_Scot "Jean Duns Scot") · [Skolem](/wiki/Thoralf_Skolem
+"Thoralf Skolem") · [Smullyan](/wiki/Raymond_Smullyan "Raymond Smullyan") ·
+[Tarski](/wiki/Alfred_Tarski "Alfred Tarski") · [Turing](/wiki/Alan_Turing
+"Alan Turing") · [Whitehead](/wiki/Alfred_North_Whitehead "Alfred North
+Whitehead") · [Wittgenstein](/wiki/Ludwig_Wittgenstein "Ludwig Wittgenstein")
+· [Zermelo](/wiki/Ernst_Zermelo "Ernst Zermelo")  
+  
+[v](/wiki/Mod%C3%A8le:Palette_Logique_math%C3%A9matique "Modèle:Palette
+Logique mathématique") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Logique_math%C3%A9matique&action=edit)
+
+Logique mathématique  
+  
+---  
+Calcul des propositions |  | [Règles
+d'inférence](/wiki/R%C3%A8gle_d%27inf%C3%A9rence "Règle d'inférence") |
+[_Modus ponens_](/wiki/Modus_ponens "Modus ponens") / [_Modus
+tollens_](/wiki/Modus_tollens "Modus tollens") ·
+[Élimination](/wiki/%C3%89limination_de_la_conjonction "Élimination de la
+conjonction") / [introduction de la
+conjonction](/wiki/R%C3%A8gle_d%27introduction_\(logique\) "Règle
+d'introduction \(logique\)") ·
+[Élimination](/wiki/%C3%89limination_de_la_disjonction "Élimination de la
+disjonction") / [introduction de la
+disjonction](/wiki/Introduction_de_la_disjonction "Introduction de la
+disjonction") · [Syllogisme hypothétique](/wiki/Syllogisme_hypoth%C3%A9tique
+"Syllogisme hypothétique") / [disjonctif](/wiki/Syllogisme_disjonctif
+"Syllogisme disjonctif") · [Dilemme constructif](/wiki/Dilemme_constructif
+"Dilemme constructif") / [destructif](/wiki/Dilemme_destructif "Dilemme
+destructif") ·
+[Absorption](/w/index.php?title=Absorption_\(logique\)&action=edit&redlink=1
+"Absorption \(logique\) \(page inexistante\)") · _[Modus ponendo
+tollens](/wiki/Modus_ponendo_tollens "Modus ponendo tollens")_  
+---|---  
+[Règles de remplacement](/wiki/R%C3%A8gle_de_remplacement "Règle de
+remplacement") | [Associativité](/wiki/Associativit%C3%A9 "Associativité") ·
+[Commutativité](/wiki/Loi_commutative "Loi commutative") ·
+[Distributivité](/wiki/Distributivit%C3%A9 "Distributivité") · [Double
+négation](/w/index.php?title=N%C3%A9gation_\(logique\)&action=edit&redlink=1
+"Négation \(logique\) \(page inexistante\)") · [Lois de De
+Morgan](/wiki/Lois_de_De_Morgan "Lois de De Morgan") ·
+[Transposition](/wiki/Transposition_\(logique\) "Transposition \(logique\)") ·
+[Implication](/wiki/Implication_\(logique\) "Implication \(logique\)") ·
+[Équivalence](/wiki/%C3%89quivalence_logique "Équivalence logique") ·
+[Exportation](/w/index.php?title=Exportation_\(logique\)&action=edit&redlink=1
+"Exportation \(logique\) \(page inexistante\)") ·
+[Tautologie](/wiki/Tautologie "Tautologie") · [Introduction de la
+négation](/w/index.php?title=Introduction_de_la_n%C3%A9gation&action=edit&redlink=1
+"Introduction de la négation \(page inexistante\)")  
+[Calcul des prédicats](/wiki/Calcul_des_pr%C3%A9dicats "Calcul des prédicats")
+|
+[Généralisation](/w/index.php?title=G%C3%A9n%C3%A9ralisation_universelle&action=edit&redlink=1
+"Généralisation universelle \(page inexistante\)") / [instanciation
+universelle](/wiki/Instanciation_universelle "Instanciation universelle") ·
+[Généralisation](/w/index.php?title=G%C3%A9n%C3%A9ralisation_existentielle&action=edit&redlink=1
+"Généralisation existentielle \(page inexistante\)") / [instanciation
+existentielle](/w/index.php?title=Instanciation_existentielle&action=edit&redlink=1
+"Instanciation existentielle \(page inexistante\)")  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logic.svg/48px-Logic.svg.png)](/wiki/Portail:Logique "Portail de la logique") [Portail de la logique](/wiki/Portail:Logique "Portail:Logique")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Max-cut.svg/30px-Max-cut.svg.png)](/wiki/Portail:Informatique_th%C3%A9orique "Portail de l'informatique théorique") [Portail de l'informatique théorique](/wiki/Portail:Informatique_th%C3%A9orique "Portail:Informatique théorique")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Calcul_des_propositions&oldid=171611338](https://fr.wikipedia.org/w/index.php?title=Calcul_des_propositions&oldid=171611338)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Logique mathématique](/wiki/Cat%C3%A9gorie:Logique_math%C3%A9matique "Catégorie:Logique mathématique")
+  * [Théorie de la complexité des algorithmes](/wiki/Cat%C3%A9gorie:Th%C3%A9orie_de_la_complexit%C3%A9_des_algorithmes "Catégorie:Théorie de la complexité des algorithmes")
+  * [Logique](/wiki/Cat%C3%A9gorie:Logique "Catégorie:Logique")
+
+Catégories cachées :
+
+  * [Article à référence souhaitée](/wiki/Cat%C3%A9gorie:Article_%C3%A0_r%C3%A9f%C3%A9rence_souhait%C3%A9e "Catégorie:Article à référence souhaitée")
+  * [Article contenant un appel à traduction en anglais](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais "Catégorie:Article contenant un appel à traduction en anglais")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Portail:Logique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Logique/Articles_li%C3%A9s "Catégorie:Portail:Logique/Articles liés")
+  * [Portail:Informatique théorique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Informatique_th%C3%A9orique/Articles_li%C3%A9s "Catégorie:Portail:Informatique théorique/Articles liés")
+  * [Portail:Informatique/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s "Catégorie:Portail:Informatique/Articles liés")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Calcul_des_propositions "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Calcul_des_propositions "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Calcul_des_propositions&oldid=171611338 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Calcul_des_propositions&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Calcul_des_propositions&id=171611338&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q200694 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Calcul+des+propositions)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Calcul_des_propositions&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Calcul_des_propositions&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Propositional_logic)
+  * [Wikiversité](https://fr.wikiversity.org/wiki/Logique_des_propositions)
+
+###  Dans d’autres langues
+
+  * [Afrikaans](https://af.wikipedia.org/wiki/Proposisionele_logika "Proposisionele logika — afrikaans")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%AD%D8%B3%D8%A7%D8%A8_%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D8%A7 "حساب القضايا — arabe")
+  * [Asturianu](https://ast.wikipedia.org/wiki/L%C3%B3xica_proposicional "Lóxica proposicional — asturien")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D1%96%D0%BA%D0%B0_%D0%B2%D1%8B%D0%BA%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%D1%9E "Логіка выказванняў — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%97%D1%8C%D0%BB%D1%96%D1%87%D1%8D%D0%BD%D1%8C%D0%BD%D0%B5_%D0%B2%D1%8B%D0%BA%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D1%8C%D0%BD%D1%8F%D1%9E "Зьлічэньне выказваньняў — Belarusian \(Taraškievica orthography\)")
+  * [Català](https://ca.wikipedia.org/wiki/L%C3%B2gica_proposicional "Lògica proposicional — catalan")
+  * [Čeština](https://cs.wikipedia.org/wiki/V%C3%BDrokov%C3%A1_logika "Výroková logika — tchèque")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Rhesymeg_osodiadol "Rhesymeg osodiadol — gallois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Aussagenlogik "Aussagenlogik — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%A0%CF%81%CE%BF%CF%84%CE%B1%CF%83%CE%B9%CE%B1%CE%BA%CF%8C%CF%82_%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CF%8C%CF%82 "Προτασιακός λογισμός — grec")
+  * [English](https://en.wikipedia.org/wiki/Propositional_calculus "Propositional calculus — anglais")
+  * [Español](https://es.wikipedia.org/wiki/L%C3%B3gica_proposicional "Lógica proposicional — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Lauseloogika "Lauseloogika — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Logika_proposizional "Logika proposizional — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D8%A7%D8%A8_%DA%AF%D8%B2%D8%A7%D8%B1%D9%87%E2%80%8C%D8%A7%DB%8C "حساب گزاره‌ای — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Propositiologiikka "Propositiologiikka — finnois")
+  * [Nordfriisk](https://frr.wikipedia.org/wiki/%C3%9Ctjsaagenloogik "Ütjsaagenloogik — frison du Nord")
+  * [Galego](https://gl.wikipedia.org/wiki/L%C3%B3xica_proposicional "Lóxica proposicional — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A9%D7%99%D7%91_%D7%94%D7%A4%D7%A1%D7%95%D7%A7%D7%99%D7%9D "תחשיב הפסוקים — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95_%E0%A4%95%E0%A4%B2%E0%A4%A8 "प्रतिज्ञप्तिक कलन — hindi")
+  * [Magyar](https://hu.wikipedia.org/wiki/%C3%8Dt%C3%A9letlogika "Ítéletlogika — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%B1%D5%BD%D5%B8%D6%82%D5%B5%D5%A9%D5%B6%D5%A5%D6%80%D5%AB_%D5%BF%D6%80%D5%A1%D5%B4%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6 "Ասույթների տրամաբանություն — arménien")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Kalkulus_proposisional "Kalkulus proposisional — indonésien")
+  * [Italiano](https://it.wikipedia.org/wiki/Logica_proposizionale "Logica proposizionale — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E5%91%BD%E9%A1%8C%E8%AB%96%E7%90%86 "命題論理 — japonais")
+  * [한국어](https://ko.wikipedia.org/wiki/%EB%AA%85%EC%A0%9C_%EB%85%BC%EB%A6%AC "명제 논리 — coréen")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA_%D1%81%D2%AF%D0%B9%D0%BB%D3%A9%D3%A9 "Логикалык сүйлөө — kirghize")
+  * [Latina](https://la.wikipedia.org/wiki/Logica_propositionalis "Logica propositionalis — latin")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Teigini%C5%B3_logika "Teiginių logika — lituanien")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Propositielogica "Propositielogica — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Utsegnslogikk "Utsegnslogikk — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Setningslogikk "Setningslogikk — norvégien bokmål")
+  * [Polski](https://pl.wikipedia.org/wiki/Rachunek_zda%C5%84 "Rachunek zdań — polonais")
+  * [Português](https://pt.wikipedia.org/wiki/L%C3%B3gica_proposicional "Lógica proposicional — portugais")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0_%D0%B2%D1%8B%D1%81%D0%BA%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9 "Логика высказываний — russe")
+  * [Simple English](https://simple.wikipedia.org/wiki/Propositional_logic "Propositional logic — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/V%C3%BDrokov%C3%A1_logika "Výroková logika — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Propozicijska_logika "Propozicijska logika — slovène")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D0%B0%D0%B7%D0%BD%D0%B8_%D1%80%D0%B0%D1%87%D1%83%D0%BD "Исказни рачун — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/Satslogik "Satslogik — suédois")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B8%84%E0%B8%B9%E0%B8%A5%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%88%E0%B8%99%E0%B9%8C "แคลคูลัสเชิงประพจน์ — thaï")
+  * [Türkçe](https://tr.wikipedia.org/wiki/%C3%96nermeler_mant%C4%B1%C4%9F%C4%B1 "Önermeler mantığı — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B2%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D1%8C "Числення висловлень — ukrainien")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/M%E1%BB%87nh_%C4%91%E1%BB%81_to%C3%A1n_h%E1%BB%8Dc "Mệnh đề toán học — vietnamien")
+  * [中文](https://zh.wikipedia.org/wiki/%E5%91%BD%E9%A2%98%E9%80%BB%E8%BE%91 "命题逻辑 — chinois")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E5%91%BD%E9%A1%8C%E9%82%8F%E8%BC%AF "命題邏輯 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q200694#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Calcul+des+propositions "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Calcul+des+propositions "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Calcul_des_propositions "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Calcul_des_propositions "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Calcul_des_propositions)
+  * [Modifier](/w/index.php?title=Calcul_des_propositions&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Calcul_des_propositions&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Calcul_des_propositions&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 3 juin 2020 à 07:48.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Calcul_des_propositions "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Calcul_des_propositions&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[réf.]: référence
+  *[vol.]: volume
+  *[1er]: premier
+  *[p.]: pages
+  *[(en)]: Langue : anglais
+  *[[PDF]]: Document au format Portable Document Format (PDF) d'Adobe
+  *[(de)]: Langue : allemand
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+

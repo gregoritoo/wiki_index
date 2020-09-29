@@ -1,0 +1,333 @@
+# Surface
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cette page d’[homonymie](/wiki/Aide:Homonymie "Aide:Homonymie") répertorie les
+différents sujets et articles partageant un même nom.
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Ne pas confondre avec la notion d'[aire](/wiki/Aire_\(g%C3%A9om%C3%A9trie\)
+"Aire \(géométrie\)") ou de [superficie](/wiki/Superficie "Superficie"), voir
+[surface, aire et superficie](/wiki/Surface,_aire_et_superficie "Surface, aire
+et superficie").
+
+Sur les autres projets Wikimedia :
+
+  * [surface](https://fr.wiktionary.org/wiki/surface "wikt:surface"), sur le Wiktionnaire
+  * [Surface](https://fr.wikiquote.org/wiki/Surface "q:Surface"), sur Wikiquote
+
+Le mot « **surface** », du latin _superficies_ désigne la partie apparente
+d'un corps, puis une couche peu profonde[1].
+
+Il est parfois utilisé à [tort](/wiki/Surface,_aire_et_superficie "Surface,
+aire et superficie") à la place de _[superficie](/wiki/Superficie
+"Superficie")_ (dont il partage la même construction étymologique) ou d'
+_[aire](/wiki/Aire_\(g%C3%A9om%C3%A9trie\) "Aire \(géométrie\)")_ en
+géométrie.
+
+Il admet aussi plusieurs sens spécialisés et intervient dans plusieurs
+composés et certains [noms propres](/wiki/Nom_propre "Nom propre").
+
+## Sommaire
+
+  * 1 Nom commun
+    * 1.1 Couche mince, zone ou domaine
+      * 1.1.1 Géographie, géologie et géodésie
+      * 1.1.2 Imagerie
+      * 1.1.3 Mathématiques
+      * 1.1.4 Physique
+      * 1.1.5 Technologie
+      * 1.1.6 Sport
+      * 1.1.7 Autres domaines
+    * 1.2 Superficie ou aire
+    * 1.3 Autres acceptions
+  * 2 Nom propre
+  * 3 Notes et références
+  * 4 Voir aussi
+
+## Nom commun[[modifier](/w/index.php?title=Surface&veaction=edit&section=1
+"Modifier la section : Nom commun") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=1 "Modifier la section :
+Nom commun")]
+
+### Couche mince, zone ou
+domaine[[modifier](/w/index.php?title=Surface&veaction=edit&section=2
+"Modifier la section : Couche mince, zone ou domaine") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=2 "Modifier la section :
+Couche mince, zone ou domaine")]
+
+#### Géographie, géologie et
+géodésie[[modifier](/w/index.php?title=Surface&veaction=edit&section=3
+"Modifier la section : Géographie, géologie et géodésie") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=3 "Modifier la section :
+Géographie, géologie et géodésie")]
+
+  * L'[hydrologie de surface](/wiki/Hydrologie_de_surface "Hydrologie de surface") est la branche de l'hydrologie qui étudie le ruissellement, les phénomènes d'érosion par l'eau, les écoulements des cours d'eau et les inondations.
+  * Une [surface de niveau](/wiki/Verticale_et_surface_de_niveau "Verticale et surface de niveau") est une surface équipotentielle du champ de pesanteur.
+  * La [surface terrestre](/wiki/Cro%C3%BBte_terrestre "Croûte terrestre") est une couche géologique. Par extension, elle peut aussi désigner sa partie superficielle : le [sol](/wiki/Sol_\(p%C3%A9dologie\) "Sol \(pédologie\)").
+  * La [température de surface de la mer](/wiki/Temp%C3%A9rature_de_surface_de_la_mer "Température de surface de la mer") est la température dans une couche plus ou moins importante près de la surface de la mer.
+
+#### Imagerie[[modifier](/w/index.php?title=Surface&veaction=edit&section=4
+"Modifier la section : Imagerie") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=4 "Modifier la section :
+Imagerie")]
+
+  * La [détermination des surfaces cachées](/wiki/D%C3%A9termination_des_surfaces_cach%C3%A9es "Détermination des surfaces cachées"), en informatique, est un problème d'affichage d'objets en trois dimensions.
+  * Une [surface de subdivision](/wiki/Surface_de_subdivision "Surface de subdivision"), dans le domaine de la [CAO](/wiki/Conception_assist%C3%A9e_par_ordinateur "Conception assistée par ordinateur"), est une approximation de surface lisse, obtenue notamment par un maillage linéaire par morceaux.
+
+####
+Mathématiques[[modifier](/w/index.php?title=Surface&veaction=edit&section=5
+"Modifier la section : Mathématiques") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=5 "Modifier la section :
+Mathématiques")]
+
+  * Une [surface](/wiki/Surface_\(g%C3%A9om%C3%A9trie\) "Surface \(géométrie\)") est un domaine du plan ou une sous-variété de dimension 2.
+
+En particulier :
+
+  *     * une [surface minimale](/wiki/Surface_minimale "Surface minimale") est une surface d'aire minimale bordée par un contour fixé, telles la [surface d'Enneper](/wiki/Surface_d%27Enneper "Surface d'Enneper"), les [surfaces de Scherk](/wiki/Surfaces_de_Scherk "Surfaces de Scherk")…
+    * une [surface de Riemann](/wiki/Surface_de_Riemann "Surface de Riemann") est une [variété complexe](/wiki/Vari%C3%A9t%C3%A9_complexe "Variété complexe") de dimension 1.
+  * [Lexique des surfaces](/wiki/Lexique_des_surfaces "Lexique des surfaces")
+  * Une [intégrale de surface](/wiki/Int%C3%A9grale_de_surface "Intégrale de surface") est une forme linéaire sur l'espace des fonctions définies sur une surface.
+
+Article détaillé : [Surface (géométrie
+analytique)](/wiki/Surface_\(g%C3%A9om%C3%A9trie_analytique\) "Surface
+\(géométrie analytique\)").
+
+#### Physique[[modifier](/w/index.php?title=Surface&veaction=edit&section=6
+"Modifier la section : Physique") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=6 "Modifier la section :
+Physique")]
+
+Article détaillé : [surface (physique)](/wiki/Surface_\(physique\) "Surface
+\(physique\)").
+
+La _surface propre_ d'un objet désigne sa limite, sa frontière avec le reste
+de l'univers, tandis que la **surface de contact** entre deux objets ou, plus
+généralement, deux milieux différents, désigne la frontière commune à ces deux
+objets ou milieux. Ainsi :
+
+  * la [science des surfaces](/wiki/Science_des_surfaces "Science des surfaces") est l'étude des phénomènes physiques et chimiques qui se produisent à l'interface de deux phases ;
+  * la [tension superficielle](/wiki/Tension_superficielle "Tension superficielle") est une énergie par unité de surface à l'interface entre deux milieux denses ;
+  * un [agent de surface](/wiki/Tensioactif "Tensioactif") est un composé chimique qui modifie la tension superficielle entre deux milieux ;
+  * l'[état de surface](/wiki/%C3%89tat_de_surface "État de surface") est une description des propriétés géométriques d'une surface ;
+  * une [surface frottante](/wiki/Surfaces_frottantes "Surfaces frottantes") est une zone de frottement entre deux objets ou milieux.
+
+D'autres composés ont des sens spécialisés.
+
+  * Une [onde acoustique de surface](/wiki/Onde_acoustique_de_surface "Onde acoustique de surface"), en acoustique, est une onde sonore qui se propage à la surface d'un matériau élastique.
+  * La [surface de dernière diffusion](/wiki/Surface_de_derni%C3%A8re_diffusion "Surface de dernière diffusion"), en astrophysique, est la région de l'espace d'où a été émis le fond diffus cosmologique.
+  * En électromagnétisme : 
+    * la [surface équivalente radar](/wiki/Surface_%C3%A9quivalente_radar "Surface équivalente radar") est une notion décrivant la réflexion d'un faisceau électromagnétique d'un objet ;
+    * une [surface à haute impédance](/wiki/Surface_%C3%A0_haute_imp%C3%A9dance "Surface à haute impédance") est une structure à motif périodique fixée ou imprimée sur un plan de masse ;
+    * un [plasmon de surface](/wiki/Plasmon_de_surface "Plasmon de surface") est une solution des équations de propagation des ondes électromagnétiques à l'interface entre certains milieux.
+  * La _[surface de sustentation](/wiki/Surface_de_sustentation "Surface de sustentation") d'un solide_, en mécanique, est la projection orthogonale au sol de l'ensemble des points où peut se trouver son centre de gravité en maintenant son équilibre.
+  * Une [surface d'univers](/wiki/Surface_d%27univers "Surface d'univers"), en physique théorique, est l'espace balayé par une corde au cours du temps.
+
+#### Technologie[[modifier](/w/index.php?title=Surface&veaction=edit&section=7
+"Modifier la section : Technologie") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=7 "Modifier la section :
+Technologie")]
+
+  * En électronique : 
+    * Une [diode laser à cavité verticale émettant par la surface](/wiki/Diode_laser_%C3%A0_cavit%C3%A9_verticale_%C3%A9mettant_par_la_surface "Diode laser à cavité verticale émettant par la surface") est un type de diode laser ;
+    * La [technique de montage en surface](/wiki/Technique_de_montage_en_surface "Technique de montage en surface") est une technique qui permet de fixer des composants électroniques à la surface d'un circuit imprimé.
+  * Un [missile surface-air](/wiki/Missile_surface-air "Missile surface-air") ou _sol-air_ , en armement, est un [missile](/wiki/Missile "Missile") destiné à atteindre une cible aérienne en étant tiré depuis le sol.
+
+#### Sport[[modifier](/w/index.php?title=Surface&veaction=edit&section=8
+"Modifier la section : Sport") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=8 "Modifier la section :
+Sport")]
+
+  * Une [surface de jeu](/wiki/Surfaces_de_jeu_au_tennis "Surfaces de jeu au tennis"), au tennis, est un type de revêtement du sol.
+  * La [surface de réparation](/wiki/Lexique_du_football "Lexique du football"), en football, est la limite dans laquelle une faute commise par un défenseur sur un attaquant adverse entraine un penalty.
+
+#### Autres
+domaines[[modifier](/w/index.php?title=Surface&veaction=edit&section=9
+"Modifier la section : Autres domaines") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=9 "Modifier la section :
+Autres domaines")]
+
+  * La [surface agricole utile](/wiki/Surface_agricole_utile "Surface agricole utile"), en [agriculture](/wiki/Agriculture "Agriculture"), est un concept statistique destiné à évaluer le territoire consacré à la production agricole.
+  * Une [grande surface](/wiki/Grande_distribution "Grande distribution"), en [commerce](/wiki/Commerce "Commerce"), est un point de vente de grande taille dont l'offre est très diversifiée.
+  * Un [canard de surface](/wiki/Canard_de_surface "Canard de surface"), en [zoologie](/wiki/Zoologie "Zoologie"), est un [canard](/wiki/Canard "Canard") appartenant à un groupe d'espèces particulier.
+
+### Superficie ou
+aire[[modifier](/w/index.php?title=Surface&veaction=edit&section=10 "Modifier
+la section : Superficie ou aire") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=10 "Modifier la section :
+Superficie ou aire")]
+
+  * La [surface spécifique](/wiki/Surface_sp%C3%A9cifique "Surface spécifique"), en [physique](/wiki/Physique "Physique"), désigne la superficie réelle de la surface d'un objet par opposition à sa surface apparente.
+  * La [surface alaire](/wiki/Surface_alaire "Surface alaire") d'un avion ou d'un planeur, en [aéronautique](/wiki/A%C3%A9ronautique "Aéronautique"), est la superficie des ailes projetées sur le plan transverse.
+  * La [surface de Dieu](/wiki/Surface_de_Dieu "Surface de Dieu") est un calcul censé évaluer Dieu numériquement comme aire d'un triangle, symbole divin traditionnel.
+  * Les [surface, aire et superficie](/wiki/Surface,_aire_et_superficie "Surface, aire et superficie"), par abus de langage dans le jargon du droit français de l'urbanisme et de l'habitation, concerne les [surfaces](/wiki/Surface_\(logement\) "Surface \(logement\)") des logements ; ce sont des indicateurs de mesure des bâtiments, comme : 
+    * la [surface habitable](/wiki/Surface_habitable "Surface habitable"),
+    * la [surface utile brute locative](/wiki/Surface_Utile_Brute_Locative "Surface Utile Brute Locative"),
+    * la [surface de plancher](/wiki/Surface_de_plancher "Surface de plancher") qui remplace, depuis le [1er](/wiki/1er_mars "1er mars") [mars](/wiki/Mars_2012 "Mars 2012") [2012](/wiki/2012 "2012"), la [surface hors œuvre brute](/wiki/Surface_hors_%C5%93uvre_brute "Surface hors œuvre brute") et la [surface hors œuvre nette](/wiki/Surface_hors_%C5%93uvre_nette "Surface hors œuvre nette").
+
+### Autres
+acceptions[[modifier](/w/index.php?title=Surface&veaction=edit&section=11
+"Modifier la section : Autres acceptions") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=11 "Modifier la section :
+Autres acceptions")]
+
+  * L’[analyse syntaxique de surface](/wiki/Analyse_syntaxique_de_surface "Analyse syntaxique de surface"), en linguistique, est une analyse syntaxique qui identifie les constituants d’une phrase sans spécifier leurs structures internes ni leurs fonctions dans la phrase.
+  * [Traitement de surface](/wiki/Traitement_de_surface "Traitement de surface")
+    * [Traiteur de surfaces en bois](/wiki/Traiteur_de_surfaces_en_bois "Traiteur de surfaces en bois")
+  * [Usure des surfaces](/wiki/Usure_des_surfaces "Usure des surfaces") (mécanique)
+
+## Nom propre[[modifier](/w/index.php?title=Surface&veaction=edit&section=12
+"Modifier la section : Nom propre") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=12 "Modifier la section :
+Nom propre")]
+
+  * [Surface-conduction Electron-emitter Display](/wiki/Surface-conduction_Electron-emitter_Display "Surface-conduction Electron-emitter Display") est un écran plat.
+  * Microsoft Surface est l'ancienne dénomination de la table tactile [Microsoft PixelSense](/wiki/Microsoft_PixelSense "Microsoft PixelSense").
+  * [Microsoft Surface](/wiki/Microsoft_Surface "Microsoft Surface") est une gamme de tablettes tactiles de Microsoft.
+  * _[Surface](/wiki/Surface_\(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e\) "Surface \(série télévisée\)")_ est une série télévisée.
+  * [surface](/wiki/Surface_\(groupe_japonais\) "Surface \(groupe japonais\)") est un groupe japonais de rock.
+  * Surface est un groupe américain de RnB.
+  * La [Compagnie des moyens de surface](/wiki/Compagnie_des_moyens_de_surface "Compagnie des moyens de surface") est une compagnie maritime française.
+  * Le _[Lunar Surface Access Module](/wiki/Altair_\(v%C3%A9hicule_spatial\) "Altair \(véhicule spatial\)") est un véhicule spatial conçu par la NASA dans le but de retourner sur la Lune vers 2020._
+  * _[Scratch the Surface](/wiki/Scratch_the_Surface "Scratch the Surface")_ est un album de musique de 1994.
+  * _[Supports/Surfaces](/wiki/Supports/Surfaces "Supports/Surfaces")_ est un mouvement d'art contemporain.
+  * [Surface of Atlantic](/wiki/Surface_of_Atlantic "Surface of Atlantic") est un groupe de rock québécois.
+
+## Notes et
+références[[modifier](/w/index.php?title=Surface&veaction=edit&section=13
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=13 "Modifier la section :
+Notes et références")]
+
+  1. ↑ « Surface », _Dictionnaire historique de la langue française_ , Dictionnaires Le Robert 1992.
+
+## Voir aussi[[modifier](/w/index.php?title=Surface&veaction=edit&section=14
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Surface&action=edit&section=14 "Modifier la section :
+Voir aussi")]
+
+  * [Surfacing](/wiki/Surfacing "Surfacing") [![Ce lien renvoie vers une page d'homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/15px-Disambig_colour.svg.png)](/wiki/Surfacing "Surfacing")
+  * [Superficie](/wiki/Superficie "Superficie")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Surface&oldid=139706730](https://fr.wikipedia.org/w/index.php?title=Surface&oldid=139706730)
+».
+
+[Catégorie](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Homonymie](/wiki/Cat%C3%A9gorie:Homonymie "Catégorie:Homonymie")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Surface "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Surface "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Surface&oldid=139706730 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Surface&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Surface&id=139706730&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q297895 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Surface)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Surface&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Surface&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [Deutsch](https://de.wikipedia.org/wiki/Surface "Surface — allemand")
+  * [English](https://en.wikipedia.org/wiki/Surface_\(disambiguation\) "Surface \(disambiguation\) — anglais")
+  * [Español](https://es.wikipedia.org/wiki/Surface "Surface — espagnol")
+  * [Italiano](https://it.wikipedia.org/wiki/Surface "Surface — italien")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%84%9C%ED%94%BC%EC%8A%A4 "서피스 — coréen")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Surface "Surface — néerlandais")
+  * [Português](https://pt.wikipedia.org/wiki/Surface "Surface — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/Surface "Surface — roumain")
+  * [中文](https://zh.wikipedia.org/wiki/Surface_\(%E6%B6%88%E6%AD%A7%E7%BE%A9\) "Surface \(消歧義\) — chinois")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q297895#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Surface "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Surface "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Surface "Voir le contenu de la page \[c\]")
+  * [Discussion](/w/index.php?title=Discussion:Surface&action=edit&redlink=1 "Discussion au sujet de cette page de contenu \(page inexistante\) \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Surface)
+  * [Modifier](/w/index.php?title=Surface&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Surface&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Surface&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 12 août 2017 à 22:36.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Surface "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Surface&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+

@@ -1,0 +1,442 @@
+# Conjecture
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Confusion_colour.svg/20px-
+Confusion_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Ne doit pas être confondu avec [Conjoncture](/wiki/Conjoncture "Conjoncture").
+
+[![Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir
+plus sur les
+bandeaux.](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Aide:Bandeau "Si ce bandeau n'est plus pertinent,
+retirez-le. Cliquez ici pour en savoir plus sur les bandeaux.")
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2017-fr.wp-orange-
+source.svg/45px-2017-fr.wp-orange-source.svg.png)](/wiki/Fichier:2017-fr.wp-
+orange-source.svg)
+
+**Cet article[ne cite pas suffisamment ses
+sources](/wiki/Wikip%C3%A9dia:Citez_vos_sources "Wikipédia:Citez vos
+sources")** (février 2017).
+
+Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez
+des sites web de qualité traitant du thème abordé ici, merci de compléter
+l'article en donnant les **références utiles à
+sa[vérifiabilité](/wiki/Wikip%C3%A9dia:V%C3%A9rifiabilit%C3%A9
+"Wikipédia:Vérifiabilité")** et en les liant à la section « [Notes et
+références](/wiki/Aide:Ins%C3%A9rer_une_r%C3%A9f%C3%A9rence "Aide:Insérer une
+référence") »
+
+**En pratique :** [Quelles sources sont attendues
+?](/wiki/Wikip%C3%A9dia:Citez_vos_sources#Qualité_des_sources "Wikipédia:Citez
+vos sources") [Comment ajouter mes sources
+?](/wiki/Aide:Ins%C3%A9rer_une_r%C3%A9f%C3%A9rence_\(%C3%89diteur_visuel\)
+"Aide:Insérer une référence \(Éditeur visuel\)")
+
+En [mathématiques](/wiki/Math%C3%A9matiques "Mathématiques"), une
+**conjecture** est une [assertion](/wiki/Assertion "Assertion") pour laquelle
+on ne connaît pas encore de
+[démonstration](/wiki/D%C3%A9monstration_\(logique_et_math%C3%A9matique\)
+"Démonstration \(logique et mathématique\)"), mais que l'on croit fortement
+être vraie, en l'absence de [contre-exemple](/wiki/Contre-exemple "Contre-
+exemple").
+
+Une conjecture peut être choisie comme [hypothèse](/wiki/Hypoth%C3%A8se
+"Hypothèse") ou [postulat](/wiki/Postulat "Postulat") pour étudier d'autres
+énoncés. Si une conjecture se révèle [indécidable](/wiki/Ind%C3%A9cidable
+"Indécidable") relativement au système d'[axiomes](/wiki/Axiome "Axiome") dans
+laquelle elle s'insère, elle peut être érigée en nouvel axiome (ou rejetée par
+la mise en place d'un nouvel axiome).
+
+Dans le [langage courant](/wiki/Langage_courant "Langage courant"), on désigne
+comme conjecture une hypothèse qui n'a encore reçu aucune confirmation.
+
+## Sommaire
+
+  * 1 Définition et exemples
+  * 2 Exemples de conjectures
+    * 2.1 Conjectures résolues
+      * 2.1.1 Le dernier théorème de Fermat
+      * 2.1.2 La conjecture de Kepler
+      * 2.1.3 Le problème de Robbins
+    * 2.2 Conjectures actuelles
+    * 2.3 Travaux en cours
+  * 3 Notes et références
+  * 4 Bibliographie
+
+## Définition et
+exemples[[modifier](/w/index.php?title=Conjecture&veaction=edit&section=1
+"Modifier la section : Définition et exemples") | [modifier le
+code](/w/index.php?title=Conjecture&action=edit&section=1 "Modifier la section
+: Définition et exemples")]
+
+Quand une conjecture est démontrée, elle devient un
+[théorème](/wiki/Th%C3%A9or%C3%A8me "Théorème") et rejoint la liste des
+**faits mathématiques**. Jusqu'à ce stade de [véracité](/wiki/V%C3%A9rit%C3%A9
+"Vérité"), les mathématiciens doivent donc faire attention lorsqu'ils font
+appel à une conjecture dans leurs structures logiques et leurs démonstrations.
+
+Par exemple, l'[hypothèse de Riemann](/wiki/Hypoth%C3%A8se_de_Riemann
+"Hypothèse de Riemann") est une conjecture de la [théorie des
+nombres](/wiki/Th%C3%A9orie_des_nombres "Théorie des nombres") qui énonce
+(entre autres choses) des prévisions sur la distribution des [nombres
+premiers](/wiki/Nombre_premier "Nombre premier"). Peu de théoriciens des
+nombres doutent du fait que l'hypothèse de Riemann soit vraie. Dans l'attente
+de sa démonstration éventuelle, certains mathématiciens développent d'autres
+démonstrations qui reposent sur la [véracité](/wiki/V%C3%A9racit%C3%A9
+"Véracité") de cette conjecture. Cependant, ces « démonstrations » tomberaient
+en morceaux si cette hypothèse de Riemann se révélait fausse. Il y a donc un
+intérêt mathématique majeur à démontrer ou réfuter des conjectures
+mathématiques pendantes.
+
+Bien que la plupart des conjectures les plus célèbres aient été vérifiées pour
+des kyrielles étonnantes de nombres, cela ne constitue pas une garantie contre
+un [contre-exemple](/wiki/Contre-exemple "Contre-exemple"), qui réfuterait
+immédiatement la conjecture considérée. Par exemple, la [conjecture de
+Syracuse](/wiki/Conjecture_de_Syracuse "Conjecture de Syracuse") – qui
+concerne l'arrêt d'une certaine suite de nombres entiers – a été examinée pour
+tous les nombres entiers jusqu'à deux élevé à la puissance 62-ième (soit plus
+de quatre milliards de milliards). Cependant, elle a toujours le statut de
+conjecture, car on ne peut exclure l'existence d'un contre-exemple au-delà de
+262 qui viendrait l'infirmer, bien que l'on sache par des arguments
+probabilistes que de tels contre-exemples deviennent de plus en plus rares au
+fur et à mesure que l'on progresse vers des nombres de plus en plus grands,
+mais « forte vraisemblance » n'est pas « certitude ».
+
+Toutes les conjectures ne finissent pas par être établies comme vraies ou
+fausses. Par exemple, l'[hypothèse du continu](/wiki/Hypoth%C3%A8se_du_continu
+"Hypothèse du continu") \- qui essaye d'établir la
+[cardinalité](/wiki/Cardinalit%C3%A9_\(math%C3%A9matiques\) "Cardinalité
+\(mathématiques\)") relative de certains [ensembles](/wiki/Ensemble
+"Ensemble") [infinis](/wiki/Infini "Infini") \- s'est avérée
+[indécidable](/wiki/Ind%C3%A9cidable "Indécidable") à partir de l'ensemble des
+[axiomes](/wiki/Axiome "Axiome") généralement admis de la [théorie des
+ensembles](/wiki/Th%C3%A9orie_des_ensembles "Théorie des ensembles"). Il est
+donc possible d'adopter cette [assertion](/wiki/Assertion "Assertion"), ou sa
+négation, comme nouvel axiome tout en restant cohérent (comme nous pouvons
+également accepter le [postulat](/wiki/Postulat "Postulat") de la parallèle
+d'Euclide comme vrai ou faux). Pire, le [théorème d'incomplétude de
+Gödel](/wiki/Th%C3%A9or%C3%A8me_d%27incompl%C3%A9tude_de_G%C3%B6del "Théorème
+d'incomplétude de Gödel") montre que dans toute théorie qui contient
+l'arithmétique, il existe des propositions qui, quoique démontrables pour
+chacun des entiers (chaque instance de la proposition par un entier est
+démontrable), ne peuvent pas être démontrées en tant que théorème sur tous les
+entiers.
+
+## Exemples de
+conjectures[[modifier](/w/index.php?title=Conjecture&veaction=edit&section=2
+"Modifier la section : Exemples de conjectures") | [modifier le
+code](/w/index.php?title=Conjecture&action=edit&section=2 "Modifier la section
+: Exemples de conjectures")]
+
+Article détaillé : [Liste de conjectures
+mathématiques](/wiki/Liste_de_conjectures_math%C3%A9matiques "Liste de
+conjectures mathématiques").
+
+### Conjectures
+résolues[[modifier](/w/index.php?title=Conjecture&veaction=edit&section=3
+"Modifier la section : Conjectures résolues") | [modifier le
+code](/w/index.php?title=Conjecture&action=edit&section=3 "Modifier la section
+: Conjectures résolues")]
+
+  * La conjecture de [Girard](/wiki/Albert_Girard "Albert Girard"), formulée en 1629, a été démontrée dans ce qu'on appelle aujourd'hui le théorème de D'Alembert-Gauss ou [théorème fondamental de l'algèbre](/wiki/Th%C3%A9or%C3%A8me_fondamental_de_l%27alg%C3%A8bre "Théorème fondamental de l'algèbre") en 1813.
+  * La [conjecture des quatre couleurs](/wiki/Th%C3%A9or%C3%A8me_des_quatre_couleurs "Théorème des quatre couleurs"), a été démontrée en 1976 en utilisant des programmes informatiques et complètement formalisée en 2006 dans l'[assistant de preuve](/wiki/Assistant_de_preuve "Assistant de preuve") [Coq](/wiki/Coq_\(logiciel\) "Coq \(logiciel\)").
+  * Le « [dernier théorème de Fermat](/wiki/Dernier_th%C3%A9or%C3%A8me_de_Fermat "Dernier théorème de Fermat") » fut démontré en 1994.
+  * La [conjecture de Poincaré](/wiki/Conjecture_de_Poincar%C3%A9 "Conjecture de Poincaré"), formulée en 1904, a été résolue en 2003 positivement.
+  * La conjecture de [Gauss](/wiki/Carl_Friedrich_Gauss "Carl Friedrich Gauss"), qui exprimait que π( _x_ ) ≤ Li( _x_ ) (où Li est la [fonction d'écart logarithmique intégrale](/wiki/Logarithme_int%C3%A9gral#Fonction_d'écart_logarithmique_intégrale "Logarithme intégral")), a été infirmée par [Littlewood](/wiki/Littlewood "Littlewood") qui a montré que la différence π( _x_ ) – Li( _x_ ) changeait de signes une infinité de fois.
+  * La [conjecture des nombres premiers](/wiki/Th%C3%A9or%C3%A8me_des_nombres_premiers "Théorème des nombres premiers") sur la valeur asymptotique de π( _x_ ), énoncée en 1809 par [Legendre](/wiki/Adrien-Marie_Legendre "Adrien-Marie Legendre"), a été démontrée indépendamment par [Hadamard](/wiki/Hadamard "Hadamard") et [La Vallée Poussin](/wiki/Charles-Jean_de_La_Vall%C3%A9e_Poussin "Charles-Jean de La Vallée Poussin") en 1896.
+  * La [conjecture de Bieberbach](/wiki/Conjecture_de_Bieberbach "Conjecture de Bieberbach") sur les coefficients des fonctions entières injectives dans le disque unité a été démontrée en 1985 par [Louis de Branges de Bourcia](/wiki/Louis_de_Branges_de_Bourcia "Louis de Branges de Bourcia").
+  * La [conjecture de Mertens](/wiki/Conjecture_de_Mertens "Conjecture de Mertens"), énoncée en 1897, a été réfutée en 1985 par [Odlyzko](/wiki/Andrew_Odlyzko "Andrew Odlyzko") et [te Riele](/wiki/Herman_te_Riele "Herman te Riele").
+  * Les conjectures du mémoire de [Riemann](/wiki/Bernhard_Riemann "Bernhard Riemann") de 1859 sur la [fonction ζ](/wiki/Fonction_z%C3%AAta_de_Riemann "Fonction zêta de Riemann") ont toutes été résolues avant le XXe siècle, sauf l'[hypothèse de Riemann](/wiki/Hypoth%C3%A8se_de_Riemann "Hypothèse de Riemann").
+  * Le [problème de Waring](/wiki/Probl%C3%A8me_de_Waring "Problème de Waring") a été résolu par [Hilbert](/wiki/Hilbert "Hilbert") en 1909.
+  * L'[hypothèse du continu](/wiki/Hypoth%C3%A8se_du_continu "Hypothèse du continu") a été partiellement résolue, au sens que [Paul Cohen](/wiki/Paul_Cohen "Paul Cohen") a démontré qu'elle est indépendante des axiomes de la [théorie des ensembles de Zermelo-Fraenkel](/wiki/ZFC "ZFC").
+  * Le problème de la [quadrature du cercle](/wiki/Quadrature_du_cercle "Quadrature du cercle") par la règle non graduée et le compas seuls a été démontré impossible en 1882 par [Lindemann](/wiki/Ferdinand_von_Lindemann "Ferdinand von Lindemann").
+  * Le problème de la [trisection d'un angle](/wiki/Trisection_de_l%27angle "Trisection de l'angle") quelconque par la règle non graduée et le compas seuls a été démontré impossible, ainsi que le problème de la [duplication du cube](/wiki/Duplication_du_cube "Duplication du cube") par les mêmes moyens.
+
+#### Le dernier théorème de
+Fermat[[modifier](/w/index.php?title=Conjecture&veaction=edit&section=4
+"Modifier la section : Le dernier théorème de Fermat") | [modifier le
+code](/w/index.php?title=Conjecture&action=edit&section=4 "Modifier la section
+: Le dernier théorème de Fermat")]
+
+Formulée vraisemblablement en [1637](/wiki/1637 "1637"), publiée en
+[1670](/wiki/1670 "1670"), la plus célèbre de toutes les conjectures était
+celle dénommée le « [dernier théorème de
+Fermat](/wiki/Dernier_th%C3%A9or%C3%A8me_de_Fermat "Dernier théorème de
+Fermat") ». Ce n'est qu'après sa
+[démonstration](/wiki/D%C3%A9monstration_\(logique_et_math%C3%A9matique\)
+"Démonstration \(logique et mathématique\)") par le mathématicien [Andrew
+Wiles](/wiki/Andrew_Wiles "Andrew Wiles") en 1994 que cette conjecture devint
+théorème. La démonstration consista à prouver un cas particulier de la
+[conjecture de Shimura-Taniyama-Weil](/wiki/Conjecture_de_Shimura-Taniyama-
+Weil "Conjecture de Shimura-Taniyama-Weil"), problème alors en attente de
+résolution depuis une quarantaine d'années. On savait en effet que le dernier
+théorème de Fermat découlait de ce cas particulier. Le théorème complet de
+[Shimura](/wiki/Gor%C5%8D_Shimura "Gorō
+Shimura")-[Taniyama](/wiki/Yutaka_Taniyama "Yutaka
+Taniyama")-[Weil](/wiki/Andr%C3%A9_Weil "André Weil") fut finalement démontré
+en [1999](/wiki/1999 "1999") par [Breuil](/wiki/Christophe_Breuil "Christophe
+Breuil"), [Conrad](/wiki/Brian_Conrad "Brian Conrad"),
+[Diamond](/wiki/Fred_Diamond "Fred Diamond") et
+[Taylor](/wiki/Richard_Taylor_\(math%C3%A9maticien\) "Richard Taylor
+\(mathématicien\)") qui, en s'appuyant sur le travail de Wiles, remplirent par
+sauts de puce les cas restants jusqu'à la démonstration du résultat complet.
+
+Article détaillé : [Dernier théorème de
+Fermat](/wiki/Dernier_th%C3%A9or%C3%A8me_de_Fermat "Dernier théorème de
+Fermat").
+
+#### La conjecture de
+Kepler[[modifier](/w/index.php?title=Conjecture&veaction=edit&section=5
+"Modifier la section : La conjecture de Kepler") | [modifier le
+code](/w/index.php?title=Conjecture&action=edit&section=5 "Modifier la section
+: La conjecture de Kepler")]
+
+La [conjecture de Kepler](/wiki/Conjecture_de_Kepler "Conjecture de Kepler"),
+formulée par [Johannes Kepler](/wiki/Johannes_Kepler "Johannes Kepler") en
+1611 et résolue positivement en 1998 par [Thomas Hales](/wiki/Thomas_Hales
+"Thomas Hales") ; la démonstration qui en a été publiée dans le journal
+_[Annals of Mathematics](/wiki/Annals_of_Mathematics "Annals of Mathematics")_
+a satisfait les experts à « 99 % ». La vérification et preuve formelle fut
+apportée en 2014[1].
+
+Article détaillé : [Conjecture de Kepler](/wiki/Conjecture_de_Kepler
+"Conjecture de Kepler").
+
+#### Le problème de
+Robbins[[modifier](/w/index.php?title=Conjecture&veaction=edit&section=6
+"Modifier la section : Le problème de Robbins") | [modifier le
+code](/w/index.php?title=Conjecture&action=edit&section=6 "Modifier la section
+: Le problème de Robbins")]
+
+Une conjecture qui a résisté pendant 66 ans est le [problème de
+Robbins](/w/index.php?title=Alg%C3%A8bre_de_Robbins&action=edit&redlink=1
+"Algèbre de Robbins \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Robbins_algebra "en:Robbins algebra")[2].
+Son intérêt réside dans le fait que la seule solution qui en existe a été
+produite par un programme d'ordinateur[3].
+
+### Conjectures
+actuelles[[modifier](/w/index.php?title=Conjecture&veaction=edit&section=7
+"Modifier la section : Conjectures actuelles") | [modifier le
+code](/w/index.php?title=Conjecture&action=edit&section=7 "Modifier la section
+: Conjectures actuelles")]
+
+Article détaillé : [Liste de conjectures mathématiques#Conjectures non
+résolues](/wiki/Liste_de_conjectures_math%C3%A9matiques#Conjectures_non_résolues
+"Liste de conjectures mathématiques").
+
+Les conjectures (non résolues) comprennent à ce jour :
+
+  * la [conjecture de Goldbach](/wiki/Conjecture_de_Goldbach "Conjecture de Goldbach") (formulée en 1742) ;
+  * l'[hypothèse de Riemann](/wiki/Hypoth%C3%A8se_de_Riemann "Hypothèse de Riemann") (formulée en 1859) ;
+  * la [conjecture de Syracuse](/wiki/Conjecture_de_Syracuse "Conjecture de Syracuse") (formulée dans les années 1950) ;
+  * la [conjecture _abc_](/wiki/Conjecture_abc "Conjecture abc") (formulée en 1985) ;
+  * la [conjecture P ≠ NP](/wiki/Probl%C3%A8me_P_%3D_NP "Problème P = NP") ;
+  * la [conjecture des nombres premiers jumeaux](/wiki/Conjecture_des_nombres_premiers_jumeaux "Conjecture des nombres premiers jumeaux"), qui est la plus ancienne conjecture non résolue ;
+  * la [conjecture des nombres parfaits](/wiki/Nombre_parfait "Nombre parfait") ;
+  * la [conjecture de Birch et Swinnerton-Dyer](/wiki/Conjecture_de_Birch_et_Swinnerton-Dyer "Conjecture de Birch et Swinnerton-Dyer") ;
+  * la [conjecture de Legendre](/wiki/Conjecture_de_Legendre "Conjecture de Legendre"), selon laquelle entre _n_ 2 et ( _n_ \+ 1)2 existe toujours un nombre premier.
+
+### Travaux en
+cours[[modifier](/w/index.php?title=Conjecture&veaction=edit&section=8
+"Modifier la section : Travaux en cours") | [modifier le
+code](/w/index.php?title=Conjecture&action=edit&section=8 "Modifier la section
+: Travaux en cours")]
+
+Le [programme de Langlands](/wiki/Programme_de_Langlands "Programme de
+Langlands") est un enchaînement de grande envergure qui vise l' _unification
+des conjectures_ reliant différents champs des mathématiques : la [théorie des
+nombres](/wiki/Th%C3%A9orie_des_nombres "Théorie des nombres") et la théorie
+de la représentation des [groupes de Lie](/wiki/Groupe_de_Lie "Groupe de
+Lie"), certaines de ces conjectures ayant été depuis démontrées.
+
+## Notes et
+références[[modifier](/w/index.php?title=Conjecture&veaction=edit&section=9
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Conjecture&action=edit&section=9 "Modifier la section
+: Notes et références")]
+
+  1. ↑ Sean Bailly, [« La conjecture de Kepler formellement démontrée »](http://www.pourlascience.fr/ewb_pages/a/actu-la-conjecture-de-kepler-formellement-demontree-33280.php), [Pour la science](/wiki/Pour_la_science "Pour la science"), 26 août 2014 (consulté le 28 octobre 2014).
+  2. ↑ (en) [Robbins Algebras Are Boolean](http://www.cs.unm.edu/~mccune/papers/robbins/), sur le site de [William McCune](/w/index.php?title=William_McCune&action=edit&redlink=1 "William McCune \(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/William_McCune "en:William McCune")
+  3. ↑ (en) [William McCune](/w/index.php?title=William_McCune&action=edit&redlink=1 "William McCune \(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/William_McCune "en:William McCune"), « Solution of the Robbins problem », _J. Autom. Reason._ , vol. 19, no 3, 1997, p. 263-276
+
+##
+Bibliographie[[modifier](/w/index.php?title=Conjecture&veaction=edit&section=10
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Conjecture&action=edit&section=10 "Modifier la
+section : Bibliographie")]
+
+  * [Karl Popper](/wiki/Karl_Popper "Karl Popper") (trad. B. de Launay), Conjectures et réfutations : La croissance du savoir scientifique [« Conjectures and Refutations »], [Payot](/wiki/Payot_\(%C3%A9ditions\) "Payot \(éditions\)"), 2006 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2228900584](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2228900584 "Spécial:Ouvrages de référence/978-2228900584"))
+
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Conjecture&oldid=169174472](https://fr.wikipedia.org/w/index.php?title=Conjecture&oldid=169174472)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Vocabulaire des mathématiques](/wiki/Cat%C3%A9gorie:Vocabulaire_des_math%C3%A9matiques "Catégorie:Vocabulaire des mathématiques")
+  * [Conjecture](/wiki/Cat%C3%A9gorie:Conjecture "Catégorie:Conjecture")
+
+Catégories cachées :
+
+  * [Article contenant un appel à traduction en anglais](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais "Catégorie:Article contenant un appel à traduction en anglais")
+  * [Article manquant de références depuis février 2017](/wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences_depuis_f%C3%A9vrier_2017 "Catégorie:Article manquant de références depuis février 2017")
+  * [Article manquant de références/Liste complète](/wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences/Liste_compl%C3%A8te "Catégorie:Article manquant de références/Liste complète")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Conjecture "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Conjecture "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Conjecture&oldid=169174472 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Conjecture&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Conjecture&id=169174472&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q319141 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Conjecture)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Conjecture&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Conjecture&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%AD%D8%AF%D8%B3%D9%8A%D8%A9_\(%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA\) "حدسية \(رياضيات\) — arabe")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Conxetura "Conxetura — asturien")
+  * [Català](https://ca.wikipedia.org/wiki/Conjectura "Conjectura — catalan")
+  * [کوردی](https://ckb.wikipedia.org/wiki/%D9%85%DB%95%D8%B2%D9%86%D8%AF%DB%95 "مەزندە — sorani")
+  * [Čeština](https://cs.wikipedia.org/wiki/Domn%C4%9Bnka "Domněnka — tchèque")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D0%B0_\(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0\) "Гипотеза \(математика\) — tchouvache")
+  * [Dansk](https://da.wikipedia.org/wiki/Formodning_\(matematik\) "Formodning \(matematik\) — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Vermutung_\(Mathematik\) "Vermutung \(Mathematik\) — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%95%CE%B9%CE%BA%CE%B1%CF%83%CE%AF%CE%B1 "Εικασία — grec")
+  * [English](https://en.wikipedia.org/wiki/Conjecture "Conjecture — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Konjekto_\(matematiko\) "Konjekto \(matematiko\) — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Conjetura "Conjetura — espagnol")
+  * [Euskara](https://eu.wikipedia.org/wiki/Aieru_\(zientzia\) "Aieru \(zientzia\) — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%AD%D8%AF%D8%B3 "حدس — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Konjektuuri "Konjektuuri — finnois")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/Tuairim%C3%ADocht "Tuairimíocht — irlandais")
+  * [Gàidhlig](https://gd.wikipedia.org/wiki/Baralachas "Baralachas — gaélique écossais")
+  * [Galego](https://gl.wikipedia.org/wiki/Conxectura "Conxectura — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%94%D7%A9%D7%A2%D7%A8%D7%94_\(%D7%9E%D7%AA%D7%9E%D7%98%D7%99%D7%A7%D7%94\) "השערה \(מתמטיקה\) — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%9F%E0%A4%95%E0%A4%B2 "अटकल — hindi")
+  * [Magyar](https://hu.wikipedia.org/wiki/Sejt%C3%A9s "Sejtés — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D5%80%D5%AB%D5%BA%D5%B8%D5%A9%D5%A5%D5%A6_\(%D5%B4%D5%A1%D5%A9%D5%A5%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1\) "Հիպոթեզ \(մաթեմատիկա\) — arménien")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Konjektur "Konjektur — indonésien")
+  * [Italiano](https://it.wikipedia.org/wiki/Congettura "Congettura — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E4%BA%88%E6%83%B3 "予想 — japonais")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%B6%94%EC%B8%A1 "추측 — coréen")
+  * [Latina](https://la.wikipedia.org/wiki/Coniectura "Coniectura — latin")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Prielaida "Prielaida — lituanien")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/Konjektur "Konjektur — malais")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Vermoeden "Vermoeden — néerlandais")
+  * [Polski](https://pl.wikipedia.org/wiki/Przypuszczenie "Przypuszczenie — polonais")
+  * [Português](https://pt.wikipedia.org/wiki/Conjectura "Conjectura — portugais")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D0%B0_\(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0\) "Гипотеза \(математика\) — russe")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/Cungittura "Cungittura — sicilien")
+  * [Simple English](https://simple.wikipedia.org/wiki/Conjecture "Conjecture — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Domnienka "Domnienka — slovaque")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/Hipoteza_\(matematika\) "Hipoteza \(matematika\) — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/F%C3%B6rmodan "Förmodan — suédois")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C "ข้อความคาดการณ์ — thaï")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Konjekt%C3%BCr "Konjektür — turc")
+  * [Татарча/tatarça](https://tt.wikipedia.org/wiki/%D0%93%D3%A9%D0%BC%D0%B0%D0%BD "Гөман — tatar")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BF%D1%83%D1%89%D0%B5%D0%BD%D0%BD%D1%8F "Припущення — ukrainien")
+  * [中文](https://zh.wikipedia.org/wiki/%E7%8C%9C%E6%83%B3 "猜想 — chinois")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E7%8C%9C%E6%83%B3 "猜想 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q319141#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Conjecture "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Conjecture "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Conjecture "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Conjecture "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Conjecture)
+  * [Modifier](/w/index.php?title=Conjecture&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Conjecture&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Conjecture&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 5 avril 2020 à 03:50.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Conjecture "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Conjecture&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[XXe]: 20ᵉ siècle
+  *[(en)]: Langue : anglais
+  *[vol.]: volume
+  *[no]: numéro
+  *[p.]: page(s)
+  *[trad.]: traduction
+

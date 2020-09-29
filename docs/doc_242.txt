@@ -1,0 +1,1576 @@
+# Augustin Louis Cauchy
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [Cauchy](/wiki/Cauchy "Cauchy").
+
+Augustin Louis Cauchy
+
+[![Description de cette image, également commentée ci-
+après](//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Augustin_Louis_Cauchy.jpg/220px-
+Augustin_Louis_Cauchy.jpg)](/wiki/Fichier:Augustin_Louis_Cauchy.jpg "lang=fr")
+
+Cauchy photographié peu avant sa mort.
+
+Données clés Naissance |  [21](/wiki/21_ao%C3%BBt "21 août")
+[août](/wiki/Ao%C3%BBt_1789 "Août 1789") [1789](/wiki/1789_en_science "1789 en
+science")  
+[Paris](/wiki/Paris "Paris") ([France](/wiki/France "France"))  
+---|---  
+Décès |  [23](/wiki/23_mai "23 mai") [mai](/wiki/Mai_1857 "Mai 1857")
+[1857](/wiki/1857_en_science "1857 en science") (à 67 ans)  
+[Sceaux](/wiki/Sceaux_\(Hauts-de-Seine\) "Sceaux \(Hauts-de-Seine\)") (France)  
+Nationalité |  [![Drapeau :
+France](//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/20px-
+Flag_of_France.svg.png)](/wiki/Fichier:Flag_of_France.svg "Drapeau : France")
+[Française](/wiki/France "France")  
+Domaines |  [Mathématicien](/wiki/Math%C3%A9maticien "Mathématicien")  
+Institutions |  [École
+polytechnique](/wiki/%C3%89cole_polytechnique_\(France\) "École polytechnique
+\(France\)")  
+Diplôme |  École polytechnique  
+[Ecole centrale du
+Panthéon](/wiki/%C3%89cole_centrale_\(R%C3%A9volution_fran%C3%A7aise\) "École
+centrale \(Révolution française\)")  
+[École nationale des ponts et
+chaussées](/wiki/%C3%89cole_nationale_des_ponts_et_chauss%C3%A9es "École
+nationale des ponts et chaussées")  
+Renommé pour |  [Suite de Cauchy](/wiki/Suite_de_Cauchy "Suite de Cauchy")  
+[Analyse complexe](/wiki/Analyse_complexe "Analyse complexe")  
+Algèbre ([théorème de Cauchy](/wiki/Th%C3%A9or%C3%A8me_de_Cauchy_\(groupes\)
+"Théorème de Cauchy \(groupes\)"))  
+[Produit de Cauchy](/wiki/Produit_de_Cauchy "Produit de Cauchy")  
+[Inégalité de Cauchy-Schwarz](/wiki/In%C3%A9galit%C3%A9_de_Cauchy-Schwarz
+"Inégalité de Cauchy-Schwarz")  
+Distinctions |  [Académie des
+sciences](/wiki/Acad%C3%A9mie_des_sciences_\(France\) "Académie des sciences
+\(France\)")  
+Son nom [est inscrit sur la Tour
+Eiffel](/wiki/Liste_des_72_noms_de_savants_inscrits_sur_la_tour_Eiffel "Liste
+des 72 noms de savants inscrits sur la tour Eiffel")  
+  
+Signature
+
+[![Signature de Augustin Louis
+Cauchy](//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Signature_d%27Augustin_Louis_Cauchy.svg/langfr-220px-
+Signature_d%27Augustin_Louis_Cauchy.svg.png)](/w/index.php?title=Fichier:Signature_d%27Augustin_Louis_Cauchy.svg&lang=fr)
+
+[modifier](https://fr.wikipedia.org/w/index.php?title=Augustin_Louis_Cauchy&action=edit)
+[![Consultez la documentation du
+modèle](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Mod%C3%A8le:Infobox_Scientifique "Consultez la
+documentation du modèle")
+
+**Augustin Louis, baron Cauchy** , né à Paris le 21 août 1789 et mort à
+[Sceaux](/wiki/Sceaux_\(Hauts-de-Seine\) "Sceaux \(Hauts-de-Seine\)") le 23
+mai 1857, est un [mathématicien](/wiki/Math%C3%A9maticien "Mathématicien")
+français, membre de l’[Académie des
+sciences](/wiki/Acad%C3%A9mie_des_sciences_\(France\) "Académie des sciences
+\(France\)") et professeur à l’[École
+polytechnique](/wiki/%C3%89cole_polytechnique_\(France\) "École polytechnique
+\(France\)").
+
+[Catholique](/wiki/Catholicisme "Catholicisme") fervent, il est le fondateur
+de nombreuses œuvres charitables, dont l’[Œuvre des Écoles
+d’Orient](/wiki/%C5%92uvre_d%27Orient "Œuvre d'Orient"). Royaliste
+[légitimiste](/wiki/L%C3%A9gitimiste "Légitimiste"), il s’exile volontairement
+lors de l'avènement de [Louis-Philippe](/wiki/Louis-Philippe_Ier "Louis-
+Philippe Ier"), après les [Trois Glorieuses](/wiki/Trois_Glorieuses "Trois
+Glorieuses"). Ses positions politiques et religieuses lui valurent nombre
+d’oppositions.
+
+Il est l'un des mathématiciens les plus prolifiques de l'histoire, quoique
+devancé par [Leonhard Euler](/wiki/Leonhard_Euler "Leonhard Euler"), [Paul
+Erdős](/wiki/Paul_Erd%C5%91s "Paul Erdős") et [Arthur
+Cayley](/wiki/Arthur_Cayley "Arthur Cayley"), avec près de 800 parutions et
+sept ouvrages. Ses recherches couvrent l’ensemble des domaines mathématiques
+de l’époque. On lui doit notamment en
+[analyse](/wiki/Analyse_\(math%C3%A9matiques\) "Analyse \(mathématiques\)")
+l’introduction des [fonctions holomorphes](/wiki/Fonction_holomorphe "Fonction
+holomorphe") et des critères de convergence des
+[suites](/wiki/Suite_\(math%C3%A9matiques\) "Suite \(mathématiques\)") et des
+[séries entières](/wiki/S%C3%A9rie_enti%C3%A8re "Série entière"). Ses travaux
+sur les [permutations](/wiki/Permutation "Permutation") sont précurseurs de la
+[théorie des groupes](/wiki/Th%C3%A9orie_des_groupes "Théorie des groupes").
+En [optique](/wiki/Optique "Optique"), on lui doit des travaux sur la
+[propagation des ondes](/wiki/Propagation_des_ondes "Propagation des ondes")
+[électromagnétiques](/wiki/%C3%89lectromagn%C3%A9tisme "Électromagnétisme").
+
+Son œuvre a fortement influencé le développement des [mathématiques au XIXe
+siècle](/wiki/Histoire_des_math%C3%A9matiques#XIXe.C2.A0siècle "Histoire des
+mathématiques"), mais le fait qu'il publie ses résultats dès leur découverte
+sans y appliquer toute la rigueur souhaitée[1] et la négligence dont il fait
+preuve concernant les travaux d'[Évariste Galois](/wiki/%C3%89variste_Galois
+"Évariste Galois") et de [Niels Abel](/wiki/Niels_Abel "Niels Abel") entachent
+son prestige. Il ne restitue pas à l'Académie les deux manuscrits rédigés par
+[Évariste Galois](/wiki/%C3%89variste_Galois "Évariste Galois")[n 1], et
+délaisse celui d'[Abel](/wiki/Niels_Henrik_Abel "Niels Henrik Abel")[n 2] ,
+alors que ces deux mathématiciens morts avant Cauchy dans des conditions
+misérables devaient marquer profondément les mathématiques du XXe siècle.
+
+## Sommaire
+
+  * 1 Biographie
+    * 1.1 Premières années de la famille Cauchy
+    * 1.2 Études d'Augustin-Louis
+    * 1.3 Sous le Premier Empire
+    * 1.4 Sous la Restauration
+    * 1.5 Exil
+    * 1.6 Retour d'exil
+  * 2 Engagements
+    * 2.1 Engagement religieux
+    * 2.2 Engagement politique
+    * 2.3 Position scientifique
+  * 3 Travaux
+    * 3.1 Analyse
+    * 3.2 Analyse complexe
+    * 3.3 Algèbre
+    * 3.4 Géométrie
+    * 3.5 Mécanique et optique
+    * 3.6 Probabilités
+  * 4 Principales publications
+    * 4.1 Ouvrages
+    * 4.2 Mémoires
+  * 5 Hommages
+  * 6 Notes et références
+    * 6.1 Notes
+    * 6.2 Références
+  * 7 Voir aussi
+    * 7.1 Bibliographie
+    * 7.2 Articles connexes
+    * 7.3 Liens externes
+
+##
+Biographie[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=1
+"Modifier la section : Biographie") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=1 "Modifier
+la section : Biographie")]
+
+### Premières années de la famille
+Cauchy[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=2
+"Modifier la section : Premières années de la famille Cauchy") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=2 "Modifier
+la section : Premières années de la famille Cauchy")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Augustin_Louis_Cauchy.JPG/220px-
+Augustin_Louis_Cauchy.JPG)](/wiki/Fichier:Augustin_Louis_Cauchy.JPG)
+
+[](/wiki/Fichier:Augustin_Louis_Cauchy.JPG "Agrandir")
+
+Augustin Louis, baron Cauchy.
+
+Né le 21 août 1789 à [Paris](/wiki/Paris "Paris"), Augustin Louis Cauchy est
+le fils aîné de [Louis François Cauchy](/wiki/Louis_Fran%C3%A7ois_Cauchy
+"Louis François Cauchy") (1760–1848) et de Marie-Madeleine Desestre
+(1767–1839)[4]. Son père est premier commis du Lieutenant général de police de
+Paris [Louis Thiroux de Crosne](/wiki/Louis_Thiroux_de_Crosne "Louis Thiroux
+de Crosne") de 1785 à 1789, puis directeur de l'Office des hospices et
+ateliers de charité jusqu'au 28 avril 1794; à la suite de l’exécution de
+Crosne ce même jour, Louis François se retire à [Arcueil](/wiki/Arcueil
+"Arcueil") avec sa famille[n 3] pour fuir la dénonciation et la
+[Terreur](/wiki/Terreur_\(R%C3%A9volution_fran%C3%A7aise\) "Terreur
+\(Révolution française\)"). Sa famille subit néanmoins la [loi du
+maximum](/wiki/Loi_du_maximum "Loi du maximum") et connaît la gêne et la
+famine. La chute de [Robespierre](/wiki/Maximilien_de_Robespierre "Maximilien
+de Robespierre") en juillet 1794 est accueillie avec soulagement par la
+famille, qui retourne à Paris. Louis-François y occupe des postes
+administratifs divers [6] et, à l'automne, accéde au poste de sous-directeur
+de la Division des artisanats et manufactures de la Commission des arts et
+métiers et en devient directeur en avril 1795. Après le [coup d'État du 18
+Brumaire](/wiki/Coup_d%27%C3%89tat_du_18_Brumaire "Coup d'État du 18
+Brumaire") (9 novembre 1799), Louis-François soutient le nouveau régime avec
+enthousiasme et est nommé secrétaire général du [Sénat
+conservateur](/wiki/S%C3%A9nat_conservateur "Sénat conservateur") le [1er
+janvier 1800](/wiki/1er_janvier_1800 "1er janvier 1800"). Il obtient un
+appartement de fonction au [palais du Luxembourg](/wiki/Palais_du_Luxembourg
+"Palais du Luxembourg") sous l'Empire. Il est proche du ministre de
+l’Intérieur et mathématicien [Pierre-Simon de Laplace](/wiki/Pierre-
+Simon_de_Laplace "Pierre-Simon de Laplace") et du sénateur et mathématicien
+[Joseph-Louis Lagrange](/wiki/Joseph-Louis_Lagrange "Joseph-Louis
+Lagrange")[7].
+
+### Études d'Augustin-
+Louis[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=3
+"Modifier la section : Études d'Augustin-Louis") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=3 "Modifier
+la section : Études d'Augustin-Louis")]
+
+Il reçoit une première éducation chrétienne de son père ; il apprend le
+[latin](/wiki/Latin "Latin"), la littérature et la science. Suivant le conseil
+de Lagrange, à l'automne 1802, il fréquente l’[École
+centrale](/wiki/%C3%89cole_centrale_\(R%C3%A9volution_fran%C3%A7aise\) "École
+centrale \(Révolution française\)") du Panthéon pour achever ses humanités.
+Des amis de sa famille, [Berthollet](/wiki/Claude_Louis_Berthollet "Claude
+Louis Berthollet"), Lagrange et Laplace, le soutiennent durant ses études
+secondaires. Durant les deux ans qu'il y passe, il étudie à fond les langues
+classiques et se manifeste comme un jeune homme cultivé et brillant. Il se
+voit décerner divers prix dans les épreuves littéraires du [concours
+général](/wiki/Concours_g%C3%A9n%C3%A9ral "Concours général") et remporte le «
+premier prix d'humanités », décerné à l'étudiant le mieux classé sur
+l'ensemble des épreuves. Malgré ces succès dans le domaine des lettres,
+Augustin-Louis décide de préparer l'[École
+polytechnique](/wiki/%C3%89cole_polytechnique_\(France\) "École polytechnique
+\(France\)") dès l'année suivante et de devenir ingénieur. À partir de
+l'automne 1804, il assiste au [lycée Napoléon](/wiki/Lyc%C3%A9e_Henri-IV
+"Lycée Henri-IV") aux cours de mathématiques du professeur [Jacques
+Binet](/wiki/Jacques_Philippe_Marie_Binet "Jacques Philippe Marie Binet"),
+pour préparer son entrée à l'école polytechnique. À 16 ans, en 1805, il est
+reçu deuxième sur 125 au concours d'entrée, pour lequel il est interrogé par
+[Jean-Baptiste Biot](/wiki/Jean-Baptiste_Biot "Jean-Baptiste Biot"). Il
+présente les deux premières options suivantes, par ordre de préférence : (1)
+ponts et chaussées, (2) ingénierie maritime. Il étudie l'analyse sous la
+direction de [Sylvestre-François Lacroix](/wiki/Sylvestre-
+Fran%C3%A7ois_Lacroix "Sylvestre-François Lacroix"), la géométrie descriptive
+et l'analyse appliquée avec [Jean-Nicolas-Pierre Hachette](/wiki/Jean-Nicolas-
+Pierre_Hachette "Jean-Nicolas-Pierre Hachette") et la mécanique avec [Gaspard
+de Prony](/wiki/Gaspard_de_Prony "Gaspard de Prony"). Son tuteur en analyse et
+mécanique est [André-Marie Ampère](/wiki/Andr%C3%A9-Marie_Amp%C3%A8re "André-
+Marie Ampère")[8],[9].
+
+### Sous le Premier
+Empire[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=4
+"Modifier la section : Sous le Premier Empire") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=4 "Modifier
+la section : Sous le Premier Empire")]
+
+Augustin-Louis Cauchy quitte l'[École
+polytechnique](/wiki/%C3%89cole_polytechnique_\(France\) "École polytechnique
+\(France\)") en octobre 1807. À la fin de 1807, il est reçu premier au corps
+prestigieux de l'[École nationale des ponts et
+chaussées](/wiki/%C3%89cole_nationale_des_ponts_et_chauss%C3%A9es "École
+nationale des ponts et chaussées"), où il se révèle très brillant. Devenu
+[aspirant ingénieur](/wiki/Aspirant#France "Aspirant"), il est appelé à
+participer à la construction du [canal de l'Ourcq](/wiki/Canal_de_l%27Ourcq
+"Canal de l'Ourcq") puis du [pont de Saint-Cloud](/wiki/Pont_de_Saint-Cloud
+"Pont de Saint-Cloud"). Ces années de formation seront décisives pour son
+développement intellectuel, il acquiert en quelques années une impressionnante
+maîtrise des mathématiques et se forge des convictions politiques et
+religieuses auxquelles il restera fidèle le reste de son existence. La science
+de l'ingénieur apparaissait alors comme le domaine naturel d’application des
+mathématiques. Le 18 janvier 1810, il est nommé responsable du chantier du
+[port militaire de Cherbourg](/wiki/Port_militaire_de_Cherbourg "Port
+militaire de Cherbourg")[n 4], qui devait devenir une position militaire
+stratégique du [Premier Empire](/wiki/Premier_Empire "Premier Empire"), face à
+l'Angleterre. Pendant son séjour à Cherbourg, il travaille sur presque toutes
+les phases du projet portuaire et participe à d'autres chantiers, comme un
+refuge pour les prisonniers de guerre, des casernes pour les troupes, des
+forges et des édifices destinés à abriter les piliers de granit du futur
+arsenal. Il commence ses premiers travaux en mathématiques durant son temps
+libre, indépendamment des institutions académiques. Après qu’un premier écrit
+est égaré par [Gaspard de Prony](/wiki/Gaspard_de_Prony "Gaspard de
+Prony")[11], il écrit un article intitulé _Recherches sur les polyèdres_ et le
+remet à l'École polytechnique le 1er février 1811. La commission chargée
+d'évaluer l'article de Cauchy est composée des mathématiciens [Adrien-Marie
+Legendre](/wiki/Adrien-Marie_Legendre "Adrien-Marie Legendre") et [Étienne-
+Louis Malus](/wiki/%C3%89tienne-Louis_Malus "Étienne-Louis Malus") : son
+rapport est très favorable. En janvier 1812, il présente à l'École
+polytechnique un article intitulé _Sur les polygones et les polyèdres_ : ce
+nouvel article est révisé avant publication par Legendre, le physicien [Sadi
+Carnot](/wiki/Sadi_Carnot_\(physicien\) "Sadi Carnot \(physicien\)") et le
+physicien [Jean-Baptiste Biot](/wiki/Jean-Baptiste_Biot "Jean-Baptiste Biot")
+qui rédigent un rapport très flatteur. Cette recherche sur les polyèdres vaut
+à Cauchy une excellente réputation à Paris et, en 1812, il est nommé membre
+correspondant de la [Société
+philomatique](/wiki/Soci%C3%A9t%C3%A9_philomathique_de_Paris "Société
+philomathique de Paris"). Il donne aussi des heures officieuses d’enseignement
+pour préparer des étudiants aux examens d’entrée, et se passionne pour
+l’[histoire naturelle](/wiki/Histoire_naturelle "Histoire naturelle"). À cause
+du surmenage — il est de santé fragile —, il tombe malade et, à l'été 1812,
+son état s'aggrave. Sa mère vient le chercher et, à l'automne 1812, le ramène
+à Paris où il prend quelques mois de congé[12],[13].
+
+Le 1er février 1813, le congé maladie arrive à son terme, mais Cauchy ne veut
+pas retourner à Cherbourg et y reprendre ses fonctions d'ingénieur[14]. Après
+qu'un poste de professeur associé à l'École nationale des Ponts et Chaussées
+lui est refusé, il est appelé par son ancien professeur [Pierre-Simon
+Girard](/wiki/Pierre-Simon_Girard "Pierre-Simon Girard")[n 5] à participer de
+nouveau, en mars 1813, au [chantier de l'Ourcq](/wiki/Canal_de_l%27Ourcq
+"Canal de l'Ourcq"). Pour renforcer sa réputation de scientifique auprès de
+l'[Institut de France](/wiki/Institut_de_France "Institut de France") et
+améliorer ses chances futures, Cauchy décide de publier des articles dans le
+_Journal de l'École polytechnique_ , notamment une nouvelle étude sur la
+théorie des équations. Deux demandes auprès de l'Institut sont appuyées par
+[Pierre-Simon de Laplace](/wiki/Pierre-Simon_de_Laplace "Pierre-Simon de
+Laplace") et [Siméon Denis Poisson](/wiki/Sim%C3%A9on_Denis_Poisson "Siméon
+Denis Poisson"), en mai 1813 et en novembre 1814 après la mort de Lagrange et
+de [Lévêque](/wiki/Pierre_L%C3%A9v%C3%AAque_\(savant\) "Pierre Lévêque
+\(savant\)"), mais sont toutes deux rejetées[16]. En mars 1814, il publie un
+autre article à l'Institut de France, qui porte sur la théorie des erreurs[n
+6]. En mars 1814, Il prépare un autre travail, _Mémoire sur les intégrales
+définies_ — point de départ sur l'analyse complexe — très apprécié par
+[Sylvestre-François Lacroix](/wiki/Sylvestre-Fran%C3%A7ois_Lacroix "Sylvestre-
+François Lacroix") et [Adrien-Marie Legendre](/wiki/Adrien-Marie_Legendre
+"Adrien-Marie Legendre"), qui ne sera publié qu'en 1825 sous le titre _Mémoire
+sur les intégrales définies, prises entre des limites imaginaires_. En
+décembre 1814, il reçoit un poste à la Société philomathique de Paris,
+antichambre de l'Institut où son jeune âge lui interdit d'entrer[18].
+
+### Sous la
+Restauration[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=5
+"Modifier la section : Sous la Restauration") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=5 "Modifier
+la section : Sous la Restauration")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cauchy_-
+_Le%C3%A7ons_sur_le_calcul_diff%C3%A9rentiel%2C_1829_-_576181_F.jpg/220px-
+Cauchy_-
+_Le%C3%A7ons_sur_le_calcul_diff%C3%A9rentiel%2C_1829_-_576181_F.jpg)](/wiki/Fichier:Cauchy_-
+_Le%C3%A7ons_sur_le_calcul_diff%C3%A9rentiel,_1829_-_576181_F.jpg)
+
+[](/wiki/Fichier:Cauchy_-
+_Le%C3%A7ons_sur_le_calcul_diff%C3%A9rentiel,_1829_-_576181_F.jpg "Agrandir")
+
+_Leçons sur le calcul différentiel_ , 1829
+
+Membre de [Congrégation mariale](/wiki/Congr%C3%A9gation_mariale "Congrégation
+mariale") depuis ses études à Polytechnique[19], Cauchy bénéficie de
+l'influence qu'exerce ce mouvement dès le début de la [Seconde
+Restauration](/wiki/Seconde_Restauration "Seconde Restauration"). En
+remplacement de [Louis Poinsot](/wiki/Louis_Poinsot "Louis Poinsot")[n 7], il
+devient professeur assistant à l’École polytechnique le 15 novembre 1815, puis
+professeur d'analyse et de [mécanique](/wiki/M%C3%A9canique_\(science\)
+"Mécanique \(science\)") en décembre. À la suite d'une ordonnance du 21 mars
+1816 rétablissant les Académies, il intègre l'[Académie des
+sciences](/wiki/Acad%C3%A9mie_des_sciences_\(France\) "Académie des sciences
+\(France\)") sous nomination royale, parallèlement au renvoi d'importants
+mathématiciens connus pour leurs positions républicaines et libérales, [Lazare
+Carnot](/wiki/Lazare_Carnot "Lazare Carnot") et [Gaspard
+Monge](/wiki/Gaspard_Monge "Gaspard Monge")[21]. Cauchy est durement accusé
+par ses pairs : « Il accepta sans hésiter, non par intérêt, jamais il ne fut
+sensible à un motif pareil, mais par conviction »[22]. Cette nomination
+imposée à l'Académie pour des raisons politiques fait un tort considérable au
+jeune Augustin-Louis et lui vaut de nombreuses inimitiés. En 1816, Cauchy
+remporte le prix des mathématiques pour des travaux sur la [propagation des
+ondes](/wiki/Propagation_des_ondes "Propagation des ondes"). En 1817, [Jean-
+Baptiste Biot](/wiki/Jean-Baptiste_Biot "Jean-Baptiste Biot"), professeur
+titulaire de la chaire de physique mathématique au [Collège de
+France](/wiki/Coll%C3%A8ge_de_France "Collège de France"), se prépare à une
+expédition géodésique et propose Cauchy pour le remplacer. Dans ce cours,
+Cauchy présente pour la première fois les méthodes d'intégration qu'il a
+découvertes en 1814, restée inédites jusque-là. Revenu en France, Biot
+abandonne temporairement sa participation active à la vie scientifique et
+suggère que Cauchy devienne son substitut habituel. C'est ainsi qu'il se met à
+donner des cours au Collège jusqu'en 1830. De plus, il est nommé professeur-
+substitut de [Siméon-Denis Poisson](/wiki/Sim%C3%A9on-Denis_Poisson "Siméon-
+Denis Poisson"), — remplacé dans un premier temps par [André-Marie
+Ampère](/wiki/Andr%C3%A9-Marie_Amp%C3%A8re "André-Marie Ampère") — à la
+faculté des sciences de Paris. Cette nomination à l'université marque un
+tournant important dans sa carrière scientifique. En effet, sa productivité
+scientifique décline brusquement entre 1817 et 1821. Absorbé par
+l'enseignement à l'École polytechnique[n 8], il ne présente que quatre travaux
+à l'Académie au cours des premières années et rien en 1820 et 1821. Il
+continue cependant de travailler sur les applications des intégrales
+singulières[23]. En 1818, il épouse Aloïse de Bure[24], avec laquelle il aura
+deux filles, Alicia (1819) et Mathilde (1823).
+
+Ses collègues [François Arago](/wiki/Fran%C3%A7ois_Arago "François Arago") et
+[Alexis Thérèse Petit](/wiki/Alexis_Th%C3%A9r%C3%A8se_Petit "Alexis Thérèse
+Petit") contestent l'insuffisance supposée de ses cours d'analyse, tandis que
+certains élèves en critiquent la surcharge horaire[25]. Invité à les rédiger,
+il publie divers traités durant cette période : une première partie des notes
+de cours sous le titre _Analyse algébrique_ en 1821 ; puis les notes complètes
+sous le titre _Leçons sur le calcul différentiel_ en 1829, sans tenir compte
+des exigences de ses collègues et du ministère.
+
+###
+Exil[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=6
+"Modifier la section : Exil") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=6 "Modifier
+la section : Exil")]
+
+À l'issue des [Trois Glorieuses](/wiki/Trois_Glorieuses "Trois Glorieuses")
+(juillet [1830](/wiki/1830_en_France "1830 en France")), son
+[cléricalisme](/wiki/Cl%C3%A9ricalisme "Cléricalisme") revendiqué et sa
+position antilibérale l'amènent à choisir l'exil. En effet, royaliste dévoué à
+[Charles X](/wiki/Charles_X_de_France "Charles X de France"), il refuse de
+prêter serment au nouveau roi [Louis-Philippe](/wiki/Louis-Philippe_Ier
+"Louis-Philippe Ier") comme l'exige la [loi du 31 août
+1830](/wiki/Grandes_lois_sous_la_monarchie_de_Juillet "Grandes lois sous la
+monarchie de Juillet"). Dès les premiers jours de septembre 1830 il s'exile
+volontairement à [Fribourg](/wiki/Fribourg_\(ville_suisse\) "Fribourg \(ville
+suisse\)") en [Suisse](/wiki/Suisse "Suisse"), sans être accompagné de son
+épouse et de ses filles[26]. Il réagit ainsi au soutien des étudiants de
+l’École polytechnique à la Révolution et cherche aussi à prendre du repos
+après des années d'intense activité[n 9]. En conséquence, il perd tous ses
+postes d'enseignement en France entre novembre 1830 et mars 1831[27]. Il
+rejoint une petite colonie d'immigrés à Fribourg, où il donne des cours dans
+un [collège dirigé par les jésuites](/wiki/%C3%89ducation_j%C3%A9suite
+"Éducation jésuite"), et tente vainement d'y fonder une Académie où les
+savants émigrés pourraient enseigner[28],[29]
+
+Sur invitation du roi de [Piémont](/wiki/Pi%C3%A9mont "Piémont"), [Charles-
+Albert](/wiki/Charles-Albert_de_Sardaigne "Charles-Albert de Sardaigne"),
+Cauchy s'installe à Turin où s'est rassemblée une petite colonie de
+[légitimistes](/wiki/L%C3%A9gitimisme "Légitimisme"). On sait que le 11
+octobre 1831, l'[Académie des sciences de
+Turin](/wiki/Acad%C3%A9mie_des_sciences_de_Turin "Académie des sciences de
+Turin") se réunit autour d'un article de Cauchy : _Sur la mécanique céleste et
+sur le nouveau calcul qui s'applique à un grand nombre de questions diverses_.
+Peu après, le 27 novembre 1831, il y présente un deuxième article, intitulé :
+_Sur les rapports qui existent entre le calcul des résidus et le calcul des
+limites, et sur les avantages qu'offrent ces deux calculs dans la résolution
+des équations algébriques ou transcendantes_. Ces deux études signifient le
+retour de Cauchy à la recherche mathématique après une inactivité de près d'un
+an. Les portes de l'Académie lui sont grand ouvertes et on lui propose
+aussitôt une chaire à l'[université](/wiki/Universit%C3%A9_de_Turin
+"Université de Turin") afin qu'il puisse renouer avec sa vie d'enseignant. En
+janvier 1832, le roi Charles-Albert rétablit pour lui la chaire de physique
+mathématique — appelée aussi _physique sublime_ — qu'avait occupée l'illustre
+[Avogadro](/wiki/Amedeo_Avogadro "Amedeo Avogadro")[n 10],[31][32].
+
+Cauchy effectue un voyage à [Rome](/wiki/Rome "Rome") et est reçu par le pape
+[Grégoire XVI](/wiki/Gr%C3%A9goire_XVI "Grégoire XVI"). Après le décès
+prématuré en 1831 d'Amédée Cauchy, son frère cadet, Augustin fait deux voyages
+consécutifs à Paris, où il assiste aux réunions de l'Académie des sciences et
+où il présente deux articles écrits en 1831.
+
+Refusant de rentrer en France malgré les demandes réitérées de sa famille, il
+accepte l’invitation du roi en exil Charles X de devenir le précepteur du duc
+de Bordeaux [Henri d'Artois](/wiki/Henri_d%27Artois "Henri d'Artois"), alors
+âgé de douze ans. Il est choisi pour ses connaissances scientifiques et son
+attachement à la religion. Il quitte Turin en juillet 1833 et s’installe à
+[Prague](/wiki/Prague "Prague"), rejoint par sa femme et ses deux filles en
+1834. Il cherche des méthodes d'enseignement originales et développe pour son
+élève une nouvelle forme de notation décimale qui permet d'effectuer
+facilement des calculs mentaux. En dépit de ses efforts, le jeune héritier ne
+montre ni goût ni talent pour les mathématiques, tandis que son professeur
+supporte stoïquement cet affront. Devenu membre de l’[Académie de
+Prague](/wiki/Soci%C3%A9t%C3%A9_royale_des_sciences_de_Boh%C3%AAme "Société
+royale des sciences de Bohême"), il séjourne en 1835 à
+[Toeplitz](/wiki/Teplice "Teplice"), puis en 1836 à
+[Budweitz](/wiki/%C4%8Cesk%C3%A9_Bud%C4%9Bjovice "České Budějovice"),
+[Kirchberg](/w/index.php?title=Kosteln%C3%AD&action=edit&redlink=1 "Kostelní
+\(page inexistante\)") [(de)](https://de.wikipedia.org/wiki/Kosteln%C3%AD
+"de:Kostelní") et [Görlitz](/wiki/G%C3%B6rlitz "Görlitz"). Au cours des années
+1835-1836, il consacre une partie de ses efforts à la théorie de la lumière et
+présente à l'Académie un _Mémoire sur la dispersion de la lumière_. En
+septembre 1838, le duc de Bordeaux atteint ses dix-huit ans, ce qui met fin à
+son éducation officielle.
+
+En remerciement pour son dévouement, Charles X lui accorde le titre de
+[baron](/wiki/Baron_\(noblesse\) "Baron \(noblesse\)"), et, en septembre 1838,
+la famille au complet revient à Paris et reprend possession de son ancien
+domicile[33],[34].
+
+### Retour
+d'exil[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=7
+"Modifier la section : Retour d'exil") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=7 "Modifier
+la section : Retour d'exil")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Augustin-
+Louis_Cauchy_1901.jpg/220px-Augustin-
+Louis_Cauchy_1901.jpg)](/wiki/Fichier:Augustin-Louis_Cauchy_1901.jpg)
+
+[](/wiki/Fichier:Augustin-Louis_Cauchy_1901.jpg "Agrandir")
+
+Cauchy vers 1840. Lithographie de [Zéphirin
+Belliard](/wiki/Z%C3%A9phirin_Belliard "Zéphirin Belliard") d'après une
+peinture de Jean Roller.
+
+Il ne récupère pas son poste d’enseignant à l’École polytechnique, à cause de
+son refus de prêter serment de loyauté au nouveau régime. Souhaitant rester
+politiquement neutre, il reprend sa place à l'[Académie des
+sciences](/wiki/Acad%C3%A9mie_des_sciences_\(France\) "Académie des sciences
+\(France\)") de Paris, ce qui lui permet d'assister aux réunions et d'obtenir
+plus facilement la publication d'articles et de notes dans la revue des
+_Comptes rendus_ de l'Académie. La mort de [Gaspard de
+Prony](/wiki/Gaspard_de_Prony "Gaspard de Prony"), son ancien professeur, lui
+permet de postuler à son siège vacant à la section Géométrie du [Bureau des
+longitudes](/wiki/Bureau_des_longitudes "Bureau des longitudes"). Il semble
+que [Jean-Baptiste Biot](/wiki/Jean-Baptiste_Biot "Jean-Baptiste Biot") et
+[François Arago](/wiki/Fran%C3%A7ois_Arago "François Arago") ont soutenu
+Cauchy, qui est élu en novembre 1839, élu mais pas nommé, car il refuse de
+prêter serment. Il se comporte comme un membre de plein droit de l'institution
+mais sans participer aux réunions : il commence alors à consacrer une partie
+importante de ses recherches à la [mécanique
+céleste](/wiki/M%C3%A9canique_c%C3%A9leste "Mécanique céleste"). Il essaie de
+démontrer qu'il est digne du poste auquel il a été élu et, entre juin et
+novembre 1840, il élabore une douzaine d'articles sur la mécanique céleste ou
+sur des applications de l'analyse à la mécanique céleste. Le fait de ne pas
+pouvoir les présenter au Bureau des longitudes n'est pas un obstacle à ses
+recherches, puisqu'il peut les envoyer à l'Académie des sciences. Après
+l'élection de [Joseph Liouville](/wiki/Joseph_Liouville "Joseph Liouville"),
+pour occuper effectivement la place libérée par la mort de [Siméon Denis
+Poisson](/wiki/Sim%C3%A9on_Denis_Poisson "Siméon Denis Poisson") au Bureau des
+longitudes, Cauchy réduit sa production en astronomie mathématique. Il
+continue cependant ses recherches dans ce domaine, même après son exclusion de
+cette institution en novembre 1843[n 11],[36].
+
+Alors qu'il avait peu publié durant son exil, il publie près d’un article par
+semaine de [1839](/wiki/1839_en_science "1839 en science") à février 1848,
+excepté en 1844. Il entame une révision en profondeur de ses premiers travaux.
+Entre 1845 et 1846, il renoue avec la théorie des permutations, un domaine
+qu'il a délaissé depuis ses premières recherches en 1812, et il présente une
+longue série de notes et d'études de permutations à l'Académie des sciences,
+publiées en un ouvrage en décembre 1845. Entre mars et avril 1846, il écrit
+trois numéros de la revue _Exercices d'analyse et de physique mathématique_ où
+il évalue l'article de [Joseph Bertrand](/wiki/Joseph_Bertrand "Joseph
+Bertrand"), dont il tirera certains résultats importants, comme le théorème
+connu aujourd'hui sous le nom de « théorème de Cauchy » : si  p {\displaystyle
+p}
+![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36)
+est un diviseur premier de l'ordre d'un groupe fini, alors il existe un
+élément du groupe dont l'ordre est  p {\displaystyle p}
+![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36)[37].
+
+Au milieu de l'année 1846, Cauchy réoriente son travail et se met à bâtir la
+théorie des fonctions d'une variable complexe, suscitée par un article
+d'[Ernest Lamarle](/wiki/Ernest_Lamarle "Ernest Lamarle"), publié dans le
+_Journal des mathématiques pures et appliquées_ de Liouville, en avril 1846.
+La [révolution française de 1848](/wiki/R%C3%A9volution_fran%C3%A7aise_de_1848
+"Révolution française de 1848") conduit à la suppression, par le gouvernement
+provisoire de la République, du serment de loyauté. Vers la fin de 1848,
+[Urbain Le Verrier](/wiki/Urbain_Le_Verrier "Urbain Le Verrier") décide
+d'échanger sa chaire d'Astronomie mathématique contre une chaire d'astronomie
+physique. Il y a donc un siège vacant, ce qui permet à Cauchy d'être nommé à
+la [Faculté des sciences de Paris](/wiki/Facult%C3%A9_des_sciences_de_Paris
+"Faculté des sciences de Paris") le 1er mars 1849. Après la fuite, le 28
+février 1848, du [comte Libri](/wiki/Guglielmo_Libri_Carucci_dalla_Sommaja
+"Guglielmo Libri Carucci dalla Sommaja"), poursuivi en justice pour vols et
+vente illégale de livres, Cauchy postule à la chaire de mathématiques du
+Collège de France, mais se retire au profit de [Joseph
+Liouville](/wiki/Joseph_Liouville "Joseph Liouville"), finalement élu en
+janvier 1851[n 12]. Le 2 décembre 1852, [Louis-Napoléon
+Bonaparte](/wiki/Napol%C3%A9on_III "Napoléon III") instaure le [Second
+Empire](/wiki/Second_Empire "Second Empire"), et Cauchy refuse de lui prêter
+serment. Il n'en est cependant pas moins maintenu dans ses fonctions, grâce à
+l'intervention d’[Hippolyte Fortoul](/wiki/Hippolyte_Fortoul "Hippolyte
+Fortoul")[39],[40].
+
+Depuis 1849, Cauchy donnait à la Sorbonne une série de conférences dans
+lesquelles il exposait sa théorie des fonctions. À la fin de 1853, il publie
+dans _Exercices d'analyse et de physique mathématique_ quelques articles par
+lesquels il explore plusieurs éléments de la théorie des fonctions qui
+constituaient probablement le matériau de base de ses conférences en Sorbonne
+: « sur les fonctions des quantités géométriques », dans lequel il donne une
+définition très générale des fonctions, « Sur les fonctions continues de
+quantités algébriques ou géométriques » et, pour finir, « Sur les
+différentielles des quantités algébriques ou géométriques et sur les dérivées
+des fonctions de ces quantités », dans lequel il introduit le concept de «
+dérivée directionnelle ». Conscient de la nécessité de réunir de façon
+cohérente ses travaux dispersés, il se met en quête d'un thème central autour
+duquel réorganiser son œuvre, pour lui trouver un fondement plus solide. Ce
+projet va l'occuper jusqu'à sa mort et reste inachevé[n 13]. Il constitue le
+point de départ de ses œuvres complètes, un projet que sa famille veut
+entreprendre neuf ans après sa mort, mais qui ne commence pas avant 1882.
+
+Le 30 mars 1857, la mort d'Alexandre, son frère cadet, l'affecte profondément.
+Atteint par ce qu'il prend d'abord pour une crise de
+[rhumatisme](/wiki/Rhumatisme "Rhumatisme"), il quitte Paris au mois de mai
+pour s'installer à [Sceaux](/wiki/Sceaux_\(Hauts-de-Seine\) "Sceaux \(Hauts-
+de-Seine\)"). Mais la maladie empire et son état général ne cesse de
+s'aggraver. Le 23 mai, vers 4 h du matin, il meurt d'un [rhume](/wiki/Rhume
+"Rhume") dans la maison familiale de sa femme à Sceaux. Il est enterré au
+[cimetière de Sceaux](/wiki/Cimeti%C3%A8re_de_Sceaux "Cimetière de
+Sceaux")[42],[43].
+
+##
+Engagements[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=8
+"Modifier la section : Engagements") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=8 "Modifier
+la section : Engagements")]
+
+### Engagement
+religieux[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=9
+"Modifier la section : Engagement religieux") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=9 "Modifier
+la section : Engagement religieux")]
+
+La personnalité d'Augustin-Louis, si présente dans son travail scientifique,
+est marquée par la double influence d'une mère stricte et pieuse et d'un père
+ouvert aux autres mais travailleur[44]. Catholique convaincu[31], proche des
+[jésuites](/wiki/Compagnie_de_J%C3%A9sus "Compagnie de Jésus"), il s’engagea
+dans la [Congrégation](/wiki/Congr%C3%A9gation_mariale "Congrégation
+mariale"), lors de ses études. Dès son séjour à [Cherbourg](/wiki/Cherbourg
+"Cherbourg"), il est critiqué pour son habitude de [prier](/wiki/Pri%C3%A8re
+"Prière") matin et soir : « On dit que ma dévotion me fera tourner la tête[45]
+». De retour à Paris, il utilise à plusieurs reprises sa position à l’Académie
+pour promouvoir sa pensée. En [1824](/wiki/1824_en_science "1824 en science"),
+il condamne les recherches en neurologie de [Franz Joseph
+Gall](/wiki/Franz_Joseph_Gall "Franz Joseph Gall"), père fondateur de la
+[phrénologie](/wiki/Phr%C3%A9nologie "Phrénologie"), qui visait à déceler les
+facultés et les penchants des hommes par la palpation des reliefs du
+[crâne](/wiki/Cr%C3%A2ne_humain "Crâne humain"). Sa prise de position,
+considérée par certains comme non scientifique, est fortement condamnée dans
+la presse écrite par [Stendhal](/wiki/Stendhal "Stendhal") dans deux articles
+successifs.
+
+Il éprouve une antipathie pour les [idées libérales](/wiki/Lib%C3%A9ralisme
+"Libéralisme") issues du XVIIIe siècle et s’engage, dès son retour en France
+en 1838, pour l’enseignement catholique en défendant les écoles
+[jésuites](/wiki/Compagnie_de_J%C3%A9sus "Compagnie de Jésus"). Supprimées en
+[1772](/wiki/1772_en_France "1772 en France") et rétablies sous la
+Restauration, elles furent remises en cause sous la [Monarchie de
+Juillet](/wiki/Monarchie_de_Juillet "Monarchie de Juillet"). Engagé aux côtés
+de [Xavier de Ravignan](/wiki/Xavier_de_Ravignan "Xavier de Ravignan"),
+[prédicateur](/wiki/Pr%C3%A9dicateur "Prédicateur") de [Notre-
+Dame](/wiki/Cath%C3%A9drale_Notre-Dame_de_Paris "Cathédrale Notre-Dame de
+Paris"), Cauchy fait appel à l’Institut : « Catholique, je ne peux rester
+indifférent aux intérêts de la religion ; géomètre, je ne peux rester
+indifférent aux intérêts de la Science. […] Vous ne considérez pas comme des
+ennemis de la civilisation, ceux-là même qui ont éclairé et civilisé tant de
+peuples divers[46] ». [Pierre-Antoine Berryer](/wiki/Pierre-Antoine_Berryer
+"Pierre-Antoine Berryer"), [Charles de
+Montalembert](/wiki/Charles_de_Montalembert "Charles de Montalembert") et de
+[Vatisménil](/wiki/Vatism%C3%A9nil "Vatisménil") le soutiennent dans sa
+démarche. Il est probable que les raisons pour lesquelles il ne peut entrer au
+[Collège de France](/wiki/Coll%C3%A8ge_de_France "Collège de France") en 1843
+soient son engagement aux côtés des jésuites et la forte opposition du comte
+Libri[47]. Seuls certains établissements des jésuites seront finalement fermés
+en 1845. L’affaire prend fin en 1848 : la [Deuxième
+République](/wiki/Deuxi%C3%A8me_R%C3%A9publique_\(France\) "Deuxième
+République \(France\)") assure l’indépendance de l’enseignement.
+
+Cauchy fonde diverses œuvres catholiques :
+
+  * il apporte un soutien actif dès 1838 à la [Société de Saint-Vincent-de-Paul](/wiki/Soci%C3%A9t%C3%A9_de_Saint-Vincent-de-Paul "Société de Saint-Vincent-de-Paul"), œuvre catholique fondée en 1833 pour apporter une aide aux démunis.
+  * il fonde en 1842 l’[Institut catholique](/wiki/Institut_catholique "Institut catholique"), ou Centre du Luxembourg, dont il préside la section scientifique.
+  * il propose en 1843 un opuscule sur la [prévention des crimes](/wiki/Pr%C3%A9vention_de_la_criminalit%C3%A9 "Prévention de la criminalité"), envoyé à [Alexis de Tocqueville](/wiki/Alexis_de_Tocqueville "Alexis de Tocqueville").
+  * sur une demande signée par l’Institut, est fondée en 1846 l’[Œuvre d’Irlande](/w/index.php?title=%C5%92uvre_d%E2%80%99Irlande&action=edit&redlink=1 "Œuvre d’Irlande \(page inexistante\)") visant à combattre la [famine](/wiki/Famine "Famine") en [Irlande](/wiki/Irlande_\(%C3%AEle\) "Irlande \(île\)").
+  * en 1854, il fonde l’Œuvre pour l’observation du dimanche, demandant la fermeture des commerces le dimanche.
+  * Le 04 avril 1856[48], Cauchy est l’un des fondateurs de l’[Œuvre des Écoles d’Orient](/wiki/%C5%92uvre_d%27Orient "Œuvre d'Orient") qui existe toujours sous le nom légèrement modifié de [L'Œuvre d'Orient](/wiki/L%27%C5%92uvre_d%27Orient "L'Œuvre d'Orient"), dont l’objectif est de consolider l’émancipation par l’éducation, dont [Lenormant](/wiki/Charles_Lenormant "Charles Lenormant") et Cauchy deviennent les vice-présidents[49] et dont le premier président est le [contre-amiral Mathieu](/wiki/Pierre_Louis_Aim%C3%A9_Mathieu "Pierre Louis Aimé Mathieu"), collègue de Cauchy au Bureau des longitudes et dont le premier directeur général[50] de 1856 au 2 septembre 1861 est [l'abbé Charles Martial Lavigerie](/wiki/Charles_Martial_Lavigerie "Charles Martial Lavigerie"), professeur d'[histoire](/wiki/Histoire "Histoire") de l'[Église](/wiki/%C3%89glise_\(institution\) "Église \(institution\)") à la [Sorbonne (1854-1856)](/wiki/Sorbonne "Sorbonne"), et futur [évêque de Nancy](/wiki/Dioc%C3%A8se_de_Nancy-Toul "Diocèse de Nancy-Toul") en 1863, et [archevêque d'Alger](/wiki/Archidioc%C3%A8se_d%27Alger "Archidiocèse d'Alger") de 1867 à 1892.
+
+### Engagement
+politique[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=10
+"Modifier la section : Engagement politique") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=10
+"Modifier la section : Engagement politique")]
+
+Cauchy est un monarchiste antilibéral. Il utilise sa position à l'Académie
+pour promouvoir la pensée royaliste[51], et s’exile volontairement en 1830
+pour s’opposer au nouveau régime. Il considère la dynastie des Bourbons comme
+« les soutiens de la religion et de la civilisation chrétienne, les défenseurs
+des idées et des principes auxquels il avait voué de bonne heure son âme et
+son cœur[52] ».
+
+Son engagement politique lui vaut de fortes oppositions au sein de l'Institut,
+puis de l'Académie, venant notamment de [Poinsot](/wiki/Louis_Poinsot "Louis
+Poinsot") ou d'[Arago](/wiki/Fran%C3%A7ois_Arago "François Arago"). Cependant,
+Arago apporte en 1839 son soutien à la candidature de Cauchy au Bureau des
+longitudes[53]. Il connaît aussi des oppositions au sein des ministères, par
+son refus réitéré de prêter un serment de loyauté à chaque nouveau régime.
+
+### Position
+scientifique[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=11
+"Modifier la section : Position scientifique") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=11
+"Modifier la section : Position scientifique")]
+
+Le génie de Cauchy est reconnu dès son plus jeune âge. En 1801, Lagrange a ce
+commentaire : « Vous voyez ce petit homme, eh bien ! Il nous remplacera tous
+tant que nous sommes de géomètres[54] ». La prédominance de Cauchy en sciences
+s’explique par la multitude de ses domaines d’études : ses travaux «
+embrassent à peu près toutes les branches des sciences mathématiques, depuis
+la théorie des nombres et la géométrie pure jusqu’à l’astronomie et
+l’optique[55] ».
+
+Bien que ses talents de mathématicien aient été applaudis, les faveurs dont il
+bénéficie durant la Seconde Restauration ne sont pas appréciées. Critiquant
+ouvertement Laplace et Poisson, il connaît rapidement des conflits avec ses
+anciens appuis, à qui il devait ses premières publications. Ses rapports avec
+Poisson se dégradent avec le temps et une rivalité entre eux s’installe. Ses
+votes à l’Académie sont considérés comme orientés. Malgré l’influence de
+Cauchy sur les nouvelles générations, ses dernières années sont obscurcies par
+une querelle de priorité en mécanique, où il refuse de reconnaître son erreur.
+
+En tant que membre de l’Académie, Cauchy devait lire et corriger les articles
+envoyés. Il commet une négligence envers les travaux de [Niels Henrik
+Abel](/wiki/Niels_Henrik_Abel "Niels Henrik Abel") et d'[Évariste
+Galois](/wiki/%C3%89variste_Galois "Évariste Galois"). Son avis sur le mémoire
+d'Abel tarde et le rapport fourni en juin [1829](/wiki/1829_en_science "1829
+en science") est finalement défavorable ; les recherches de Galois lui ont été
+soumises en mai et n'ont aucune réponse. Dans sa biographie, Valson donne une
+explication : « On doit l’excuser de n’avoir pas toujours eu le temps de
+s’occuper des publications d’autrui, quand il n’a pas trouvé dans le cours de
+sa propre vie le loisir nécessaire pour relier et classer ses travaux
+personnels[56] ».
+
+##
+Travaux[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=12
+"Modifier la section : Travaux") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=12
+"Modifier la section : Travaux")]
+
+L’ensemble des travaux de Cauchy furent publiés de 1882 à 1974 chez Gauthier-
+Villars, dans les _Œuvres complètes_ en 27 tomes qui rassemblent environ 800
+articles couvrant l’analyse, l’[algèbre](/wiki/Alg%C3%A8bre "Algèbre"), la
+mécanique et les [probabilités](/wiki/Probabilit%C3%A9 "Probabilité")[57].
+Lors de la préparation de ses cours et conférences, Cauchy réfléchit sur les
+fondements de l’analyse et introduit des définitions rigoureuses de notions
+seulement intuitivement utilisées avant lui[58]. Une partie importante de ses
+travaux concerne l’introduction des fonctions holomorphes et les séries
+convergentes[59].
+
+###
+Analyse[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=13
+"Modifier la section : Analyse") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=13
+"Modifier la section : Analyse")]
+
+Avant les travaux de Cauchy en analyse, les
+[séries](/wiki/S%C3%A9rie_\(math%C3%A9matiques\) "Série \(mathématiques\)") et
+séries de fonctions étaient couramment utilisées dans les calculs, sans le
+développement d'un formalisme précis, et cela conduisait à des erreurs
+fréquentes, car les mathématiciens ne se posaient pas de question sur
+l'éventuelle divergence des séries utilisées, comme l'a remarqué Cauchy. Dans
+son _Cours d’Analyse_ , il définit rigoureusement la
+[convergence](/wiki/S%C3%A9rie_convergente "Série convergente") des séries et
+étudie en particulier les [séries à termes
+positifs](/wiki/S%C3%A9rie_convergente#Séries_de_réels_positifs "Série
+convergente") : les sommes partielles convergent si et seulement si elles sont
+bornées. Il donne des résultats de [comparaison de
+séries](/wiki/Comparaison_de_s%C3%A9ries "Comparaison de séries"). Il déduit
+de la convergence des [séries
+trigonométriques](/wiki/S%C3%A9rie_trigonom%C3%A9trique "Série
+trigonométrique") un critère de convergence qui porte aujourd’hui son nom, la
+[règle de Cauchy](/wiki/R%C3%A8gle_de_Cauchy "Règle de Cauchy") : si la
+[limite supérieure](/wiki/Limite_sup%C3%A9rieure "Limite supérieure") de la
+suite  | a n | 1 / n {\displaystyle |a_{n}|^{1/n}}
+![|a_n|^{1/n}](https://wikimedia.org/api/rest_v1/media/math/render/svg/68a92f80e8e4dfe7e3d679fb8fe7901d9d65b3c8)
+est strictement inférieure à 1, la série de terme général  a n {\displaystyle
+a_{n}}
+![a_n](https://wikimedia.org/api/rest_v1/media/math/render/svg/790f9209748c2dca7ed7b81932c37c02af1dbc31)
+converge. Intéressé par les [séries entières](/wiki/S%C3%A9rie_enti%C3%A8re
+"Série entière") (appelées alors séries de puissances), il met en évidence
+l'existence d'un [rayon de convergence](/wiki/Rayon_de_convergence "Rayon de
+convergence") (qu’il appelle cercle de convergence), et en donne une méthode
+de calcul, conséquence de son critère de convergence. Il démontre que sous
+certaines hypothèses, le produit des sommes de deux séries convergentes peut
+s’obtenir comme la somme d’une série, appelée par la suite [produit de
+Cauchy](/wiki/Produit_de_Cauchy "Produit de Cauchy"). Il en donne une version
+pour les séries entières.
+
+Une fonction régulière était à tort considérée comme la somme de sa série de
+[Maclaurin](/wiki/Colin_Maclaurin "Colin Maclaurin") : autrement dit, on
+pensait à tort qu'une fonction indéfiniment dérivable était déterminée par la
+suite de ses dérivées successives en un point. En 1822, Cauchy relève deux
+problèmes : d’une part, le rayon de convergence de cette série entière peut
+être nul, et d’autre part, sur l’intersection des domaines de définition, la
+fonction et la somme de sa série de Maclaurin ne sont pas nécessairement
+égales. Cependant des solutions d’[équations différentielles
+linéaires](/wiki/%C3%89quation_diff%C3%A9rentielle_lin%C3%A9aire "Équation
+différentielle linéaire") avaient été exprimées sous forme de séries entières
+sans aucune justification. Après avoir exhibé des exemples de [fonctions
+plates](/w/index.php?title=Fonction_plate&action=edit&redlink=1 "Fonction
+plate \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Flat_function "en:Flat function"), Cauchy
+s’intéresse de près au [développement de
+Taylor](/wiki/D%C3%A9veloppement_de_Taylor "Développement de Taylor"), et
+évalue le reste sous forme de la détermination principale. Il donne ainsi des
+conditions suffisantes pour obtenir des réponses positives aux questions
+soulevées.
+
+Toujours dans son _Cours d’Analyse_ , il énonce et démontre le [théorème des
+valeurs
+intermédiaires](/wiki/Th%C3%A9or%C3%A8me_des_valeurs_interm%C3%A9diaires
+"Théorème des valeurs intermédiaires")[60], démonstration déjà finalisée par
+[Bolzano](/wiki/Bernard_Bolzano "Bernard Bolzano") en 1817 à partir du
+[critère de Cauchy](/wiki/Suite_de_Cauchy "Suite de Cauchy") pour la
+convergence des suites[61]. Chez Cauchy, la notion première est celle de
+_quantité variable_. C'est à partir de cette notion que sont définies les
+notions de limite et d'infiniment petit. Ensuite Cauchy définit la continuité
+à l'aide des _infiniment petits_ : d'un accroissement infiniment petit de  x
+{\displaystyle x}
+![x](https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4)
+résulte un accroissement infiniment petit de  y {\displaystyle y}
+![y](https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d).
+Il précise les notions de [limite](/wiki/Limite_\(math%C3%A9matiques\) "Limite
+\(mathématiques\)") ; et formalise en termes de limites la
+[dérivabilité](/wiki/D%C3%A9riv%C3%A9e "Dérivée"). Il est arrêté dans ses
+travaux par une nuance qu'il ne perçoit pas : la différence entre [convergence
+simple](/wiki/Convergence_simple "Convergence simple") et [convergence
+uniforme](/wiki/Convergence_uniforme "Convergence uniforme")[62]. Pourtant, la
+convergence simple (convergence d'une suite de fonctions en chaque point
+d'évaluation) n'est pas une condition suffisante pour préserver la continuité
+par passage à la limite. Il est le premier à donner une définition sérieuse de
+l’[intégration](/wiki/Int%C3%A9gration_\(math%C3%A9matiques\) "Intégration
+\(mathématiques\)"). Il définit l’intégrale d’une fonction d’une variable
+réelle sur un intervalle comme une limite d’une suite de sommes de Riemann
+prises sur une suite croissante de subdivisions de l’intervalle considéré. Sa
+définition permet d'obtenir une théorie de l’intégration pour les fonctions
+continues. Dans son _Analyse algébrique_ , il définit les
+[logarithmes](/wiki/Logarithme "Logarithme") et les
+[exponentielles](/wiki/Exponentielle_de_base_a "Exponentielle de base a")
+comme uniques fonctions continues vérifiant respectivement les [équations
+fonctionnelles](/wiki/%C3%89quation_fonctionnelle "Équation fonctionnelle") f
+( x y ) = f ( x ) + f ( y ) {\displaystyle f(xy)=f(x)+f(y)} ![{\\displaystyle
+f\(xy\)=f\(x\)+f\(y\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/7545d75e5c137551997e84a079dec421b9952f79)
+et [ f ( x + y ) = f ( x ) f ( y ) {\displaystyle f(x+y)=f(x)f(y)}
+![{\\displaystyle
+f\(x+y\)=f\(x\)f\(y\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/d70756f578d42afa00cec6c63ae5f6f082726775)](/wiki/%C3%89quation_fonctionnelle_de_Cauchy#Importance_de_l'équation
+"Équation fonctionnelle de Cauchy"). Bien qu'il se soit efforcé de donner des
+bases rigoureuses à l'analyse, il ne s'est pas interrogé sur l’[existence du
+corps des nombres réels](/wiki/Construction_des_nombres_r%C3%A9els
+"Construction des nombres réels"), établie plus tard par [Georg
+Cantor](/wiki/Georg_Cantor "Georg Cantor").
+
+Dans son cours de Polytechnique, _Leçon de calcul différentiel et intégral_ ,
+il apporte clarté et rigueur aux résolutions des [équations différentielles
+linéaires d'ordre
+1](/wiki/%C3%89quation_diff%C3%A9rentielle_lin%C3%A9aire_d%27ordre_un
+"Équation différentielle linéaire d'ordre un")[63] et s'intéresse aux
+[équations aux dérivées
+partielles](/wiki/%C3%89quations_aux_d%C3%A9riv%C3%A9es_partielles "Équations
+aux dérivées partielles") ([théorème de Cauchy-
+Lipschitz](/wiki/Th%C3%A9or%C3%A8me_de_Cauchy-Lipschitz "Théorème de Cauchy-
+Lipschitz")).
+
+### Analyse
+complexe[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=14
+"Modifier la section : Analyse complexe") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=14
+"Modifier la section : Analyse complexe")]
+
+On doit à Cauchy l'introduction des fondements de l'[analyse
+complexe](/wiki/Analyse_complexe "Analyse complexe"). Sous l’influence de
+Laplace, il présente dans le mémoire _Sur les intégrales définies_
+([1814](/wiki/1814_en_science "1814 en science")) la première écriture des
+[équations de Cauchy-Riemann](/wiki/%C3%89quations_de_Cauchy-Riemann
+"Équations de Cauchy-Riemann") comme condition
+d'[analyticité](/wiki/Fonction_analytique "Fonction analytique") pour une
+fonction d'une variable complexe. Dans cet article, il s’intéresse à
+l’intégration d’une fonction analytique d’une variable complexe sur le contour
+d’un [rectangle](/wiki/Rectangle "Rectangle"), donne la définition de
+[résidu](/wiki/R%C3%A9sidu_\(analyse_complexe\) "Résidu \(analyse
+complexe\)"), et fournit un premier calcul de résidu. Dans _Sur les intégrales
+définies prises entre des limites imaginaires_ (1825), il donne la première
+définition d'[intégrale curviligne](/wiki/Int%C3%A9grale_curviligne "Intégrale
+curviligne"), démontre l'invariance par homotopie (formulée en termes
+d'analyse), et, après avoir obtenu la [formule intégrale de
+Cauchy](/wiki/Formule_int%C3%A9grale_de_Cauchy "Formule intégrale de Cauchy"),
+énonce précisément le [théorème des
+résidus](/wiki/Th%C3%A9or%C3%A8me_des_r%C3%A9sidus "Théorème des résidus")
+pour les fonctions analytiques comme outil pour le calcul d'intégrales.
+
+En 1831, Cauchy propose une expression du nombre de racines complexes d’un
+polynôme dans une région du plan complexe. Si  F {\displaystyle F}
+![F](https://wikimedia.org/api/rest_v1/media/math/render/svg/545fd099af8541605f7ee55f08225526be88ce57)
+et  P {\displaystyle P}
+![P](https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a)
+sont des polynômes,  P {\displaystyle P}
+![P](https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a)
+n'a que des racines simples il démontre :
+
+1 2 i π ∫ ∂ U F ( z ) ⋅ P ′ ( z ) P ( z ) d z = ∑ F ( z i ) , {\displaystyle
+{\frac {1}{2i\pi }}\int _{\partial U}F(z)\cdot {\frac {P'(z)}{P(z)}}\,\mathrm
+{d} z=\sum F(z_{i}),} ![\\frac{1}{2i\\pi}\\int_{\\partial U}F\(z\)\\cdot
+\\frac{P'\(z\)}{P\(z\)}\\,\\mathrm{d}z= \\sum
+F\(z_i\),](https://wikimedia.org/api/rest_v1/media/math/render/svg/8fc3bfe922581d3f016fa59a751078b96f09b626)
+
+où l'intégrale est prise sur le contour du domaine  U {\displaystyle U}
+![U](https://wikimedia.org/api/rest_v1/media/math/render/svg/458a728f53b9a0274f059cd695e067c430956025),
+et où la somme porte sur les racines de  P {\displaystyle P}
+![P](https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a)
+appartenant au domaine  U {\displaystyle U}
+![U](https://wikimedia.org/api/rest_v1/media/math/render/svg/458a728f53b9a0274f059cd695e067c430956025).
+
+Durant son séjour à Turin, il déduit de la formule de Cauchy précédemment
+énoncée une expression des coefficients de la série de Taylor d'une fonction
+analytique d'une variable complexe comme intégrales. Il en déduit les
+[inégalités dites de Cauchy](/wiki/In%C3%A9galit%C3%A9_de_Cauchy "Inégalité de
+Cauchy") et des résultats sur la convergence des fonctions analytiques d’une
+variable complexe. Ses travaux seront publiés en 1838 et poursuivis par
+[Laurent](/wiki/Pierre_Alphonse_Laurent "Pierre Alphonse Laurent"), qui
+fournit comme généralisation des séries entières les [séries de
+Laurent](/wiki/S%C3%A9rie_de_Laurent "Série de Laurent").
+
+Vers 1845, Cauchy s'inspire des travaux des mathématiciens allemands sur les
+nombres imaginaires, et en particulier l'écriture trigonométrique. Il repousse
+dans un premier temps cet aspect géométrique pour ensuite l'utiliser dans ses
+propres travaux. Il définit la notion de dérivée d'une fonction d'une variable
+complexe ; il établit ensuite l'équivalence entre dérivabilité et analyticité,
+fondant ainsi la définition des [fonctions
+holomorphes](/wiki/Fonction_holomorphe "Fonction holomorphe"). Tous ses
+résultats précédents sur le sujet concernent les fonctions holomorphes ; la
+formule de Cauchy devient un outil central dans l’étude des fonctions
+holomorphes, et il étudie alors à nouveau les équations de Cauchy-Riemann.
+
+###
+Algèbre[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=15
+"Modifier la section : Algèbre") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=15
+"Modifier la section : Algèbre")]
+
+Lagrange avait démontré que la résolution d’une équation algébrique générale
+de degré _n_ passe par l’introduction d’une équation intermédiaire : sa
+[résolvante](/wiki/R%C3%A9solvante "Résolvante") dont le degré est le nombre
+de fonctions à  n {\displaystyle n}
+![n](https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b)
+variables obtenues par permutation des variables dans l’expression d’une
+fonction polynomiale. Ce nombre est un diviseur de [ n ! {\displaystyle n!}
+![{\\displaystyle
+n!}](https://wikimedia.org/api/rest_v1/media/math/render/svg/bae971720be3cc9b8d82f4cdac89cb89877514a6)](/wiki/Factorielle
+"Factorielle"): ce résultat est aujourd’hui vu comme une conséquence de
+l’actuel [théorème de
+Lagrange](/wiki/Th%C3%A9or%C3%A8me_de_Lagrange_\(alg%C3%A8bre\) "Théorème de
+Lagrange \(algèbre\)"). En 1813, Cauchy améliore cette estimation et démontre
+que ce nombre est supérieur au plus petit diviseur premier de  n
+{\displaystyle n}
+![n](https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b).
+Son résultat fut généralisé ensuite en l’actuel [théorème de
+Cauchy](/wiki/Th%C3%A9or%C3%A8me_de_Cauchy_\(groupes\) "Théorème de Cauchy
+\(groupes\)").
+
+Il est le premier à réaliser une étude des permutations comme des objets
+(appelés alors _substitutions_ ). Il introduit les écritures encore utilisées
+aujourd’hui pour noter les permutations ; il définit le
+[produit](/wiki/Loi_de_composition "Loi de composition"), l’ordre, et établit
+l’existence et l’unicité de la décomposition des permutations en produit de
+cycles ( _substitutions circulaires_ ) à supports disjoints. Les travaux de
+Cauchy et de Lagrange sur le sujet sont considérés comme précurseurs de la
+[théorie des groupes](/wiki/Th%C3%A9orie_des_groupes "Théorie des groupes").
+Cependant, Cauchy ne connaît alors pas la théorie des groupes et donne sans le
+savoir une première étude du [groupe symétrique](/wiki/Groupe_sym%C3%A9trique
+"Groupe symétrique").
+
+En [algèbre linéaire](/wiki/Alg%C3%A8bre_lin%C3%A9aire "Algèbre linéaire"), il
+écrit un traité sur le
+[déterminant](/wiki/D%C3%A9terminant_\(math%C3%A9matiques\) "Déterminant
+\(mathématiques\)")[64] contenant l'essentiel des propriétés de cette
+application. Il étudie la [diagonalisation](/wiki/Diagonalisation
+"Diagonalisation") des [endomorphismes
+symétriques](/wiki/Endomorphisme_sym%C3%A9trique "Endomorphisme symétrique")
+[réels](/wiki/Nombre_r%C3%A9el "Nombre réel") et qu'il démontra en dimension
+deux et trois[65] et dans le cas où le [polynôme
+caractéristique](/wiki/Polyn%C3%B4me_caract%C3%A9ristique "Polynôme
+caractéristique") ne possède aucune racine multiple[66]. Enfin, il formalise
+la notion de polynôme caractéristique[67].
+
+###
+Géométrie[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=16
+"Modifier la section : Géométrie") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=16
+"Modifier la section : Géométrie")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dodecahedron.svg/220px-
+Dodecahedron.svg.png)](/wiki/Fichier:Dodecahedron.svg)
+
+[](/wiki/Fichier:Dodecahedron.svg "Agrandir")
+
+Le [dodécaèdre](/wiki/Dod%C3%A9ca%C3%A8dre "Dodécaèdre"), un
+[polyèdre](/wiki/Poly%C3%A8dre "Polyèdre") régulier convexe.
+
+En 1811, il s’intéresse dans son premier mémoire à l’égalité de polyèdres
+convexes dont les faces sont égales. Il propose une démonstration du [théorème
+de Descartes-Euler](/wiki/Th%C3%A9or%C3%A8me_de_Descartes-Euler "Théorème de
+Descartes-Euler"), concernant les nombres de sommets, de faces et d'arêtes
+d'un [polyèdre](/wiki/Poly%C3%A8dre "Polyèdre") convexe. Sa preuve consiste à
+projeter le polyèdre en un graphe planaire suivant ce qui est aujourd’hui
+appelé une [projection
+stéréographique](/wiki/Projection_st%C3%A9r%C3%A9ographique "Projection
+stéréographique"). Cependant, Cauchy commet une erreur, en ne faisant pas
+d’hypothèse claire sur les polyèdres étudiés.
+
+Dans son second mémoire en 1812, il donne des formules pour calculer les
+[angles diédraux](/wiki/Angle_di%C3%A9dral "Angle diédral").
+
+### Mécanique et
+optique[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=17
+"Modifier la section : Mécanique et optique") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=17
+"Modifier la section : Mécanique et optique")]
+
+En mécanique, Cauchy propose pour décrire la matière d’opposer à la continuité
+de la matière un système de points matériels dont les mouvements sont
+continus. Selon Cauchy, les forces entre ces particules doivent devenir
+négligeables sur les distances estimables. Cauchy énonce des lois sur les
+variations de tension, de condensation et de dilatation. Il fait une étude sur
+l’[élasticité des corps](/wiki/D%C3%A9formation_%C3%A9lastique "Déformation
+élastique").
+
+S’intéressant à la variation des molécules
+d’[éther](/wiki/%C3%89ther_\(physique\) "Éther \(physique\)"), Cauchy établit
+les équations de [propagation de la lumière](/wiki/Optique_physique "Optique
+physique") en 1829. Il établit les modes de
+[polarisation](/wiki/Polarisation_\(optique\) "Polarisation \(optique\)") des
+ondes planes, mises en évidence par des travaux antérieurs de
+[Fresnel](/wiki/Augustin_Fresnel "Augustin Fresnel"). S’intéressant aux
+conditions limites au niveau d’une interface, Cauchy démontre les lois de la
+[réflexion](/wiki/R%C3%A9flexion_optique "Réflexion optique") et de la
+[réfraction](/wiki/R%C3%A9fraction "Réfraction") de la lumière. Il retrouve
+les résultats de [Brewster](/wiki/David_Brewster "David Brewster") sur la
+variation de l’angle de polarisation lors d’une réflexion ou d’une réfraction.
+Enfin, il démontre l’existence d’[ondes
+évanescentes](/wiki/Onde_%C3%A9vanescente "Onde évanescente"), vérifiée
+expérimentalement par Jasmin.
+
+Sous l’influence de [Coriolis](/wiki/Gaspard-Gustave_Coriolis "Gaspard-Gustave
+Coriolis"), Cauchy étudie la dispersion de la lumière. Ses travaux sur les
+ombres rejettent une des objections à la théorie ondulatoire de la lumière. Il
+met en évidence le phénomène de [diffraction](/wiki/Diffraction
+"Diffraction").
+
+En [astronomie](/wiki/Astronomie "Astronomie"), sa recherche sur les séries
+lui permet de réviser la [théorie des
+perturbations](/wiki/Th%C3%A9orie_des_perturbations "Théorie des
+perturbations") mise en place par Lagrange, Laplace, et Poisson pour étudier
+la stabilité du [système solaire](/wiki/Syst%C3%A8me_solaire "Système
+solaire"). Cauchy s’intéresse de plus près aux calculs astronomiques, dès son
+élection au Bureau des Longitudes en 1839. En 1842, il propose des méthodes de
+calculs de primitives d’expressions rationnelles en cosinus et sinus ; ces
+méthodes furent motivées par le développement de la fonction perturbative. En
+1845, le mémoire de [Le Verrier](/wiki/Urbain_Le_Verrier "Urbain Le Verrier")
+sur la [planète Pallas](/wiki/\(2\)_Pallas "\(2\) Pallas") est vérifié en
+quelques heures par Cauchy.
+
+###
+Probabilités[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=18
+"Modifier la section : Probabilités") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=18
+"Modifier la section : Probabilités")]
+
+Les travaux de Cauchy sur le principe du minimax permettent de développer la
+théorie de la décision statistique. En 1853, il étudie, via leurs fonctions
+caractéristiques, une famille de distributions paires répondant à un problème
+variationnel[68], parmi lesquelles figurent la [loi normale](/wiki/Loi_normale
+"Loi normale") et la [loi de Cauchy](/wiki/Loi_de_Cauchy_\(probabilit%C3%A9s\)
+"Loi de Cauchy \(probabilités\)"), découverte par Poisson. Faisant usage des
+fonctions caractéristiques, il publie une démonstration du [théorème central
+limite](/wiki/Th%C3%A9or%C3%A8me_central_limite "Théorème central limite").
+
+## Principales
+publications[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=19
+"Modifier la section : Principales publications") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=19
+"Modifier la section : Principales publications")]
+
+###
+Ouvrages[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=20
+"Modifier la section : Ouvrages") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=20
+"Modifier la section : Ouvrages")]
+
+  * _[« Cours d'Analyse »](https://gallica.bnf.fr/ark:/12148/btv1b8626657t?rk=171674;4), 1821_, lire en ligne sur _[Gallica](/wiki/Gallica "Gallica")_
+  * _[« Leçons sur les applications du calcul infinitésimal à la géométrie »](https://gallica.bnf.fr/ark:/12148/bpt6k1057814h?rk=128756;0), 1826, lire en ligne sur _[Gallica](/wiki/Gallica "Gallica") __
+  * _[« Exercices de mathématiques »](https://gallica.bnf.fr/ark:/12148/bpt6k9634068x?rk=21459;2), 1827, lire en ligne sur _[Gallica](/wiki/Gallica "Gallica") __
+  * [« Exercices d'analyse et de physique mathématique »](https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&collapsing=disabled&rk=236052;4&query=%28%28dc.creator%20all%20%22Cauchy%2C%20Augustin-Louis%22%20or%20dc.contributor%20all%20%22Cauchy%2C%20Augustin-Louis%22%29%29%20and%20dc.relation%20all%20%22cb302073278%22#resultat-id-1), Bachelier (Paris), 1840–1847, lire en ligne sur _[Gallica](/wiki/Gallica "Gallica")_
+  * _Œuvres complètes_ (28 volumes, 1882–1974) — En ligne sur IRIS ([recherche](http://iris.univ-lille1.fr/))[69]
+
+###
+Mémoires[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=21
+"Modifier la section : Mémoires") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=21
+"Modifier la section : Mémoires")]
+
+  * _Mémoire sur les développements des fonctions en séries périodiques_ , dans _Mémoires de l'Académie des sciences de l'Institut de France - Année 1823_ , Gauthier-Villars, Paris, 1827, p. 603-612 [( _lire en ligne_ )](https://gallica.bnf.fr/ark:/12148/bpt6k3221x/f791.item.zoom)
+  * _Théorie des ondes_
+  * _Mémoires sur la polarisation de la lumière_
+  * _Théorie des nombres_
+
+##
+Hommages[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=22
+"Modifier la section : Hommages") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=22
+"Modifier la section : Hommages")]
+
+  * Son nom [est inscrit sur la Tour Eiffel](/wiki/Liste_des_72_noms_de_savants_inscrits_sur_la_tour_Eiffel "Liste des 72 noms de savants inscrits sur la tour Eiffel") (face à l'École Militaire, no 37),
+  * Une [rue](/wiki/Rue_Cauchy "Rue Cauchy") porte son nom dans le [15e arrondissement de Paris](/wiki/15e_arrondissement_de_Paris "15e arrondissement de Paris"),
+  * Un des amphithéâtres de l'[École nationale des ponts et chaussées](/wiki/%C3%89cole_nationale_des_ponts_et_chauss%C3%A9es "École nationale des ponts et chaussées") porte son nom,
+  * Un des amphithéâtres de l'[École polytechnique](/wiki/%C3%89cole_polytechnique_\(France\) "École polytechnique \(France\)") porte son nom,
+  * Le nom de [Cauchy](/wiki/Cauchy_\(crat%C3%A8re\) "Cauchy \(cratère\)") a été donné à un [cratère lunaire](/wiki/Crat%C3%A8re_lunaire "Cratère lunaire") en 1935 par l'[Union astronomique internationale](/wiki/Union_astronomique_internationale "Union astronomique internationale").
+  * La Poste française a émis un timbre à son effigie le 13 novembre 1989[70].
+
+## Notes et
+références[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=23
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=23
+"Modifier la section : Notes et références")]
+
+###
+Notes[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=24
+"Modifier la section : Notes") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=24
+"Modifier la section : Notes")]
+
+  1. ↑ Lors de la session du 25 mai 1829, Cauchy soumit à la considération de l'[Académie des sciences](/wiki/Acad%C3%A9mie_des_sciences_\(France\) "Académie des sciences \(France\)") le mémoire intitulé _Recherches algébriques_. Lors de la session suivante, le 1er juin 1829, on présenta le mémoire intitulé _Recherches sur les équations algébriques de degré premier_. Tous les académiciens déléguèrent la responsabilité à Cauchy, qui était celui qui avait apporté les deux mémoires de Galois. Cauchy emporta les deux manuscrits chez lui avec l'accord de ses collègues , et devint ainsi le seul garant des documents. Il ne les présenta jamais à l'Académie, et Galois ne récupéra jamais ce qui avait été remis à l'académicien[2]
+  2. ↑ Pour se faire reconnaître, Abel remet à l'[Académie des sciences](/wiki/Acad%C3%A9mie_des_sciences_\(France\) "Académie des sciences \(France\)") son mémoire, qui est présenté le 30 octobre 1826 par son secrétaire perpétuel [Joseph Fourier](/wiki/Joseph_Fourier "Joseph Fourier"), lequel lit l'introduction du manuscrit devant les académiciens en présence d'Abel. La révision du manuscrit est confiée à Cauchy et [Legendre](/wiki/Adrien-Marie_Legendre "Adrien-Marie Legendre"), et la production d'un rapport à Cauchy. Impressionné par la longueur du mémoire et la technicité du contenu, le mathématicien français — dont la subsistance dépendait de ses propres travaux — délaisse le manuscrit qui se retrouve au fond d'un tiroir. Ce n'est que lorsqu'il a vent de la mort prématurée d'Abel en 1829, qu'il le lit et rédige un rapport favorable[3]
+  3. ↑ Son épouse et ses deux enfants, Augustin-Louis et Alexandre-Laurent. Au cours de cette période, Augustin-Louis contracte la [variole](/wiki/Variole "Variole")[5]
+  4. ↑ Cette infrastructure avait d'abord été conçue en 1777, lorsque [Louis XVI](/wiki/Louis_XVI "Louis XVI"), dans le contexte de la [guerre d'indépendance des États-Unis](/wiki/Guerre_d%27ind%C3%A9pendance_des_%C3%89tats-Unis "Guerre d'indépendance des États-Unis"), avait décidé de construire un port militaire sur la [Manche](/wiki/Manche_\(mer\) "Manche \(mer\)"). Les travaux, commencés dans la décennie 1780, interrompus par la [révolution française](/wiki/R%C3%A9volution_fran%C3%A7aise "Révolution française"), reprirent sous l'impulsion du [Premier consul Bonaparte](/wiki/Consulat_\(histoire_de_France\) "Consulat \(histoire de France\)")[10]
+  5. ↑ [Pierre-Simon Girard](/wiki/Pierre-Simon_Girard "Pierre-Simon Girard"), directeur du chantier de l'Ourcq, avait une haute opinion de ses capacités[15]
+  6. ↑ Il reconnaissait qu'il avait été « orienté vers ce thème de recherche par M. de Laplace », dont l'influence était grande non seulement à l'Institut mais aussi dans la fonction publique[17]
+  7. ↑ À la Restauration, comme d'autres dignitaires du régime impérial, Louis Poinsot fut relevé de ses différents postes[20]
+  8. ↑ Jusqu'en 1830
+  9. ↑ En juillet 1830, il avait informé le président de l'Académie des sciences de Paris que sa santé, déjà précaire depuis longtemps, s'était encore dégradée en raison de ses travaux intensifs[27]
+  10. ↑ La chaire qu'avait occupée [Amedeo Avogadro](/wiki/Amedeo_Avogadro "Amedeo Avogadro") avait été supprimée par le [roi Charles-Félix](/wiki/Charles-F%C3%A9lix_\(duc_de_Savoie\) "Charles-Félix \(duc de Savoie\)")[30]
+  11. ↑ Il rend l'affaire publique en décembre 1843[35]
+  12. ↑ Liouville l'emporta de douze voix contre onze pour Cauchy. En conséquence, les relations entre Cauchy et Liouville, jusqu'alors excellentes, se détériorèrent[38]
+  13. ↑ Son dernier vœu fut que son œuvre fasse l'objet d'une publication intégrale[41]
+
+###
+Références[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=25
+"Modifier la section : Références") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=25
+"Modifier la section : Références")]
+
+  1. ↑ [Joseph Bertrand](/wiki/Joseph_Bertrand "Joseph Bertrand"), Rapport sur les progrès les plus récents de l'analyse mathématique, Imprimerie impériale, 1862 ([lire en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k99374c/f8)) lire en ligne sur _[Gallica](/wiki/Gallica "Gallica")_
+  2. ↑ Corbalán et Sanchez 2018, p. 97
+  3. ↑ Almira Cid Gauthier 2018, p. 112/114
+  4. ↑ Valson 1868, t. I, p. 3-5.
+  5. ↑ Suárez Alemán et Garnier 2019, p. 32
+  6. ↑ Belhoste1, p. 14-15
+  7. ↑ Suárez Alemán et Garnier 2019, p. 32/34
+  8. ↑ Valson 1868, t. I, p. 19-20
+  9. ↑ Suárez Alemán et Garnier 2019, p. 34-36
+  10. ↑ Suárez Alemán et Garnier 2019, p. 41
+  11. ↑ Valson 1868, t. I, p. 43
+  12. ↑ Valson 1868, t. I, p. 27-31
+  13. ↑ Suárez Alemán et Garnier 2019, p. 38/41-45/47-48
+  14. ↑ Valson 1868, t. I, p. 42
+  15. ↑ Suárez Alemán et Garnier 2019, p. 53
+  16. ↑ Belhoste1, p. 47–53
+  17. ↑ Suárez Alemán et Garnier 2019, p. 55
+  18. ↑ Suárez Alemán et Garnier 2019, p. 55-56/61
+  19. ↑ Belhoste1, p. 59-62.
+  20. ↑ Suárez Alemán et Garnier 2019, p. 62
+  21. ↑ [Jacques Bouveresse](/wiki/Jacques_Bouveresse "Jacques Bouveresse"), [Jean Itard](/wiki/Jean_Itard_\(1902-1979\) "Jean Itard \(1902-1979\)") et Émile Sallé, Histoire des mathématiques [[détail des éditions](/wiki/R%C3%A9f%C3%A9rence:Histoire_des_math%C3%A9matiques_\(Bouveresse,_Itard,_Sall%C3%A9\) "Référence:Histoire des mathématiques \(Bouveresse, Itard, Sallé\)")], p. 164, biographie de Cauchy.
+  22. ↑ Lettre de Biot à de Falloux. _Le Correspondant_ , 1857
+  23. ↑ Suárez Alemán et Garnier 2019, p. 62/64/66
+  24. ↑ Valson 1868, t. I, p. 67-69
+  25. ↑ Belhoste1, p. 78.
+  26. ↑ Belhoste1, p. 124
+  27. ↑ a et b Suárez Alemán et Garnier 2019, p. 125
+  28. ↑ Belhoste2, p. 149–150
+  29. ↑ Suárez Alemán et Garnier 2019, p. 123\. 
+  30. ↑ Suárez Alemán et Garnier 2019, p. 128
+  31. ↑ a et b (it) Luigi Pepe, « La formazione matematica di Vilfredo Pareto », _Cahiers Vilfredo Pareto : revue européenne des sciences sociales_, vol. 37, no 116, 1999, p. 173-189 ([lire en ligne](https://books.google.com/books?id=0-LGAzM_LOsC&pg=PA174))
+  32. ↑ Suárez Alemán et Garnier 2019, p. 126/128/130. 
+  33. ↑ Claude-Alphonse Valson, La vie et les travaux du baron Cauchy, [p. 92–93](https://books.google.com/books?id=vQ7tw0rVKPsC&printsec=frontcover&pg=PA92)
+  34. ↑ Suárez Alemán et Garnier 2019, p. 130-131/134. 
+  35. ↑ Suárez Alemán et Garnier 2019, p. 140
+  36. ↑ Suárez Alemán et Garnier 2019, p. 137-138/140
+  37. ↑ Suárez Alemán et Garnier 2019, p. 142-143. 
+  38. ↑ Suárez Alemán et Garnier 2019, p. 149
+  39. ↑ Belhoste1, p. 207-208
+  40. ↑ Suárez Alemán et Garnier 2019, p. 143/146/148-149. 
+  41. ↑ Belhoste1, p. 213
+  42. ↑ Valson 1868, t. I, p. 267
+  43. ↑ Suárez Alemán et Garnier 2019, p. 150-151. 
+  44. ↑ Suárez Alemán et Garnier 2019, p. 35
+  45. ↑ Lettre de Cauchy à sa mère, rapportée dans Valson 1868, t. I, p. 38
+  46. ↑ Valson 1868, t. I, p. 108–121
+  47. ↑ Belhoste2, p. 184-187
+  48. ↑ <https://www.oeuvre-orient.fr/wp-content/uploads/LE-CINQUANTENAIRE-DE-LŒUVRE-DES-ECOLES-DORIENT.04.07.2017.pdf>
+  49. ↑ <https://gallica.bnf.fr/html/und/loeuvre-dorient>
+  50. ↑ <https://www.oeuvre-orient.fr/wp-content/uploads/Les-11-Directeurs-de-l’Œuvre-des-Ecoles-d’Orient.pdf>
+  51. ↑ Bruno Belhoste[[réf. non conforme]](/wiki/Aide:R%C3%A9f%C3%A9rence_non_conforme "Aide:Référence non conforme"), p. 114
+  52. ↑ Valson 1868, t. 1, p. 71
+  53. ↑ Bruno Belhoste[[réf. non conforme]](/wiki/Aide:R%C3%A9f%C3%A9rence_non_conforme "Aide:Référence non conforme"), p. 157
+  54. ↑ Valson 1868, t. I, p. 20
+  55. ↑ Valson 1868, t. II, Introduction
+  56. ↑ Valson 1868, t. I, p. 251
+  57. ↑ Belhoste2, chap. 6, 7 et 12.
+  58. ↑ Dieudonné, vol. 1, p. 341-344
+  59. ↑ Dieudonné, vol. 1, p. 141–149
+  60. ↑ Bourbaki, p. 193.
+  61. ↑ M. Guillemot, « Bolzano et la démonstration du théorème des valeurs intermédiaires », dans La démonstration mathématique dans l'histoire, [IREM](/wiki/IREM "IREM") de Lyon ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-906943-20-9](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-906943-20-9 "Spécial:Ouvrages de référence/978-2-906943-20-9")), p. 106.
+  62. ↑ Bourbaki, p. 257.
+  63. ↑ Bourbaki, p. 81
+  64. ↑ A.-L. Cauchy, _Mémoire sur les fonctions qui ne peuvent obtenir que deux valeurs égales et des signes contraires par suite des transpositions opérées entre les variables qu'elles renferment_ , adressé en 1812 et publié dans le Journal de l'École polytechnique, XVIIe Cahier, tome X, Paris [1815](/wiki/1815_en_science "1815 en science") [lire sur Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k90193x)
+  65. ↑ Augustin Louis Cauchy, _Mémoire sur l’équation qui a pour racines les moments d’inertie principaux d’un corps solide et sur diverses équations du même genre_ , Mémoires de l'Académie des sciences, t. IX, p. 111, présenté en [1826](/wiki/1826_en_science "1826 en science") et publié en 1830.
+  66. ↑ Augustin Louis Cauchy, _L’équation qui a pour racines les moments d’inertie principaux d’un corps solide, et sur diverses équations du même genre_ , Mém. Acad. des Sci. Paris, 1830.
+  67. ↑ Augustin Louis Cauchy, « Méthode générale propre à fournir les équations de condition relatives aux limites des corps dans les problèmes de physique mathématique », dans _[Comptes rendus Acad. Sci. Paris](/wiki/CRAS "CRAS")_ , 1840, vol. 8, p. 79-81 (lu en 1839).
+  68. ↑ Sur les résultats moyens d’observations de même nature, et sur les résultats les plus probables, 1853.
+  69. ↑ En ligne sur [Google Livres](/wiki/Google_Livres "Google Livres") : [sér. 1, t. 1 (1882)](https://books.google.com/books?id=ATEPAAAAIAAJ&pg=PP7) ; [sér. 1, t. 6 (1888)](https://books.google.com/books?id=YQDvAAAAMAAJ&pg=PP11) ; [sér. 2, t. 5 (1887)](https://books.google.com/books?id=9FMNAAAAYAAJ&pg=PP1).
+  70. ↑ [« Timbre : 1989 AUGUSTIN CAUCHY 1789-1857 »](https://www.wikitimbres.fr/timbres/1707/1989-augustin-cauchy-1789-1857)
+
+## Voir
+aussi[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=26
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=26
+"Modifier la section : Voir aussi")]
+
+Sur les autres projets Wikimedia :
+
+  * [Cauchy](https://commons.wikimedia.org/wiki/Category:Augustin_Louis_Cauchy?uselang=fr), sur Wikimedia Commons
+
+###
+Bibliographie[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=27
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=27
+"Modifier la section : Bibliographie")]
+
+![Document utilisé pour la rédaction de
+l’article](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-
+Icon_flat_design_plume.svg.png) : document utilisé comme source pour la
+rédaction de cet article.
+
+  * Bruno Belhoste,
+
+  1. Cauchy, un mathématicien légitimiste au XIXe siècle [[détail des éditions](/wiki/R%C3%A9f%C3%A9rence:Cauchy_\(Belhoste1\) "Référence:Cauchy \(Belhoste1\)")]
+  2. (en) Augustin-Louis Cauchy: A biography [[détail des éditions](/wiki/R%C3%A9f%C3%A9rence:Cauchy\(Belhoste2\) "Référence:Cauchy\(Belhoste2\)")]
+
+  * [Nicolas Bourbaki](/wiki/Nicolas_Bourbaki "Nicolas Bourbaki"), [Éléments d'histoire des mathématiques](/wiki/%C3%89l%C3%A9ments_d%27histoire_des_math%C3%A9matiques "Éléments d'histoire des mathématiques") [[détail des éditions](/wiki/R%C3%A9f%C3%A9rence:Histoire_des_math%C3%A9matiques_\(Bourbaki\) "Référence:Histoire des mathématiques \(Bourbaki\)")]
+  * [Jean Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné") (dir.), [Abrégé d'histoire des mathématiques 1700-1900](/wiki/Abr%C3%A9g%C3%A9_d%27histoire_des_math%C3%A9matiques "Abrégé d'histoire des mathématiques") [[détail des éditions](/wiki/R%C3%A9f%C3%A9rence:Histoire_des_math%C3%A9matiques_\(Dieudonn%C3%A9_\(dir.\)\) "Référence:Histoire des mathématiques \(Dieudonné \(dir.\)\)")]
+  * [Claude-Alphonse Valson](/wiki/Alphonse_Valson "Alphonse Valson"), La vie et les travaux du baron Cauchy, Paris, Gauthier-Villars, 1868 [( _lire en ligne_ )](https://gallica.bnf.fr/ark:/12148/bpt6k26077d/f1)
+  * Carlo Oswaldo Suárez Alemán et Philippe Garnier (Trad.), La rigueur de l'analyse mathématique : Cauchy, Barcelone, RBA Coleccionables, 2019, 158 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-84-473-9888-1](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-84-473-9888-1 "Spécial:Ouvrages de référence/978-84-473-9888-1")). ![](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-Icon_flat_design_plume.svg.png)
+  * José María Almira et José Angel Cid (trad. Adrien Gauthier), Le développement des fonctions elliptiques : Abel, Barcelone, RBA Coleccionables, 2018, 153 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-84-473-9615-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-84-473-9615-3 "Spécial:Ouvrages de référence/978-84-473-9615-3")). ![](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-Icon_flat_design_plume.svg.png)
+  * Fernando Corbalán et Stephen Sanchez (trad.), L'invention de la théorie des groupes : Galois, Barcelone, RBA Coleccionables, 2018, 157 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-84-473-9319-0](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-84-473-9319-0 "Spécial:Ouvrages de référence/978-84-473-9319-0")). ![](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-Icon_flat_design_plume.svg.png)
+
+### Articles
+connexes[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=28
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=28
+"Modifier la section : Articles connexes")]
+
+  * [Déterminant de Cauchy](/wiki/D%C3%A9terminant_de_Cauchy "Déterminant de Cauchy")
+  * [Équation fonctionnelle de Cauchy](/wiki/%C3%89quation_fonctionnelle_de_Cauchy "Équation fonctionnelle de Cauchy")
+  * [Équations de Cauchy-Riemann](/wiki/%C3%89quations_de_Cauchy-Riemann "Équations de Cauchy-Riemann")
+  * [Formule de Binet-Cauchy](/wiki/Formule_de_Binet-Cauchy "Formule de Binet-Cauchy")
+  * [Formule de Cauchy pour l'intégration successive](/wiki/Formule_de_Cauchy_pour_l%27int%C3%A9gration_successive "Formule de Cauchy pour l'intégration successive")
+  * [Formule intégrale de Cauchy](/wiki/Formule_int%C3%A9grale_de_Cauchy "Formule intégrale de Cauchy")
+  * [Inégalité de Cauchy](/wiki/In%C3%A9galit%C3%A9_de_Cauchy "Inégalité de Cauchy")
+  * [Inégalité de Cauchy-Schwarz](/wiki/In%C3%A9galit%C3%A9_de_Cauchy-Schwarz "Inégalité de Cauchy-Schwarz")
+  * [Intégrale de Cauchy](/wiki/Int%C3%A9grale_de_Cauchy "Intégrale de Cauchy")
+  * [Loi de Cauchy](/wiki/Loi_de_Cauchy_\(probabilit%C3%A9s\) "Loi de Cauchy \(probabilités\)") en probabilités
+  * [Loi de Cauchy](/wiki/Loi_de_Cauchy_\(optique\) "Loi de Cauchy \(optique\)") en optique
+  * [Nombre de Cauchy](/wiki/Nombre_de_Cauchy "Nombre de Cauchy")
+  * [Problème de Cauchy](/wiki/Probl%C3%A8me_de_Cauchy "Problème de Cauchy")
+  * [Suite de Cauchy](/wiki/Suite_de_Cauchy "Suite de Cauchy")
+  * [Règle de Cauchy](/wiki/R%C3%A8gle_de_Cauchy "Règle de Cauchy") pour les [séries](/wiki/S%C3%A9rie_\(math%C3%A9matiques\) "Série \(mathématiques\)")
+  * [Produit de Cauchy](/wiki/Produit_de_Cauchy "Produit de Cauchy")
+
+  * [Théorème de Cauchy](/wiki/Th%C3%A9or%C3%A8me_de_Cauchy "Théorème de Cauchy") [![Ce lien renvoie vers une page d'homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/15px-Disambig_colour.svg.png)](/wiki/Th%C3%A9or%C3%A8me_de_Cauchy "Théorème de Cauchy")
+    * [Théorème de Cauchy-Lipschitz](/wiki/Th%C3%A9or%C3%A8me_de_Cauchy-Lipschitz "Théorème de Cauchy-Lipschitz")
+    * [Théorème de Cauchy-Peano-Arzelà](/wiki/Th%C3%A9or%C3%A8me_de_Cauchy-Peano-Arzel%C3%A0 "Théorème de Cauchy-Peano-Arzelà")
+    * [Théorème de Cauchy-Kowalevski](/wiki/Th%C3%A9or%C3%A8me_de_Cauchy-Kowalevski "Théorème de Cauchy-Kowalevski")
+    * [Théorème de Cauchy (groupes)](/wiki/Th%C3%A9or%C3%A8me_de_Cauchy_\(groupes\) "Théorème de Cauchy \(groupes\)")
+    * [Théorème de la moyenne de Cauchy](/wiki/Th%C3%A9or%C3%A8me_de_la_moyenne_de_Cauchy "Théorème de la moyenne de Cauchy")
+    * [Théorème intégral de Cauchy](/wiki/Th%C3%A9or%C3%A8me_int%C3%A9gral_de_Cauchy "Théorème intégral de Cauchy")
+
+  * [Valeur principale de Cauchy](/wiki/Valeur_principale_de_Cauchy "Valeur principale de Cauchy")
+  * [Relations de Cauchy](/wiki/Relation_de_Cauchy "Relation de Cauchy") en théorie de l'élasticité
+
+### Liens
+externes[[modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit&section=29
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit&section=29
+"Modifier la section : Liens externes")]
+
+  * [Notices d'autorité](/wiki/Autorit%C3%A9_\(sciences_de_l%27information\) "Autorité \(sciences de l'information\)")[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q8814?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : 
+    * [Fichier d’autorité international virtuel](http://viaf.org/viaf/73851086)
+    * [International Standard Name Identifier](http://isni.org/isni/0000000110293909)
+    * [CiNii](http://ci.nii.ac.jp/author/DA0069921X?l=en)
+    * [Bibliothèque nationale de France](http://catalogue.bnf.fr/ark:/12148/cb11895590x) ([données](http://data.bnf.fr/ark:/12148/cb11895590x))
+    * [Système universitaire de documentation](http://www.idref.fr/026772701)
+    * [Bibliothèque du Congrès](http://id.loc.gov/authorities/n80160269)
+    * [Gemeinsame Normdatei](http://d-nb.info/gnd/118519735)
+    * [Bibliothèque nationale de la Diète](http://id.ndl.go.jp/auth/ndlna/00435541)
+    * [Bibliothèque nationale d’Espagne](http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX1219704)
+    * [Bibliothèque royale des Pays-Bas](http://data.bibliotheken.nl/id/thes/p068595344)
+    * [Bibliothèque nationale d’Israël](http://uli.nli.org.il/F/?func=direct&doc_number=002272219&local_base=nlx10)
+    * [Bibliothèque universitaire de Pologne](http://viaf.org/processed/NUKAT%7Cn01046441)
+    * [WorldCat](http://www.worldcat.org/identities/lccn-n80-160269)
+
+  * [Notice biographique](http://www.bibmath.net/bios/index.php3?action=affiche&quoi=cauchy) sur le site bibmath.net
+  * « Cauchy, une nouvelle conception du calcul intégral », six Leçons de Cauchy (1823) en ligne et commentées sur _[BibNum](http://www.bibnum.education.fr/mathematiques/analyse/cauchy-une-nouvelle-conception-du-calcul-integral)_.
+
+[![Voir ce
+modèle.](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Mod%C3%A8le:Succession "Voir ce modèle.")
+
+Augustin Louis Cauchy  
+  
+---  
+Précédé par  |  | Suivi par  
+| **[Jean-Baptiste Labey](/wiki/Jean-Baptiste_Labey "Jean-Baptiste Labey")**  
+---  
+| **Professeur de mécanique à l’École polytechnique**  
+---  
+1816-1830  
+| **[Henri Navier](/wiki/Henri_Navier "Henri Navier")**  
+---  
+| **[Urbain Leverrier](/wiki/Urbain_Leverrier "Urbain Leverrier")**  
+---  
+| **Chaire d'astronomie mathématiques de la Faculté des sciences de Paris**  
+---  
+1848-1857  
+| **[Victor Puiseux](/wiki/Victor_Puiseux "Victor Puiseux")**  
+---  
+  
+[v](/wiki/Mod%C3%A8le:Palette_Augustin_Louis_Cauchy "Modèle:Palette Augustin
+Louis Cauchy") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Augustin_Louis_Cauchy&action=edit)
+
+Travaux d'Augustin Louis Cauchy  
+  
+---  
+Outils mathématiques | [Suite de Cauchy](/wiki/Suite_de_Cauchy "Suite de
+Cauchy") · [Équations de Cauchy-Riemann](/wiki/%C3%89quations_de_Cauchy-
+Riemann "Équations de Cauchy-Riemann") · [Loi de
+Cauchy](/wiki/Loi_de_Cauchy_\(probabilit%C3%A9s\) "Loi de Cauchy
+\(probabilités\)") · [Produit de Cauchy](/wiki/Produit_de_Cauchy "Produit de
+Cauchy") · [Règle de Cauchy](/wiki/R%C3%A8gle_de_Cauchy "Règle de Cauchy")  
+[Théorèmes de Cauchy](/wiki/Th%C3%A9or%C3%A8mes_de_Cauchy "Théorèmes de
+Cauchy") | [Formule de Binet-Cauchy](/wiki/Formule_de_Binet-Cauchy "Formule de
+Binet-Cauchy") · [Formule intégrale de
+Cauchy](/wiki/Formule_int%C3%A9grale_de_Cauchy "Formule intégrale de Cauchy")
+· [Inégalité de Cauchy](/wiki/In%C3%A9galit%C3%A9_de_Cauchy "Inégalité de
+Cauchy") · [Inégalité de Cauchy-Schwarz](/wiki/In%C3%A9galit%C3%A9_de_Cauchy-
+Schwarz "Inégalité de Cauchy-Schwarz") · [Théorème de
+Cauchy](/wiki/Th%C3%A9or%C3%A8me_de_Cauchy_\(groupes\) "Théorème de Cauchy
+\(groupes\)") · [Théorème de Cauchy-
+Kowalevski](/wiki/Th%C3%A9or%C3%A8me_de_Cauchy-Kowalevski "Théorème de Cauchy-
+Kowalevski") · [Théorème de Cauchy-
+Lipschitz](/wiki/Th%C3%A9or%C3%A8me_de_Cauchy-Lipschitz "Théorème de Cauchy-
+Lipschitz") · [Théorème intégral de
+Cauchy](/wiki/Th%C3%A9or%C3%A8me_int%C3%A9gral_de_Cauchy "Théorème intégral de
+Cauchy") · [Théorème de la moyenne de
+Cauchy](/wiki/Th%C3%A9or%C3%A8me_des_accroissements_finis#Théorème_des_accroissements_finis_généralisé
+"Théorème des accroissements finis") · [Test de condensation de
+Cauchy](/wiki/Test_de_condensation_de_Cauchy "Test de condensation de Cauchy")  
+[Optique](/wiki/Optique "Optique") | [Loi de
+Cauchy](/wiki/Loi_de_Cauchy_\(optique\) "Loi de Cauchy \(optique\)")  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Revfrancesa.jpg/48px-Revfrancesa.jpg)](/wiki/Portail:France_au_XIXe_si%C3%A8cle "Portail de la France au XIXe siècle") [Portail de la France au XIXe siècle](/wiki/Portail:France_au_XIXe_si%C3%A8cle "Portail:France au XIXe siècle")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/9/91/IHS-monogram-Jesus-medievalesque.svg/28px-IHS-monogram-Jesus-medievalesque.svg.png)](/wiki/Portail:Catholicisme "Portail du catholicisme") [Portail du catholicisme](/wiki/Portail:Catholicisme "Portail:Catholicisme")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Augustin_Louis_Cauchy&oldid=173771399](https://fr.wikipedia.org/w/index.php?title=Augustin_Louis_Cauchy&oldid=173771399)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Augustin Louis Cauchy](/wiki/Cat%C3%A9gorie:Augustin_Louis_Cauchy "Catégorie:Augustin Louis Cauchy")
+  * [Personnalité légitimiste du XIXe siècle](/wiki/Cat%C3%A9gorie:Personnalit%C3%A9_l%C3%A9gitimiste_du_XIXe_si%C3%A8cle "Catégorie:Personnalité légitimiste du XIXe siècle")
+  * [Mathématicien français du XIXe siècle](/wiki/Cat%C3%A9gorie:Math%C3%A9maticien_fran%C3%A7ais_du_XIXe_si%C3%A8cle "Catégorie:Mathématicien français du XIXe siècle")
+  * [Théoricien de l'élasticité](/wiki/Cat%C3%A9gorie:Th%C3%A9oricien_de_l%27%C3%A9lasticit%C3%A9 "Catégorie:Théoricien de l'élasticité")
+  * [Savant dont le nom est inscrit sur la tour Eiffel](/wiki/Cat%C3%A9gorie:Savant_dont_le_nom_est_inscrit_sur_la_tour_Eiffel "Catégorie:Savant dont le nom est inscrit sur la tour Eiffel")
+  * [Membre de l'Académie des sciences (France)](/wiki/Cat%C3%A9gorie:Membre_de_l%27Acad%C3%A9mie_des_sciences_\(France\) "Catégorie:Membre de l'Académie des sciences \(France\)")
+  * [Membre étranger de la Royal Society](/wiki/Cat%C3%A9gorie:Membre_%C3%A9tranger_de_la_Royal_Society "Catégorie:Membre étranger de la Royal Society")
+  * [Académie de Cherbourg](/wiki/Cat%C3%A9gorie:Acad%C3%A9mie_de_Cherbourg "Catégorie:Académie de Cherbourg")
+  * [Membre de la Société philomathique de Paris](/wiki/Cat%C3%A9gorie:Membre_de_la_Soci%C3%A9t%C3%A9_philomathique_de_Paris "Catégorie:Membre de la Société philomathique de Paris")
+  * [Membre de l'Académie royale des sciences de Suède](/wiki/Cat%C3%A9gorie:Membre_de_l%27Acad%C3%A9mie_royale_des_sciences_de_Su%C3%A8de "Catégorie:Membre de l'Académie royale des sciences de Suède")
+  * [Lauréat du concours général](/wiki/Cat%C3%A9gorie:Laur%C3%A9at_du_concours_g%C3%A9n%C3%A9ral "Catégorie:Lauréat du concours général")
+  * [Professeur à l'École polytechnique](/wiki/Cat%C3%A9gorie:Professeur_%C3%A0_l%27%C3%89cole_polytechnique "Catégorie:Professeur à l'École polytechnique")
+  * [Professeur à la faculté des sciences de Paris](/wiki/Cat%C3%A9gorie:Professeur_%C3%A0_la_facult%C3%A9_des_sciences_de_Paris "Catégorie:Professeur à la faculté des sciences de Paris")
+  * [Ingénieur du corps des ponts et chaussées](/wiki/Cat%C3%A9gorie:Ing%C3%A9nieur_du_corps_des_ponts_et_chauss%C3%A9es "Catégorie:Ingénieur du corps des ponts et chaussées")
+  * [Élève de l'École polytechnique](/wiki/Cat%C3%A9gorie:%C3%89l%C3%A8ve_de_l%27%C3%89cole_polytechnique "Catégorie:Élève de l'École polytechnique")
+  * [Élève du lycée Henri-IV](/wiki/Cat%C3%A9gorie:%C3%89l%C3%A8ve_du_lyc%C3%A9e_Henri-IV "Catégorie:Élève du lycée Henri-IV")
+  * [Récipiendaire de la croix Pour le Mérite (ordre civil)](/wiki/Cat%C3%A9gorie:R%C3%A9cipiendaire_de_la_croix_Pour_le_M%C3%A9rite_\(ordre_civil\) "Catégorie:Récipiendaire de la croix Pour le Mérite \(ordre civil\)")
+  * [Naissance en août 1789](/wiki/Cat%C3%A9gorie:Naissance_en_ao%C3%BBt_1789 "Catégorie:Naissance en août 1789")
+  * [Naissance à Paris](/wiki/Cat%C3%A9gorie:Naissance_%C3%A0_Paris "Catégorie:Naissance à Paris")
+  * [Décès en mai 1857](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_en_mai_1857 "Catégorie:Décès en mai 1857")
+  * [Décès à Sceaux (Hauts-de-Seine)](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_%C3%A0_Sceaux_\(Hauts-de-Seine\) "Catégorie:Décès à Sceaux \(Hauts-de-Seine\)")
+  * [Décès à 67 ans](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_%C3%A0_67_ans "Catégorie:Décès à 67 ans")
+  * [Décès dans le département de la Seine](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_dans_le_d%C3%A9partement_de_la_Seine "Catégorie:Décès dans le département de la Seine")
+
+Catégories cachées :
+
+  * [Article utilisant une Infobox](/wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox "Catégorie:Article utilisant une Infobox")
+  * [Article contenant un appel à traduction en allemand](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_allemand "Catégorie:Article contenant un appel à traduction en allemand")
+  * [Article contenant un appel à traduction en anglais](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais "Catégorie:Article contenant un appel à traduction en anglais")
+  * [Catégorie Commons avec lien local identique sur Wikidata](/wiki/Cat%C3%A9gorie:Cat%C3%A9gorie_Commons_avec_lien_local_identique_sur_Wikidata "Catégorie:Catégorie Commons avec lien local identique sur Wikidata")
+  * [Article de Wikipédia avec notice d'autorité](/wiki/Cat%C3%A9gorie:Article_de_Wikip%C3%A9dia_avec_notice_d%27autorit%C3%A9 "Catégorie:Article de Wikipédia avec notice d'autorité")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Portail:France au XIXe siècle/Articles liés](/wiki/Cat%C3%A9gorie:Portail:France_au_XIXe_si%C3%A8cle/Articles_li%C3%A9s "Catégorie:Portail:France au XIXe siècle/Articles liés")
+  * [Portail:France/Articles liés](/wiki/Cat%C3%A9gorie:Portail:France/Articles_li%C3%A9s "Catégorie:Portail:France/Articles liés")
+  * [Portail:Europe/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Europe/Articles_li%C3%A9s "Catégorie:Portail:Europe/Articles liés")
+  * [Portail:XIXe siècle/Articles liés](/wiki/Cat%C3%A9gorie:Portail:XIXe_si%C3%A8cle/Articles_li%C3%A9s "Catégorie:Portail:XIXe siècle/Articles liés")
+  * [Portail:Époque contemporaine/Articles liés](/wiki/Cat%C3%A9gorie:Portail:%C3%89poque_contemporaine/Articles_li%C3%A9s "Catégorie:Portail:Époque contemporaine/Articles liés")
+  * [Portail:Histoire/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Histoire/Articles_li%C3%A9s "Catégorie:Portail:Histoire/Articles liés")
+  * [Portail:Catholicisme/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Catholicisme/Articles_li%C3%A9s "Catégorie:Portail:Catholicisme/Articles liés")
+  * [Portail:Christianisme/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Christianisme/Articles_li%C3%A9s "Catégorie:Portail:Christianisme/Articles liés")
+  * [Portail:Religions et croyances/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Religions_et_croyances/Articles_li%C3%A9s "Catégorie:Portail:Religions et croyances/Articles liés")
+  * [Article de qualité en allemand](/wiki/Cat%C3%A9gorie:Article_de_qualit%C3%A9_en_allemand "Catégorie:Article de qualité en allemand")
+  * [Wikipédia:Article biographique](/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia:Article_biographique "Catégorie:Wikipédia:Article biographique")
+  * [Portail:Biographie/Articles liés/Sciences](/wiki/Cat%C3%A9gorie:Portail:Biographie/Articles_li%C3%A9s/Sciences "Catégorie:Portail:Biographie/Articles liés/Sciences")
+  * [Portail:Biographie/Articles liés/Culture et arts](/wiki/Cat%C3%A9gorie:Portail:Biographie/Articles_li%C3%A9s/Culture_et_arts "Catégorie:Portail:Biographie/Articles liés/Culture et arts")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Augustin_Louis_Cauchy "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Augustin_Louis_Cauchy "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Augustin_Louis_Cauchy&oldid=173771399 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Augustin_Louis_Cauchy&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Augustin_Louis_Cauchy&id=173771399&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q8814 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Augustin+Louis+Cauchy)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Augustin_Louis_Cauchy&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Augustin_Louis_Cauchy&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Augustin_Louis_Cauchy)
+  * [Wikisource](https://fr.wikisource.org/wiki/Auteur:Augustin_Louis_Cauchy)
+
+###  Dans d’autres langues
+
+  * [Afrikaans](https://af.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — afrikaans")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D8%BA%D8%B3%D8%AA%D9%8A%D9%86_%D9%84%D9%88%D9%8A_%D9%83%D9%88%D8%B4%D9%8A "أوغستين لوي كوشي — arabe")
+  * [مصرى](https://arz.wikipedia.org/wiki/%D8%A7%D9%88%D8%AC%D8%B3%D8%AA%D9%8A%D9%86_%D9%84%D9%88%D9%89_%D9%83%D9%88%D8%B4%D9%89 "اوجستين لوى كوشى — arabe égyptien")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — asturien")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Auqusto_Ko%C5%9Fi "Auqusto Koşi — azéri")
+  * [تۆرکجه](https://azb.wikipedia.org/wiki/%D8%A2%D9%82%D9%88%D8%B3%D8%AA%DB%8C%D9%86_%D9%84%D9%88%DB%8C%DB%8C_%DA%A9%D9%88%D8%B4%DB%8C "آقوستین لویی کوشی — South Azerbaijani")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%90%D0%B3%D1%8E%D1%81%D1%82%D1%8D%D0%BD_%D0%9B%D1%83%D1%96_%D0%9A%D0%B0%D1%88%D1%8B "Агюстэн Луі Кашы — biélorusse")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%9E%D0%B3%D1%8E%D1%81%D1%82%D0%B5%D0%BD_%D0%9B%D1%83%D0%B8_%D0%9A%D0%BE%D1%88%D0%B8 "Огюстен Луи Коши — bulgare")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%93%E0%A6%97%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%81_%E0%A6%B2%E0%A7%81%E0%A6%87_%E0%A6%95%E0%A7%8B%E0%A6%B6%E0%A6%BF "ওগুস্তাঁ লুই কোশি — bengali")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — bosniaque")
+  * [Català](https://ca.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — catalan")
+  * [کوردی](https://ckb.wikipedia.org/wiki/%D8%A6%DB%86%DA%AF%D9%88%D8%B3%D8%AA%DB%8C%D9%86-%D9%84%D9%88%DB%8C_%DA%A9%DB%86%D8%B4%DB%8C "ئۆگوستین-لوی کۆشی — sorani")
+  * [Čeština](https://cs.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — tchèque")
+  * [Dansk](https://da.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%A9%CE%B3%CE%BA%CF%85%CF%83%CF%84%CE%AD%CE%BD-%CE%9B%CE%BF%CF%85%CE%AF_%CE%9A%CF%89%CF%83%CF%8D "Ωγκυστέν-Λουί Κωσύ — grec")
+  * [English](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%A2%DA%AF%D9%88%D8%B3%D8%AA%DB%8C%D9%86_%D9%84%D9%88%DB%8C%DB%8C_%DA%A9%D9%88%D8%B4%DB%8C "آگوستین لویی کوشی — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — finnois")
+  * [Galego](https://gl.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98%D7%9F_%D7%9C%D7%95%D7%90%D7%99_%D7%A7%D7%95%D7%A9%D7%99 "אוגוסטן לואי קושי — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%91%E0%A4%97%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%A8_%E0%A4%B2%E0%A5%81%E0%A4%88_%E0%A4%95%E0%A5%8C%E0%A4%B6%E0%A5%80 "ऑगस्टिन लुई कौशी — hindi")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — croate")
+  * [Kreyòl ayisyen](https://ht.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — créole haïtien")
+  * [Magyar](https://hu.wikipedia.org/wiki/Augustin_Cauchy "Augustin Cauchy — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D5%95%D5%A3%D5%B5%D5%B8%D6%82%D5%BD%D5%BF%D5%A5%D5%B6_%D4%BC%D5%B8%D6%82%D5%AB_%D4%BF%D5%B8%D5%B7%D5%AB "Օգյուստեն Լուի Կոշի — arménien")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — indonésien")
+  * [Íslenska](https://is.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%AE%E3%83%A5%E3%82%B9%E3%82%BF%E3%83%B3%EF%BC%9D%E3%83%AB%E3%82%A4%E3%83%BB%E3%82%B3%E3%83%BC%E3%82%B7%E3%83%BC "オーギュスタン＝ルイ・コーシー — japonais")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A1%E1%83%A2%E1%83%94%E1%83%9C_%E1%83%9A%E1%83%A3%E1%83%98_%E1%83%99%E1%83%9D%E1%83%A8%E1%83%98 "ოგიუსტენ ლუი კოში — géorgien")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%88%D0%B8_%D0%9E%D0%B3%D1%8E%D1%81%D1%82%D0%B5%D0%BD_%D0%9B%D1%83%D0%B8 "Коши Огюстен Луи — kazakh")
+  * [ಕನ್ನಡ](https://kn.wikipedia.org/wiki/%E0%B2%86%E0%B2%97%E0%B2%B8%E0%B3%8D%E0%B2%9F%E0%B2%BF%E0%B2%A8%E0%B3%8D-%E0%B2%B2%E0%B3%82%E0%B2%AF%E0%B2%BF_%E0%B2%95%E0%B3%8C%E0%B2%9A%E0%B2%BF "ಆಗಸ್ಟಿನ್-ಲೂಯಿ ಕೌಚಿ — kannada")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%98%A4%EA%B7%80%EC%8A%A4%ED%83%B1_%EB%A3%A8%EC%9D%B4_%EC%BD%94%EC%8B%9C "오귀스탱 루이 코시 — coréen")
+  * [Latina](https://la.wikipedia.org/wiki/Augustinus_Ludovicus_Cauchy "Augustinus Ludovicus Cauchy — latin")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Ogist%C4%93ns_Ko%C5%A1%C4%AB "Ogistēns Košī — letton")
+  * [Malagasy](https://mg.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — malgache")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%9E%D0%B3%D0%B8%D1%81%D1%82%D0%B5%D0%BD_%D0%9B%D1%83%D1%98_%D0%9A%D0%BE%D1%88%D0%B8 "Огистен Луј Коши — macédonien")
+  * [मराठी](https://mr.wikipedia.org/wiki/%E0%A4%93%E0%A4%97%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%81_%E0%A4%B2%E0%A5%81%E0%A4%88_%E0%A4%95%E0%A5%89%E0%A4%B6%E0%A5%80 "ओगुस्तँ लुई कॉशी — marathi")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — norvégien bokmål")
+  * [Occitan](https://oc.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — occitan")
+  * [Polski](https://pl.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — polonais")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy — piémontais")
+  * [Português](https://pt.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%88%D0%B8,_%D0%9E%D0%B3%D1%8E%D1%81%D1%82%D0%B5%D0%BD_%D0%9B%D1%83%D0%B8 "Коши, Огюстен Луи — russe")
+  * [संस्कृतम्](https://sa.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B7%E0%A4%BF_%E0%A4%85%E0%A4%97%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%A8%E0%A5%8D_%E0%A4%B2%E0%A5%82%E0%A4%AF%E0%A5%80 "कोषि अगस्टीन् लूयी — sanskrit")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — sicilien")
+  * [Scots](https://sco.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy — écossais")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — slovène")
+  * [Shqip](https://sq.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%9E%D0%B3%D0%B8%D1%81%D1%82%D0%B5%D0%BD_%D0%9B%D1%83%D1%98_%D0%9A%D0%BE%D1%88%D0%B8 "Огистен Луј Коши — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — suédois")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%95%E0%AF%81%E0%AE%B8%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%A9%E0%AF%8D-%E0%AE%B2%E0%AF%82%E0%AE%AF%E0%AE%BF_%E0%AE%95%E0%AF%8B%E0%AE%9A%E0%AE%BF "அகுஸ்டின்-லூயி கோசி — tamoul")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Augustin_Louis_Cauchy "Augustin Louis Cauchy — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%9E%D2%91%D1%8E%D1%81%D1%82%D0%B5%D0%BD-%D0%9B%D1%83%D1%97_%D0%9A%D0%BE%D1%88%D1%96 "Оґюстен-Луї Коші — ukrainien")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy — ouzbek")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy — vietnamien")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E5%A5%A5%E5%8F%A4%E6%96%AF%E4%B8%81%C2%B7%E8%B7%AF%E6%98%93%C2%B7%E6%9F%AF%E8%A5%BF "奥古斯丁·路易·柯西 — wu")
+  * [中文](https://zh.wikipedia.org/wiki/%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81%C2%B7%E8%B7%AF%E6%98%93%C2%B7%E6%9F%AF%E8%A5%BF "奧古斯丁·路易·柯西 — chinois")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q8814#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Augustin+Louis+Cauchy "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Augustin+Louis+Cauchy "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Augustin_Louis_Cauchy "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Augustin_Louis_Cauchy "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Augustin_Louis_Cauchy)
+  * [Modifier](/w/index.php?title=Augustin_Louis_Cauchy&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Augustin_Louis_Cauchy&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Augustin_Louis_Cauchy&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 12 août 2020 à 19:44.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Augustin_Louis_Cauchy "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Augustin_Louis_Cauchy&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[XIXe]: 19ᵉ siècle
+  *[XXe]: 20ᵉ siècle
+  *[1er]: premier
+  *[h]: heure
+  *[XVIIIe]: 18ᵉ siècle
+  *[p.]: pages
+  *[no]: numéro
+  *[15e]: Quinzième
+  *[t.]: tome
+  *[(it)]: Langue : italien
+  *[vol.]: volume
+  *[XVIIe]: Dix-septième
+  *[sér.]: série
+  *[(en)]: Langue : anglais
+  *[trad.]: traduction
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+

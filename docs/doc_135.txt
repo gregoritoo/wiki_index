@@ -1,0 +1,1454 @@
+# Combinatoire
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour les articles homonymes, voir [combinatoire
+(homonymie)](/wiki/Combinatoire_\(homonymie\) "Combinatoire \(homonymie\)").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Encyclopedie_volume_1-262.png/250px-
+Encyclopedie_volume_1-262.png)](/wiki/Fichier:Encyclopedie_volume_1-262.png)
+
+[](/wiki/Fichier:Encyclopedie_volume_1-262.png "Agrandir")
+
+Une planche de l'[
+_Encyclopédie_](/wiki/Encyclop%C3%A9die_ou_Dictionnaire_raisonn%C3%A9_des_sciences,_des_arts_et_des_m%C3%A9tiers
+"Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers")
+de [Diderot](/wiki/Diderot "Diderot") et d'[Alembert](/wiki/Alembert
+"Alembert") illustrant l'article « Carreleur ».
+
+En [mathématiques](/wiki/Math%C3%A9matiques "Mathématiques"), la
+**combinatoire** , appelée aussi **analyse combinatoire** , étudie les
+configurations de collections finies d'objets ou les
+[combinaisons](/wiki/Combinaison_\(math%C3%A9matiques\) "Combinaison
+\(mathématiques\)") d'[ensembles finis](/wiki/Ensemble_fini "Ensemble fini"),
+et les dénombrements.
+
+## Sommaire
+
+  * 1 Généralités et historique
+  * 2 Domaines de la combinatoire
+    * 2.1 Combinatoire énumérative
+    * 2.2 Théorie combinatoire des nombres
+    * 2.3 Combinatoire des mots
+    * 2.4 Combinatoire algébrique
+    * 2.5 Combinatoire analytique
+    * 2.6 Combinatoire probabiliste
+    * 2.7 Combinatoire topologique
+    * 2.8 Combinatoire géométrique
+    * 2.9 Combinatoire extrémale et Théorie de Ramsey
+  * 3 Domaines connexes
+    * 3.1 Théorie des graphes
+    * 3.2 Théorie des partitions
+    * 3.3 Théorie des matroïdes
+    * 3.4 Théorie des ordres
+    * 3.5 Plans en blocs
+    * 3.6 Séries génératrices
+  * 4 Permutations (dispositions, ordonnancements)
+    * 4.1 Permutations sans répétition d'objets discernables
+    * 4.2 Permutations avec répétition d'objets discernables
+  * 5 Arrangements (choix en tenant compte de l'ordre)
+    * 5.1 Arrangements sans répétition
+    * 5.2 Arrangements avec répétition
+  * 6 Combinaisons (choix sans tenir compte de l'ordre)
+    * 6.1 Combinaisons sans répétition
+    * 6.2 Combinaisons avec répétition
+  * 7 Fonction de comptage
+  * 8 Quelques résultats
+  * 9 Notes et références
+  * 10 Domaines connexes
+  * 11 Voir aussi
+    * 11.1 Articles connexes
+    * 11.2 Lien externe
+    * 11.3 Bibliographie
+
+## Généralités et
+historique[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=1
+"Modifier la section : Généralités et historique") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=1 "Modifier la
+section : Généralités et historique")]
+
+La combinatoire est en fait présente dans toute l'antiquité en Inde et en
+Chine. [Donald Knuth](/wiki/Donald_Knuth "Donald Knuth"), dans le volume 4A «
+Combinatorial Algorithms » de _[The Art of Computer
+Programming](/wiki/The_Art_of_Computer_Programming "The Art of Computer
+Programming")_ [1],[2] parle de la génération de [n-uplets](/wiki/N-uplet
+"N-uplet") ; il dit que la génération de motifs combinatoire «a commencé alors
+que la civilisation elle-même prenait forme» ( _« began as civilization itself
+was taking shape»_). La présence de listes de n-uplets binaires peut être
+retracée durant des milliers d’années jusqu’en Chine, Inde et Grèce ; on en
+trouve au IIIe millénaire.
+
+Un résultat de combinatoire plus sophistiqué, remontant à
+l'[Antiquité](/wiki/Antiquit%C3%A9 "Antiquité") grecque[3], est attesté par
+l'anecdote suivante : [Plutarque](/wiki/Plutarque "Plutarque") rapporte, dans
+les _Propos de table_ , une assertion de [Chrysippe](/wiki/Chrysippe_de_Soles
+"Chrysippe de Soles") « contredite par tous les mathématiciens, et entre
+autres par [Hipparque](/wiki/Hipparque_\(astronome\) "Hipparque
+\(astronome\)")[4] », sur le nombre de façons de combiner dix propositions.
+Hipparque savait que le nombre de « propositions composées positives » que
+l'on peut former à partir de dix propositions simples est 103 049, et que le
+nombre de propositions négatives est 310 952\. Cette affirmation est restée
+inexpliquée jusqu'en 1994, quand David Hough, un étudiant de l'[université
+George-Washington](/wiki/Universit%C3%A9_George-Washington "Université George-
+Washington"), observe qu'il y a 103 049 façons de parenthéser une suite de dix
+éléments[5],[6],[7],[8]. Une explication semblable peut être donnée pour le
+deuxième nombre : il est très proche de (103 049 + 518 859)/2 = 310 954, qui
+est la moyenne des dixième et onzième [nombres de Schröder-
+Hipparque](/wiki/Nombre_de_Schr%C3%B6der-Hipparque "Nombre de Schröder-
+Hipparque"), et qui compte le nombre de parenthésages de dix termes avec un
+signe[8].
+
+Parmi les autres précurseurs, on peut citer [Bhāskara
+II](/wiki/Bh%C4%81skara_II "Bhāskara II")[9] au XIIe siècle (nombre de choix
+de _p_ éléments parmi _n_ ), ainsi que [Ahmad Ibn
+Mun'im](/wiki/Ahmad_Ibn_Mun%27im "Ahmad Ibn Mun'im"), mathématicien
+[marocain](/wiki/Maroc "Maroc") de la fin du [XIIe](/wiki/XIIe_si%C3%A8cle
+"XIIe siècle") et du début du [XIIIe](/wiki/XIIIe_si%C3%A8cle "XIIIe siècle")
+siècle[10],[11],[12], plus tard [Raymond Lulle](/wiki/Raymond_Lulle "Raymond
+Lulle") au XIIIe siècle, [Gersonide](/wiki/Gersonide "Gersonide") au début du
+XIVe siècle (rapport entre le nombre d'arrangements et le nombre de
+combinaisons), [Michael Stifel](/wiki/Michael_Stifel "Michael Stifel") au XVIe
+siècle (première approche du [triangle de Pascal](/wiki/Triangle_de_Pascal
+"Triangle de Pascal")). Elle se développe de façon significative à partir du
+[XVIIe siècle](/wiki/XVIIe_si%C3%A8cle "XVIIe siècle"), en même temps que le
+calcul des [probabilités](/wiki/Probabilit%C3%A9s "Probabilités"), avec
+[Blaise Pascal](/wiki/Blaise_Pascal "Blaise Pascal") et [Pierre de
+Fermat](/wiki/Pierre_de_Fermat "Pierre de Fermat"). Initialement, elle avait
+pour objet la résolution des problèmes de dénombrement, provenant de l'étude
+des jeux de hasard. Plus tard, elle se lia à la [théorie des
+nombres](/wiki/Th%C3%A9orie_des_nombres "Théorie des nombres") et à la
+[théorie des graphes](/wiki/Th%C3%A9orie_des_graphes "Théorie des graphes").
+
+En particulier, la combinatoire s'intéresse aux méthodes permettant de compter
+les éléments dans des ensembles finis (combinatoire énumérative) et à la
+recherche des optima dans les configurations ainsi qu'à leur existence
+(combinatoire extrémale).
+
+Voici quelques exemples de situations donnant lieu à des questions d'analyse
+combinatoire :
+
+  * les rangements de livres sur une étagère ;
+  * les dispositions de personnes autour d'une table ronde ;
+  * les tirages avec remise d'un certain nombre de boules numérotées dans une urne ;
+  * les placements de jetons sur un damier ;
+  * le nombre d'ordonnancements possibles des cartes d'un jeu de 52 cartes.  
+Dans ce dernier exemple, le nombre est égal à 52! (le « ! » dénotant la
+[factorielle](/wiki/Factorielle "Factorielle")). Il peut sembler étonnant que
+ce nombre, environ 8,065817517094 ×1067, soit si grand. C'est environ 8 suivi
+de 67 zéros. Il est, par exemple, beaucoup plus grand que le [nombre
+d'Avogadro](/wiki/Nombre_d%27Avogadro "Nombre d'Avogadro"), égal à 6,022
+×1023.
+
+## Domaines de la
+combinatoire[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=2
+"Modifier la section : Domaines de la combinatoire") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=2 "Modifier la
+section : Domaines de la combinatoire")]
+
+### Combinatoire
+énumérative[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=3
+"Modifier la section : Combinatoire énumérative") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=3 "Modifier la
+section : Combinatoire énumérative")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Catalan_4_leaves_binary_tree_example.svg/440px-
+Catalan_4_leaves_binary_tree_example.svg.png)](/wiki/Fichier:Catalan_4_leaves_binary_tree_example.svg)
+
+[](/wiki/Fichier:Catalan_4_leaves_binary_tree_example.svg "Agrandir")
+
+Cinq [arbres binaires](/wiki/Arbre_binaire "Arbre binaire") à trois
+[sommets](/wiki/Th%C3%A9orie_des_graphes "Théorie des graphes"), un exemple de
+[nombre de Catalan](/wiki/Nombre_de_Catalan "Nombre de Catalan").
+
+Article détaillé : [Dénombrement](/wiki/D%C3%A9nombrement "Dénombrement").
+
+La combinatoire énumérative est le domaine le plus classique de la
+combinatoire, et s'intéresse au dénombrement de certains objets combinatoires.
+Même si le dénombrement des éléments d'un ensemble est un problème
+mathématique plutôt vaste, de nombreux problèmes qui se présentent dans
+diverses applications ont des descriptions combinatoires plutôt simples. La
+suite des [nombres de Fibonacci](/wiki/Suite_de_Fibonacci "Suite de
+Fibonacci") est un exemple de base d'un problème de combinatoire énumérative.
+Il existe un modèle appelé en anglais _[Twelvefold
+way](/w/index.php?title=Twelvefold_way&action=edit&redlink=1 "Twelvefold way
+\(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/Twelvefold_way
+"en:Twelvefold way")_ qui constitue un cadre unifié pour les problèmes de
+dénombrement des [permutations](/wiki/Permutation "Permutation"),
+[combinaisons](/wiki/Combinaison_\(math%C3%A9matiques\) "Combinaison
+\(mathématiques\)") et [partitions](/wiki/Partition_d%27un_ensemble "Partition
+d'un ensemble").
+
+La combinatoire moderne comporte de nombreux champs très développés, et
+utilise des outils puissants empruntés à des branches mathématiques parfois
+inattendues ; on distingue ainsi :
+
+### Théorie combinatoire des
+nombres[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=4
+"Modifier la section : Théorie combinatoire des nombres") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=4 "Modifier la
+section : Théorie combinatoire des nombres")]
+
+Article détaillé : [combinatoire
+arithmétique](/w/index.php?title=Combinatoire_arithm%C3%A9tique&action=edit&redlink=1
+"Combinatoire arithmétique \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/arithmetic_combinatorics "en:arithmetic
+combinatorics").
+
+La _théorie combinatoire des nombres_ (ou _combinatoire arithmétique_ )
+s'occupe des problèmes de [théorie des nombres](/wiki/Th%C3%A9orie_des_nombres
+"Théorie des nombres") qui impliquent les idées combinatoires dans leurs
+formulations ou leurs solutions. [Paul Erdős](/wiki/Paul_Erd%C5%91s "Paul
+Erdős") est le principal fondateur de cette branche de la théorie des nombres.
+Les sujets caractéristiques incluent les [systèmes
+couvrants](/wiki/Syst%C3%A8me_couvrant "Système couvrant"), les [problèmes à
+somme zéro](/wiki/Jeu_%C3%A0_somme_nulle "Jeu à somme nulle"), diverses sommes
+d'ensembles restreintes et des [progressions
+arithmétiques](/wiki/Suite_arithm%C3%A9tique "Suite arithmétique") dans
+l'ensemble des entiers. Les méthodes algébriques ou analytiques sont
+puissantes dans ce champ d'étude.
+
+### Combinatoire des
+mots[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=5
+"Modifier la section : Combinatoire des mots") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=5 "Modifier la
+section : Combinatoire des mots")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Morse-
+Thue_sequence.gif/220px-Morse-Thue_sequence.gif)](/wiki/Fichier:Morse-
+Thue_sequence.gif)
+
+[](/wiki/Fichier:Morse-Thue_sequence.gif "Agrandir")
+
+Construction de la [suite de Prouhet-Thue-Morse](/wiki/Suite_de_Prouhet-Thue-
+Morse "Suite de Prouhet-Thue-Morse").
+
+Article détaillé : [Combinatoire des mots](/wiki/Combinatoire_des_mots
+"Combinatoire des mots").
+
+La _combinatoire des mots_ applique la combinatoire aux
+[mots](/wiki/Mot_\(math%C3%A9matiques\) "Mot \(mathématiques\)") finis ou
+infinis. Cette branche s'est développée à partir de plusieurs branches des
+mathématiques : la [théorie des nombres](/wiki/Th%C3%A9orie_des_nombres
+"Théorie des nombres"), la [théorie des
+groupes](/wiki/Th%C3%A9orie_des_groupes "Théorie des groupes"), les
+[probabilités](/wiki/Probabilit%C3%A9s "Probabilités") et bien sûr la
+combinatoire. Elle a des liens avec divers thèmes informatiques, comme la
+[recherche de motifs](/wiki/Algorithme_de_recherche_de_sous-cha%C3%AEne
+"Algorithme de recherche de sous-chaîne") dans un texte ou la
+[compression](/wiki/Compression_de_donn%C3%A9es "Compression de données") de
+textes.
+
+### Combinatoire
+algébrique[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=6
+"Modifier la section : Combinatoire algébrique") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=6 "Modifier la
+section : Combinatoire algébrique")]
+
+Article détaillé : [Combinatoire
+algébrique](/wiki/Combinatoire_alg%C3%A9brique "Combinatoire algébrique").
+
+La _combinatoire algébrique_ est une discipline qui traite de l'étude des
+[structures algébriques](/wiki/Structure_alg%C3%A9brique "Structure
+algébrique") par des techniques [algorithmiques](/wiki/Algorithme
+"Algorithme") et combinatoires, comme notamment illustré par les travaux de
+[Marcel-Paul Schützenberger](/wiki/Marcel-Paul_Sch%C3%BCtzenberger "Marcel-
+Paul Schützenberger"), [Alain Lascoux](/wiki/Alain_Lascoux "Alain Lascoux"),
+[Dominique Foata](/wiki/Dominique_Foata "Dominique Foata") et [Richard
+Stanley](/wiki/Richard_Peter_Stanley "Richard Peter Stanley"). L'intérêt de la
+combinatoire algébrique vient du fait que la plupart des structures en algèbre
+abstraite sont soit finies, soit engendrées par un ensemble fini d'éléments,
+ce qui rend possible leur manipulation de manière algorithmique.
+
+### Combinatoire
+analytique[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=7
+"Modifier la section : Combinatoire analytique") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=7 "Modifier la
+section : Combinatoire analytique")]
+
+Article détaillé : [Combinatoire analytique](/wiki/Combinatoire_analytique
+"Combinatoire analytique").
+
+La _combinatoire analytique_ (en [anglais](/wiki/Anglais "Anglais") : analytic
+combinatorics) est un ensemble de techniques décrivant des problèmes
+combinatoires dans le langage des [séries
+génératrices](/wiki/S%C3%A9rie_g%C3%A9n%C3%A9ratrice "Série génératrice"), et
+s'appuyant en particulier sur l'[analyse complexe](/wiki/Analyse_complexe
+"Analyse complexe") pour obtenir des résultats
+[asymptotiques](/wiki/Comportement_asymptotique "Comportement asymptotique")
+sur les objets combinatoires initiaux. Les résultats de combinatoire
+analytique permettent notamment une analyse fine de la
+[complexité](/wiki/Analyse_de_la_complexit%C3%A9_des_algorithmes "Analyse de
+la complexité des algorithmes") de certains [algorithmes](/wiki/Algorithme
+"Algorithme").
+
+### Combinatoire
+probabiliste[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=8
+"Modifier la section : Combinatoire probabiliste") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=8 "Modifier la
+section : Combinatoire probabiliste")]
+
+Article détaillé : [Méthode probabiliste](/wiki/M%C3%A9thode_probabiliste
+"Méthode probabiliste").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Self_avoiding_walk.svg/220px-
+Self_avoiding_walk.svg.png)](/wiki/Fichier:Self_avoiding_walk.svg)
+
+[](/wiki/Fichier:Self_avoiding_walk.svg "Agrandir")
+
+Chemin sans contact dans une grille.
+
+La _combinatoire probabiliste_ ou _méthode probabiliste_ est une méthode [non
+constructive](/wiki/D%C3%A9monstration_constructive "Démonstration
+constructive"), initialement utilisée en combinatoire et lancée par [Paul
+Erdős](/wiki/Paul_Erd%C5%91s "Paul Erdős"), pour démontrer l'existence d'un
+type donné d'objet [mathématique](/wiki/Math%C3%A9matique "Mathématique").
+Cette méthode a été appliquée à d'autres domaines des mathématiques tels que
+la [théorie des nombres](/wiki/Th%C3%A9orie_des_nombres "Théorie des
+nombres"), l'[algèbre linéaire](/wiki/Alg%C3%A8bre_lin%C3%A9aire "Algèbre
+linéaire") et l'[analyse réelle](/wiki/Analyse_r%C3%A9elle "Analyse réelle").
+Son principe est de montrer que si l'on choisit au hasard des objets d'une
+catégorie, la [probabilité](/wiki/Probabilit%C3%A9 "Probabilité") que le
+résultat soit d'un certain type est plus que zéro. Bien que la démonstration
+utilise la [théorie des probabilités](/wiki/Th%C3%A9orie_des_probabilit%C3%A9s
+"Théorie des probabilités"), la conclusion finale est déterminée _de façon
+certaine_.
+
+### Combinatoire
+topologique[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=9
+"Modifier la section : Combinatoire topologique") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=9 "Modifier la
+section : Combinatoire topologique")]
+
+Article détaillé : [Combinatoire
+topologique](/w/index.php?title=Combinatoire_topologique&action=edit&redlink=1
+"Combinatoire topologique \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Topological_combinatorics "en:Topological
+combinatorics").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Collier-de-perles-
+rouge-vert.svg/220px-Collier-de-perles-rouge-
+vert.svg.png)](/wiki/Fichier:Collier-de-perles-rouge-vert.svg)
+
+[](/wiki/Fichier:Collier-de-perles-rouge-vert.svg "Agrandir")
+
+[Partage de
+collier](/w/index.php?title=Partage_de_collier&action=edit&redlink=1 "Partage
+de collier \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Necklace_splitting_problem "en:Necklace
+splitting problem") avec deux coupes.
+
+En combinatoire topologique, on utilise des concepts et méthodes de la
+[topologie](/wiki/Topologie "Topologie") dans l'étude de problèmes comme la
+[coloration de graphe](/wiki/Coloration_de_graphe "Coloration de graphe"), le
+[partage équitable](/wiki/Partage_%C3%A9quitable "Partage équitable"), la
+[partition d'un ensemble](/wiki/Partition_d%27un_ensemble "Partition d'un
+ensemble"), les [posets](/wiki/Poset "Poset") (ensembles partiellement
+ordonnés), les [arbres de décision](/wiki/Arbre_de_d%C3%A9cision "Arbre de
+décision"), le [problème du partage de
+collier](/w/index.php?title=Probl%C3%A8me_du_partage_de_collier&action=edit&redlink=1
+"Problème du partage de collier \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Necklace_splitting_problem "en:Necklace
+splitting problem") ou la [théorie de Morse
+discrète](/w/index.php?title=Th%C3%A9orie_de_Morse_discr%C3%A8te&action=edit&redlink=1
+"Théorie de Morse discrète \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Discrete_Morse_theory "en:Discrete Morse
+theory"). Ne pas confondre avec la [topologie
+combinatoire](/wiki/Topologie_combinatoire "Topologie combinatoire") qui est
+une ancienne dénomination pour [topologie
+algébrique](/wiki/Topologie_alg%C3%A9brique "Topologie algébrique").
+
+### Combinatoire
+géométrique[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=10
+"Modifier la section : Combinatoire géométrique") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=10 "Modifier la
+section : Combinatoire géométrique")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Icosahedron.svg/220px-
+Icosahedron.svg.png)](/wiki/Fichier:Icosahedron.svg)
+
+[](/wiki/Fichier:Icosahedron.svg "Agrandir")
+
+[Icosaèdre](/wiki/Icosa%C3%A8dre "Icosaèdre").
+
+Article détaillé : [Combinatoire
+géométrique](/wiki/Combinatoire_g%C3%A9om%C3%A9trique "Combinatoire
+géométrique")Combinatoire géométrique.
+
+La _combinatoire géométrique_ inclut un certain nombre de thèmes comme la
+combinatoire des polyèdres (étude des
+[faces](/wiki/Face_\(g%C3%A9om%C3%A9trie\) "Face \(géométrie\)") de polyèdres
+convexes), la géométrie convexe (étude des [ensembles
+convexes](/wiki/Ensemble_convexe "Ensemble convexe"), en particulier la
+combinatoire de leurs intersections), et la [géométrie
+discrète](/wiki/G%C3%A9om%C3%A9trie_discr%C3%A8te "Géométrie discrète"), qui à
+son tour a de nombreuses applications en [géométrie
+algorithmique](/wiki/G%C3%A9om%C3%A9trie_algorithmique "Géométrie
+algorithmique"). D'autres domaines important sont la [géométrie
+métrique](/wiki/Espace_m%C3%A9trique "Espace métrique") des
+[polyèdres](/wiki/Poly%C3%A8dre "Polyèdre"), tels que le [théorème de
+Cauchy](/wiki/Th%C3%A9or%C3%A8me_de_Cauchy_\(g%C3%A9om%C3%A9trie\) "Théorème
+de Cauchy \(géométrie\)") sur la rigidité des polytopes convexes. L'étude des
+[polytopes réguliers](/wiki/Polytope_r%C3%A9gulier "Polytope régulier"), des
+[solides d'Archimède](/wiki/Solide_d%27Archim%C3%A8de "Solide d'Archimède"),
+ou des [kissing
+numbers](/w/index.php?title=Kissing_number&action=edit&redlink=1 "Kissing
+number \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Kissing_number "en:Kissing number") font
+également partie de la combinatoire géométrique. Des polytopes particuliers
+sont aussi considérés, comme le [permutoèdre](/wiki/Permuto%C3%A8dre
+"Permutoèdre"), l'[associaèdre](/wiki/Associa%C3%A8dre "Associaèdre") et le
+[polytope de
+Birkhoff](/w/index.php?title=Polytope_de_Birkhoff&action=edit&redlink=1
+"Polytope de Birkhoff \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Birkhoff_polytope "en:Birkhoff polytope")
+(sur les [matrices bistochastiques](/wiki/Matrice_bistochastique "Matrice
+bistochastique")).
+
+### Combinatoire extrémale et Théorie de
+Ramsey[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=11
+"Modifier la section : Combinatoire extrémale et Théorie de Ramsey") |
+[modifier le code](/w/index.php?title=Combinatoire&action=edit&section=11
+"Modifier la section : Combinatoire extrémale et Théorie de Ramsey")]
+
+Article détaillé : [Théorie de Ramsey](/wiki/Th%C3%A9orie_de_Ramsey "Théorie
+de Ramsey").
+
+La _théorie de Ramsey_ , nommée d'après [Frank Ramsey](/wiki/Frank_Ramsey
+"Frank Ramsey"), tente typiquement de répondre à des questions de la forme : «
+combien d'éléments d'une certaine structure doivent être considérés pour
+qu'une propriété particulière se vérifie ? » Un exemple type est le [théorème
+de Ramsey](/wiki/Th%C3%A9or%C3%A8me_de_Ramsey "Théorème de Ramsey") qui
+affirme que, pour tout entier _n_ , tout [graphe complet](/wiki/Graphe_complet
+"Graphe complet") suffisamment grand dont les
+[arêtes](/wiki/Graphe_\(math%C3%A9matiques_discr%C3%A8tes\) "Graphe
+\(mathématiques discrètes\)") sont colorées contient des sous-graphes complets
+de taille _n_ d'une seule couleur.
+
+## Domaines
+connexes[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=12
+"Modifier la section : Domaines connexes") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=12 "Modifier la
+section : Domaines connexes")]
+
+De plus, on rencontre des outils combinatoires dans les domaines suivants :
+
+### Théorie des
+graphes[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=13
+"Modifier la section : Théorie des graphes") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=13 "Modifier la
+section : Théorie des graphes")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Petersen1_tiny.svg/220px-
+Petersen1_tiny.svg.png)](/wiki/Fichier:Petersen1_tiny.svg)
+
+[](/wiki/Fichier:Petersen1_tiny.svg "Agrandir")
+
+[Graphe de Petersen](/wiki/Graphe_de_Petersen "Graphe de Petersen").
+
+Article détaillé : [Théorie des graphes](/wiki/Th%C3%A9orie_des_graphes
+"Théorie des graphes").
+
+La _théorie des graphes_ est une théorie [informatique](/wiki/Informatique
+"Informatique") et [mathématique](/wiki/Math%C3%A9matique "Mathématique"). Les
+[algorithmes
+élaborés](/wiki/Liste_des_algorithmes_de_la_th%C3%A9orie_des_graphes "Liste
+des algorithmes de la théorie des graphes") pour résoudre des problèmes
+concernant les [objets de cette
+théorie](/wiki/Lexique_de_la_th%C3%A9orie_des_graphes "Lexique de la théorie
+des graphes") ont de nombreuses applications dans tous les domaines liés à la
+notion de réseau et dans bien d'autres domaines, tant le concept de graphe est
+général. De grands théorèmes difficiles, comme le [théorème des quatre
+couleurs](/wiki/Th%C3%A9or%C3%A8me_des_quatre_couleurs "Théorème des quatre
+couleurs"), le [théorème des graphes
+parfaits](/wiki/Th%C3%A9or%C3%A8me_des_graphes_parfaits "Théorème des graphes
+parfaits"), ou encore le [théorème de Robertson-
+Seymour](/wiki/Th%C3%A9or%C3%A8me_de_Robertson-Seymour "Théorème de Robertson-
+Seymour"), ont contribué à asseoir cette matière auprès des mathématiciens, et
+les questions qu'elle laisse ouvertes, comme la [conjecture
+d'Hadwiger](/wiki/Conjecture_d%27Hadwiger "Conjecture d'Hadwiger"), en font
+une branche vivace des [mathématiques
+discrètes](/wiki/Math%C3%A9matiques_discr%C3%A8tes "Mathématiques discrètes").
+
+### Théorie des
+partitions[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=14
+"Modifier la section : Théorie des partitions") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=14 "Modifier la
+section : Théorie des partitions")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ferrer_partitioning_diagrams.svg/220px-
+Ferrer_partitioning_diagrams.svg.png)](/wiki/Fichier:Ferrer_partitioning_diagrams.svg)
+
+[](/wiki/Fichier:Ferrer_partitioning_diagrams.svg "Agrandir")
+
+[Diagrammes de Ferrers](/wiki/Diagramme_de_Ferrers "Diagramme de Ferrers") des
+partitions des entiers jusqu'à 8.
+
+Article détaillé : [Partition d'un entier](/wiki/Partition_d%27un_entier
+"Partition d'un entier").
+
+La théorie des partitions étudie divers problèmes d'énumération et de
+comportement asymptotique liés aux [partitions d'un
+entier](/wiki/Partition_d%27un_entier "Partition d'un entier"), et a des
+relations étroites avec les [q-analogues](/wiki/Q-analogue "Q-analogue"), les
+[fonctions spéciales](/wiki/Fonction_sp%C3%A9ciale "Fonction spéciale") et les
+[polynômes orthogonaux](/wiki/Polyn%C3%B4mes_orthogonaux "Polynômes
+orthogonaux"). Au départ, elle fait partie de la [théorie des
+nombres](/wiki/Th%C3%A9orie_des_nombres "Théorie des nombres") et de
+l'[analyse](/wiki/Analyse_\(math%C3%A9matiques\) "Analyse \(mathématiques\)").
+Elle est considérée maintenant comme une partie de la combinatoire, ou comme
+un domaine indépendant. Elle utilise l'approche par [preuve
+bijective](/wiki/Preuve_bijective "Preuve bijective") et employe divers outils
+d'analyse, de [théorie analytique des
+nombres](/wiki/Th%C3%A9orie_analytique_des_nombres "Théorie analytique des
+nombres"), et a des connexions avec la [physique
+statistique](/wiki/Physique_statistique "Physique statistique").
+
+### Théorie des
+matroïdes[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=15
+"Modifier la section : Théorie des matroïdes") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=15 "Modifier la
+section : Théorie des matroïdes")]
+
+Article détaillé : [Matroïde](/wiki/Matro%C3%AFde "Matroïde").
+
+Un _matroïde_ est un objet mathématiques introduit en 1935 par
+[Whitney](/wiki/Hassler_Whitney "Hassler Whitney"), qui a pour vocation
+initiale de saisir l'essence du concept d'[indépendance
+linéaire](/wiki/Ind%C3%A9pendance_lin%C3%A9aire "Indépendance linéaire"). Elle
+est donc naturellement liée à l'[algèbre
+linéaire](/wiki/Alg%C3%A8bre_lin%C3%A9aire "Algèbre linéaire") et aussi à la
+[théorie des graphes](/wiki/Th%C3%A9orie_des_graphes "Théorie des graphes") et
+à la [géométrie](/wiki/G%C3%A9om%C3%A9trie "Géométrie").
+
+### Théorie des
+ordres[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=16
+"Modifier la section : Théorie des ordres") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=16 "Modifier la
+section : Théorie des ordres")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hypercubeorder_binary.svg/220px-
+Hypercubeorder_binary.svg.png)](/wiki/Fichier:Hypercubeorder_binary.svg)
+
+[](/wiki/Fichier:Hypercubeorder_binary.svg "Agrandir")
+
+[Hypercube](/wiki/Hypercube_\(graphe\) "Hypercube \(graphe\)").
+
+Article détaillé : [Relation d'ordre](/wiki/Relation_d%27ordre "Relation
+d'ordre").
+
+Un **poset** (de l'anglais _partially ordered set_ , en français "ensemble
+partiellement ordonné") formalise et généralise la notion intuitive d'ordre ou
+d'arrangement entre les éléments d'un [ensemble](/wiki/Ensemble "Ensemble").
+Un poset est un ensemble muni d'une [relation
+d'ordre](/wiki/Relation_d%27ordre "Relation d'ordre") qui indique que pour
+certains couples d'éléments, l'un est plus petit que l'autre. Tous les
+éléments ne sont pas forcément comparables, contrairement au cas d'un ensemble
+muni d'un [ordre total](/wiki/Ordre_total "Ordre total"). Si l'ensemble est
+fini, on dispose d'une représentation graphique du poset, qui est [diagramme
+de Hasse](/wiki/Diagramme_de_Hasse "Diagramme de Hasse").
+
+### Plans en
+blocs[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=17
+"Modifier la section : Plans en blocs") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=17 "Modifier la
+section : Plans en blocs")]
+
+Articles détaillés : [design combinatoire](/wiki/Design_combinatoire "Design
+combinatoire") et [plan en blocs](/wiki/Plan_en_blocs "Plan en blocs").
+
+Un **[plan en blocs](/wiki/Plan_en_blocs "Plan en blocs")** (en anglais «
+block design ») est un cas particulier des **système de blocs** : il est formé
+d'un ensemble muni d'une famille de sous-ensembles (distincts ou non selon les
+cas). Ces sous-ensembles sont choisis de manière à satisfaire certaines
+propriétés correspondant à une application particulière. Les applications
+viennent de domaines varies, y compris les [plans
+d'expérience](/wiki/Plan_d%27exp%C3%A9rience "Plan d'expérience"), [géométrie
+finie](/w/index.php?title=G%C3%A9om%C3%A9trie_finie&action=edit&redlink=1
+"Géométrie finie \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/finite_geometry "en:finite geometry"),
+[test de logiciel](/wiki/Test_\(informatique\) "Test \(informatique\)"),
+[cryptographie](/wiki/Cryptographie "Cryptographie"), et [géométrie
+algébrique](/wiki/G%C3%A9om%C3%A9trie_alg%C3%A9brique "Géométrie algébrique").
+De nombreuses variantes ont été étudiées, les plus considérés sont les _plans
+en blocs incomplets équilibrés_.
+
+### Séries
+génératrices[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=18
+"Modifier la section : Séries génératrices") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=18 "Modifier la
+section : Séries génératrices")]
+
+Article détaillé : [Série génératrice](/wiki/S%C3%A9rie_g%C3%A9n%C3%A9ratrice
+"Série génératrice").
+
+Une _série génératrice_ est une [série formelle](/wiki/S%C3%A9rie_formelle
+"Série formelle") dont les [coefficients](/wiki/Coefficient "Coefficient")
+codent une [suite](/wiki/Suite_\(math%C3%A9matiques\) "Suite
+\(mathématiques\)") de nombres (ou plus généralement de
+[polynômes](/wiki/Polyn%C3%B4me "Polynôme"), etc.). Il existe plusieurs sortes
+de séries génératrices, comme les _séries génératrices exponentielles_ , les
+_[séries de Lambert](/wiki/S%C3%A9rie_de_Lambert "Série de Lambert")_ , les
+_[séries de Dirichlet](/wiki/S%C3%A9rie_de_Dirichlet "Série de Dirichlet")_ ,
+etc. On peut associer à toute suite une série génératrice de chaque type, mais
+la facilité de manipulation de la série dépend considérablement de la nature
+de la suite associée, et du problème qu'on cherche à étudier. L'intérêt des
+séries est qu'il est souvent possible d'étudier une suite donnée à l'aide de
+manipulations formelles de la série génératrice associée, ainsi qu'en
+utilisant les [propriétés analytiques](/wiki/Analyse_\(math%C3%A9matiques\)
+"Analyse \(mathématiques\)") de la fonction somme de la série.
+
+## Permutations (dispositions,
+ordonnancements)[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=19
+"Modifier la section : Permutations \(dispositions, ordonnancements\)") |
+[modifier le code](/w/index.php?title=Combinatoire&action=edit&section=19
+"Modifier la section : Permutations \(dispositions, ordonnancements\)")]
+
+Les deux sections qui suivent sont une présentation détaillée et élémentaire
+de quelques notions et théorèmes de base.
+
+### Permutations sans répétition d'objets
+discernables[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=20
+"Modifier la section : Permutations sans répétition d'objets discernables") |
+[modifier le code](/w/index.php?title=Combinatoire&action=edit&section=20
+"Modifier la section : Permutations sans répétition d'objets discernables")]
+
+Article détaillé : [Permutation](/wiki/Permutation "Permutation").
+
+Les permutations sans répétition d'un ensemble fini _E_ sont les
+[bijections](/wiki/Bijection "Bijection") de _E_ sur lui-même.
+
+Comme exemple d'introduction, considérons le nombre de dispositions de six
+objets discernables dans six cases consécutives numérotées avec un et un seul
+objet par case. Chacun des objets peut être placé dans la première case, ce
+qui donne six possibilités d'occuper la première place. Une fois la première
+place occupée par l'un des objets, il reste encore cinq candidats pour la
+deuxième place, la deuxième place étant attribuée, il reste seulement quatre
+candidats pour la troisième place, et ainsi de suite. Pour l'avant-dernière
+place, il ne reste plus que deux objets, et une fois l'un des deux placé, la
+dernière place doit être occupée par le dernier objet.
+
+Il y a ainsi 6 × 5 × 4 × 3 × 2 × 1 ou 6! = 720 possibilités de disposer six
+objets discernables.
+
+Généralisation
+
+    
+
+Nous allons voir que le nombre de dispositions de _n_ éléments discernables
+est égal à _n_!
+
+Une disposition des objets d'un ensemble _E_ de cardinal _n_ , dans _n_ cases
+avec un et un seul objet par case, ou un ordonnancement des éléments de _E_ se
+représente par une bijection de {1, 2, …, _n_ } dans _E_ ou une permutation de
+_E_. Il est commode de représenter une telle bijection par un [_n_
+-uplet](/wiki/N-uplet "N-uplet") (ou _n_ -liste) d'éléments de _E_ , (x1, x2,
+…, xn).
+
+**Théorème** -- Il y a _n_! permutations (sans répétition) de _n_ éléments.
+
+En effet, pour former un [_n_ -uplet](/wiki/N-uplet "N-uplet") d'éléments de
+_E_ , nous devons choisir un élément de _E_ pour la première place du [_n_
+-uplet](/wiki/N-uplet "N-uplet") et il y a _n_ possibilités, il y a _n_ \- 1
+choix possibles d'un élément de _E_ pour la deuxième place, _n_ \- 2 pour la
+troisième, etc. Il n'y a plus qu'un seul choix d'élément pour la dernière
+place. Donc au total _n_ × ( _n_ -1) × ( _n_ -2) × … × 2 × 1 permutations.
+
+Cette propriété se [démontre par
+récurrence](/wiki/Raisonnement_par_r%C3%A9currence "Raisonnement par
+récurrence") sur _n_.
+
+### Permutations avec répétition d'objets
+discernables[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=21
+"Modifier la section : Permutations avec répétition d'objets discernables") |
+[modifier le code](/w/index.php?title=Combinatoire&action=edit&section=21
+"Modifier la section : Permutations avec répétition d'objets discernables")]
+
+Article détaillé : [Permutation avec
+répétition](/wiki/Permutation_avec_r%C3%A9p%C3%A9tition "Permutation avec
+répétition").
+
+Pour déterminer le nombre des dispositions possibles d'objets de plusieurs
+classes et mutuellement indiscernables dans chaque classe, il est utile de
+considérer le nombre de dispositions possibles de ces objets en les supposant
+tous discernables, et ensuite de trouver combien de ces dispositions sont
+indiscernables. Le nombre des dispositions possibles de ces objets est égal au
+nombre de dispositions possibles des objets considérés comme discernables
+divisé par le nombre des dispositions indiscernables.
+
+Par exemple, si nous devons déterminer le nombre total de dispositions
+d'objets dont deux sont d'une première classe, trois d'une deuxième classe et
+cinq d'une troisième classe, alors nous calculons le nombre total de
+dispositions de ces objets considérés comme discernables, ce qui donne (2 + 3
++ 5)!, soit 3 628 800 dispositions possibles. Mais certaines dispositions
+restent inchangées lorsque les objets indiscernables d'une même classe sont
+échangés mutuellement, et il y a 2! × 3! × 5! soit 1 440 façons de permuter
+les objets de chacune de ces classes.
+
+Nous obtenons au total 3 628 800 ÷ 1 440 = 2 520 dispositions différentes. Il
+s'agit aussi du nombre de permutations avec répétition de 10 éléments avec 2,
+3 et 5 répétitions.
+
+Généralisation
+
+    
+
+**Théorème** -- Le nombre de permutations de _n_ éléments, répartis dans _k_
+classes dont _n_ 1 sont de classe 1, _n_ 2 sont de classe 2, …, _n_ k sont de
+classe _k_ , indiscernables dans chaque classe, ou le nombre de permutations
+de _n_ éléments avec _n_ 1, _n_ 2, …, _n_ k répétitions, avec  ( ∑ i = 1 k n i
+= n ) {\displaystyle \left(\sum _{i=1}^{k}n_{i}=n\right)} ![\\left\(\\sum
+_{{i=1}}^{k}n_{i}=n\\right\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/930aa9ffb4cd74d40a09810cb3f7f24866a444ce),
+est égal à :  n ! n 1 ! n 2 ! … n k ! {\displaystyle {\frac
+{n!}{n_{1}!n_{2}!\ldots n_{k}!}}} ![{\\frac  {n!}{n_{1}!n_{2}!\\ldots
+n_{k}!}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/40e605fa4f8d7cf6d8b536cc9199e3fe420c35c5).
+
+## Arrangements (choix en tenant compte de
+l'ordre)[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=22
+"Modifier la section : Arrangements \(choix en tenant compte de l'ordre\)") |
+[modifier le code](/w/index.php?title=Combinatoire&action=edit&section=22
+"Modifier la section : Arrangements \(choix en tenant compte de l'ordre\)")]
+
+### Arrangements sans
+répétition[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=23
+"Modifier la section : Arrangements sans répétition") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=23 "Modifier la
+section : Arrangements sans répétition")]
+
+Article détaillé : [Arrangement](/wiki/Arrangement "Arrangement").
+
+Nous disposons de _n_ objets discernables et nous voulons en placer _k_ , en
+tenant compte de l'ordre, dans _k_ cases numérotées de 1 à _k_ avec un et un
+seul objet par case. Le nombre de dispositions est alors égal au nombre de _k_
+-listes distinctes formées à partir de ces objets. Au lieu de constituer un
+[_n_ -uplet](/wiki/N-uplet "N-uplet"), à partir de _n_ objets discernables,
+nous formons ici des [_k_ -uplets](/wiki/N-uplet "N-uplet") avec  k ≤ n , ( x
+1 , x 2 , … , x k ) {\displaystyle k\leq n{\text{,}}\left(x_{1},x_{2},\ldots
+,x_{k}\right)} ![k\\leq n{\\text{,}}\\left\(x_{1},x_{2},\\ldots
+,x_{k}\\right\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/7bb905d74c0cd52adb4e51e016263e89728a4dce)
+à partir de ces _n_ objets tels que pour  i ≠ j {\displaystyle i\neq j}
+![i\\neq
+j](https://wikimedia.org/api/rest_v1/media/math/render/svg/d95aeb406bb427ac96806bc00c30c91d31b858be),
+on ait  x i ≠ x j {\displaystyle x_{i}\neq x_{j}} ![x_{i}\\neq
+x_{j}](https://wikimedia.org/api/rest_v1/media/math/render/svg/d90cda4d5d570177a05caabc415648e5794d09d3).
+Un tel [_k_ -uplet](/wiki/N-uplet "N-uplet") s'appelle un arrangement sans
+répétition de _n_ éléments pris _k_ à _k_.
+
+**Théorème** -- Le nombre d'arrangements sans répétition de _n_ éléments pris
+_k_ à _k_ est égal à  A n k {\displaystyle A_{n}^{k}}
+![A_{n}^{k}](https://wikimedia.org/api/rest_v1/media/math/render/svg/048c75440ffaa800c55a86a58042722bedec0101)
+(égal à  n ! ( n − k ) ! {\displaystyle {\frac {n!}{(n-k)!}}} ![{\\frac
+{n!}{\(n-k\)!}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e8045125b5811884faa6267288b580a681774832)
+si _k_ ≤ _n_ et à 0 sinon).
+
+En effet, Il y a _n_ choix possibles de l'objet qui occupe la première place
+du [_k_ -uplet](/wiki/N-uplet "N-uplet"), _n_ -1 choix pour l'objet de la 2e
+place ; pour la _k_ e, il ne reste plus que _n_ -( _k_ -1) objets et donc _n_
+- _k_ +1 choix possibles. Le produit  n ⋅ ( n − 1 ) … ( n − k + 1 )
+{\displaystyle n\cdot (n-1)\ldots (n-k+1)} ![n\\cdot \(n-1\)\\ldots
+\(n-k+1\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/ef28458d99e93ef351500e0595d785a89d2d978d)
+s'écrit bien sous la forme :  n ! ( n − k ) ! {\displaystyle {\frac
+{n!}{(n-k)!}}} ![{\\frac
+{n!}{\(n-k\)!}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e8045125b5811884faa6267288b580a681774832).
+C'est juste le nombre des [injections](/wiki/Injection_\(math%C3%A9matiques\)
+"Injection \(mathématiques\)") de l'ensemble {1,2, ..., k} dans l'ensemble
+{1,2, ..., n}.
+
+Le cas _n_ = _k_ nous oblige alors à diviser par (0)! (rappelons que (0)! vaut
+1).
+
+### Arrangements avec
+répétition[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=24
+"Modifier la section : Arrangements avec répétition") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=24 "Modifier la
+section : Arrangements avec répétition")]
+
+Article détaillé : [Arrangement avec
+répétition](/wiki/Arrangement_avec_r%C3%A9p%C3%A9tition "Arrangement avec
+répétition").
+
+Lorsque nous voulons placer des objets pris parmi _n_ objets discernables dans
+_k_ emplacements en tenant compte de l'ordre, ces objets pouvant apparaître
+plusieurs fois, le nombre de dispositions est alors égal au nombre de [_k_
+-uplets](/wiki/N-uplet "N-uplet") formés à partir de ces _n_ objets. Un tel
+[_k_ -uplet](/wiki/N-uplet "N-uplet"), avec _k_ ≤ _n_ , ( _x_ 1, _x_ 2, …, _x_
+_k_ ) formé à partir de ces _n_ objets s'appelle un arrangement avec
+répétition de _n_ éléments pris _k_ à _k_.
+
+Comme chaque emplacement peut être occupé indifféremment par l'un quelconque
+de ces _n_ objets, il y en a au total _n_ _k_.
+
+Quand nous tirons 11 fois l'un de 3 numéros en tenant compte de l'ordre
+d'apparition nous obtenons au total 311 = 177 147 tirages différents. Comme
+exemple tiré de la génétique, nous pouvons donner le nombre total de
+[codons](/wiki/Codon "Codon") de base (triplets formés de quatre codes) : 43=
+64.
+
+## Combinaisons (choix sans tenir compte de
+l'ordre)[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=25
+"Modifier la section : Combinaisons \(choix sans tenir compte de l'ordre\)") |
+[modifier le code](/w/index.php?title=Combinatoire&action=edit&section=25
+"Modifier la section : Combinaisons \(choix sans tenir compte de l'ordre\)")]
+
+Contrairement aux arrangements, les combinaisons sont des dispositions
+d'objets qui ne tiennent pas compte de l'ordre de placement de ces objets. Par
+exemple, si _a_ , _b_ et _c_ sont des boules tirées d'une urne, _abc_ et _acb_
+correspondent au même tirage. Il y a donc moins de combinaisons que
+d'arrangements.
+
+### Combinaisons sans
+répétition[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=26
+"Modifier la section : Combinaisons sans répétition") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=26 "Modifier la
+section : Combinaisons sans répétition")]
+
+Article détaillé : [Combinaison
+(mathématiques)](/wiki/Combinaison_\(math%C3%A9matiques\) "Combinaison
+\(mathématiques\)").
+
+Si nous tirons sans remise _k_ objets parmi _n_ objets discernables, et nous
+les disposons sans tenir compte de l'ordre d'apparition, nous pouvons
+représenter ces _k_ objets par une partie à _k_ éléments d'un ensemble à _n_
+éléments. Ce sont des combinaisons sans répétition de _n_ éléments pris _k_ à
+_k_.
+
+Pour déterminer le nombre de ces dispositions, nous pouvons déterminer le
+nombre d'arrangements de _k_ objets et diviser par le nombre de dispositions
+obtenues les unes à partir des autres par une permutation. Il y en a  ( n k )
+= A n k k ! = C n k {\displaystyle {n \choose k}={\frac
+{A_{n}^{k}}{k!}}=C_{n}^{k}} ![{n \\choose k}={\\frac
+{A_{n}^{k}}{k!}}=C_{n}^{k}](https://wikimedia.org/api/rest_v1/media/math/render/svg/9b155224fd133083a5a6fda759337cc7954a49da)
+(pour la notation, voir aussi l'article sur le [coefficient
+binomial](/wiki/Coefficient_binomial "Coefficient binomial")).
+
+Par exemple le jeu [Euromillions](/wiki/Euromillions "Euromillions") demande
+de choisir 5 nombres différents entre 1 et 50 et 2 nombres entre 1 et 11, soit
+( 50 5 ) × ( 11 2 ) = 116 531 800 {\displaystyle {50 \choose 5}\times {11
+\choose 2}=116\,531\,800} ![{50 \\choose 5}\\times {11 \\choose
+2}=116\\,531\\,800](https://wikimedia.org/api/rest_v1/media/math/render/svg/04df996bf7092c5d8fde1b4ccc94f60748ff5345)
+possibilités.
+
+### Combinaisons avec
+répétition[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=27
+"Modifier la section : Combinaisons avec répétition") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=27 "Modifier la
+section : Combinaisons avec répétition")]
+
+Article détaillé : [Combinaison avec
+répétition](/wiki/Combinaison_avec_r%C3%A9p%C3%A9tition "Combinaison avec
+répétition").
+
+Si nous tirons avec remise _k_ objets parmi _n_ objets discernables, et nous
+les disposons sans tenir compte de l'ordre d'apparition, ces objets peuvent
+apparaître plusieurs fois et nous ne pouvons les représenter ni avec une
+partie à _k_ éléments, ni avec un [_k_ -uplet](/wiki/N-uplet "N-uplet")
+puisque leur ordre de placement n'intervient pas. Il est cependant possible de
+représenter de telles dispositions avec des applications appelées combinaisons
+avec répétition.
+
+**Théorème** -- Le nombre de combinaisons avec répétition de _n_ éléments pris
+_k_ à _k_ est égal à :  Γ n k = ( n + k − 1 k ) {\displaystyle \Gamma
+_{n}^{k}={n+k-1 \choose k}} ![\\Gamma _{n}^{k}={n+k-1 \\choose
+k}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f06c0f9722bc10bebb6c0d0e50f270965492d28f).
+
+Donnons l'exemple du jeu de domino. Les pièces sont fabriquées en disposant
+côte à côte deux éléments de l'ensemble {blanc, 1, 2, 3, 4, 5, 6}. Si nous
+retournons un domino, nous changeons l'ordre des deux éléments, mais le domino
+reste identique. Nous avons une combinaison avec répétition de 7 éléments pris
+2 à 2, et au total il y a :  Γ 7 2 = ( 8 2 ) = 28 {\displaystyle \Gamma
+_{7}^{2}={8 \choose 2}=28} ![\\Gamma _{7}^{2}={8 \\choose
+2}=28](https://wikimedia.org/api/rest_v1/media/math/render/svg/dd2c2e9271ac4c2859d16d8f03d6549e548f4dd8)
+dominos dans un jeu.
+
+## Fonction de
+comptage[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=28
+"Modifier la section : Fonction de comptage") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=28 "Modifier la
+section : Fonction de comptage")]
+
+Soit _S_ _n_ l'ensemble des permutations de {1, 2, …, _n_ }. Nous pouvons
+considérer la fonction qui à _n_ associe le nombre de permutations. Cette
+fonction est la fonction factorielle et sert à compter les permutations.
+
+Étant donnée une collection infinie d'ensembles finis  { E n | n ∈ N }
+{\displaystyle \left\\{E_{n}|n\in \mathbb {N} \right\\}}
+![\\left\\{E_{n}|n\\in {\\mathbb
+{N}}\\right\\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b80cc34e2076695d9c88bd21bff27c981ed4e8c8)
+indexée par l'ensemble des entiers naturels, une fonction de comptage est une
+fonction qui à un entier _n_ associe le nombre d'éléments de _E_ _n_. Une
+fonction de comptage _f_ permet donc de compter les objets de _E_ _n_ pour
+n'importe quel _n_. Les éléments de _E_ _n_ ont habituellement une description
+combinatoire relativement simple et une structure additionnelle, permettant
+souvent de déterminer _f_.
+
+Certaines fonctions de comptage, sont données par des formules « fermées », et
+peuvent être exprimées comme [composées](/wiki/Composition_de_fonctions
+"Composition de fonctions") de fonctions élémentaires telles que des
+factorielles, des puissances, et ainsi de suite.
+
+Cette approche peut ne pas être entièrement satisfaisante (ou pratique) pour
+certains problèmes combinatoires. Par exemple, soit _f_ ( _n_ ) le nombre de
+sous-ensembles distincts de nombres entiers dans l'intervalle [1, _n_ ] qui ne
+contiennent pas deux nombres entiers consécutifs. Par exemple, avec _n_ = 4,
+nous obtenons ∅, { 1 }, { 2 }, { 3 }, { 4 }, { 1, 3 }, { 1, 4 }, { 2, 4 }, et
+donc f(4) = 8. Il s'avère que _f_ ( _n_ ) est le _n_ ème nombre de
+[Fibonacci](/wiki/Fibonacci "Fibonacci"), qui peut être exprimé sous la forme
+« fermée » suivante :
+
+     f ( n ) = ϕ n 5 − ( 1 − ϕ ) n 5 {\displaystyle f(n)={\frac {\phi ^{n}}{\sqrt {5}}}-{\frac {(1-\phi )^{n}}{\sqrt {5}}}} ![f\(n\)={\\frac  {\\phi ^{n}}{{\\sqrt  {5}}}}-{\\frac  {\(1-\\phi \)^{n}}{{\\sqrt  {5}}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/5cedf7cbaccb5a672e91e62e1ebb303b281a0f87)
+
+où _Φ_ = (1 + √5)/2, est le nombre d'or. Cependant, étant donné que nous
+considérons des ensembles de nombres entiers, la présence du √5 dans le
+résultat peut être considérée comme inesthétique d'un point de vue
+combinatoire. Aussi _f_ ( _n_ ) peut-il être exprimé par une relation de
+récurrence :
+
+    _f_ ( _n_ ) = _f_ ( _n_ \- 1) + _f_ ( _n_ \- 2)
+
+ce qui peut être plus satisfaisant (d'un point de vue purement combinatoire),
+puisque la relation montre plus clairement comment le résultat a été trouvé.
+
+Dans certains cas, un équivalent asymptotique _g_ de _f_ ,
+
+    _f_ ( _n_ )~ _g_ ( _n_ ) quand _n_ tend vers l'infini
+
+où _g_ est une fonction « familière », permet d'obtenir une bonne
+approximation de _f_. Une fonction asymptotique simple peut être préférable à
+une formule « fermée » extrêmement compliquée et qui informe peu sur le
+comportement du nombre d'objets. Dans l'exemple ci-dessus, un équivalent
+asymptotique serait :
+
+     f ( n ) ∼ ϕ n 5 {\displaystyle f(n)\sim {\frac {\phi ^{n}}{\sqrt {5}}}} ![f\(n\)\\sim {\\frac  {\\phi ^{n}}{{\\sqrt  {5}}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f8298da336a8b779b174b002687200b79d5291ef)
+
+quand _n_ devient grand.
+
+Une autre approche est celle des séries entières. _f_ ( _n_ ) peut être
+exprimé par une série entière formelle, appelée fonction génératrice de _f_ ,
+qui peut être le plus couramment :
+
+  * la fonction génératrice ordinaire
+
+     ∑ n > 0 f ( n ) ⋅ x n {\displaystyle \sum _{n>0}f(n)\cdot x^{n}} ![\\sum _{{n>0}}f\(n\)\\cdot x^{n}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8959d03ab1e4f172bc36f88fe949517c6c6db44d)
+
+  * ou la fonction génératrice exponentielle
+
+     ∑ n > 0 f ( n ) ⋅ x n n ! {\displaystyle \sum _{n>0}f(n)\cdot {\frac {x^{n}}{n!}}} ![\\sum _{{n>0}}f\(n\)\\cdot {\\frac  {x^{n}}{n!}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e3c78ec4cbf7b4a2d62ede7981d49907ee2aa584)
+
+Une fois déterminée, la fonction génératrice peut permettre d'obtenir toutes
+les informations fournies par les approches précédentes. En outre, les
+diverses opérations usuelles comme l'addition, la multiplication, la
+dérivation, etc., ont une signification combinatoire ; et ceci permet de
+prolonger des résultats d'un problème combinatoire afin de résoudre d'autres
+problèmes.
+
+## Quelques
+résultats[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=29
+"Modifier la section : Quelques résultats") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=29 "Modifier la
+section : Quelques résultats")]
+
+Un théorème, dû à [Franck P. Ramsey](/wiki/Franck_Ramsey "Franck Ramsey"),
+donne un résultat surprenant. À une soirée à laquelle se rendent au moins six
+personnes, il y a au moins trois personnes qui se connaissent mutuellement ou
+au moins trois qui sont étrangères les unes aux autres.
+
+Démonstration
+
+    
+
+soit  P 1 {\displaystyle P_{1}}
+![P_{1}](https://wikimedia.org/api/rest_v1/media/math/render/svg/398f438d75434e6fbf48dc232c1ad7228a738568)
+une personne quelconque présente à la soirée. Sur les _n-1_ autres, soit elle
+en connaît au plus deux, soit elle en connaît au moins trois. Supposons que
+l'on soit dans le second cas, et soient  P 2 , P 3 et P 4 {\displaystyle
+P_{2},\,P_{3}{\text{ et }}P_{4}} ![P_{2},\\,P_{3}{\\text{ et
+}}P_{4}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a074d115bc6f49b9cd469a8d54c1f848014b0e82)
+trois personnes connues de  P 1 {\displaystyle P_{1}}
+![P_{1}](https://wikimedia.org/api/rest_v1/media/math/render/svg/398f438d75434e6fbf48dc232c1ad7228a738568).
+Si deux d’entre elles se connaissent, mettons  P 2 et P 3 {\displaystyle
+P_{2}{\text{ et }}P_{3}} ![P_{2}{\\text{ et
+}}P_{3}](https://wikimedia.org/api/rest_v1/media/math/render/svg/66d1ea719db6d226bdf7cfa2351ec726af3eab85),
+alors  P 1 , P 2 et P 3 {\displaystyle P_{1},\,P_{2}{\text{ et }}P_{3}}
+![P_{1},\\,P_{2}{\\text{ et
+}}P_{3}](https://wikimedia.org/api/rest_v1/media/math/render/svg/c44a04b58d0b5133c6ff851afe625bab9f4d310d)
+se connaissent toutes trois. Sinon,  P 2 , P 3 et P 4 {\displaystyle
+P_{2},\,P_{3}{\text{ et }}P_{4}} ![P_{2},\\,P_{3}{\\text{ et
+}}P_{4}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a074d115bc6f49b9cd469a8d54c1f848014b0e82)
+ne se connaissent pas du tout, et le résultat annoncé est encore juste. Dans
+l’autre cas de figure ( P 1 {\displaystyle P_{1}}
+![P_{1}](https://wikimedia.org/api/rest_v1/media/math/render/svg/398f438d75434e6fbf48dc232c1ad7228a738568)
+connaît au plus deux personnes du groupe), le même raisonnement, inversé,
+fonctionne avec les trois personnes que  P 1 {\displaystyle P_{1}}
+![P_{1}](https://wikimedia.org/api/rest_v1/media/math/render/svg/398f438d75434e6fbf48dc232c1ad7228a738568)
+ne connaît pas.
+
+(C'est un cas particulier du [théorème de Ramsey](/wiki/Th%C3%A9orie_de_Ramsey
+"Théorie de Ramsey").)
+
+L'idée de trouver un ordre dans des configurations aléatoires mène à la
+théorie de Ramsey. Essentiellement, cette théorie indique que n'importe quelle
+configuration suffisamment grande contiendra au moins un autre type de
+configuration.
+
+## Notes et
+références[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=30
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=30 "Modifier la
+section : Notes et références")]
+
+  1. ↑ Part 1 section 7.2.1.7. History and further references
+  2. ↑ Voir aussi Donald Knuth, « Two thousand years of combinatorics », dans Robin Wilson et John J. Watkins (éditeurs) (préf. Ronald Graham), Combinatorics: Ancient & Modern, Oxford University Press, 2013, 392 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [9780199656592](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9780199656592 "Spécial:Ouvrages de référence/9780199656592")), p. 3-37.
+  3. ↑ (en) [D. E. Knuth](/wiki/Donald_Knuth "Donald Knuth"), _[The Art of Computer Programming](/wiki/The_Art_of_Computer_Programming "The Art of Computer Programming")_ , vol. 4, Fascicle 4, _Generating All Trees; History of Combinationatorial Generation_ (2006), vi+120pp. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [0-321-33570-8](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/0-321-33570-8 "Spécial:Ouvrages de référence/0-321-33570-8")).
+  4. ↑ Plutarque, _[Des contradictions des Stoïciens](http://remacle.org/bloodwolf/historiens/Plutarque/stoiciens.htm)_ , p. 84.
+  5. ↑ J.-J. Dupas et J.-A. Roddier, « Les racines grecques de l'analyse combinatoire », _Tangente_ , Hors-série no 39, p. 6.
+  6. ↑ (en) [Richard P. Stanley](/wiki/Richard_Peter_Stanley "Richard Peter Stanley"), Enumerative Combinatorics, vol. 1 [[détail des éditions](/wiki/R%C3%A9f%C3%A9rence:Enumerative_Combinatorics "Référence:Enumerative Combinatorics")] ([présentation en ligne](http://www-math.mit.edu/~rstan/ec/)).
+  7. ↑ (en) [Richard P. Stanley](/wiki/Richard_P._Stanley "Richard P. Stanley"), « Hipparchus, Plutarch, Schröder, and Hough », _[Amer. Math. Monthly](/wiki/The_American_Mathematical_Monthly "The American Mathematical Monthly")_ , vol. 104, no 4, 1997, p. 344-350 ([DOI](/wiki/Digital_Object_Identifier "Digital Object Identifier") [10.2307/2974582](https://dx.doi.org/10.2307%2F2974582), [Math Reviews](/wiki/Mathematical_Reviews "Mathematical Reviews") [1450667](https://www.ams.org/mathscinet-getitem?mr=1450667), [lire en ligne](http://www-math.mit.edu/~rstan/papers/hip.pdf)).
+  8. ↑ a et b (en) F. Acerbi, « On the shoulders of Hipparchus: A reappraisal of ancient Greek combinatorics », _[Arch. Hist. Exact Sci.](/wiki/Archive_for_History_of_Exact_Sciences "Archive for History of Exact Sciences")_ , vol. 57, 2003, p. 465-502 ([lire en ligne](http://stl.recherche.univ-lille3.fr/sitespersonnels/acerbi/acerbipub5.pdf)).
+  9. ↑ B. Hauchecorne, « De la théologie à la combinatoire moderne », _[Tangente](/wiki/Tangente_\(magazine\) "Tangente \(magazine\)")_ , Hors série no 39, p. 8-9.
+  10. ↑ Ibn Mun'im traite de la combinatoire comme un chapitre des mathématiques dans son livre _Fiqh Al Hisab_ [« biologie antique et moyen age »](http://www.epsnv-alger.dz/wp-content/uploads/biologie-antique-et-moyen-age-suite-1.pdf), sur epsnv-alger.dz (consulté le 12 février 2018)
+  11. ↑ Ahmed Djebbar, L'Âge d'or des sciences arabes, Humensis, 14 mars 2017, 192 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-7465-1220-7](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-7465-1220-7 "Spécial:Ouvrages de référence/978-2-7465-1220-7"), [lire en ligne](https://books.google.fr/books?id=mTaWDgAAQBAJ&pg=PT23&dq=ibn+mun%27im+combinatoire)).
+  12. ↑ Ahmed Djebbar, « Islamic combinatorics », dans Robin Wilson et John J. Watkins (éditeurs) (préf. Ronald Graham), Combinatorics: Ancient & Modern, Oxford University Press, 2013, 392 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [9780199656592](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9780199656592 "Spécial:Ouvrages de référence/9780199656592")), p. 83-107.
+
+## Domaines
+connexes[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=31
+"Modifier la section : Domaines connexes") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=31 "Modifier la
+section : Domaines connexes")]
+
+  * [Optimisation combinatoire](/wiki/Optimisation_combinatoire "Optimisation combinatoire")
+  * [Théorie des codes](/wiki/Th%C3%A9orie_des_codes "Théorie des codes")
+  * [Géométrie algorithmique](/wiki/G%C3%A9om%C3%A9trie_algorithmique "Géométrie algorithmique")
+  * [Phylogénie](/wiki/Phylog%C3%A9nie "Phylogénie")
+
+## Voir
+aussi[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=32
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=32 "Modifier la
+section : Voir aussi")]
+
+Sur les autres projets Wikimedia :
+
+  * [Combinatoire](https://fr.wikiversity.org/wiki/Combinatoire "v:Combinatoire"), sur Wikiversity
+
+### Articles
+connexes[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=33
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=33 "Modifier la
+section : Articles connexes")]
+
+  * [Combinaison avec répétition](/wiki/Combinaison_avec_r%C3%A9p%C3%A9tition "Combinaison avec répétition")
+  * [Mathématiques discrètes](/wiki/Math%C3%A9matiques_discr%C3%A8tes "Mathématiques discrètes")
+  * [Mot sans facteur carré](/wiki/Mot_sans_facteur_carr%C3%A9 "Mot sans facteur carré")
+  * [Physique combinatoire](/wiki/Physique_combinatoire "Physique combinatoire")
+  * [Principe d'inclusion-exclusion de Moivre](/wiki/Principe_d%27inclusion-exclusion_de_Moivre "Principe d'inclusion-exclusion de Moivre")
+  * [Coefficient binomial](/wiki/Coefficient_binomial "Coefficient binomial")
+
+### Lien
+externe[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=34
+"Modifier la section : Lien externe") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=34 "Modifier la
+section : Lien externe")]
+
+(en) [L'histoire de la pensée
+économique](http://cepa.newschool.edu/het/profiles/ramsey.htm) : à propos de
+Frank P. Ramsey.
+
+###
+Bibliographie[[modifier](/w/index.php?title=Combinatoire&veaction=edit&section=35
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Combinatoire&action=edit&section=35 "Modifier la
+section : Bibliographie")]
+
+  * (en) [Richard P. Stanley](/wiki/Richard_Peter_Stanley "Richard Peter Stanley"), Enumerative Combinatorics, vol. 1 et 2 [[détail des éditions](/wiki/R%C3%A9f%C3%A9rence:Enumerative_Combinatorics "Référence:Enumerative Combinatorics")] ([présentation en ligne](http://www-math.mit.edu/~rstan/ec/))
+  * (en) Nicholas A. Loehr, Bijective combinatorics, Chapman Hall/CRC, 2011, 612 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-1-4398-4884-5](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-1-4398-4884-5 "Spécial:Ouvrages de référence/978-1-4398-4884-5"))
+  * Claude Berge, Principes de combinatoire, Paris, Dunod, 1968
+
+Traduction anglaise : Principles of Combinatorics, Academic Press, 1971
+([ISBN](/wiki/International_Standard_Book_Number "International Standard Book
+Number")
+[978-0-12-410978-0](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-0-12-410978-0
+"Spécial:Ouvrages de référence/978-0-12-410978-0"))
+
+  * Louis Comtet, Analyse combinatoire, Tomes I et II, Paris, Presses Universitaires de France, coll. « Sup - Le Mathématicien », 1970
+  * [Louis Comtet](/wiki/Louis_Comtet "Louis Comtet"), Advanced Combinatorics : The Art of Finite and Infinite Expansions, Dordrecht, Reidel, 1974, 343 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-90-277-0441-2](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-90-277-0441-2 "Spécial:Ouvrages de référence/978-90-277-0441-2"), [lire en ligne](https://books.google.fr/books?id=C0HPgWhEssYC))
+
+Traduit du français par J. W. Nienhuys. Réimpression par Springer Netherlands
+en 2010 ([ISBN](/wiki/International_Standard_Book_Number "International
+Standard Book Number")
+[978-9048183418](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-9048183418
+"Spécial:Ouvrages de référence/978-9048183418")) [[présentation en
+ligne](https://link.springer.com/book/10.1007/978-94-010-2196-8/page/1)]
+
+  * (en) Robin Wilson (dir.) et John Watkins (dir.), Combinatorics : ancient and modern, Oxford University Press, 2013, 381 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-19-965659-2](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-0-19-965659-2 "Spécial:Ouvrages de référence/978-0-19-965659-2"), [DOI](/wiki/Digital_Object_Identifier "Digital Object Identifier") [10.1093/acprof:oso/9780199656592.001.0001](https://dx.doi.org/10.1093%2Facprof%3Aoso%2F9780199656592.001.0001), [lire en ligne](https://books.google.com/books?id=hRmMp4D12PIC&printsec=frontcover))
+  * Ira Gessel et Gian-Carlo Rota (éditeurs), Classic Papers in Combinatorics, Birkhäuser, coll. « Modern Birkhäuser Classics », 1987, x + 492 p. ([présentation en ligne](https://www.springer.com/gp/book/9780817648411)).
+
+[v](/wiki/Mod%C3%A8le:Palette_Domaines_des_math%C3%A9matiques "Modèle:Palette
+Domaines des mathématiques") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Domaines_des_math%C3%A9matiques&action=edit)
+
+Domaines des [mathématiques](/wiki/Math%C3%A9matiques "Mathématiques")  
+  
+---  
+  
+  * [Algèbre](/wiki/Alg%C3%A8bre "Algèbre")
+  * [Algèbre commutative](/wiki/Alg%C3%A8bre_commutative "Algèbre commutative")
+  * [Algèbre homologique](/wiki/Homologie_et_cohomologie "Homologie et cohomologie")
+  * [Algèbre linéaire](/wiki/Alg%C3%A8bre_lin%C3%A9aire "Algèbre linéaire")
+  * [Analyse](/wiki/Analyse_\(math%C3%A9matiques\) "Analyse \(mathématiques\)")
+  * [Analyse réelle](/wiki/Analyse_r%C3%A9elle "Analyse réelle")
+  * [Analyse complexe](/wiki/Analyse_complexe "Analyse complexe")
+  * [Analyse fonctionnelle](/wiki/Analyse_fonctionnelle_\(math%C3%A9matiques\) "Analyse fonctionnelle \(mathématiques\)")
+  * [Analyse numérique](/wiki/Analyse_num%C3%A9rique "Analyse numérique")
+  * [Calcul quantique](/wiki/Calculateur_quantique "Calculateur quantique")
+  * Combinatoire
+  * [Géométrie](/wiki/G%C3%A9om%C3%A9trie "Géométrie")
+  * [Géométrie algébrique](/wiki/G%C3%A9om%C3%A9trie_alg%C3%A9brique "Géométrie algébrique")
+  * [Géométrie différentielle](/wiki/G%C3%A9om%C3%A9trie_diff%C3%A9rentielle "Géométrie différentielle")
+  * [Géométrie non commutative](/wiki/G%C3%A9om%C3%A9trie_non_commutative "Géométrie non commutative")
+  * [Optimisation](/wiki/Optimisation_\(math%C3%A9matiques\) "Optimisation \(mathématiques\)")
+  * [Physique mathématique](/wiki/Physique_math%C3%A9matique "Physique mathématique")
+  * [Probabilités](/wiki/Probabilit%C3%A9 "Probabilité")
+  * [Statistiques](/wiki/Statistique "Statistique")
+  * [Systèmes dynamiques](/wiki/Syst%C3%A8mes_dynamiques "Systèmes dynamiques")
+  * [Théorie des nombres](/wiki/Th%C3%A9orie_des_nombres "Théorie des nombres")
+  * [Théorie de Galois](/wiki/Th%C3%A9orie_de_Galois "Théorie de Galois")
+  * [Théorie des groupes](/wiki/Th%C3%A9orie_des_groupes "Théorie des groupes")
+  * [Topologie](/wiki/Topologie "Topologie")
+  * [Topologie algébrique](/wiki/Topologie_alg%C3%A9brique "Topologie algébrique")
+
+  
+  
+[v](/wiki/Mod%C3%A8le:Palette_Informatique_th%C3%A9orique "Modèle:Palette
+Informatique théorique") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Informatique_th%C3%A9orique&action=edit)
+
+[Informatique théorique](/wiki/Informatique_th%C3%A9orique "Informatique
+théorique")  
+  
+---  
+Codage |
+
+  * [Codage de l'information](/wiki/Codage_de_l%27information "Codage de l'information")
+  * [Compression de données](/wiki/Compression_de_donn%C3%A9es "Compression de données")
+  * [Chiffrement](/wiki/Chiffrement "Chiffrement")
+  * [Cryptanalyse](/wiki/Cryptanalyse "Cryptanalyse")
+  * [Cryptographie](/wiki/Cryptographie "Cryptographie")
+  * [Théorie de l'information](/wiki/Th%C3%A9orie_de_l%27information "Théorie de l'information")
+
+  
+  
+Modèles de calcul |
+
+  * [Calculabilité](/wiki/Calculabilit%C3%A9 "Calculabilité")
+  * [Décidabilité et indécidabilité](/wiki/D%C3%A9cidabilit%C3%A9 "Décidabilité")
+  * [Ensemble récursif](/wiki/Ensemble_r%C3%A9cursif "Ensemble récursif")
+  * [Problème de l'arrêt](/wiki/Probl%C3%A8me_de_l%27arr%C3%AAt "Problème de l'arrêt")
+  * [Ensemble récursivement énumérable](/wiki/R%C3%A9cursivement_%C3%A9num%C3%A9rable "Récursivement énumérable")
+  * [Machine de Turing](/wiki/Machine_de_Turing "Machine de Turing")
+  * [Thèse de Church](/wiki/Th%C3%A8se_de_Church "Thèse de Church")
+  * [Automate cellulaire](/wiki/Automate_cellulaire "Automate cellulaire")
+  * [Réseau de neurones artificiels](/wiki/R%C3%A9seau_de_neurones_artificiels "Réseau de neurones artificiels")
+  * [Réduction polynomiale](/wiki/R%C3%A9duction_polynomiale "Réduction polynomiale")
+  * [Problème NP-complet](/wiki/Cat%C3%A9gorie:Probl%C3%A8me_NP-complet "Catégorie:Problème NP-complet")
+  * [Principe de Church-Turing-Deutsch](/wiki/Principe_de_Church-Turing-Deutsch "Principe de Church-Turing-Deutsch")
+
+  
+  
+[Algorithmique](/wiki/Algorithmique "Algorithmique") |
+
+  * [Algorithmique](/wiki/Algorithmique "Algorithmique")
+  * [Algorithme glouton](/wiki/Algorithme_glouton "Algorithme glouton")
+  * [Algorithme probabiliste](/wiki/Algorithme_probabiliste "Algorithme probabiliste")
+  * [Algorithme génétique](/wiki/Algorithme_g%C3%A9n%C3%A9tique "Algorithme génétique")
+  * [Complexité algorithmique](/wiki/Th%C3%A9orie_de_la_complexit%C3%A9_\(informatique_th%C3%A9orique\) "Théorie de la complexité \(informatique théorique\)")
+  * [Analyse d'algorithme](/wiki/Analyse_de_la_complexit%C3%A9_des_algorithmes "Analyse de la complexité des algorithmes")
+  * [Diviser pour régner](/wiki/Diviser_pour_r%C3%A9gner_\(informatique\) "Diviser pour régner \(informatique\)")
+  * [Heuristique](/wiki/Heuristique_\(math%C3%A9matiques\) "Heuristique \(mathématiques\)")
+  * [Programmation dynamique](/wiki/Programmation_dynamique "Programmation dynamique")
+  * [Géométrie algorithmique](/wiki/G%C3%A9om%C3%A9trie_algorithmique "Géométrie algorithmique")
+  * [Algorithmes de tri](/wiki/Algorithme_de_tri "Algorithme de tri")
+  * [Algorithmique du texte](/wiki/Algorithmique_du_texte "Algorithmique du texte")
+  * [Exploration de données](/wiki/Exploration_de_donn%C3%A9es "Exploration de données")
+  * [Science des données](/wiki/Science_des_donn%C3%A9es "Science des données")
+  * [Apprentissage profond](/wiki/Apprentissage_profond "Apprentissage profond")
+  * [Test de primalité](/wiki/Test_de_primalit%C3%A9 "Test de primalité")
+  * [Structure de données](/wiki/Structure_de_donn%C3%A9es "Structure de données")
+  * [Arbre enraciné](/wiki/Arbre_enracin%C3%A9 "Arbre enraciné")
+  * [Concurrence](/wiki/Programmation_concurrente "Programmation concurrente")
+  * [Parallélisme](/wiki/Parall%C3%A9lisme_\(informatique\) "Parallélisme \(informatique\)")
+
+  
+  
+Syntaxe |
+
+  * [Réécriture](/wiki/R%C3%A9%C3%A9criture_\(informatique\) "Réécriture \(informatique\)")
+  * [Compilation](/wiki/Compilateur "Compilateur")
+  * [Expression régulière](/wiki/Expression_r%C3%A9guli%C3%A8re "Expression régulière")
+  * [Grammaire formelle](/wiki/Grammaire_formelle "Grammaire formelle")
+  * [Langage rationnel](/wiki/Langage_rationnel "Langage rationnel")
+  * [Théorie des langages](/wiki/Th%C3%A9orie_des_langages "Théorie des langages")
+  * [Théorie des automates](/wiki/Th%C3%A9orie_des_automates "Théorie des automates")
+  * [Automate fini](/wiki/Automate_fini "Automate fini")
+  * [Automate sur les mots infinis](/wiki/Automate_sur_les_mots_infinis "Automate sur les mots infinis")
+  * [Automate d'arbres](/wiki/Automate_d%27arbres "Automate d'arbres")
+  * [Automate à pile](/wiki/Automate_%C3%A0_pile "Automate à pile")
+  * [Hiérarchie de Chomsky](/wiki/Hi%C3%A9rarchie_de_Chomsky "Hiérarchie de Chomsky")
+  * [Linguistique informatique](/wiki/Linguistique_informatique "Linguistique informatique")
+
+  
+  
+Sémantique |
+
+  * [Interprétation abstraite](/wiki/Interpr%C3%A9tation_abstraite "Interprétation abstraite")
+  * [Méthodes formelles](/wiki/M%C3%A9thode_formelle_\(informatique\) "Méthode formelle \(informatique\)")
+  * [Vérification de modèles](/wiki/V%C3%A9rification_de_mod%C3%A8les "Vérification de modèles")
+  * [Sémantique des langages de programmation](/wiki/S%C3%A9mantique_des_langages_de_programmation "Sémantique des langages de programmation")
+  * [Sémantique dénotationnelle](/wiki/S%C3%A9mantique_d%C3%A9notationnelle "Sémantique dénotationnelle")
+  * [Sémantique axiomatique](/wiki/S%C3%A9mantique_axiomatique "Sémantique axiomatique")
+  * [Sémantique opérationnelle](/wiki/S%C3%A9mantique_op%C3%A9rationnelle "Sémantique opérationnelle")
+
+  
+  
+[Logique mathématique](/wiki/Logique_math%C3%A9matique "Logique mathématique")
+|
+
+  * [Assistant de preuve](/wiki/Assistant_de_preuve "Assistant de preuve")
+  * [Calcul des prédicats](/wiki/Calcul_des_pr%C3%A9dicats "Calcul des prédicats")
+  * [Correspondance de Curry-Howard](/wiki/Correspondance_de_Curry-Howard "Correspondance de Curry-Howard")
+  * [Fonction récursive](/wiki/Fonction_r%C3%A9cursive "Fonction récursive")
+  * [Lambda-calcul](/wiki/Lambda-calcul "Lambda-calcul")
+  * [Théorèmes d'incomplétude de Gödel](/wiki/Th%C3%A9or%C3%A8mes_d%27incompl%C3%A9tude_de_G%C3%B6del "Théorèmes d'incomplétude de Gödel")
+  * [Théorie des types](/wiki/Th%C3%A9orie_des_types "Théorie des types")
+
+  
+  
+[Mathématiques discrètes](/wiki/Math%C3%A9matiques_discr%C3%A8tes
+"Mathématiques discrètes") |
+
+  * Combinatoire
+  * [Algorithme du simplexe](/wiki/Algorithme_du_simplexe "Algorithme du simplexe")
+  * [Optimisation combinatoire](/wiki/Optimisation_combinatoire "Optimisation combinatoire")
+  * [Théorie des graphes](/wiki/Th%C3%A9orie_des_graphes "Théorie des graphes")
+  * [Algorithmes de la théorie des graphes](/wiki/Liste_des_algorithmes_de_la_th%C3%A9orie_des_graphes "Liste des algorithmes de la théorie des graphes")
+  * [Recherche opérationnelle](/wiki/Recherche_op%C3%A9rationnelle "Recherche opérationnelle")
+  * [Théorie de la décision](/wiki/Th%C3%A9orie_de_la_d%C3%A9cision "Théorie de la décision")
+  * [Analyse numérique](/wiki/Analyse_num%C3%A9rique "Analyse numérique")
+
+  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Combinatoire&oldid=171110338](https://fr.wikipedia.org/w/index.php?title=Combinatoire&oldid=171110338)
+».
+
+[Catégorie](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Combinatoire](/wiki/Cat%C3%A9gorie:Combinatoire "Catégorie:Combinatoire")
+
+Catégories cachées :
+
+  * [Article contenant un appel à traduction en anglais](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais "Catégorie:Article contenant un appel à traduction en anglais")
+  * [Page utilisant Lien pour un article existant](/wiki/Cat%C3%A9gorie:Page_utilisant_Lien_pour_un_article_existant "Catégorie:Page utilisant Lien pour un article existant")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Combinatoire "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Combinatoire "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Combinatoire&oldid=171110338 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Combinatoire&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Combinatoire&id=171110338&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q76592 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Combinatoire)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Combinatoire&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Combinatoire&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Combinatorics)
+  * [Wikiversité](https://fr.wikiversity.org/wiki/Combinatoire)
+
+###  Dans d’autres langues
+
+  * [አማርኛ](https://am.wikipedia.org/wiki/%E1%88%A5%E1%8A%90_%E1%8C%A5%E1%88%9D%E1%88%A8%E1%89%B5 "ሥነ ጥምረት — amharique")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D9%83%D9%8A%D8%A8%D8%A7%D8%AA "تركيبات — arabe")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Combinatoria "Combinatoria — asturien")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Kombinatorika "Kombinatorika — azéri")
+  * [Žemaitėška](https://bat-smg.wikipedia.org/wiki/Kuomb%C4%97natuor%C4%97ka "Kuombėnatuorėka — Samogitian")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D1%96%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D1%8B%D0%BA%D0%B0 "Камбінаторыка — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D1%96%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D1%8B%D0%BA%D0%B0 "Камбінаторыка — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0 "Комбинаторика — bulgare")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A7%81%E0%A6%9A%E0%A7%8D%E0%A6%9B-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%A4%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC "গুচ্ছ-বিন্যাসতত্ত্ব — bengali")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Kombinatorika "Kombinatorika — bosniaque")
+  * [Català](https://ca.wikipedia.org/wiki/Combinat%C3%B2ria "Combinatòria — catalan")
+  * [Čeština](https://cs.wikipedia.org/wiki/Kombinatorika "Kombinatorika — tchèque")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0 "Комбинаторика — tchouvache")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Cyfuniadeg "Cyfuniadeg — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/Kombinatorik "Kombinatorik — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Kombinatorik "Kombinatorik — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%A3%CF%85%CE%BD%CE%B4%CF%85%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE "Συνδυαστική — grec")
+  * [English](https://en.wikipedia.org/wiki/Combinatorics "Combinatorics — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Kombinatoriko "Kombinatoriko — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Combinatoria "Combinatoria — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Kombinatoorika "Kombinatoorika — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Konbinatoria "Konbinatoria — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%D8%A7%D8%AA "ترکیبیات — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Kombinatoriikka "Kombinatoriikka — finnois")
+  * [贛語](https://gan.wikipedia.org/wiki/%E7%B5%84%E5%90%88%E6%95%B8%E5%AD%B8 "組合數學 — gan")
+  * [Kriyòl gwiyannen](https://gcr.wikipedia.org/wiki/Konbinatwar "Konbinatwar — créole guyanais")
+  * [Galego](https://gl.wikipedia.org/wiki/Combinatoria "Combinatoria — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%9E%D7%91%D7%99%D7%A0%D7%98%D7%95%D7%A8%D7%99%D7%A7%D7%94 "קומבינטוריקה — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%9A%E0%A4%AF-%E0%A4%B8%E0%A4%82%E0%A4%9A%E0%A4%AF "क्रमचय-संचय — hindi")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Kombinatorika "Kombinatorika — croate")
+  * [Magyar](https://hu.wikipedia.org/wiki/Kombinatorika "Kombinatorika — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%BF%D5%B8%D5%B4%D5%A2%D5%AB%D5%B6%D5%A1%D5%BF%D5%B8%D6%80%D5%AB%D5%AF%D5%A1 "Կոմբինատորիկա — arménien")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Kombinatorika "Kombinatorika — indonésien")
+  * [Ido](https://io.wikipedia.org/wiki/Kombinatoriko "Kombinatoriko — ido")
+  * [Íslenska](https://is.wikipedia.org/wiki/Talningarfr%C3%A6%C3%B0i "Talningarfræði — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Combinatoria "Combinatoria — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E7%B5%84%E5%90%88%E3%81%9B%E6%95%B0%E5%AD%A6 "組合せ数学 — japonais")
+  * [Patois](https://jam.wikipedia.org/wiki/Kambinatuorix "Kambinatuorix — créole jamaïcain")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%9D%E1%83%9B%E1%83%91%E1%83%98%E1%83%9C%E1%83%90%E1%83%A2%E1%83%9D%E1%83%A0%E1%83%98%E1%83%99%E1%83%90 "კომბინატორიკა — géorgien")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0 "Комбинаторика — kazakh")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%A1%B0%ED%95%A9%EB%A1%A0 "조합론 — coréen")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0 "Комбинаторика — kirghize")
+  * [Latina](https://la.wikipedia.org/wiki/Calculus_coniunctionibus "Calculus coniunctionibus — latin")
+  * [Lingua Franca Nova](https://lfn.wikipedia.org/wiki/Combinatoria "Combinatoria — lingua franca nova")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Kombinatorika "Kombinatorika — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Kombinatorika "Kombinatorika — letton")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0 "Комбинаторика — macédonien")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/Kombinatorik "Kombinatorik — malais")
+  * [မြန်မာဘာသာ](https://my.wikipedia.org/wiki/%E1%80%80%E1%80%BD%E1%80%94%E1%80%BA%E1%80%98%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%94%E1%80%90%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%9B%E1%80%85%E1%80%BA "ကွန်ဘိုင်နတိုးရစ် — birman")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Combinatoriek "Combinatoriek — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Kombinatorikk "Kombinatorikk — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Kombinatorikk "Kombinatorikk — norvégien bokmål")
+  * [Polski](https://pl.wikipedia.org/wiki/Kombinatoryka "Kombinatoryka — polonais")
+  * [Português](https://pt.wikipedia.org/wiki/Combinat%C3%B3ria "Combinatória — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/Combinatoric%C4%83 "Combinatorică — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0 "Комбинаторика — russe")
+  * [Саха тыла](https://sah.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0 "Комбинаторика — iakoute")
+  * [Scots](https://sco.wikipedia.org/wiki/Combinatorics "Combinatorics — écossais")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Kombinatorika "Kombinatorika — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/Combinatorics "Combinatorics — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Kombinatorika "Kombinatorika — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Kombinatorika "Kombinatorika — slovène")
+  * [Shqip](https://sq.wikipedia.org/wiki/Kombinatorika "Kombinatorika — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Комбинаторна математика — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/Kombinatorik "Kombinatorik — suédois")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D_\(%E0%AE%95%E0%AE%A3%E0%AE%BF%E0%AE%A4%E0%AE%AE%E0%AF%8D\) "சேர்வியல் \(கணிதம்\) — tamoul")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94 "คณิตศาสตร์เชิงการจัด — thaï")
+  * [Tagalog](https://tl.wikipedia.org/wiki/Kombinatorika "Kombinatorika — tagalog")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Kombinatorik "Kombinatorik — turc")
+  * [Татарча/tatarça](https://tt.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0 "Комбинаторика — tatar")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D1%96%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0 "Комбінаторика — ukrainien")
+  * [اردو](https://ur.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%DB%8C%D9%81%DB%8C%D8%A7%D8%AA "تالیفیات — ourdou")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Kombinatorika "Kombinatorika — ouzbek")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc_t%E1%BB%95_h%E1%BB%A3p "Toán học tổ hợp — vietnamien")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6 "组合数学 — wu")
+  * [ייִדיש](https://yi.wikipedia.org/wiki/%D7%A7%D7%90%D7%9E%D7%91%D7%99%D7%A0%D7%90%D7%98%D7%90%D7%A8%D7%99%D7%A7 "קאמבינאטאריק — yiddish")
+  * [中文](https://zh.wikipedia.org/wiki/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6 "组合数学 — chinois")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E7%B5%84%E5%90%88%E6%95%B8%E5%AD%B8 "組合數學 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q76592#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Combinatoire "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Combinatoire "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Combinatoire "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Combinatoire "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Combinatoire)
+  * [Modifier](/w/index.php?title=Combinatoire&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Combinatoire&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Combinatoire&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 21 mai 2020 à 07:14.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Combinatoire "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Combinatoire&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[XIIe]: 12ᵉ siècle
+  *[XIIIe]: 13ᵉ siècle
+  *[XIVe]: 14ᵉ siècle
+  *[XVIe]: 16ᵉ siècle
+  *[XVIIe]: 17ᵉ siècle
+  *[2e]: Deuxième
+  *[p.]: pages
+  *[(en)]: Langue : anglais
+  *[no]: numéro
+  *[vol.]: volume
+  *[coll.]: collection
+  *[dir.]: directeur de publication
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+

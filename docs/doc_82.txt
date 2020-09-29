@@ -1,0 +1,399 @@
+# Racine cubique
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir
+plus sur les
+bandeaux.](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Aide:Bandeau "Si ce bandeau n'est plus pertinent,
+retirez-le. Cliquez ici pour en savoir plus sur les bandeaux.")
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2017-fr.wp-orange-
+source.svg/45px-2017-fr.wp-orange-source.svg.png)](/wiki/Fichier:2017-fr.wp-
+orange-source.svg)
+
+**Cet article[ne cite pas suffisamment ses
+sources](/wiki/Wikip%C3%A9dia:Citez_vos_sources "Wikipédia:Citez vos
+sources")** (mars 2008).
+
+Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez
+des sites web de qualité traitant du thème abordé ici, merci de compléter
+l'article en donnant les **références utiles à
+sa[vérifiabilité](/wiki/Wikip%C3%A9dia:V%C3%A9rifiabilit%C3%A9
+"Wikipédia:Vérifiabilité")** et en les liant à la section « [Notes et
+références](/wiki/Aide:Ins%C3%A9rer_une_r%C3%A9f%C3%A9rence "Aide:Insérer une
+référence") »
+
+**En pratique :** [Quelles sources sont attendues
+?](/wiki/Wikip%C3%A9dia:Citez_vos_sources#Qualité_des_sources "Wikipédia:Citez
+vos sources") [Comment ajouter mes sources
+?](/wiki/Aide:Ins%C3%A9rer_une_r%C3%A9f%C3%A9rence_\(%C3%89diteur_visuel\)
+"Aide:Insérer une référence \(Éditeur visuel\)")
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cube-
+root_function.svg/220px-Cube-root_function.svg.png)](/wiki/Fichier:Cube-
+root_function.svg)
+
+[](/wiki/Fichier:Cube-root_function.svg "Agrandir")
+
+[Courbe représentative](/wiki/Courbe_repr%C3%A9sentative "Courbe
+représentative") de la fonction racine cubique sur **R**.
+
+En [mathématiques](/wiki/Math%C3%A9matiques "Mathématiques"), la **racine
+cubique** d'un [nombre réel](/wiki/Nombre_r%C3%A9el "Nombre réel") y
+{\displaystyle y}
+![y](https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d)
+est l'unique nombre réel  x {\displaystyle x}
+![x](https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4)
+dont le [cube](/wiki/Cube_\(alg%C3%A8bre\) "Cube \(algèbre\)") (c'est-à-dire
+la [puissance 3e](/wiki/Puissance_d%27un_nombre "Puissance d'un nombre")) vaut
+y {\displaystyle y}
+![y](https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d)
+; en d'autres termes,  y = x 3 = x × x × x {\displaystyle y=x^{3}=x\times
+x\times x} ![y=x^{3}=x\\times x\\times
+x](https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5c5da6deb6f51212cc5af716ac891c2483717a).
+La racine cubique de  y {\displaystyle y}
+![y](https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d)
+est notée  y 3 {\displaystyle {\sqrt[{3}]{y}}} ![{\\sqrt\[
+{3}\]{y}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ab9483e263c52c959955e085a1f93502b8014cb4).
+
+On peut également parler des racines cubiques d'un [nombre
+complexe](/wiki/Nombre_complexe "Nombre complexe").
+
+## Sommaire
+
+  * 1 Définition
+  * 2 Racine cubique d'un nombre réel
+    * 2.1 Exemples
+    * 2.2 Fonction racine cubique
+    * 2.3 Propriétés
+  * 3 Racines cubiques d'un nombre complexe
+  * 4 Symbole Unicode
+  * 5 Note
+  * 6 Voir aussi
+
+##
+Définition[[modifier](/w/index.php?title=Racine_cubique&veaction=edit&section=1
+"Modifier la section : Définition") | [modifier le
+code](/w/index.php?title=Racine_cubique&action=edit&section=1 "Modifier la
+section : Définition")]
+
+De façon générale, on appelle racine cubique d'un nombre (réel ou complexe)  y
+{\displaystyle y}
+![y](https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d)
+tout nombre  x {\displaystyle x}
+![x](https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4)
+solution de l'[équation](/wiki/%C3%89quation "Équation") :
+
+x 3 = y . {\displaystyle x^{3}=y.}
+![x^{3}=y.](https://wikimedia.org/api/rest_v1/media/math/render/svg/53f4956f38c40a147e7758037d78d6bbde2ae4c2)
+
+Si  y {\displaystyle y}
+![y](https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d)
+est réel, cette équation a dans **R** une unique solution, qu'on appelle _la_
+racine cubique du réel  y {\displaystyle y}
+![y](https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d)
+:  x = y 3 {\displaystyle x={\sqrt[{3}]{y}}} ![x={\\sqrt\[
+{3}\]{y}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a3503d157a226b97963ae5843ee0233003fe5fff).
+
+Dans **C** , cette équation a trois solutions distinctes, qui sont _les_
+racines cubiques du complexe  y {\displaystyle y}
+![y](https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d).
+Lorsque ce complexe  y {\displaystyle y}
+![y](https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d)
+est un réel, ces trois solutions sont :  y 3 {\displaystyle {\sqrt[{3}]{y}}}
+![{\\displaystyle
+{\\sqrt\[{3}\]{y}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ab9483e263c52c959955e085a1f93502b8014cb4),
+j y 3 {\displaystyle {\rm {j}}{\sqrt[{3}]{y}}} ![{\\displaystyle {\\rm
+{j}}{\\sqrt\[{3}\]{y}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/76439ff53534c9329af17433fcb58c0c19c766f8)
+et  j ¯ y 3 {\displaystyle {\overline {\rm {j}}}{\sqrt[{3}]{y}}}
+![{\\displaystyle {\\overline {\\rm
+{j}}}{\\sqrt\[{3}\]{y}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/102a53bfc564112518c5c40a75e5445e2216bec7),
+où  y 3 {\displaystyle {\sqrt[{3}]{y}}} ![{\\displaystyle
+{\\sqrt\[{3}\]{y}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ab9483e263c52c959955e085a1f93502b8014cb4)
+est _la_ racine cubique réelle de  y {\displaystyle y}
+![y](https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d)
+et 1, j et j sont les trois racines cubiques de l'unité dans **C**.
+
+## Racine cubique d'un nombre
+réel[[modifier](/w/index.php?title=Racine_cubique&veaction=edit&section=2
+"Modifier la section : Racine cubique d'un nombre réel") | [modifier le
+code](/w/index.php?title=Racine_cubique&action=edit&section=2 "Modifier la
+section : Racine cubique d'un nombre réel")]
+
+###
+Exemples[[modifier](/w/index.php?title=Racine_cubique&veaction=edit&section=3
+"Modifier la section : Exemples") | [modifier le
+code](/w/index.php?title=Racine_cubique&action=edit&section=3 "Modifier la
+section : Exemples")]
+
+La racine cubique de 8 est 2 car 2×2×2 = 8. La racine cubique tient son nom du
+[cube](/wiki/Cube "Cube") : la racine cubique est la longueur de l'arête d'un
+cube dont est donné le [volume](/wiki/Volume "Volume"). On a un volume de 8 et
+une arête de 2 ; on écrit :
+
+     8 3 = 2 {\displaystyle {\sqrt[{3}]{8}}=2} ![{\\displaystyle {\\sqrt\[{3}\]{8}}=2}](https://wikimedia.org/api/rest_v1/media/math/render/svg/1f378331b0d609846c021c1a0bbff0a4fc1755c3).
+
+La racine cubique de –27 est –3 car (–3)×(–3)×(–3) = –27.
+
+     − 27 3 = − 3 {\displaystyle {\sqrt[{3}]{-27}}=-3} ![{\\displaystyle {\\sqrt\[{3}\]{-27}}=-3}](https://wikimedia.org/api/rest_v1/media/math/render/svg/12cda3383e48259bbdc56a4ed9cd9b6b4cd115bb).
+
+### Fonction racine
+cubique[[modifier](/w/index.php?title=Racine_cubique&veaction=edit&section=4
+"Modifier la section : Fonction racine cubique") | [modifier le
+code](/w/index.php?title=Racine_cubique&action=edit&section=4 "Modifier la
+section : Fonction racine cubique")]
+
+Sur **R** , la [fonction](/wiki/Fonction_\(math%C3%A9matiques\) "Fonction
+\(mathématiques\)") racine cubique, notée  3 {\displaystyle {\sqrt[{3}]{~}}}
+![{\\sqrt\[
+{3}\]{~}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/120901a279b15742e06086a205772cf340527bfb),
+est celle qui associe à un nombre réel son unique racine cubique réelle.
+
+Sur l'ensemble des réels strictement positifs, la fonction racine cubique est
+égale à la fonction puissance un tiers[Note 1] :
+
+     ∀ y ∈ R + ∗ y 3 = y 1 3 {\displaystyle \forall y\in \mathbb {R} _{+}^{*}\quad {\sqrt[{3}]{y}}=y^{1 \over 3}} ![{\\displaystyle \\forall y\\in \\mathbb {R} _{+}^{*}\\quad {\\sqrt\[{3}\]{y}}=y^{1 \\over 3}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/5c141daa7233b1e43a42a8eaf3a4483a7425e7d3).
+
+###
+Propriétés[[modifier](/w/index.php?title=Racine_cubique&veaction=edit&section=5
+"Modifier la section : Propriétés") | [modifier le
+code](/w/index.php?title=Racine_cubique&action=edit&section=5 "Modifier la
+section : Propriétés")]
+
+Cette section est vide, insuffisamment détaillée ou incomplète. [Votre
+aide](/wiki/Sp%C3%A9cial:EditPage/Racine_cubique "Spécial:EditPage/Racine
+cubique") est la bienvenue ! [Comment faire
+?](/wiki/Aide:Comment_modifier_une_page "Aide:Comment modifier une page")
+
+  * La racine cubique est associative avec les exposants, distributive avec la multiplication et la division, mais pas avec l'addition et/ou la soustraction.
+  * D'après le [théorème de Wantzel](/wiki/Th%C3%A9or%C3%A8me_de_Wantzel "Théorème de Wantzel"), la racine cubique d'un [nombre rationnel](/wiki/Nombre_rationnel "Nombre rationnel") n'est pas [constructible à la règle et au compas](/wiki/Nombre_constructible "Nombre constructible"), sauf bien sûr si elle est rationnelle. C'est pourquoi le problème de la [duplication du cube](/wiki/Duplication_du_cube "Duplication du cube") n'a pas de solution.
+
+## Racines cubiques d'un nombre
+complexe[[modifier](/w/index.php?title=Racine_cubique&veaction=edit&section=6
+"Modifier la section : Racines cubiques d'un nombre complexe") | [modifier le
+code](/w/index.php?title=Racine_cubique&action=edit&section=6 "Modifier la
+section : Racines cubiques d'un nombre complexe")]
+
+Tout nombre complexe non nul admet trois racines cubiques complexes
+distinctes, [de somme
+nulle](/wiki/Relations_entre_coefficients_et_racines#Exemples "Relations entre
+coefficients et racines"). Si _Z_ est l'une d'elles, les deux autres sont j
+_Z_ et j2 _Z_ , où
+
+1 , j = − 1 + i 3 2 = e i 2 π 3 e t j 2 = j ¯ = − 1 − i 3 2 = e − i 2 π 3
+{\displaystyle 1,\quad {\rm {j}}={\frac {-1+{\rm {i}}{\sqrt {3}}}{2}}={\rm
+{e}}^{{\rm {i}}{\frac {2\pi }{3}}}\quad {\rm {et}}\quad {\rm
+{j}}^{2}={\overline {\rm {j}}}={\frac {-1-{\rm {i}}{\sqrt {3}}}{2}}={\rm
+{e}}^{-{\rm {i}}{\frac {2\pi }{3}}}} ![1,\\quad {{\\rm {j}}}={\\frac
+{-1+{{\\rm {i}}}{\\sqrt  3}}2}={{\\rm {e}}}^{{{{\\rm {i}}}{\\frac  {2\\pi
+}3}}}\\quad {{\\rm {et}}}\\quad {{\\rm {j}}}^{2}=\\overline {{\\rm
+{j}}}={\\frac  {-1-{{\\rm {i}}}{\\sqrt  3}}2}={{\\rm {e}}}^{{-{{\\rm
+{i}}}{\\frac  {2\\pi
+}3}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/277a7aee59ea4ca1da9ef916c62e1142f117c3a3)
+
+sont les trois [racines cubiques de l'unité](/wiki/Racine_de_l%27unit%C3%A9
+"Racine de l'unité").
+
+## Symbole
+Unicode[[modifier](/w/index.php?title=Racine_cubique&veaction=edit&section=7
+"Modifier la section : Symbole Unicode") | [modifier le
+code](/w/index.php?title=Racine_cubique&action=edit&section=7 "Modifier la
+section : Symbole Unicode")]
+
+U+221B ∛ [racine cubique](/wiki/Table_des_caract%C3%A8res_Unicode/U2200 "Table
+des caractères Unicode/U2200") ([HTML](/wiki/Hypertext_Markup_Language
+"Hypertext Markup Language") : `&#8731;`)
+
+## Note[[modifier](/w/index.php?title=Racine_cubique&veaction=edit&section=8
+"Modifier la section : Note") | [modifier le
+code](/w/index.php?title=Racine_cubique&action=edit&section=8 "Modifier la
+section : Note")]
+
+  1. ↑ Comme toute fonction puissance définie en tant que fonction réelle, la fonction puissance 1/3 n'est définie que sur **R** +* : pour tout réel _y_ > 0, _y_ 1/3 est l'[exponentielle de base _y_](/wiki/Exponentielle_de_base_a "Exponentielle de base a") du réel 1/3.
+
+## Voir
+aussi[[modifier](/w/index.php?title=Racine_cubique&veaction=edit&section=9
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Racine_cubique&action=edit&section=9 "Modifier la
+section : Voir aussi")]
+
+Sur les autres projets Wikimedia :
+
+  * [Racine cubique](https://commons.wikimedia.org/wiki/Category:Cubic_root?uselang=fr), sur Wikimedia Commons
+
+  * [Racine carrée](/wiki/Racine_carr%C3%A9e "Racine carrée")
+  * [Racine d'un nombre](/wiki/Racine_d%27un_nombre "Racine d'un nombre")
+  * [Algèbre](/wiki/Alg%C3%A8bre "Algèbre")
+  * [Fonction exponentielle](/wiki/Fonction_exponentielle "Fonction exponentielle")
+  * [Algorithme de calcul de la racine _n_ -ième](/wiki/Algorithme_de_calcul_de_la_racine_n-i%C3%A8me "Algorithme de calcul de la racine n-ième")
+
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Racine_cubique&oldid=156672971](https://fr.wikipedia.org/w/index.php?title=Racine_cubique&oldid=156672971)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Algèbre](/wiki/Cat%C3%A9gorie:Alg%C3%A8bre "Catégorie:Algèbre")
+  * [Racine nième](/wiki/Cat%C3%A9gorie:Racine_ni%C3%A8me "Catégorie:Racine nième")
+  * [3 (nombre)](/wiki/Cat%C3%A9gorie:3_\(nombre\) "Catégorie:3 \(nombre\)")
+  * [Fonction de référence](/wiki/Cat%C3%A9gorie:Fonction_de_r%C3%A9f%C3%A9rence "Catégorie:Fonction de référence")
+
+Catégories cachées :
+
+  * [Article manquant de références depuis mars 2008](/wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences_depuis_mars_2008 "Catégorie:Article manquant de références depuis mars 2008")
+  * [Article manquant de références/Liste complète](/wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences/Liste_compl%C3%A8te "Catégorie:Article manquant de références/Liste complète")
+  * [Article avec une section vide ou incomplète](/wiki/Cat%C3%A9gorie:Article_avec_une_section_vide_ou_incompl%C3%A8te "Catégorie:Article avec une section vide ou incomplète")
+  * [Catégorie Commons avec lien local identique sur Wikidata](/wiki/Cat%C3%A9gorie:Cat%C3%A9gorie_Commons_avec_lien_local_identique_sur_Wikidata "Catégorie:Catégorie Commons avec lien local identique sur Wikidata")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Article de qualité en catalan](/wiki/Cat%C3%A9gorie:Article_de_qualit%C3%A9_en_catalan "Catégorie:Article de qualité en catalan")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Racine_cubique "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Racine_cubique "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Racine_cubique&oldid=156672971 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Racine_cubique&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Racine_cubique&id=156672971&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q1774143 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Racine+cubique)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Racine_cubique&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Racine_cubique&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Cubic_root)
+
+###  Dans d’autres langues
+
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%AC%D8%B0%D8%B1_%D8%AA%D9%83%D8%B9%D9%8A%D8%A8%D9%8A "جذر تكعيبي — arabe")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%B8%D1%87%D0%B5%D0%BD_%D0%BA%D0%BE%D1%80%D0%B5%D0%BD "Кубичен корен — bulgare")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Kubni_korijen "Kubni korijen — bosniaque")
+  * [Català](https://ca.wikipedia.org/wiki/Arrel_c%C3%BAbica "Arrel cúbica — catalan")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Trydydd_isradd "Trydydd isradd — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/Kubikrod "Kubikrod — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Kubikwurzel "Kubikwurzel — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%9A%CF%85%CE%B2%CE%B9%CE%BA%CE%AE_%CF%81%CE%AF%CE%B6%CE%B1 "Κυβική ρίζα — grec")
+  * [English](https://en.wikipedia.org/wiki/Cube_root "Cube root — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Kuba_radiko "Kuba radiko — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/Ra%C3%ADz_c%C3%BAbica "Raíz cúbica — espagnol")
+  * [Euskara](https://eu.wikipedia.org/wiki/Erro_kubo "Erro kubo — basque")
+  * [Suomi](https://fi.wikipedia.org/wiki/Kuutiojuuri "Kuutiojuuri — finnois")
+  * [Galego](https://gl.wikipedia.org/wiki/Ra%C3%ADz_c%C3%BAbica "Raíz cúbica — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%A9%D7%95%D7%A8%D7%A9_%D7%A9%D7%9C%D7%99%D7%A9%D7%99 "שורש שלישי — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%98%E0%A4%A8%E0%A4%AE%E0%A5%82%E0%A4%B2 "घनमूल — hindi")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Kubni_korijen "Kubni korijen — croate")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%BD%D5%B8%D6%80%D5%A1%D5%B6%D5%A1%D6%80%D5%A4_%D5%A1%D5%BD%D5%BF%D5%AB%D5%B3%D5%A1%D5%B6%D5%AB_%D5%A1%D6%80%D5%B4%D5%A1%D5%BF "Խորանարդ աստիճանի արմատ — arménien")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Akar_pangkat_tiga "Akar pangkat tiga — indonésien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%96%B9%E6%A0%B9 "立方根 — japonais")
+  * [ភាសាខ្មែរ](https://km.wikipedia.org/wiki/%E1%9E%9A%E1%9E%B9%E1%9E%9F%E1%9E%82%E1%9E%BC%E1%9E%94 "រឹសគូប — khmer")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Kubin%C4%97_%C5%A1aknis "Kubinė šaknis — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Kubsakne "Kubsakne — letton")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%98%E0%B4%A8%E0%B4%AE%E0%B5%82%E0%B4%B2%E0%B4%82 "ഘനമൂലം — malayalam")
+  * [मराठी](https://mr.wikipedia.org/wiki/%E0%A4%98%E0%A4%A8%E0%A4%AE%E0%A5%82%E0%A4%B3 "घनमूळ — marathi")
+  * [नेपाली](https://ne.wikipedia.org/wiki/%E0%A4%98%E0%A4%A8%E0%A4%AE%E0%A5%82%E0%A4%B2 "घनमूल — népalais")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Derdemachtswortel "Derdemachtswortel — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Kubikkrot "Kubikkrot — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Kubikkrot "Kubikkrot — norvégien bokmål")
+  * [Polski](https://pl.wikipedia.org/wiki/Pierwiastek_sze%C5%9Bcienny "Pierwiastek sześcienny — polonais")
+  * [Português](https://pt.wikipedia.org/wiki/Raiz_c%C3%BAbica "Raiz cúbica — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/R%C4%83d%C4%83cin%C4%83_cubic%C4%83 "Rădăcină cubică — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D1%8C "Кубический корень — russe")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Kubni_koren "Kubni koren — serbo-croate")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%BD%D0%B8_%D0%BA%D0%BE%D1%80%D0%B5%D0%BD "Кубни корен — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/Kubikrot "Kubikrot — suédois")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%A9%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AF%8D "கனமூலம் — tamoul")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%A1 "รากที่สาม — thaï")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D1%96%D0%BD%D1%8C "Кубічний корінь — ukrainien")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/C%C4%83n_b%E1%BA%ADc_ba "Căn bậc ba — vietnamien")
+  * [中文](https://zh.wikipedia.org/wiki/%E7%AB%8B%E6%96%B9%E6%A0%B9 "立方根 — chinois")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E7%AB%8B%E6%96%B9%E6%A0%B9 "立方根 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q1774143#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Racine+cubique "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Racine+cubique "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Racine_cubique "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Racine_cubique "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Racine_cubique)
+  * [Modifier](/w/index.php?title=Racine_cubique&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Racine_cubique&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Racine_cubique&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 12 février 2019 à 03:01.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Racine_cubique "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Racine_cubique&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[3e]: Troisième
+

@@ -1,0 +1,319 @@
+# R
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur la
+paronymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Paronymie "Aide:Paronymie")
+
+Cet article possède un [paronyme](/wiki/Paronymie "Paronymie"), voir
+[ʀ](/wiki/%C6%A6 "Ʀ").
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cette page d’[homonymie](/wiki/Aide:Homonymie "Aide:Homonymie") répertorie les
+différents sujets et articles partageant un même nom.
+
+Significations des lettres  
+de l’[alphabet latin](/wiki/Alphabet_latin "Alphabet latin")  
+---  
+[A](/wiki/A "A") | [B](/wiki/B "B") | [C](/wiki/C "C") | [D](/wiki/D "D") |
+[E](/wiki/E "E") | [F](/wiki/F "F") | [G](/wiki/G "G")  
+[H](/wiki/H "H") | [I](/wiki/I "I") | [J](/wiki/J "J") | [K](/wiki/K "K") |
+[L](/wiki/L "L") | [M](/wiki/M "M") | [N](/wiki/N "N")  
+[O](/wiki/O "O") | [P](/wiki/P "P") | [Q](/wiki/Q "Q") | R | [S](/wiki/S "S")
+| [T](/wiki/T "T") | [U](/wiki/U "U")  
+[V](/wiki/V "V") | [W](/wiki/W "W") | [X](/wiki/X "X") | [Y](/wiki/Y "Y") |
+[Z](/wiki/Z "Z") |  
+  
+Sur les autres projets Wikimedia :
+
+  * [R](https://fr.wiktionary.org/wiki/R "wikt:R"), sur le Wiktionnaire
+
+**R** est la 18e [lettre](/wiki/Lettre_\(typographie\) "Lettre
+\(typographie\)") et la 14e [consonne](/wiki/Consonne "Consonne") de
+l'[alphabet latin](/wiki/Alphabet_latin "Alphabet latin").
+
+Article détaillé : [R (lettre)](/wiki/R_\(lettre\) "R \(lettre\)").
+
+## Sommaire
+
+  * 1 Arts et culture
+    * 1.1 Littérature
+    * 1.2 Cinéma
+    * 1.3 Musique
+  * 2 Sciences et techniques
+    * 2.1 Biologie
+    * 2.2 Mathématiques
+    * 2.3 Informatique
+    * 2.4 Phonétique
+    * 2.5 Physique - Chimie
+    * 2.6 Unités
+  * 3 Divers
+    * 3.1 Vie pratique
+
+## Arts et culture[[modifier](/w/index.php?title=R&veaction=edit&section=1
+"Modifier la section : Arts et culture") | [modifier le
+code](/w/index.php?title=R&action=edit&section=1 "Modifier la section : Arts
+et culture")]
+
+### Littérature[[modifier](/w/index.php?title=R&veaction=edit&section=2
+"Modifier la section : Littérature") | [modifier le
+code](/w/index.php?title=R&action=edit&section=2 "Modifier la section :
+Littérature")]
+
+  * « D'[Ubu](/wiki/Ubu "Ubu") roi, la cinquième lettre du premier mot du premier acte » (à savoir le deuxième **r** de « Merdre ») est un des êtres « élus » que le [Docteur Faustroll](/wiki/Docteur_Faustroll "Docteur Faustroll") d'[Alfred Jarry](/wiki/Alfred_Jarry "Alfred Jarry") emporta dans son voyage.
+  * **R** est le nom de plume sous lequel [Paul Landois](/wiki/Paul_Landois "Paul Landois") a signé les articles « peinture », « sculpture » et « gravure » de l’Encyclopédie de Diderot et D’Alembert
+
+### Cinéma[[modifier](/w/index.php?title=R&veaction=edit&section=3 "Modifier
+la section : Cinéma") | [modifier le
+code](/w/index.php?title=R&action=edit&section=3 "Modifier la section :
+Cinéma")]
+
+  * _**[R](/wiki/R_\(film\) "R \(film\)")**_ est un film danois réalisé par Tobias Lindholm et Michael Noer, et sorti en 2010.
+  * **[R](/wiki/R_\(classification_USA\) "R \(classification USA\)")** est un des niveaux de classification [MPAA](/wiki/MPAA "MPAA") pour les films américains.
+
+### Musique[[modifier](/w/index.php?title=R&veaction=edit&section=4 "Modifier
+la section : Musique") | [modifier le
+code](/w/index.php?title=R&action=edit&section=4 "Modifier la section :
+Musique")]
+
+  * _**[R.](/wiki/R._\(album\) "R. \(album\)")**_ est un album du chanteur de R'n'B R. Kelly
+
+## Sciences et
+techniques[[modifier](/w/index.php?title=R&veaction=edit&section=5 "Modifier
+la section : Sciences et techniques") | [modifier le
+code](/w/index.php?title=R&action=edit&section=5 "Modifier la section :
+Sciences et techniques")]
+
+### Biologie[[modifier](/w/index.php?title=R&veaction=edit&section=6 "Modifier
+la section : Biologie") | [modifier le
+code](/w/index.php?title=R&action=edit&section=6 "Modifier la section :
+Biologie")]
+
+  * La lettre **R** désigne l'[acide aminé](/wiki/Acide_amin%C3%A9 "Acide aminé") [arginine](/wiki/Arginine "Arginine")
+  * nervure radiale, dans le [système Comstock-Needham](/wiki/Syst%C3%A8me_Comstock-Needham "Système Comstock-Needham") de nommage des nervures des ailes des insectes.
+
+### Mathématiques[[modifier](/w/index.php?title=R&veaction=edit&section=7
+"Modifier la section : Mathématiques") | [modifier le
+code](/w/index.php?title=R&action=edit&section=7 "Modifier la section :
+Mathématiques")]
+
+  * Le symbole **ℛ** (majuscule R de ronde, [Unicode](/wiki/Unicode "Unicode") U+211B) représente l'[intégrale de Riemann](/wiki/Int%C3%A9grale_de_Riemann "Intégrale de Riemann")
+  * Le symbole **ℜ** (majuscule R gothique, Unicode U+211C) représente la partie réelle d'un [nombre complexe](/wiki/Nombre_complexe "Nombre complexe")
+  * Le symbole **ℝ** (R majuscule ajouré, Unicode U+211D) ou **R** (lettre R en gras) représente l'ensemble des [nombres réels](/wiki/Nombre_r%C3%A9el "Nombre réel")
+  * **r** ou **R** est souvent utilisé pour désigner le [rayon](/wiki/Rayon_\(g%C3%A9om%C3%A9trie\) "Rayon \(géométrie\)") d'un [cercle](/wiki/Cercle "Cercle") ou d'une [sphère](/wiki/Sph%C3%A8re "Sphère")
+  * On appelle par défaut **r** la [raison d'une suite](/wiki/Raison_d%27une_suite "Raison d'une suite") arithmétique ou géométrique
+
+### Informatique[[modifier](/w/index.php?title=R&veaction=edit&section=8
+"Modifier la section : Informatique") | [modifier le
+code](/w/index.php?title=R&action=edit&section=8 "Modifier la section :
+Informatique")]
+
+  * [R](/wiki/R_\(langage\) "R \(langage\)") est un [langage de programmation et un environnement d'analyse des données statistiques](/wiki/R_\(langage\) "R \(langage\)").
+  * [R](/wiki/IBM_System_R "IBM System R") était un système de gestion base de données d'IBM
+  * En [théorie de la complexité](/wiki/Th%C3%A9orie_de_la_complexit%C3%A9_\(informatique_th%C3%A9orique\) "Théorie de la complexité \(informatique théorique\)"), R est une classe de problème de décision résolubles par une [machine de Turing](/wiki/Machine_de_Turing "Machine de Turing"), c'est l'ensemble des [langages récursifs](/wiki/Langage_r%C3%A9cursif "Langage récursif"). R est équivalent à l'ensemble des [fonctions calculables](/wiki/Fonction_calculable "Fonction calculable").
+
+### Phonétique[[modifier](/w/index.php?title=R&veaction=edit&section=9
+"Modifier la section : Phonétique") | [modifier le
+code](/w/index.php?title=R&action=edit&section=9 "Modifier la section :
+Phonétique")]
+
+  * La lettre R a donné naissance a plusieurs symboles de l'[alphabet phonétique international](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international") : 
+    * [r] représente la [consonne roulée alvéolaire voisée](/wiki/Consonne_roul%C3%A9e_alv%C3%A9olaire_vois%C3%A9e "Consonne roulée alvéolaire voisée").
+    * [ɹ] représente la [consonne spirante alvéolaire voisée](/wiki/Consonne_spirante_alv%C3%A9olaire_vois%C3%A9e "Consonne spirante alvéolaire voisée").
+    * [ɾ] représente la [consonne battue alvéolaire voisée](/wiki/Consonne_battue_alv%C3%A9olaire_vois%C3%A9e "Consonne battue alvéolaire voisée").
+    * [ɽ] représente la [consonne battue rétroflexe voisée](/wiki/Consonne_battue_r%C3%A9troflexe_vois%C3%A9e "Consonne battue rétroflexe voisée").
+    * [ɺ] représente la [consonne battue latérale alvéolaire voisée](/wiki/Consonne_battue_lat%C3%A9rale_alv%C3%A9olaire_vois%C3%A9e "Consonne battue latérale alvéolaire voisée").
+    * [ʀ] représente la [consonne roulée uvulaire voisée](/wiki/Consonne_roul%C3%A9e_uvulaire_vois%C3%A9e "Consonne roulée uvulaire voisée").
+    * [ʁ] représente la [consonne fricative uvulaire voisée](/wiki/Consonne_fricative_uvulaire_vois%C3%A9e "Consonne fricative uvulaire voisée").
+
+### Physique - Chimie[[modifier](/w/index.php?title=R&veaction=edit&section=10
+"Modifier la section : Physique - Chimie") | [modifier le
+code](/w/index.php?title=R&action=edit&section=10 "Modifier la section :
+Physique - Chimie")]
+
+  * **R** est la variable attribuée à la [résistance électrique](/wiki/R%C3%A9sistance_%C3%A9lectrique "Résistance électrique").
+  * **R** est le symbole de la [constante des gaz parfaits](/wiki/Constante_des_gaz_parfaits "Constante des gaz parfaits") (≡ NA·k ≈ 8,314 472×100 ± 1,5×10-5 J·K-1·mol-1).
+  * **r** correspond au coefficient d'anisotropie très utile pour la mise en forme des pièces métalliques
+  * **R** représente un groupe [alkyle](/wiki/Alkyle "Alkyle") quelconque en [chimie organique](/wiki/Chimie_organique "Chimie organique")
+  * **R ☉** est le symbole du [rayon solaire](/wiki/Rayon_solaire "Rayon solaire"), l'unité de longueur conventionnellement utilisée pour exprimer la taille des étoiles.
+
+### Unités[[modifier](/w/index.php?title=R&veaction=edit&section=11 "Modifier
+la section : Unités") | [modifier le
+code](/w/index.php?title=R&action=edit&section=11 "Modifier la section :
+Unités")]
+
+  * **°R** ou **°Ra** est le symbole du degré [Rankine](/wiki/%C3%89chelle_Rankine "Échelle Rankine").
+  * **°R** ou **°Ré** est le symbole du degré [Réaumur](/wiki/%C3%89chelle_R%C3%A9aumur "Échelle Réaumur").
+  * **°R** ou **°Rø** est le symbole du degré [Rømer](/wiki/%C3%89chelle_R%C3%B8mer "Échelle Rømer").
+  * **R** est le symbole du [Röntgen](/wiki/R%C3%B6ntgen "Röntgen").
+  * **R** est le symbole du [Rayleigh](/wiki/Rayleigh_\(unit%C3%A9\) "Rayleigh \(unité\)") (unité de luminance énergétique)
+  * **r** est le symbole de la **révolution** dans les unités de mesure (surtout anglaises) de vitesse angulaire comme la _révolution par seconde (rps)_.
+  * **R** est le symbole de la [résistance thermique](/wiki/R%C3%A9sistance_thermique "Résistance thermique").
+
+## Divers[[modifier](/w/index.php?title=R&veaction=edit&section=12 "Modifier
+la section : Divers") | [modifier le
+code](/w/index.php?title=R&action=edit&section=12 "Modifier la section :
+Divers")]
+
+  * Voir [de R0 à R99](/wiki/Sigles_d%27une_lettre_suivie_de_deux_chiffres#R "Sigles d'une lettre suivie de deux chiffres")
+  * la [lettre russe](/wiki/Alphabet_cyrillique "Alphabet cyrillique") [Я](/wiki/%D0%AF "Я") _(ia)_ ressemble à un R inversé
+
+### Vie pratique[[modifier](/w/index.php?title=R&veaction=edit&section=13
+"Modifier la section : Vie pratique") | [modifier le
+code](/w/index.php?title=R&action=edit&section=13 "Modifier la section : Vie
+pratique")]
+
+  * La lettre **R** représente le [rand](/wiki/Rand_\(monnaie\) "Rand \(monnaie\)"), la monnaie sud-africaine.
+  * Le symbole **®** ([symbole de marque déposée](/wiki/Symbole_de_marque_d%C3%A9pos%C3%A9e "Symbole de marque déposée"), unicode U+00AE) sert à indiquer une [marque déposée](/wiki/Marque_d%C3%A9pos%C3%A9e "Marque déposée") (de l'anglais _registered_ ).
+  * Le symbole monétaire **[₨](/wiki/Alphabet_phon%C3%A9tique_international "Alphabet phonétique international")** (symbole roupie, unicode U+20A8) représente la [roupie](/wiki/Roupie "Roupie").
+  * Le symbole **[℞](/wiki/%E2%84%9E "℞")** (ordonnances, unicode U+211E) représente une [prescription](/wiki/Prescription_\(m%C3%A9decine\) "Prescription \(médecine\)").
+  * Le symbole **[℟](/wiki/%E2%84%9F "℟")** (réponse, [unicode](/wiki/Unicode "Unicode") U+211F) représente une réponse.
+  * La [Mercedes-Benz Classe R](/wiki/Mercedes-Benz_Classe_R "Mercedes-Benz Classe R") est une voiture.
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=R&oldid=170273350](https://fr.wikipedia.org/w/index.php?title=R&oldid=170273350)
+».
+
+[Catégorie](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Homonymie](/wiki/Cat%C3%A9gorie:Homonymie "Catégorie:Homonymie")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/R "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/R "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=R&oldid=170273350 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=R&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=R&id=170273350&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q21068 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=R)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=R&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=R&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [Afrikaans](https://af.wikipedia.org/wiki/R_\(dubbelsinnig\) "R \(dubbelsinnig\) — afrikaans")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/R_\(d%C9%99qiql%C9%99%C5%9Fdirm%C9%99\) "R \(dəqiqləşdirmə\) — azéri")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/R_\(%D0%BD%D0%B5%D0%B0%D0%B4%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D0%B0%D1%81%D1%8C%D1%86%D1%8C\) "R \(неадназначнасьць\) — Belarusian \(Taraškievica orthography\)")
+  * [Català](https://ca.wikipedia.org/wiki/R_\(desambiguaci%C3%B3\) "R \(desambiguació\) — catalan")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/R_\(gwahaniaethu\) "R \(gwahaniaethu\) — gallois")
+  * [Deutsch](https://de.wikipedia.org/wiki/R_\(Begriffskl%C3%A4rung\) "R \(Begriffsklärung\) — allemand")
+  * [English](https://en.wikipedia.org/wiki/R_\(disambiguation\) "R \(disambiguation\) — anglais")
+  * [Español](https://es.wikipedia.org/wiki/R_\(desambiguaci%C3%B3n\) "R \(desambiguación\) — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/R_\(t%C3%A4psustus\) "R \(täpsustus\) — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/R_\(argipena\) "R \(argipena\) — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/R_\(%D8%A7%D8%A8%D9%87%D8%A7%D9%85%E2%80%8C%D8%B2%D8%AF%D8%A7%DB%8C%DB%8C\) "R \(ابهام‌زدایی\) — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/R_\(t%C3%A4smennyssivu\) "R \(täsmennyssivu\) — finnois")
+  * [Nordfriisk](https://frr.wikipedia.org/wiki/R "R — frison du Nord")
+  * [Galego](https://gl.wikipedia.org/wiki/R_\(hom%C3%B3nimos\) "R \(homónimos\) — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%90%D7%A8_\(%D7%A4%D7%99%D7%A8%D7%95%D7%A9%D7%95%D7%A0%D7%99%D7%9D\) "אר \(פירושונים\) — hébreu")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/R_\(%D5%A1%D5%B5%D5%AC_%D5%AF%D5%AB%D6%80%D5%A1%D5%BC%D5%B8%D6%82%D5%B4%D5%B6%D5%A5%D6%80\) "R \(այլ կիրառումներ\) — arménien")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/R_\(disambiguasi\) "R \(disambiguasi\) — indonésien")
+  * [Italiano](https://it.wikipedia.org/wiki/R_\(disambigua\) "R \(disambigua\) — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/R_\(%E6%9B%96%E6%98%A7%E3%81%95%E5%9B%9E%E9%81%BF\) "R \(曖昧さ回避\) — japonais")
+  * [한국어](https://ko.wikipedia.org/wiki/R_\(%EB%8F%99%EC%9D%8C%EC%9D%B4%EC%9D%98\) "R \(동음이의\) — coréen")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/R_\(reik%C5%A1m%C4%97s\) "R \(reikšmės\) — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/R_\(noz%C4%ABmju_atdal%C4%AB%C5%A1ana\) "R \(nozīmju atdalīšana\) — letton")
+  * [Nederlands](https://nl.wikipedia.org/wiki/R "R — néerlandais")
+  * [Polski](https://pl.wikipedia.org/wiki/R_\(ujednoznacznienie\) "R \(ujednoznacznienie\) — polonais")
+  * [Português](https://pt.wikipedia.org/wiki/R_\(desambigua%C3%A7%C3%A3o\) "R \(desambiguação\) — portugais")
+  * [Русский](https://ru.wikipedia.org/wiki/R_\(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F\) "R \(значения\) — russe")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/R_\(rozli%C5%A1ovacia_str%C3%A1nka\) "R \(rozlišovacia stránka\) — slovaque")
+  * [Shqip](https://sq.wikipedia.org/wiki/R "R — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/R "R — serbe")
+  * [Türkçe](https://tr.wikipedia.org/wiki/R_\(anlam_ayr%C4%B1m%C4%B1\) "R \(anlam ayrımı\) — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/R "R — ukrainien")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/R_\(ma%CA%BCnolari\) "R \(maʼnolari\) — ouzbek")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/R_\(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng\) "R \(định hướng\) — vietnamien")
+  * [中文](https://zh.wikipedia.org/wiki/R_\(%E6%B6%88%E6%AD%A7%E7%BE%A9\) "R \(消歧義\) — chinois")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/R_\(%E6%90%9E%E6%B8%85%E6%A5%9A\) "R \(搞清楚\) — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q21068#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=R "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=R "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/R "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:R "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/R)
+  * [Modifier](/w/index.php?title=R&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=R&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=R&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 1 mai 2020 à 01:50.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/R "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=R&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[18e]: Dix-huitième
+  *[14e]: Quatorzième
+

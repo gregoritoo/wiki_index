@@ -1,0 +1,1128 @@
+# Technique
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour l’article homonyme, voir [The Techniques](/wiki/The_Techniques "The
+Techniques").
+
+[![Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir
+plus sur les
+bandeaux.](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Aide:Bandeau "Si ce bandeau n'est plus pertinent,
+retirez-le. Cliquez ici pour en savoir plus sur les bandeaux.")
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2017-fr.wp-orange-
+source.svg/45px-2017-fr.wp-orange-source.svg.png)](/wiki/Fichier:2017-fr.wp-
+orange-source.svg)
+
+**Certaines informations figurant dans cet article ou cette section devraient
+être mieux reliées aux sources mentionnées dans les sections « Bibliographie
+», « Sources » ou « Liens externes »** (mars 2014).
+
+Améliorez sa [vérifiabilité](/wiki/Wikip%C3%A9dia:V%C3%A9rifiabilit%C3%A9
+"Wikipédia:Vérifiabilité") en les [associant par des
+références](/wiki/Mod%C3%A8le:Sources_%C3%A0_lier/Explication "Modèle:Sources
+à lier/Explication") à l'aide d'[appels de notes](/wiki/Aide:Note
+"Aide:Note").
+
+Une **technique** (du grec _τέχνη_ ou [technè](/wiki/Techn%C3%A8 "Technè")[N
+1]) est une méthode ou un ensemble de [méthodes](/wiki/M%C3%A9thode_de_travail
+"Méthode de travail"), notamment dans les
+[métiers](/wiki/M%C3%A9tier_\(activit%C3%A9\) "Métier \(activité\)") manuels
+([menuiserie](/wiki/Menuiserie "Menuiserie"), [art de la forge](/wiki/Forgeron
+"Forgeron"), etc.), où elle est souvent associée à un [savoir-
+faire](/wiki/Savoir-faire "Savoir-faire") [professionnel](/wiki/Profession
+"Profession").
+
+_La_ technique couvre l'ensemble des
+[procédés](/wiki/Proc%C3%A9d%C3%A9_\(technique\) "Procédé \(technique\)") de
+[fabrication](/wiki/Fabrication "Fabrication"), de
+[maintenance](/wiki/Maintenance "Maintenance") et de
+[gestion](/wiki/Sciences_de_gestion "Sciences de gestion"), qui utilisent des
+méthodes issues de connaissances [scientifiques](/wiki/Science "Science") ou
+simplement des méthodes issues du savoir-faire [artisanal](/wiki/Artisanat
+"Artisanat") et [industriel](/wiki/Industrie "Industrie") ; c'est le produit
+de l'ensemble de l'histoire de l'[humanité](/wiki/Humanit%C3%A9 "Humanité").
+On peut alors parler d'[art](/wiki/Art "Art"), dans son sens de « métier »,
+d'« habileté », et de [science appliquée](/wiki/Science_appliqu%C3%A9e
+"Science appliquée").
+
+## Sommaire
+
+  * 1 Étymologie, champ sémantique
+  * 2 Histoire
+  * 3 Technique et économie
+    * 3.1 Moteur de transformation sociale
+    * 3.2 Avancées techniques et avantage compétitif
+  * 4 Histoire sommaire et philosophie
+    * 4.1 Propre de l'homme
+    * 4.2 Éthique
+    * 4.3 Réactions critiques
+    * 4.4 Analyse ellulienne
+    * 4.5 Critique citoyenne
+  * 5 Listes
+    * 5.1 Arts
+      * 5.1.1 Cuisine
+      * 5.1.2 Design
+    * 5.2 Sciences appliquées
+      * 5.2.1 Automatique
+        * 5.2.1.1 Biologie
+        * 5.2.1.2 Chimie
+        * 5.2.1.3 Communication
+        * 5.2.1.4 Géologie
+        * 5.2.1.5 Informatique
+        * 5.2.1.6 Technique d'affichage
+        * 5.2.1.7 Sciences des matériaux
+          * 5.2.1.7.1 Matériaux métalliques
+          * 5.2.1.7.2 Fer et alliages de fer
+          * 5.2.1.7.3 Métaux et alliages non ferreux
+          * 5.2.1.7.4 Matériaux minéraux
+          * 5.2.1.7.5 Matériaux organiques
+          * 5.2.1.7.6 Autres concepts concernant les matériaux
+        * 5.2.1.8 Physique appliquée
+          * 5.2.1.8.1 Mécanique
+          * 5.2.1.8.2 Mécanique industrielle, électrotechnique
+          * 5.2.1.8.3 Généralités
+          * 5.2.1.8.4 Techniques nucléaires
+          * 5.2.1.8.5 = Production, distribution et utilisation de la vapeur =
+          * 5.2.1.8.6 Énergie hydraulique
+          * 5.2.1.8.7 Électrotechnique
+          * 5.2.1.8.8 Moteurs thermiques
+          * 5.2.1.8.9 Technique des fluides
+          * 5.2.1.8.10 Obtention de pièces brutes
+          * 5.2.1.8.11 Composants mécaniques, transmissions, manutention, etc.
+          * 5.2.1.8.12 Finition des pièces mécaniques par enlèvement de matière
+          * 5.2.1.8.13 Mécatronique
+        * 5.2.1.9 Audio
+        * 5.2.1.10 Vidéo
+        * 5.2.1.11 Transport
+  * 6 Notes et références
+    * 6.1 Notes
+    * 6.2 Références
+  * 7 Annexes
+    * 7.1 Articles connexes
+    * 7.2 Bibliographie
+  * 8 Liens externes
+
+## Étymologie, champ
+sémantique[[modifier](/w/index.php?title=Technique&veaction=edit&section=1
+"Modifier la section : Étymologie, champ sémantique") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=1 "Modifier la section
+: Étymologie, champ sémantique")]
+
+Étymologiquement, le mot « technique » est issu du mot grec _τέχνη_ («
+[technè](/wiki/Techn%C3%A8 "Technè") »), qui désigne une « production » ou «
+fabrication matérielle »[1].
+
+Le mot [technologie](/wiki/Technologie "Technologie"), entré dans la [langue
+française](/wiki/Langue_fran%C3%A7aise "Langue française") en
+[1657](/wiki/1657 "1657")[2], signifie étude des techniques (du grec _tekhnè_
+, « technique », et _logos_ , « discours » ou « étude »). La confusion entre
+technique et technologie est courante. Elle est probablement due à une
+mauvaise compréhension du terme [anglais](/wiki/Anglais "Anglais")
+_technology_. Dans un sens dérivé, et par extension, les techniques dont
+l'ensemble crée un domaine industriel nouveau sont nommées technologies.
+Ainsi, quatre « technologies » au moins se sont succédé en
+[informatique](/wiki/Informatique "Informatique") :
+
+  * première génération : [tubes à vide](/wiki/Tubes_%C3%A0_vide "Tubes à vide") et programmation par [câblage](/wiki/C%C3%A2blage_par_fil "Câblage par fil") ;
+  * deuxième génération : [circuits imprimés](/wiki/Circuits_imprim%C3%A9s "Circuits imprimés"), [transistors](/wiki/Transistor "Transistor") et le langage [assembleur](/wiki/Assembleur "Assembleur") ;
+  * troisième génération : [circuits intégrés](/wiki/Circuits_int%C3%A9gr%C3%A9s "Circuits intégrés") et langages dits évolués ;
+  * micro-informatique : [microprocesseurs](/wiki/Microprocesseur "Microprocesseur") et dialogues par [interfaces graphiques](/wiki/Interfaces_graphiques "Interfaces graphiques").
+
+## Histoire[[modifier](/w/index.php?title=Technique&veaction=edit&section=2
+"Modifier la section : Histoire") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=2 "Modifier la section
+: Histoire")]
+
+Article détaillé : [Histoire des techniques](/wiki/Histoire_des_techniques
+"Histoire des techniques").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Light_dispersion_conceptual_waves.gif/220px-
+Light_dispersion_conceptual_waves.gif)](/wiki/Fichier:Light_dispersion_conceptual_waves.gif)
+
+[](/wiki/Fichier:Light_dispersion_conceptual_waves.gif "Agrandir")
+
+Les expériences de [Newton](/wiki/Isaac_Newton "Isaac Newton") à l'aide de
+[prismes](/wiki/Prisme_\(optique\) "Prisme \(optique\)") sont célèbres.
+L'étude de la décomposition de la lumière visible est à l'origine du
+développement des (nombreuses) techniques
+[spectroscopiques](/wiki/Spectroscopie "Spectroscopie").
+
+Au [Moyen Âge](/wiki/Moyen_%C3%82ge "Moyen Âge"), la « [techne](/wiki/Techne
+"Techne") » n'était pas considérée comme un savoir noble, parce qu'elle ne
+s'intéressait qu'au « comment ». On s'intéressait bien davantage à la
+[finalité](/wiki/Finalit%C3%A9 "Finalité") des choses.
+
+L'[époque moderne](/wiki/%C3%89poque_moderne "Époque moderne") va marquer une
+rupture très importante, avec la [révolution
+scientifique](/wiki/R%C3%A9volution_scientifique "Révolution scientifique") du
+XVIIe siècle que l'on appelle quelquefois [révolution
+copernicienne](/wiki/R%C3%A9volution_copernicienne "Révolution
+copernicienne"). [Francis Bacon](/wiki/Francis_Bacon_\(philosophe\) "Francis
+Bacon \(philosophe\)") et [René Descartes](/wiki/Ren%C3%A9_Descartes "René
+Descartes") remettent en cause les fondements de la connaissance hérités de la
+[scolastique](/wiki/Scolastique "Scolastique") médiévale, le premier en
+introduisant la notion de [progrès](/wiki/Progr%C3%A8s "Progrès"), au sens
+technique s'entend, le second en définissant une nouvelle métaphysique fondée
+sur le [sujet](/wiki/Sujet_\(philosophie\) "Sujet \(philosophie\)") pensant (
+_[Cogito ergo sum](/wiki/Cogito_ergo_sum "Cogito ergo sum")_ ), en rupture
+avec la philosophie du [Moyen Âge](/wiki/Moyen_%C3%82ge "Moyen Âge"). Pour
+Descartes, les conséquences d'une telle révolution sont résumées dans ce
+célèbre extrait de la sixième partie du _[Discours de la
+méthode](/wiki/Discours_de_la_m%C3%A9thode "Discours de la méthode")_ :
+
+    « il est possible de parvenir à des connaissances qui soient fort utiles à la vie ; et au lieu de cette [philosophie spéculative](/wiki/Sp%C3%A9culation_\(philosophie\) "Spéculation \(philosophie\)") qu'on enseigne dans les écoles, on en peut trouver une pratique, par laquelle, connaissant la force et les actions du feu, de l'eau, de l'air, des astres, des cieux, et de tous les autres corps qui nous environnent, aussi distinctement que nous connaissons les divers métiers de nos artisans, nous les pourrions employer en même façon à tous les usages auxquels ils sont propres, et ainsi nous rendre comme maîtres et possesseurs de la nature »
+
+La démarche de Descartes consistera alors à partir de la métaphysique pour
+aller vers la physique (et partant les techniques), contrairement à la
+démarche de l'Antiquité et du Moyen Âge qui consistait à partir de la physique
+pour aller vers la métaphysique[3]. Cette démarche a conduit à un
+[paradigme](/wiki/Paradigme "Paradigme") dans lequel le sujet pensant et la
+technique ont une puissance très importante, dans le monde occidental du
+moins.
+
+## Technique et
+économie[[modifier](/w/index.php?title=Technique&veaction=edit&section=3
+"Modifier la section : Technique et économie") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=3 "Modifier la section
+: Technique et économie")]
+
+### Moteur de transformation
+sociale[[modifier](/w/index.php?title=Technique&veaction=edit&section=4
+"Modifier la section : Moteur de transformation sociale") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=4 "Modifier la section
+: Moteur de transformation sociale")]
+
+De nombreux économistes considèrent l'évolution de la technique (le progrès
+technique) comme le moteur de l'évolution de
+l'[économie](/wiki/%C3%89conomie_\(activit%C3%A9_humaine\) "Économie
+\(activité humaine\)") et de la société. Parmi les plus célèbres réflexions
+sur le rôle de la technique figurent celles de [Karl Marx](/wiki/Karl_Marx
+"Karl Marx"), qui considère que l'évolution technique entraîne celle de
+l'économie, ce qui forme l'« infrastructure » de la société. De cette
+infrastructure découlent des rapports de production et des rapports sociaux en
+général, ainsi que des systèmes de valeurs associés, qui forment la «
+superstructure » de la société.
+
+L'économiste [Schumpeter](/wiki/Schumpeter "Schumpeter") a également beaucoup
+travaillé sur le rôle de la technique en économie à travers, notamment, le
+processus de destruction créatrice.
+
+### Avancées techniques et avantage
+compétitif[[modifier](/w/index.php?title=Technique&veaction=edit&section=5
+"Modifier la section : Avancées techniques et avantage compétitif") |
+[modifier le code](/w/index.php?title=Technique&action=edit&section=5
+"Modifier la section : Avancées techniques et avantage compétitif")]
+
+Pour les techniques fondées sur des percées scientifiques récentes, les
+expressions « haute technologie » ou « [nouvelles
+technologies](/wiki/Nouvelles_technologies "Nouvelles technologies") » sont
+employées. Ce domaine peut ou non apporter un [avantage
+compétitif](/wiki/Avantage_comp%C3%A9titif "Avantage compétitif") aux
+entreprises et zones géographiques ([pôle de
+compétence](/wiki/Grappe_industrielle "Grappe industrielle")) qui ont su y
+acquérir une avance : tout dépend du rapport performances/ prix offert par
+l'avance en question, ainsi que de son triangle coûts/ délais/ qualité. Les
+exemples de sociétés ayant pris des faux-départs pour avoir eu trop d'avance
+sur le marché (Viatron, Exidy, Archimedes, AIXtron, etc.) semblent tout aussi
+spectaculaires que celles de sociétés ayant acquis au cours du temps une
+position dominante sans être arrivées pour autant premières chronologiquement
+sur le marché ([IBM](/wiki/International_Business_Machines_Corporation
+"International Business Machines Corporation") face à UNIVAC, par exemple).
+Être le premier procure des avantages mais aussi des risques importants.
+
+Les avantages incluent : l'absence de concurrence, la reconnaissance envers le
+pionnier, développement de l'humanité (satisfactions de ses besoins
+fondamentaux), facilitation de la vie et rapidité. Les inconvénients incluent
+: techniques jeunes et mal connues (il faut « essuyer des plâtres »,
+entreprendre un effort d'information des clients potentiels) ; standards non-
+établis, ce qui peut obliger ensuite à de coûteuses reconversions pour mettre
+sa production en conformité ; lorsque les règles d'évaluation du [retour sur
+investissement](/wiki/Retour_sur_investissement "Retour sur investissement")
+ne sont pas claires, cela peut désavantager des solutions qui s'avéraient
+intéressantes en théorie ; la technologie nouvelle peut être à l'origine de
+pollutions ; certaines technologies peuvent être dangereuses pour l'humanité.
+
+Par exemple :
+
+  * Pour s'être équipée avec _retard_ en lignes téléphoniques, la France a pu se doter rapidement d'un réseau totalement _temporel_ ([multiplexé](/wiki/Multiplexage "Multiplexage")) sans être handicapée par le poids d'un trop important équipement _spatial_ existant.
+  * La forte implantation du [Minitel](/wiki/Minitel "Minitel") en France a pendant plusieurs années retardé l'arrivée massive d'[Internet](/wiki/Internet "Internet") dans les foyers français.
+  * La nécessité d'amortir la très coûteuse technique _à miroir tournant_ pour ses imprimantes à [laser](/wiki/Laser "Laser") a fait perdre à IBM ce marché au profit de [Canon](/wiki/Canon_Inc. "Canon Inc.") et [Xerox](/wiki/Xerox "Xerox") qui sont partis plus tard sur une idée de _diodes laser_ fixes.
+  * Cette même compagnie dut abandonner en cours d'études son _[projet FS](/wiki/Projet_FS "Projet FS")_ qui n'eut que quelques retombées ultérieures sur certains produits dans le cadre des technologies existantes (imprimantes à laser, mémoires de masse à changement automatique, usage généralisé des [bases de données relationnelles](/wiki/Base_de_donn%C3%A9es_relationnelle "Base de données relationnelle") au système de fichiers, etc.).
+  * L'avance de l'Angleterre et de la France dans le domaine du _transport civil supersonique_ avec le superbe et performant [Concorde](/wiki/Concorde_\(avion\) "Concorde \(avion\)"), s'est révélée un échec commercial.
+  * Celle de l'[Europe](/wiki/Europe "Europe") dans le domaine du transport aérien ([Airbus](/wiki/Airbus "Airbus")) ou des lanceurs de [satellites](/wiki/Satellite_artificiel "Satellite artificiel") ([Ariane](/wiki/Fus%C3%A9e_Ariane "Fusée Ariane")) qui ont en revanche constitué de francs succès, peut être remise en cause avec les déboires des débuts de l'[Airbus A380](/wiki/Airbus_A380 "Airbus A380").
+
+L'émergence d'attentes complexes de la [société
+civile](/wiki/Soci%C3%A9t%C3%A9_civile "Société civile"), concernant le
+[développement durable](/wiki/D%C3%A9veloppement_durable "Développement
+durable") et la [responsabilité sociétale des
+entreprises](/wiki/Responsabilit%C3%A9_soci%C3%A9tale_des_entreprises
+"Responsabilité sociétale des entreprises"), se traduit par des critères
+complexes sur trois piliers de performances : économiques, sociales et
+environnementales, auxquels il faut ajouter la [gouvernance](/wiki/Gouvernance
+"Gouvernance"). Ces exigences de [développement
+durable](/wiki/D%C3%A9veloppement_durable "Développement durable") ont été
+transposées depuis une vingtaine d'années dans le concept de [meilleure
+technique disponible](/wiki/Meilleure_technique_disponible "Meilleure
+technique disponible"). Le respect de ces critères permet d'assurer la
+[durabilité](/wiki/Durabilit%C3%A9 "Durabilité") des
+[produits](/wiki/Produit_\(%C3%A9conomie\) "Produit \(économie\)") et
+[services](/wiki/Services_\(%C3%A9conomie\) "Services \(économie\)"), qui est
+susceptible de procurer un [avantage
+compétitif](/wiki/Avantage_comp%C3%A9titif "Avantage compétitif")
+[durable](/wiki/Durable "Durable"), à condition que les règles d'évaluation du
+[retour sur investissement](/wiki/Retour_sur_investissement "Retour sur
+investissement") soient claires.
+
+L'avance technologique ne peut donc en aucun cas être considérée comme la
+_balle d'argent_ qui fait gagner à tous les coups. Elle ne constitue qu'un
+_facteur d'appréciation_ parmi d'autres. L'important est moins de suivre une
+mode (coûteuse vu les investissements) que d'anticiper le moins mal possible
+les besoins actuels et à venir.
+
+## Histoire sommaire et
+philosophie[[modifier](/w/index.php?title=Technique&veaction=edit&section=6
+"Modifier la section : Histoire sommaire et philosophie") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=6 "Modifier la section
+: Histoire sommaire et philosophie")]
+
+Article détaillé : [philosophie de la
+technique](/wiki/Philosophie_de_la_technique "Philosophie de la technique").
+
+### Propre de
+l'homme[[modifier](/w/index.php?title=Technique&veaction=edit&section=7
+"Modifier la section : Propre de l'homme") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=7 "Modifier la section
+: Propre de l'homme")]
+
+La technique s'est développée avec l'humanité et fait partie d'elle. Elle
+constitue d'abord pour l'homme un _instrument de maîtrise_ car elle le libère
+d'un certain nombre de contraintes naturelles : l' _[outil](/wiki/Outil
+"Outil")_ a pour vocation première d'être _[utile](/wiki/Utilit%C3%A9
+"Utilité")_. Mais avec le temps, la technique est également vécue comme un
+instrument de _puissance_ , voire de _[pouvoir](/wiki/Pouvoir_\(sociologie\)
+"Pouvoir \(sociologie\)")_. D'autant qu'elle procure au corps différents
+instruments qui en sont comme les prolongements. Destinées à augmenter ses
+capacités, ces _prothèses_ finissent par relativiser la frontière entre la
+nature et l'artifice.
+
+Au [XVIIe siècle](/wiki/XVIIe_si%C3%A8cle "XVIIe siècle"), la technique
+constitue l'application de la [science](/wiki/Science "Science") et l'homme
+devient de plus en plus conscient de son impact sur le quotidien. Le projet
+[cartésien](/wiki/Ren%C3%A9_Descartes "René Descartes") d'une science
+universelle (« connaissant la force et les actions du feu, de l'eau, de l'air,
+des astres, des cieux qui nous environnent, aussi distinctement que nous
+connaissons les divers métiers de nos artisans ») a fait passer l'humanité
+dans une ère totalement nouvelle, l'homme se perçoit désormais « comme maître
+et possesseur de la nature »[4]. Au [XVIIIe siècle](/wiki/XVIIIe_si%C3%A8cle
+"XVIIIe siècle"), avec la [révolution
+industrielle](/wiki/R%C3%A9volution_industrielle "Révolution industrielle"),
+se produit un essor considérable des techniques qui se traduit par la
+naissance d'un métier nouveau : l'[ingénieur](/wiki/Ing%C3%A9nieur
+"Ingénieur"). Celui-ci transforme littéralement le paysage de l'homme, et par
+conséquent sa façon de voir le monde. Au [XIXe siècle](/wiki/XIXe_si%C3%A8cle
+"XIXe siècle"), le [machinisme](/wiki/Machine "Machine") et
+l'[urbanisme](/wiki/Urbanisme "Urbanisme") constituent les manifestations les
+plus spectaculaires de la technique. [Karl Marx](/wiki/Karl_Marx "Karl Marx")
+est le premier philosophe a pointer les effets pervers de la technique
+(concept d'aliénation). La formule « on n'arrête pas le progrès » signifie que
+la technique semble suivre son propre cours sans véritablement que l'homme en
+maîtrise tous les tenants et les aboutissants. Au [XXe
+siècle](/wiki/XXe_si%C3%A8cle "XXe siècle"), alors que le
+[fordisme](/wiki/Fordisme "Fordisme") et le [taylorisme](/wiki/Taylorisme
+"Taylorisme") transforment radicalement l' _[American Way of
+Life](/wiki/American_way_of_life "American way of life")_ , le cinéaste
+[Charles Chaplin](/wiki/Charlie_Chaplin "Charlie Chaplin") est le premier
+artiste à développer la thèse d'une
+[aliénation](/wiki/Ali%C3%A9nation_\(Marx\) "Aliénation \(Marx\)") de l'homme
+par la technique. Mais c'est surtout un élan totalement
+[technophile](/wiki/Technophilie "Technophilie") qui l'emporte, notamment avec
+les livres et les films de [science-fiction](/wiki/Science-fiction "Science-
+fiction").
+
+Un certain nombre d'intellectuels vont faire de la technique un objet d'étude
+à part entière. Parmi eux, aux États-Unis : l'historien [Lewis
+Mumford](/wiki/Lewis_Mumford "Lewis Mumford") ; en France : le sociologue
+[Jacques Ellul](/wiki/Jacques_Ellul "Jacques Ellul"). Par delà la diversité de
+leurs approches, les questions communes qui les animent sont celle de la place
+du contrôle de la technique par l'homme et également celle de ses finalités :
+la technique se met-elle seulement au service de l'homme (utilité) ou bien
+n'est-elle pas instrumentalisée pour satisfaire sa [volonté de
+puissance](/wiki/Volont%C3%A9_de_puissance "Volonté de puissance") ? Ces
+questions d'ordre [éthique](/wiki/%C3%89thique "Éthique") deviennent cruciales
+à l'orée du [XXIe siècle](/wiki/XXIe_si%C3%A8cle "XXIe siècle") alors qu'aux
+États-Unis le courant philosophique _[transhumaniste](/wiki/Transhumanisme
+"Transhumanisme")_ prend ouvertement position en faveur du remplacement de
+l'homme par une espèce toujours plus améliorée par les moyens techniques : le
+[cyborg](/wiki/Cyborg "Cyborg").
+
+En Allemagne le philosophe [Martin Heidegger](/wiki/Martin_Heidegger "Martin
+Heidegger") élargissant le débat comprend la technique comme un moment de
+l'histoire de la métaphysique. Ici il n'est plus question de débattre du
+contrôle de la technique qui embrasse tous les aspects du monde moderne jusque
+et y compris la compréhension de l'homme par lui-même (voir sur ce sujet un
+article de Wikipédia qui en fait son sujet exclusif : [Heidegger et la
+question de la technique](/wiki/Heidegger_et_la_question_de_la_technique
+"Heidegger et la question de la technique")).
+
+### Éthique[[modifier](/w/index.php?title=Technique&veaction=edit&section=8
+"Modifier la section : Éthique") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=8 "Modifier la section
+: Éthique")]
+
+La [complexité](/wiki/Complexit%C3%A9 "Complexité") échappe aux hommes pris
+individuellement. Nous ne connaissons pas, pour la majorité d'entre nous, le
+fonctionnement interne des instruments que nous utilisons dans notre quotidien
+(voiture, four à micro-ondes, ordinateur, etc.).
+
+Des questions d'ordre moral surgissent :
+
+  * Quel est notre degré de dépendance envers les techniques ?
+  * le [progrès technique](/wiki/Progr%C3%A8s_technique "Progrès technique") est incontestable. Mais, y a-t-il eu un progrès dans d'autres domaines également ? Les problèmes liés à l'humanité demeurent (famine, maladie, guerre). La science a fait des progrès mais ne permet pas de répondre aux questions existentielles ;
+  * Les techniques créent un système de pouvoirs et de clivages. L'[informatique](/wiki/Informatique "Informatique") a facilité la [mondialisation](/wiki/Mondialisation "Mondialisation") en même temps qu'elle a instauré une [fracture numérique](/wiki/Fracture_num%C3%A9rique "Fracture numérique") entre les connectés et les non-connectés : la technique concourt-elle au [progrès](/wiki/Progr%C3%A8s "Progrès") ?
+  * Le rapport de l'homme à la [nature](/wiki/Nature "Nature") n'a-t-il pas changé radicalement depuis la [révolution industrielle](/wiki/R%C3%A9volution_industrielle "Révolution industrielle") ? L'homme n'a-t-il pas tendance à user des techniques pour asseoir une domination absolue de la nature, en surexploitant les [ressources naturelles](/wiki/Ressources_naturelles "Ressources naturelles") ?
+  * Sommes-nous conscients de l'impact des techniques sur notre identité et sur notre avenir ?
+
+### Réactions
+critiques[[modifier](/w/index.php?title=Technique&veaction=edit&section=9
+"Modifier la section : Réactions critiques") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=9 "Modifier la section
+: Réactions critiques")]
+
+Article détaillé : [Technocritique](/wiki/Technocritique "Technocritique").
+
+Le début du [XXe siècle](/wiki/XXe_si%C3%A8cle "XXe siècle") est marqué par un
+ensemble de réactions critiques à l'endroit du [progrès
+technique](/wiki/Progr%C3%A8s_technique "Progrès technique") et, plus
+largement, de la survalorisation de la [rationalité](/wiki/Rationalit%C3%A9
+"Rationalité") sur laquelle repose celui-ci. Les écrivains [Ievgueni
+Zamiatine](/wiki/Ievgueni_Zamiatine "Ievgueni Zamiatine") ( _[Nous
+autres](/wiki/Nous_autres "Nous autres")_ , 1921), [Aldous
+Huxley](/wiki/Aldous_Huxley "Aldous Huxley") ( _[Le Meilleur des
+mondes](/wiki/Le_Meilleur_des_mondes "Le Meilleur des mondes")_ , 1932),
+[Georges Bernanos](/wiki/Georges_Bernanos "Georges Bernanos") ( _[La France
+contre les robots](/wiki/La_France_contre_les_robots "La France contre les
+robots")_ , 1947), [George Orwell](/wiki/George_Orwell "George Orwell") (
+_[1984](/wiki/1984_\(roman\) "1984 \(roman\)")_ , 1949), [Ira
+Levin](/wiki/Ira_Levin "Ira Levin") ( _[Un bonheur
+insoutenable](/wiki/Un_bonheur_insoutenable "Un bonheur insoutenable")_ ,
+1970)... décrivent la société contemporaine comme de plus en plus marquée par
+un [totalitarisme](/wiki/Totalitarisme "Totalitarisme") larvé, caractérisé par
+la suprématie de la technique au nom d'une certaine idée du
+[bonheur](/wiki/Bonheur "Bonheur"). Plusieurs philosophes expriment également
+leurs inquiétudes, notamment [Simone Weil](/wiki/Simone_Weil "Simone Weil") (
+_Réflexions sur l'oppression et la liberté_ , 1934), [Günther
+Anders](/wiki/G%C3%BCnther_Anders "Günther Anders") ( _Die Antiquiertheit des
+Menschen_ , 1956, traduit sous le titre _L'Obsolescence de l'homme_ ), les
+philosophes de l'[École de Francfort](/wiki/%C3%89cole_de_Francfort "École de
+Francfort"). En France, [Jacques Ellul](/wiki/Jacques_Ellul "Jacques Ellul")
+(1912-1994), est probablement le penseur qui a le mieux étudié le phénomène du
+développement de la technique sous un angle [socio-
+anthropologique](/wiki/Socio-anthropologie "Socio-anthropologie").
+
+### Analyse
+ellulienne[[modifier](/w/index.php?title=Technique&veaction=edit&section=10
+"Modifier la section : Analyse ellulienne") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=10 "Modifier la section
+: Analyse ellulienne")]
+
+[Jacques Ellul](/wiki/Jacques_Ellul "Jacques Ellul") considère que la
+technique a changé de statut au fil du [XXe siècle](/wiki/XXe_si%C3%A8cle "XXe
+siècle") : elle a cessé d'être ce qu'elle était depuis toujours, « un vaste
+ensemble de moyens assignés chacun à une fin », pour se muer en « milieu
+environnant à part entière », et elle est désormais un phénomène _autonome_ ,
+échappant de plus en plus au contrôle de l'homme et faisant au contraire peser
+sur lui un grand nombre de déterminations. Qualifiant notre société non pas
+d'industrielle ou de post-industrielle mais de _technicienne_ , Ellul
+l'analyse principalement à travers trois livres : _[La Technique ou l'Enjeu du
+siècle](/wiki/La_Technique_ou_l%27Enjeu_du_si%C3%A8cle "La Technique ou
+l'Enjeu du siècle")_ [5] (1954), _[Le Système
+technicien](/wiki/Le_Syst%C3%A8me_technicien "Le Système technicien")_ [6]
+(1977) et _[Le bluff
+technologique](/w/index.php?title=Le_bluff_technologique&action=edit&redlink=1
+"Le bluff technologique \(page inexistante\)")_ [7] (1988).
+
+L'immense majorité des hommes, explique Ellul, considèrent que la technique
+est neutre, ni bonne ni mauvaise, et que « tout dépend de l'usage que l'on en
+fait ». Or précise-t-il, cette dernière est devenue autonome et véhicule ses
+propres [valeurs](/wiki/Valeur_\(philosophie\) "Valeur \(philosophie\)") (le
+travail, l'utilité, l'efficacité, la croissance économique, le progrès...) en
+les substituant à toutes les anciennes valeurs, qu'elles soient
+[chrétiennes](/wiki/Chr%C3%A9tien "Chrétien") (l'[amour](/wiki/Amour "Amour")
+du prochain), humanistes (la [morale](/wiki/Morale "Morale")) ou républicaines
+(la [liberté](/wiki/Libert%C3%A9 "Liberté"),
+l'[égalité](/wiki/%C3%89galit%C3%A9 "Égalité") et la
+[fraternité](/wiki/Fraternit%C3%A9 "Fraternité")). Tout le problème, conclut
+Ellul, c'est que l'homme a tellement intégré les valeurs portées par la
+technique qu'elles lui semblent aller de soi (il est absolument incapable de
+les remettre en question) tandis que les anciennes, de fait, sont complètement
+dévaluées, « ringardisées ». C'est pourquoi, affirme-t-il, la technique est
+devenue _autonome_ : elle s'impose à l'homme au point qu'elle devient un
+_[système](/wiki/Le_Syst%C3%A8me_technicien "Le Système technicien")_ et qu'il
+développe à son égard un grand nombre d'[addictions](/wiki/Addiction
+"Addiction") (téléphone, automobile, télévision...)[8] et qu'elle finit par
+l'[aliéner](/wiki/Ali%C3%A9nation_\(Marx\) "Aliénation \(Marx\)").
+
+Les conséquences ne peuvent se limiter au registre psychologique, elles
+s'étendent à l'ensemble de la société. Ainsi Ellul considère que « le
+[capitalisme](/wiki/Capitalisme "Capitalisme") est une réalité déjà
+historiquement dépassée. Il peut bien durer un siècle encore, cela n'a pas
+d'intérêt historique. Ce qui est nouveau, significatif et
+[déterminant](/wiki/D%C3%A9terminisme_historique "Déterminisme historique"),
+c'est la technique. »[9]. Ellul ne se considérait pas comme un penseur
+[technophobe](/wiki/Technophobie "Technophobie") car, disait-il, « c'est
+enfantin de dire que l'on est "contre la technique", aussi absurde que de dire
+que [l'on est] opposé à une avalanche de neige ou à un cancer »[10]; « ce
+n'est pas la technique qui nous asservit mais le sacré transféré à la
+technique »[11]. Selon lui, l'homme ne peut recouvrer sa liberté, son
+autonomie par rapport à la technique qu'au prix d'un cheminement spirituel et
+d'une véritable [ascèse](/wiki/Asc%C3%A8se "Ascèse")[12].
+
+### Critique
+citoyenne[[modifier](/w/index.php?title=Technique&veaction=edit&section=11
+"Modifier la section : Critique citoyenne") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=11 "Modifier la section
+: Critique citoyenne")]
+
+Alors que le phénomène de la science est déjà l'objet d'une critique
+conséquente de la part de collectifs citoyens, notamment en France avec les
+associations [Sciences
+citoyennes](http://www.sciencescitoyennes.org%7CFondation) et
+[Vivagora](http://www.vivagora.fr), la critique de la technique reste assez
+marginale, malgré les catastrophes nucléaires de [Tchernobyl](/wiki/Tchernobyl
+"Tchernobyl") et [Fukushima](/wiki/Fukushima_2011 "Fukushima 2011"), par
+exemple, qui mettent en évidence la non-maîtrise de la technique à des niveaux
+de responsabilité élevés. Fondée en 2000, la [Fondation Internet Nouvelle
+Génération](/wiki/Fondation_internet_nouvelle_g%C3%A9n%C3%A9ration "Fondation
+internet nouvelle génération"), dont le site web[13] est fréquenté et reconnu,
+se donne, entre autres missions, celle de « prendre part dans les nouveaux
+débats éthiques et sociétaux » mais elle confine sa réflexion au champ
+d'internet, et non de la technique dans sa globalité[14].
+
+Plus marginal, le collectif [Pièces et main
+d'œuvre](/wiki/Pi%C3%A8ces_et_main_d%27%C5%93uvre "Pièces et main d'œuvre")
+adopte une position radicale : il voit dans les « nouvelles technologies »
+l'avènement prochain d'un contrôle social totalitaire d'autant plus
+considérable que celles-ci ne font pas l'objet d'un débat approfondi. Fondée
+en 2012 sur le mode fédératif, l'association
+[Technologos](http://technologos.fr) est consacrée à l'analyse du phénomène
+technicien depuis les diagnostics de [Jacques Ellul](/wiki/Jacques_Ellul
+"Jacques Ellul"), [Bernard Charbonneau](/wiki/Bernard_Charbonneau "Bernard
+Charbonneau"), [Ivan Illich](/wiki/Ivan_Illich "Ivan Illich"), [Martin
+Heidegger](/wiki/Martin_Heidegger "Martin Heidegger"), [Günther
+Anders](/wiki/G%C3%BCnther_Anders "Günther Anders") et [Hannah
+Arendt](/wiki/Hannah_Arendt "Hannah Arendt"). Ses membres entendent mettre le
+concept d'autonomie de la technique « au centre des grands enjeux politiques
+»[15].
+
+## Listes[[modifier](/w/index.php?title=Technique&veaction=edit&section=12
+"Modifier la section : Listes") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=12 "Modifier la section
+: Listes")]
+
+### Arts[[modifier](/w/index.php?title=Technique&veaction=edit&section=13
+"Modifier la section : Arts") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=13 "Modifier la section
+: Arts")]
+
+#### Cuisine[[modifier](/w/index.php?title=Technique&veaction=edit&section=14
+"Modifier la section : Cuisine") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=14 "Modifier la section
+: Cuisine")]
+
+#### Design[[modifier](/w/index.php?title=Technique&veaction=edit&section=15
+"Modifier la section : Design") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=15 "Modifier la section
+: Design")]
+
+### Sciences
+appliquées[[modifier](/w/index.php?title=Technique&veaction=edit&section=16
+"Modifier la section : Sciences appliquées") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=16 "Modifier la section
+: Sciences appliquées")]
+
+####
+Automatique[[modifier](/w/index.php?title=Technique&veaction=edit&section=17
+"Modifier la section : Automatique") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=17 "Modifier la section
+: Automatique")]
+
+  * [Informatique industrielle](/wiki/Informatique_industrielle "Informatique industrielle") ~ [Informatique embarquée](/wiki/Informatique_embarqu%C3%A9e "Informatique embarquée") ~ [Automate](/wiki/Automate "Automate") ~ [Grafcet](/wiki/Grafcet "Grafcet") ~ [Gemma](/wiki/Gemma_\(automatisme\) "Gemma \(automatisme\)")
+
+#####
+Biologie[[modifier](/w/index.php?title=Technique&veaction=edit&section=18
+"Modifier la section : Biologie") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=18 "Modifier la section
+: Biologie")]
+
+  * [Médecine](/wiki/M%C3%A9decine "Médecine") ~ [Imagerie médicale](/wiki/Imagerie_m%C3%A9dicale "Imagerie médicale") ~ [Radiographie](/wiki/Radiographie "Radiographie") ~ [Biotechnologie](/wiki/Biotechnologie "Biotechnologie") (technologies vertes) ~ [Bioremédiation](/wiki/Biorem%C3%A9diation "Bioremédiation") ~ [Agronomie](/wiki/Agronomie "Agronomie")
+
+##### Chimie[[modifier](/w/index.php?title=Technique&veaction=edit&section=19
+"Modifier la section : Chimie") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=19 "Modifier la section
+: Chimie")]
+
+  * [Pétrochimie](/wiki/P%C3%A9trochimie "Pétrochimie") ~ [Pharmacie](/wiki/Pharmacie "Pharmacie") ~ [Phytosanitaire](/wiki/Phytosanitaire "Phytosanitaire")
+  * [Polymérisation](/wiki/Polym%C3%A9risation "Polymérisation") ~ [Vulcanisation](/wiki/Vulcanisation "Vulcanisation")
+  * [Injection des polymères](/wiki/Injection_des_polym%C3%A8res "Injection des polymères") (qui fait partie de la [plasturgie](/wiki/Plasturgie "Plasturgie"))
+  * [Pile à combustible](/wiki/Pile_%C3%A0_combustible "Pile à combustible")
+
+#####
+Communication[[modifier](/w/index.php?title=Technique&veaction=edit&section=20
+"Modifier la section : Communication") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=20 "Modifier la section
+: Communication")]
+
+  * [Télécommunications](/wiki/T%C3%A9l%C3%A9communications "Télécommunications") ~ [Téléphone](/wiki/T%C3%A9l%C3%A9phone "Téléphone") ~ [Internet](/wiki/Internet "Internet") ~ [Radiodiffusion](/wiki/Radiodiffusion "Radiodiffusion") ~ [Télévision](/wiki/T%C3%A9l%C3%A9vision "Télévision") ~ [Haute définition](/wiki/Haute_d%C3%A9finition "Haute définition") (HD) ~ [Multimédia](/wiki/Multim%C3%A9dia "Multimédia") ~ [Radioamateur](/wiki/Radioamateur "Radioamateur") ~ [Imprimerie](/wiki/Imprimerie "Imprimerie") ~ [livre](/wiki/Livre_\(document\) "Livre \(document\)") ~ [Journal](/wiki/Journal "Journal") ~ (voir aussi [NTIC](/wiki/NTIC "NTIC")) ~ [Satellite](/wiki/Satellite_artificiel "Satellite artificiel")
+
+#####
+Géologie[[modifier](/w/index.php?title=Technique&veaction=edit&section=21
+"Modifier la section : Géologie") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=21 "Modifier la section
+: Géologie")]
+
+  * [Géotechnique](/wiki/G%C3%A9otechnique "Géotechnique")
+
+#####
+Informatique[[modifier](/w/index.php?title=Technique&veaction=edit&section=22
+"Modifier la section : Informatique") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=22 "Modifier la section
+: Informatique")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Calculatrice_solaire.jpg/220px-
+Calculatrice_solaire.jpg)](/wiki/Fichier:Calculatrice_solaire.jpg)
+
+[](/wiki/Fichier:Calculatrice_solaire.jpg "Agrandir")
+
+[Calculatrice](/wiki/Calculatrice "Calculatrice") solaire portable. Un «
+concentré » de technique, à prix dérisoire, dans une dizaine de grammes :
+[cellule photovoltaïque](/wiki/Cellule_photovolta%C3%AFque "Cellule
+photovoltaïque"), [microprocesseur](/wiki/Microprocesseur "Microprocesseur")
+et [afficheur](/wiki/Afficheur_7_segments "Afficheur 7 segments") à [cristaux
+liquides](/wiki/Cristal_liquide "Cristal liquide") ([années
+1980](/wiki/Ann%C3%A9es_1980 "Années 1980")).
+
+  * [Ingénierie informatique](/wiki/Ing%C3%A9nierie_informatique "Ingénierie informatique") ~ [Informatique industrielle](/wiki/Informatique_industrielle "Informatique industrielle") ~ [Génie logiciel](/wiki/G%C3%A9nie_logiciel "Génie logiciel") ~ [Informatique embarquée](/wiki/Informatique_embarqu%C3%A9e "Informatique embarquée") ~ [Micro-informatique](/wiki/Micro-informatique "Micro-informatique") ~ [Réseau informatique](/wiki/R%C3%A9seau_informatique "Réseau informatique") ~ [Internet](/wiki/Internet "Internet") ~ [Ordinateur](/wiki/Ordinateur "Ordinateur") ~ [Électronique numérique](/wiki/%C3%89lectronique_num%C3%A9rique "Électronique numérique") ~ (voir aussi [NTIC](/wiki/NTIC "NTIC"))
+
+##### Technique
+d'affichage[[modifier](/w/index.php?title=Technique&veaction=edit&section=23
+"Modifier la section : Technique d'affichage") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=23 "Modifier la section
+: Technique d'affichage")]
+
+  * [Affichage mécanique](/wiki/Affichage_m%C3%A9canique "Affichage mécanique") ~ [Projection lumineuse](/w/index.php?title=Projection_lumineuse&action=edit&redlink=1 "Projection lumineuse \(page inexistante\)") ~ [Tube cathodique](/wiki/Tube_cathodique "Tube cathodique") (CRT) ~ [Diode électroluminescente](/wiki/Diode_%C3%A9lectroluminescente "Diode électroluminescente") (LED) ~ [Écran à plasma](/wiki/%C3%89cran_%C3%A0_plasma "Écran à plasma") ~ [Écran à cristaux liquides](/wiki/%C3%89cran_%C3%A0_cristaux_liquides "Écran à cristaux liquides") (LCD) ~ [Diode électroluminescente organique](/wiki/Diode_%C3%A9lectroluminescente_organique "Diode électroluminescente organique") (OLED) ~ [Papier électronique](/wiki/Papier_%C3%A9lectronique "Papier électronique")
+
+##### Sciences des
+matériaux[[modifier](/w/index.php?title=Technique&veaction=edit&section=24
+"Modifier la section : Sciences des matériaux") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=24 "Modifier la section
+: Sciences des matériaux")]
+
+###### Matériaux
+métalliques[[modifier](/w/index.php?title=Technique&veaction=edit&section=25
+"Modifier la section : Matériaux métalliques") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=25 "Modifier la section
+: Matériaux métalliques")]
+
+  * [Métallurgie](/wiki/M%C3%A9tallurgie "Métallurgie")
+
+###### Fer et alliages de
+fer[[modifier](/w/index.php?title=Technique&veaction=edit&section=26 "Modifier
+la section : Fer et alliages de fer") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=26 "Modifier la section
+: Fer et alliages de fer")]
+
+  * [Acier](/wiki/Acier "Acier") ~ [Acier inoxydable](/wiki/Acier_inoxydable "Acier inoxydable")
+
+###### Métaux et alliages non
+ferreux[[modifier](/w/index.php?title=Technique&veaction=edit&section=27
+"Modifier la section : Métaux et alliages non ferreux") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=27 "Modifier la section
+: Métaux et alliages non ferreux")]
+
+  * [Cuivre](/wiki/Cuivre "Cuivre") et alliages 
+    * [Laiton](/wiki/Laiton "Laiton")
+    * [Bronze](/wiki/Bronze "Bronze")
+  * [Aluminium](/wiki/Aluminium "Aluminium") et alliages (appelés également alliages légers) 
+    * [Alliages d'aluminium pour corroyage](/wiki/Alliages_d%27aluminium_pour_corroyage "Alliages d'aluminium pour corroyage")
+    * [Alliages d'aluminium pour fonderie](/wiki/Alliages_d%27aluminium_pour_fonderie "Alliages d'aluminium pour fonderie")
+
+###### Matériaux
+minéraux[[modifier](/w/index.php?title=Technique&veaction=edit&section=28
+"Modifier la section : Matériaux minéraux") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=28 "Modifier la section
+: Matériaux minéraux")]
+
+  * [Verres](/wiki/Verre "Verre")
+    * fabrication ~ _floats_
+    * traitements ~ « _glass coating_ »
+  * [Céramiques](/wiki/C%C3%A9ramique "Céramique")
+
+###### Matériaux
+organiques[[modifier](/w/index.php?title=Technique&veaction=edit&section=29
+"Modifier la section : Matériaux organiques") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=29 "Modifier la section
+: Matériaux organiques")]
+
+  * [Bois](/wiki/Bois "Bois")
+  * [Papier](/wiki/Papier "Papier")
+    * [Histoire de la fabrication du papier](/wiki/Papier#Histoire "Papier")
+    * [Caractéristiques mécaniques du papier](/w/index.php?title=Caract%C3%A9ristiques_m%C3%A9caniques_du_papier&action=edit&redlink=1 "Caractéristiques mécaniques du papier \(page inexistante\)")
+    * [Machine à papier](/wiki/Machine_%C3%A0_papier "Machine à papier")
+  * [Plastiques](/wiki/Mati%C3%A8re_plastique "Matière plastique")
+  * [Textiles](/wiki/Textile "Textile")
+  * [Élastomères](/wiki/%C3%89lastom%C3%A8re "Élastomère")
+  * [Composites](/wiki/Mat%C3%A9riau_composite "Matériau composite")
+
+###### Autres concepts concernant les
+matériaux[[modifier](/w/index.php?title=Technique&veaction=edit&section=30
+"Modifier la section : Autres concepts concernant les matériaux") | [modifier
+le code](/w/index.php?title=Technique&action=edit&section=30 "Modifier la
+section : Autres concepts concernant les matériaux")]
+
+  * [Matériaux utilisables pour le frottement](/wiki/Tribologie "Tribologie")
+  * [Nanomatériau](/wiki/Nanomat%C3%A9riau "Nanomatériau")
+
+##### Physique
+appliquée[[modifier](/w/index.php?title=Technique&veaction=edit&section=31
+"Modifier la section : Physique appliquée") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=31 "Modifier la section
+: Physique appliquée")]
+
+  * [Électronique](/wiki/%C3%89lectronique "Électronique") ~ [Électricité](/wiki/%C3%89lectricit%C3%A9 "Électricité") ~ [Électrotechnique](/wiki/%C3%89lectrotechnique "Électrotechnique") ~ [Production d'électricité](/wiki/Production_d%27%C3%A9lectricit%C3%A9 "Production d'électricité")
+  * [Optique](/wiki/Optique "Optique")
+
+######
+Mécanique[[modifier](/w/index.php?title=Technique&veaction=edit&section=32
+"Modifier la section : Mécanique") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=32 "Modifier la section
+: Mécanique")]
+
+  * [Rhéologie](/wiki/Rh%C3%A9ologie "Rhéologie") ~ [Tribologie, frottement, usure, lubrification](/wiki/Tribologie "Tribologie")
+  * [Amortissement](/wiki/Amortissement_physique "Amortissement physique")
+
+###### Mécanique industrielle,
+électrotechnique[[modifier](/w/index.php?title=Technique&veaction=edit&section=33
+"Modifier la section : Mécanique industrielle, électrotechnique") | [modifier
+le code](/w/index.php?title=Technique&action=edit&section=33 "Modifier la
+section : Mécanique industrielle, électrotechnique")]
+
+######
+Généralités[[modifier](/w/index.php?title=Technique&veaction=edit&section=34
+"Modifier la section : Généralités") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=34 "Modifier la section
+: Généralités")]
+
+  * [Ajustement](/wiki/Ajustement_\(m%C3%A9canique\) "Ajustement \(mécanique\)") ~ [Isostatisme](/wiki/Isostatisme "Isostatisme")
+
+###### Techniques
+nucléaires[[modifier](/w/index.php?title=Technique&veaction=edit&section=35
+"Modifier la section : Techniques nucléaires") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=35 "Modifier la section
+: Techniques nucléaires")]
+
+  * [Centrale nucléaire](/wiki/Centrale_nucl%C3%A9aire "Centrale nucléaire") ~ [Moteur atomique](/wiki/Moteur_atomique "Moteur atomique")
+
+###### = Production, distribution et utilisation de la vapeur
+=[[modifier](/w/index.php?title=Technique&veaction=edit&section=36 "Modifier
+la section : = Production, distribution et utilisation de la vapeur =") |
+[modifier le code](/w/index.php?title=Technique&action=edit&section=36
+"Modifier la section : = Production, distribution et utilisation de la vapeur
+=")]
+
+  * [Machine à vapeur](/wiki/Machine_%C3%A0_vapeur "Machine à vapeur")
+
+###### Énergie
+hydraulique[[modifier](/w/index.php?title=Technique&veaction=edit&section=37
+"Modifier la section : Énergie hydraulique") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=37 "Modifier la section
+: Énergie hydraulique")]
+
+  * [Énergie pneumatique](/wiki/%C3%89nergie_pneumatique "Énergie pneumatique") ~ [Turbine](/wiki/Turbine "Turbine")
+
+######
+Électrotechnique[[modifier](/w/index.php?title=Technique&veaction=edit&section=38
+"Modifier la section : Électrotechnique") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=38 "Modifier la section
+: Électrotechnique")]
+
+  * [Centrale électrique](/wiki/Centrale_%C3%A9lectrique "Centrale électrique") ~ [Pile à combustible](/wiki/Pile_%C3%A0_combustible "Pile à combustible") ~ [Alimentation électrique](/wiki/Alimentation_%C3%A9lectrique "Alimentation électrique") ~ [Éclairage](/wiki/%C3%89clairage "Éclairage") ~ [Électroménager](/wiki/%C3%89lectrom%C3%A9nager "Électroménager") ([Four à micro-ondes](/wiki/Four_%C3%A0_micro-ondes "Four à micro-ondes")...) ~ [Moteur électrique](/wiki/Moteur_%C3%A9lectrique "Moteur électrique") ~ [Générateur électrique](/wiki/G%C3%A9n%C3%A9rateur_%C3%A9lectrique "Générateur électrique") ~ [Protection électrique](/wiki/Protection_%C3%A9lectrique "Protection électrique")
+
+###### Moteurs
+thermiques[[modifier](/w/index.php?title=Technique&veaction=edit&section=39
+"Modifier la section : Moteurs thermiques") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=39 "Modifier la section
+: Moteurs thermiques")]
+
+  * [Moteur à combustion interne](/wiki/Moteur_%C3%A0_combustion_interne "Moteur à combustion interne") ~ [Moteur à combustion externe](/wiki/Moteur_%C3%A0_combustion_externe "Moteur à combustion externe") ~ [Moteur à réaction](/wiki/Moteur_%C3%A0_r%C3%A9action "Moteur à réaction")
+  * [Réfrigérateur](/wiki/R%C3%A9frig%C3%A9rateur "Réfrigérateur") ~ [Technologie du vide](/wiki/Technologie_du_vide "Technologie du vide")
+
+###### Technique des
+fluides[[modifier](/w/index.php?title=Technique&veaction=edit&section=40
+"Modifier la section : Technique des fluides") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=40 "Modifier la section
+: Technique des fluides")]
+
+  * [Pompes](/wiki/Pompe "Pompe")
+
+###### Obtention de pièces
+brutes[[modifier](/w/index.php?title=Technique&veaction=edit&section=41
+"Modifier la section : Obtention de pièces brutes") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=41 "Modifier la section
+: Obtention de pièces brutes")]
+
+  * [Emboutissage](/wiki/Emboutissage "Emboutissage") ~ [Extrusion](/wiki/Extrusion "Extrusion") ~ [Fonderie](/wiki/Fonderie "Fonderie") ~ [Forge](/wiki/Forge_\(m%C3%A9tallurgie\) "Forge \(métallurgie\)") ~ [Frittage](/wiki/Frittage "Frittage") ~ [Moulage](/wiki/Moulage "Moulage") ~ [Soudage](/wiki/Soudage "Soudage") ~ [Traitement thermique](/wiki/Traitement_thermique "Traitement thermique") ~ [Traitement de surface](/wiki/Traitement_de_surface "Traitement de surface") ~ [Filage](/wiki/Filage_\(m%C3%A9tallurgie\) "Filage \(métallurgie\)")
+
+###### Composants mécaniques, transmissions, manutention,
+etc.[[modifier](/w/index.php?title=Technique&veaction=edit&section=42
+"Modifier la section : Composants mécaniques, transmissions, manutention,
+etc.") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=42 "Modifier la section
+: Composants mécaniques, transmissions, manutention, etc.")]
+
+  * [Ajustage](/wiki/Ajustage_\(m%C3%A9canique\) "Ajustage \(mécanique\)")
+  * [Assemblage](/wiki/Assemblage_\(m%C3%A9canique\) "Assemblage \(mécanique\)")
+  * **[Assemblage mécanique](/wiki/Assemblage_m%C3%A9canique "Assemblage mécanique")** : [anneau élastique](/wiki/Anneau_%C3%A9lastique "Anneau élastique") ~ [frettage](/wiki/Frettage "Frettage")
+  * [Ressort](/wiki/Ressort "Ressort")
+
+###### Finition des pièces mécaniques par enlèvement de
+matière[[modifier](/w/index.php?title=Technique&veaction=edit&section=43
+"Modifier la section : Finition des pièces mécaniques par enlèvement de
+matière") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=43 "Modifier la section
+: Finition des pièces mécaniques par enlèvement de matière")]
+
+  * [Usinage](/wiki/Usinage "Usinage") ~ [Tournage](/wiki/Tournage_m%C3%A9canique "Tournage mécanique") ~ [Fraisage](/wiki/Fraisage "Fraisage") ~ [Filetage](/wiki/Filetage "Filetage")
+
+######
+Mécatronique[[modifier](/w/index.php?title=Technique&veaction=edit&section=44
+"Modifier la section : Mécatronique") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=44 "Modifier la section
+: Mécatronique")]
+
+(Liens : [Mécanique](/wiki/M%C3%A9canique_\(industrie\) "Mécanique
+\(industrie\)") et [Électronique](/wiki/%C3%89lectronique "Électronique"))
+
+  * [Capteur](/wiki/Capteur "Capteur") ~ [Détecteur](/wiki/D%C3%A9tecteur "Détecteur") ~ [Transducteur](/wiki/Transducteur "Transducteur") ~ [Actionneur](/wiki/Actionneur "Actionneur") ~ [Effecteur](/wiki/Effecteur "Effecteur")
+
+##### Audio[[modifier](/w/index.php?title=Technique&veaction=edit&section=45
+"Modifier la section : Audio") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=45 "Modifier la section
+: Audio")]
+
+  * [Radiodiffusion](/wiki/Radiodiffusion "Radiodiffusion")
+  * Supports d'[enregistrement sonore](/wiki/Enregistrement_sonore "Enregistrement sonore") ([cylindre phonographique](/wiki/Cylindre_phonographique "Cylindre phonographique"), [disque microsillon](/wiki/Disque_microsillon "Disque microsillon"), [cassette](/wiki/Cassette_\(support_de_stockage\) "Cassette \(support de stockage\)"), [DAT](/wiki/Digital_Audio_Tape "Digital Audio Tape"), [MiniDisc](/wiki/MiniDisc "MiniDisc"), [CD](/wiki/Disque_compact "Disque compact"), [SACD](/wiki/Super_Audio_CD "Super Audio CD"), [disque dur](/wiki/Disque_dur "Disque dur"), [clé USB](/wiki/Cl%C3%A9_USB "Clé USB"), etc.)
+  * [Formats audio](/wiki/Format_audio "Format audio") ([MP3](/wiki/MPEG-1/2_Audio_Layer_3 "MPEG-1/2 Audio Layer 3"), [Ogg](/wiki/Ogg "Ogg"), AAC, WMA, AIF, WAV, CDA, AIFF, [MIDI](/wiki/MIDI "MIDI"), Hi-Fi, DDD-ADD-AAD, stéréo-mono, la [FM](/wiki/Modulation_de_fr%C3%A9quence "Modulation de fréquence"), etc.)
+  * [Connectique](/wiki/Connectique "Connectique") audio ([HDMI](/wiki/High-Definition_Multimedia_Interface "High-Definition Multimedia Interface"), cinch-RCA-ligne, XLR-canon, jack, DIN-midi, etc.)
+  * [Synthétiseur](/wiki/Synth%C3%A9tiseur "Synthétiseur")
+
+##### Vidéo[[modifier](/w/index.php?title=Technique&veaction=edit&section=46
+"Modifier la section : Vidéo") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=46 "Modifier la section
+: Vidéo")]
+
+En audio, vidéo, et dans de nombreux secteurs, la technologie
+[numérique](/wiki/Num%C3%A9rique "Numérique") remplace progressivement
+l'[analogique](/wiki/Analogique "Analogique") depuis plusieurs années.
+
+  * Standards analogiques [SÉCAM](/wiki/S%C3%89CAM "SÉCAM"), [PAL](/wiki/Phase_Alternated_Line "Phase Alternated Line")...
+  * [TNT](/wiki/T%C3%A9l%C3%A9vision_num%C3%A9rique_terrestre "Télévision numérique terrestre") ~ [TNT HD](/wiki/TNT_HD "TNT HD") ~ [Télévision par câble](/wiki/T%C3%A9l%C3%A9vision_par_c%C3%A2ble "Télévision par câble")
+  * [Haute définition](/wiki/Haute_d%C3%A9finition "Haute définition") (HD)
+  * Support vidéo : [disque Blu-ray](/wiki/Disque_Blu-ray "Disque Blu-ray")...
+
+#####
+Transport[[modifier](/w/index.php?title=Technique&veaction=edit&section=47
+"Modifier la section : Transport") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=47 "Modifier la section
+: Transport")]
+
+  * [Automobile](/wiki/Automobile "Automobile") ~ [Aviation](/wiki/Aviation "Aviation") ~ [Aéronautique](/wiki/A%C3%A9ronautique "Aéronautique") ~ [Transport ferroviaire](/wiki/Transport_ferroviaire "Transport ferroviaire") ~ [Escalier mécanique](/wiki/Escalier_m%C3%A9canique "Escalier mécanique") ~[Tapis roulant](/wiki/Tapis_roulant_\(transport\) "Tapis roulant \(transport\)") ~[Ascenseur](/wiki/Ascenseur "Ascenseur") ~ [Véhicule propre](/wiki/V%C3%A9hicule_propre "Véhicule propre") ~ [Logistique](/wiki/Logistique "Logistique") ~ [Marine marchande](/wiki/Marine_marchande "Marine marchande") ~ [Transport maritime](/wiki/Transport_maritime "Transport maritime")
+
+## Notes et
+références[[modifier](/w/index.php?title=Technique&veaction=edit&section=48
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=48 "Modifier la section
+: Notes et références")]
+
+### Notes[[modifier](/w/index.php?title=Technique&veaction=edit&section=49
+"Modifier la section : Notes") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=49 "Modifier la section
+: Notes")]
+
+  1. ↑ Voir la section #Étymologie)
+
+###
+Références[[modifier](/w/index.php?title=Technique&veaction=edit&section=50
+"Modifier la section : Références") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=50 "Modifier la section
+: Références")]
+
+  1. ↑ [Encyclopedia Universalis, la « technè » grecque](http://www.universalis.fr/encyclopedie/technique/1-le-sens-de-la-technique/).
+  2. ↑ Petit Robert 2009
+  3. ↑ Henri Gouhier, _La pensée religieuse de Descartes_
+  4. ↑ _[Discours de la méthode](/wiki/Discours_de_la_m%C3%A9thode "Discours de la méthode")_ , sixième partie
+  5. ↑ Jacques Ellul, [La technique : ou L'enjeu du siècle](/wiki/La_Technique_ou_l%27Enjeu_du_si%C3%A8cle "La Technique ou l'Enjeu du siècle"), Paris, Économica, coll. « Classiques des sciences sociales », 2008 (1re éd. 1952), 423 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-717-81563-4](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-717-81563-4 "Spécial:Ouvrages de référence/978-2-717-81563-4"), [OCLC](/wiki/Online_Computer_Library_Center "Online Computer Library Center") [836138627](https://worldcat.org/oclc/836138627&lang=fr))
+  6. ↑ Jacques Ellul (préf. Jean-Luc Porquet), Le système technicien, Paris, Le Cherche Midi, coll. « Documents », 2012, 343 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-749-12371-4](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-749-12371-4 "Spécial:Ouvrages de référence/978-2-749-12371-4"))
+  7. ↑ [Jacques Ellul](/wiki/Jacques_Ellul "Jacques Ellul") (préf. Jean-Luc Porquet), Le bluff technologique, Paris, Pluriel, coll. « Pluriel », 2010, 748 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-818-50227-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-818-50227-3 "Spécial:Ouvrages de référence/978-2-818-50227-3"), [OCLC](/wiki/Online_Computer_Library_Center "Online Computer Library Center") [807371957](https://worldcat.org/oclc/807371957&lang=fr))
+  8. ↑ Ellul est mort en 1994, avant l'avènement d'internet et de la téléphonie mobile
+  9. ↑ (de) [Jacques Ellul](/wiki/Jacques_Ellul "Jacques Ellul"), A temps et à contretemps : entretiens avec Madeleine Garrigou-Lagrange, Paris, Le Centurion, coll. « Interviews. », 1981, 209 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-227-32025-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-227-32025-3 "Spécial:Ouvrages de référence/978-2-227-32025-3"), [OCLC](/wiki/Online_Computer_Library_Center "Online Computer Library Center") [729574352](https://worldcat.org/oclc/729574352&lang=fr)), p. 155
+  10. ↑ Jacques Ellul, Le bluff technologique, Paris, Hachette Littératures, coll. « Pluriel », 2004 (1re éd. 1988), 748 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-012-79211-1](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-012-79211-1 "Spécial:Ouvrages de référence/978-2-012-79211-1")), p. 20
+  11. ↑ Jacques Ellul, Les nouveaux possédés, Paris, Mille et une nuits, 2003, 2e éd., 316 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-842-05782-4](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-842-05782-4 "Spécial:Ouvrages de référence/978-2-842-05782-4"))
+  12. ↑ Jacques Ellul, _Éthique de la liberté_ , trois volumes, 1973, 1974 et 1983, Genève, Labor et Fides
+  13. ↑ <http://fing.org>
+  14. ↑ On retrouve cette tendance dans l'émission [Place de la Toile](/wiki/Place_de_la_toile "Place de la toile"), animée par [Xavier de La Porte](/wiki/Xavier_de_La_Porte "Xavier de La Porte") et diffusée chaque samedi à 18f sur [France Culture](/wiki/France_Culture "France Culture").
+  15. ↑ <http://technologos.fr/documents/manifeste.pdf>
+
+## Annexes[[modifier](/w/index.php?title=Technique&veaction=edit&section=51
+"Modifier la section : Annexes") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=51 "Modifier la section
+: Annexes")]
+
+Sur les autres projets Wikimedia :
+
+  * [technique](https://fr.wiktionary.org/wiki/technique "wikt:technique"), sur le Wiktionnaire
+
+### Articles
+connexes[[modifier](/w/index.php?title=Technique&veaction=edit&section=52
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=52 "Modifier la section
+: Articles connexes")]
+
+  * [Anthropologie des techniques](/wiki/Anthropologie_des_techniques "Anthropologie des techniques")
+  * [Connaissance technique](/wiki/Connaissance_technique "Connaissance technique")
+  * [Histoire des techniques](/wiki/Histoire_des_techniques "Histoire des techniques")
+  * [Progrès technique](/wiki/Progr%C3%A8s_technique "Progrès technique")
+  * [Révolution numérique](/wiki/R%C3%A9volution_num%C3%A9rique "Révolution numérique")
+  * [Système technique](/wiki/Syst%C3%A8me_technique "Système technique")
+  * _[Techniques et culture](/wiki/Techniques_et_culture "Techniques et culture")_ (revue)
+  * [Technologie](/wiki/Technologie "Technologie")
+  * [Technocratie](/wiki/Technocratie_\(plan\) "Technocratie \(plan\)")
+  * [La puissance du rationnel](/wiki/La_puissance_du_rationnel "La puissance du rationnel")
+  * [Technocritique](/wiki/Technocritique "Technocritique")
+  * [Technoscience](/wiki/Technoscience "Technoscience")
+  * [Heidegger et la question de la technique](/wiki/Heidegger_et_la_question_de_la_technique "Heidegger et la question de la technique")
+
+###
+Bibliographie[[modifier](/w/index.php?title=Technique&veaction=edit&section=53
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=53 "Modifier la section
+: Bibliographie")]
+
+  * [Lewis Mumford](/wiki/Lewis_Mumford "Lewis Mumford"), _Technics and Civilization_ , 1934. Traduction française : _Technique et Civilisation_ , Paris, Le Seuil, 1976.
+  * [Martin Heidegger](/wiki/Martin_Heidegger "Martin Heidegger"), _Die Technik und die Kehre_ , 1953. Traduction française : _La question de la technique_ in _Essais et conférences_ , Paris, Gallimard, 1954.
+  * [Jacques Ellul](/wiki/Jacques_Ellul "Jacques Ellul"), [La technique : ou L'enjeu du siècle](/wiki/La_Technique_ou_l%27Enjeu_du_si%C3%A8cle "La Technique ou l'Enjeu du siècle"), Paris, Économica, coll. « Classiques des sciences sociales », 2008 (1re éd. 1952), 423 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-717-81563-4](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-717-81563-4 "Spécial:Ouvrages de référence/978-2-717-81563-4"), [OCLC](/wiki/Online_Computer_Library_Center "Online Computer Library Center") [836138627](https://worldcat.org/oclc/836138627&lang=fr)).
+  * [Gilbert Simondon](/wiki/Gilbert_Simondon "Gilbert Simondon"), Du mode d'existence des objets techniques, Paris, Aubier, coll. « philosophie », 2001, 333 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-700-73414-0](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-700-73414-0 "Spécial:Ouvrages de référence/978-2-700-73414-0")).
+  * [Hannah Arendt](/wiki/Hannah_Arendt "Hannah Arendt") (trad. de l'anglais par Georges Fradier, préf. Paul Ricoeur), [Condition de l'homme moderne](/wiki/Condition_de_l%27homme_moderne "Condition de l'homme moderne") [« The Human Condition »], Paris, Calmann-Lévy, coll. « Pocket », 1988 (réimpr. 1992), 406 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-266-12649-6](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-266-12649-6 "Spécial:Ouvrages de référence/978-2-266-12649-6")).
+  * [Jürgen Habermas](/wiki/J%C3%BCrgen_Habermas "Jürgen Habermas"), _Technik und Wissenschaft als « Ideologie »_, 1968. Traduction française : Jürgen Habermas (trad. de l'allemand par Jean-René Ladmiral), La technique et la science comme "idéologie" [« Technik und Wissenschaft als "Ideologie". »], Paris, Gallimard, coll. « Tel » (no 161), 1973 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-070-71942-6](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-070-71942-6 "Spécial:Ouvrages de référence/978-2-070-71942-6")).
+  * [Jacques Ellul](/wiki/Jacques_Ellul "Jacques Ellul") (préf. Jean-Luc Porquet), Le système technicien, Paris, Le Cherche Midi, coll. « Documents », 2004, 337 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-749-10244-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-749-10244-3 "Spécial:Ouvrages de référence/978-2-749-10244-3")).
+  * [Jean-Pierre Séris](/wiki/Jean-Pierre_S%C3%A9ris "Jean-Pierre Séris"), La technique, Paris, Presses universitaires de France, coll. « Grandes questions de la philosophie », 1994, 414 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-130-46034-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-130-46034-3 "Spécial:Ouvrages de référence/978-2-130-46034-3"), [OCLC](/wiki/Online_Computer_Library_Center "Online Computer Library Center") [299450654](https://worldcat.org/oclc/299450654&lang=fr)).
+  * [Bernard Stiegler](/wiki/Bernard_Stiegler "Bernard Stiegler"), _La Technique et le temps_ , tomes I, II et III, Galilée, Paris, 1994, 1996 et 2001.
+  * [Jean-Pierre Séris](/wiki/Jean-Pierre_S%C3%A9ris "Jean-Pierre Séris"), La technique, Paris, Presses universitaires de France, coll. « Grandes questions de la philosophie », 1994, 414 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-130-46034-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-130-46034-3 "Spécial:Ouvrages de référence/978-2-130-46034-3"), [OCLC](/wiki/Online_Computer_Library_Center "Online Computer Library Center") [299450654](https://worldcat.org/oclc/299450654&lang=fr), [lire en ligne](https://books.google.fr/books?id=bk4WIuYe_bcC&lpg=PA1&hl=fr&pg=PA1#v=onepage&q&f=false)).
+  * Jean-Hugues Barthélémy, Penser la connaissance et la technique après Simondon, Paris Budapest Torino, L'Harmattan, coll. « Esthétiques », 2005, 304 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-747-58586-6](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-747-58586-6 "Spécial:Ouvrages de référence/978-2-747-58586-6")).
+
+## Liens
+externes[[modifier](/w/index.php?title=Technique&veaction=edit&section=54
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Technique&action=edit&section=54 "Modifier la section
+: Liens externes")]
+
+  * [La conception de Jacques Ellul par Jacques Dufresne](http://agora.qc.ca/reftext.nsf/Documents/Technique--La_conception_de_Jacques_Ellul_par_Jacques_Dufresne)
+  * [Philagora.net](http://www.philagora.net/philo-poche/pochtech.htm)
+  * [Techniques et culture](http://tc.revues.org), revue scientifique spécialisée dans l'étude des techniques
+  * [Les pièges du système technicien : démonstration par l’exemple des Vélos’V](http://rebellyon.info/article2498.html)
+
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Circle-icons-bikewheel.svg/24px-Circle-icons-bikewheel.svg.png)](/wiki/Portail:Technologies "Portail des technologies") [Portail des technologies](/wiki/Portail:Technologies "Portail:Technologies")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Technique&oldid=174416983](https://fr.wikipedia.org/w/index.php?title=Technique&oldid=174416983)
+».
+
+[Catégorie](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Techniques et sciences appliquées](/wiki/Cat%C3%A9gorie:Techniques_et_sciences_appliqu%C3%A9es "Catégorie:Techniques et sciences appliquées")
+
+Catégories cachées :
+
+  * [Article avec source à lier](/wiki/Cat%C3%A9gorie:Article_avec_source_%C3%A0_lier "Catégorie:Article avec source à lier")
+  * [Page utilisant un sommaire limité](/wiki/Cat%C3%A9gorie:Page_utilisant_un_sommaire_limit%C3%A9 "Catégorie:Page utilisant un sommaire limité")
+  * [Portail:Technologies/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Technologies/Articles_li%C3%A9s "Catégorie:Portail:Technologies/Articles liés")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Technique "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Technique "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Technique&oldid=174416983 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Technique&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Technique&id=174416983&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q2695280 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Technique)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Technique&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Technique&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Techniques)
+  * [Wikiquote](https://fr.wikiquote.org/wiki/Technique)
+
+###  Dans d’autres langues
+
+  * [Alemannisch](https://als.wikipedia.org/wiki/Technik "Technik — Alemannisch")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Texnika "Texnika — azéri")
+  * [Башҡортса](https://ba.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0 "Техника — bachkir")
+  * [Boarisch](https://bar.wikipedia.org/wiki/Technik "Technik — bavarois")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%A2%D1%8D%D1%85%D0%BD%D1%96%D0%BA%D0%B0 "Тэхніка — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%A2%D1%8D%D1%85%D0%BD%D1%96%D0%BA%D0%B0 "Тэхніка — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0 "Техника — bulgare")
+  * [Brezhoneg](https://br.wikipedia.org/wiki/Teknik "Teknik — breton")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Tehnika "Tehnika — bosniaque")
+  * [Català](https://ca.wikipedia.org/wiki/T%C3%A8cnica "Tècnica — catalan")
+  * [Čeština](https://cs.wikipedia.org/wiki/Technika "Technika — tchèque")
+  * [Kaszëbsczi](https://csb.wikipedia.org/wiki/Technika "Technika — kachoube")
+  * [Dansk](https://da.wikipedia.org/wiki/Teknik "Teknik — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Technik "Technik — allemand")
+  * [English](https://en.wikipedia.org/wiki/Technique_\(method\) "Technique \(method\) — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Tekniko "Tekniko — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/T%C3%A9cnica "Técnica — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Tehnika "Tehnika — estonien")
+  * [Võro](https://fiu-vro.wikipedia.org/wiki/Tekniga "Tekniga — Võro")
+  * [Arpetan](https://frp.wikipedia.org/wiki/T%C3%A8cnolog%C2%B7ia "Tècnolog·ia — francoprovençal")
+  * [Nordfriisk](https://frr.wikipedia.org/wiki/T%C3%A4chnik "Tächnik — frison du Nord")
+  * [Furlan](https://fur.wikipedia.org/wiki/Tecniche "Tecniche — frioulan")
+  * [Galego](https://gl.wikipedia.org/wiki/T%C3%A9cnica "Técnica — galicien")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Tehnika "Tehnika — croate")
+  * [Magyar](https://hu.wikipedia.org/wiki/Technika "Technika — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D5%8F%D5%A5%D5%AD%D5%B6%D5%AB%D5%AF%D5%A1 "Տեխնիկա — arménien")
+  * [Ido](https://io.wikipedia.org/wiki/Tekniko "Tekniko — ido")
+  * [Italiano](https://it.wikipedia.org/wiki/Tecnica "Tecnica — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E6%8A%80%E8%A1%93 "技術 — japonais")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0 "Техника — kazakh")
+  * [한국어](https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%88%A0 "기술 — coréen")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0 "Техника — kirghize")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Tehnika "Tehnika — letton")
+  * [Мокшень](https://mdf.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BA%D0%BD%D0%B8%D0%BA%D1%81%D1%8C "Текниксь — mokcha")
+  * [Монгол](https://mn.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA "Техник — mongol")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Techniek "Techniek — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Teknikk "Teknikk — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Teknikk "Teknikk — norvégien bokmål")
+  * [Occitan](https://oc.wikipedia.org/wiki/Tecnica "Tecnica — occitan")
+  * [Polski](https://pl.wikipedia.org/wiki/Technika "Technika — polonais")
+  * [پښتو](https://ps.wikipedia.org/wiki/%D8%AA%D8%AE%D9%86%D9%8A%DA%A9 "تخنيک — pachto")
+  * [Português](https://pt.wikipedia.org/wiki/T%C3%A9cnica "Técnica — portugais")
+  * [Runa Simi](https://qu.wikipedia.org/wiki/Allwiya "Allwiya — quechua")
+  * [Română](https://ro.wikipedia.org/wiki/Tehnic%C4%83 "Tehnică — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0 "Техника — russe")
+  * [Sardu](https://sc.wikipedia.org/wiki/T%C3%A9nnica "Ténnica — sarde")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Tehnika "Tehnika — serbo-croate")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Tehnika "Tehnika — slovène")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0 "Техника — serbe")
+  * [Seeltersk](https://stq.wikipedia.org/wiki/Technik "Technik — saterlandais")
+  * [Svenska](https://sv.wikipedia.org/wiki/Teknik "Teknik — suédois")
+  * [Тоҷикӣ](https://tg.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0 "Техника — tadjik")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D1%96%D0%BA%D0%B0 "Техніка — ukrainien")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Texnika "Texnika — ouzbek")
+  * [Bân-lâm-gú](https://zh-min-nan.wikipedia.org/wiki/Ki-su%CC%8Dt "Ki-su̍t — Chinese \(Min Nan\)")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q2695280#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Technique "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Technique "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Technique "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Technique "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Technique)
+  * [Modifier](/w/index.php?title=Technique&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Technique&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Technique&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 4 septembre 2020 à 09:47.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Technique "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Technique&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[XVIIe]: 17ᵉ siècle
+  *[etc.]: et cetera
+  *[XVIIIe]: 18ᵉ siècle
+  *[XIXe]: 19ᵉ siècle
+  *[XXe]: 20ᵉ siècle
+  *[XXIe]: 21ᵉ siècle
+  *[coll.]: collection
+  *[1re]: première
+  *[éd.]: édition
+  *[p.]: pages
+  *[préf.]: préface
+  *[(de)]: Langue : allemand
+  *[2e]: deuxième
+  *[trad.]: traduction
+  *[réimpr.]: réimpression
+  *[no]: numéro
+

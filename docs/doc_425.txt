@@ -1,0 +1,667 @@
+# Sociologie des sciences
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+Sociologie des sciences
+
+Sous-classe de|
+
+[Sociologie](/wiki/Sociologie "Sociologie")[![Voir et modifier les données sur
+Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-
+Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q2747152?uselang=fr#P279
+"Voir et modifier les données sur Wikidata")  
+  
+---|---  
+  
+[modifier](https://fr.wikipedia.org/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=0)
+\- [modifier le
+code](https://fr.wikipedia.org/w/index.php?title=Sociologie_des_sciences&action=edit&section=0)
+\- [modifier Wikidata](https://www.wikidata.org/wiki/Q2747152
+"d:Q2747152")[![Documentation du
+modèle](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Mod%C3%A8le:Infobox_Discipline "Documentation du
+modèle")
+
+La **sociologie des sciences** est l'étude [sociologique](/wiki/Sociologie
+"Sociologie") de la production des connaissances scientifiques et des
+instruments qui les rendent possibles. Elle porte ainsi une attention
+particulière aux [institutions](/wiki/Institution_\(sociologie\) "Institution
+\(sociologie\)") scientifiques, au
+[travail](https://fr.wiktionary.org/wiki/travail "wikt:travail") concret des
+chercheurs, à la structuration des communautés scientifiques, aux normes et
+règles guidant l'activité scientifique, etc. La sociologie des sciences ne se
+limite donc pas à l'étude des relations entre [science](/wiki/Science
+"Science") et [société](/wiki/Soci%C3%A9t%C3%A9_\(sciences_sociales\) "Société
+\(sciences sociales\)"), quand bien même ces relations peuvent être un objet
+d'étude des sociologues des sciences.
+
+La sociologie des sciences aborde des problématiques s'approchant souvent de
+l'[épistémologie](/wiki/%C3%89pist%C3%A9mologie "Épistémologie") comme la
+question de la [vérité](/wiki/V%C3%A9rit%C3%A9 "Vérité") ou celle de la
+[connaissance](/wiki/Connaissance "Connaissance"), avec des points de vue
+souvent critiques envers la tradition [positiviste](/wiki/Positivisme
+"Positivisme") tels qu'on en trouve au sein de certaines formes
+d'[épistémologies
+constructivistes](/wiki/Constructivisme_\(%C3%A9pist%C3%A9mologie\)
+"Constructivisme \(épistémologie\)"). Historiquement, c'est à l'Américain
+[Robert K. Merton](/wiki/Robert_King_Merton "Robert King Merton") qu'est
+attribuée la fondation de cette discipline. Il existe évidemment des
+précurseurs. La sociologie des sciences s'est transformée dans les années 1970
+et 1980, avec un tournant qualifié de « relativiste ». Cette évolution fut à
+l'origine de nombreuses controverses. Ces querelles se sont aujourd'hui
+largement apaisées, et les travaux de sociologie des sciences sont aujourd'hui
+reçus avec intérêt par les autres disciplines analysant l'activité
+scientifique (histoire des sciences, philosophie des sciences, épistémologie,
+science studies). Dans bien des cas, les frontières disciplinaires sont assez
+floues.
+
+## Sommaire
+
+  * 1 Histoire
+    * 1.1 Précurseurs
+    * 1.2 Robert K. Merton
+    * 1.3 Courant "Sociology of Scientific Knowledge"
+    * 1.4 Anthropologie
+    * 1.5 Actuellement
+  * 2 Courants
+  * 3 Principaux thèmes
+  * 4 Critiques
+  * 5 Notes et références
+  * 6 Bibliographie
+  * 7 Annexes
+    * 7.1 Articles connexes
+    * 7.2 Revues
+    * 7.3 Liens externes
+
+##
+Histoire[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=1
+"Modifier la section : Histoire") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=1
+"Modifier la section : Histoire")]
+
+###
+Précurseurs[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=2
+"Modifier la section : Précurseurs") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=2
+"Modifier la section : Précurseurs")]
+
+Pendant plusieurs décennies, la science fut simplement ignorée de la plupart
+des sociologues. Merton rapporte ainsi qu'en 1935, lorsque Seabury Colum
+Gilfillan, auteur de _Sociology of invention_ dédicace son livre à ses
+collègues, il ne s'adresse en fait qu'à deux autres sociologues : Lowell
+Juilliard Carr et William Fielding Ogburn[1]. Cependant, quelques sociologues
+importants se sont déjà penchés sur la science, à commencer par [Émile
+Durkheim](/wiki/%C3%89mile_Durkheim "Émile Durkheim") et [Marcel
+Mauss](/wiki/Marcel_Mauss "Marcel Mauss"), qui dans les « formes élémentaires
+de la classification » mettent en vis-à-vis ces classifications primitives et
+les classifications scientifiques. C'est un exemple de l'une des premières
+tentatives d'approche sociologique de la connaissance scientifique. De même
+que les sociologues ignorèrent longtemps la science, l'histoire des sciences
+ignora la société. C'est avec les tentatives d'analyses
+[marxistes](/wiki/Marxisme "Marxisme") de la science qu'une ébauche de
+sociologie de la science a pu être envisagée. En effet on retient généralement
+l'étude du Soviétique [Boris Hessen](/wiki/Boris_Hessen "Boris Hessen"), _Les
+racines sociales et économiques des Principia de Newton_ , comme le premier
+travail de mise en évidence de l'influence de la société sur le développement
+des sciences. C'est au deuxième congrès international d'histoire des sciences
+et des techniques qui s'est tenu à Londres en 1931 que Boris Hessen présente
+son analyse. Il y met en évidence l'influence du contexte économique et social
+sur l'origine et le développement des _Principia_ de Newton.
+
+### Robert K.
+Merton[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=3
+"Modifier la section : Robert K. Merton") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=3
+"Modifier la section : Robert K. Merton")]
+
+Le père de la sociologie des sciences est [Robert King
+Merton](/wiki/Robert_King_Merton "Robert King Merton") qui, le premier,
+considère la science comme une « structure sociale normée ». Dans un article
+de [1942](/wiki/1942 "1942") devenu un classique de la sociologie des
+sciences[2], Merton identifie un ensemble de [normes](/wiki/Norme "Norme") qui
+ensemble constituent ce qu'il appelle l'« [Ethos de la
+science](/wiki/Ethos_de_la_science "Ethos de la science") » et sont censées
+guider les pratiques des individus et assurer à la communauté son autonomie :
+
+  * l'universalisme (les connaissances scientifiques doivent être considérées indépendamment de leurs producteurs) ;
+  * le communisme, encore appelé « communalisme » pour éviter les confusions (les connaissances scientifiques doivent rester des [biens publics](/wiki/Biens_publics "Biens publics"), leur appropriation privée doit donc être réduite au minimum) ;
+  * le désintéressement (les scientifiques ne doivent avoir aucun intérêt à se détourner de la seule quête de la vérité) ;
+  * le scepticisme organisé (le travail des chercheurs doit être inséré dans un dispositif institutionnel encourageant la mise en doute et la critique des résultats scientifiques).
+
+Ces quatre normes, qui sont intériorisées par les scientifiques pendant leur
+apprentissage et entretenues par leur insertion institutionnelle dans le
+système, feraient de la science un système social distinct et relativement
+autonome, qu'elles stabilisent et régulent en la protégeant d'abus internes et
+en lui permettant de résister aux influences et intrusions des acteurs
+politiques et économiques. Elles rendraient possible l'exercice d'une libre
+rationalité. C'est dans une [société démocratique](/wiki/D%C3%A9mocratie
+"Démocratie") que ces normes auraient le plus de chance d'être respectées,
+favorisant le développement de la science. La sociologie mertonienne des
+sciences domine les [années 1950](/wiki/Ann%C3%A9es_1950 "Années 1950") et
+[1960](/wiki/Ann%C3%A9es_1960 "Années 1960"). Elle refuse de s'intéresser au
+contenu de la science qu'elle considère comme étant du ressort de
+l'[épistémologie](/wiki/%C3%89pist%C3%A9mologie "Épistémologie").
+
+### Courant "Sociology of Scientific
+Knowledge"[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=4
+"Modifier la section : Courant "Sociology of Scientific Knowledge"") |
+[modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=4
+"Modifier la section : Courant "Sociology of Scientific Knowledge"")]
+
+À partir des [années 1970](/wiki/Ann%C3%A9es_1970 "Années 1970"), le
+renouvellement de la sociologie des sciences passe par la critique de la
+sociologie « institutionnelle » qui refuse de considérer les contenus
+scientifiques en se fondant sur une philosophie
+[positiviste](/wiki/Positivisme "Positivisme") des sciences. Il s'agit
+d'ouvrir la « boîte noire » de la science. Le courant SSK ( _[Sociology of
+Scientific Knowledge](/wiki/Sociology_of_Scientific_Knowledge "Sociology of
+Scientific Knowledge")_ ) rassemble deux équipes de sociologues qui, partant
+de l'hypothèse commune que les contenus scientifiques sont entièrement
+déterminés par la société et la culture, mènent des programmes d'étude assez
+proches. Ces deux programmes « [relativistes](/wiki/Relativisme "Relativisme")
+» sont :
+
+  * Le [programme fort](/wiki/Programme_fort "Programme fort") ( _Strong Program_ ). Conçu dans les années 1970 à l'[université d'Édimbourg](/wiki/Universit%C3%A9_d%27%C3%89dimbourg "Université d'Édimbourg") par [David Bloor](/wiki/David_Bloor "David Bloor") et [Barry Barnes](/wiki/Barry_Barnes "Barry Barnes"), le programme fort rejette une sociologie de l'erreur, qui invoque traditionnellement deux types d'explication différents selon qu'une théorie scientifique rencontre le succès ou au contraire l'échec : d'un côté, la vérité et la rationalité, de l'autre, des facteurs sociaux, psychologiques et idéologiques. Des causes sociales, plutôt que naturelles, doivent permettre[[non neutre]](/wiki/Wikip%C3%A9dia:Neutralit%C3%A9_de_point_de_vue "Wikipédia:Neutralité de point de vue") d'expliquer les succès comme les échecs, les croyances vraies comme les croyances fausses (principe de symétrie). Les études de cas inspirées du programme fort portent majoritairement sur l'[histoire des sciences](/wiki/Histoire_des_sciences "Histoire des sciences").
+
+  * Le [programme empirique du relativisme](/wiki/Programme_empirique_du_relativisme "Programme empirique du relativisme") ( _Empirical Program of Relativism_ ou EPOR). Né dans le prolongement du programme fort et conçu à l'[université de Bath](/wiki/Universit%C3%A9_de_Bath "Université de Bath") par [Harry Collins](/wiki/Harry_Collins "Harry Collins"), l'EPOR cherche à montrer la flexibilité interprétative des résultats expérimentaux. Il a pour objet d'étude privilégié les [controverses scientifiques](/wiki/Controverse_scientifique "Controverse scientifique") qui résultent de cette flexibilité. Puisqu'il n'existe pas d'expérience cruciale permettant de clore une controverse ([thèse Duhem-Quine](/wiki/M%C3%A9thode_exp%C3%A9rimentale#La_thèse_Duhem-Quine "Méthode expérimentale"), exprimée notamment dans _[Deux dogmes de l'empirisme](/wiki/Deux_dogmes_de_l%27empirisme "Deux dogmes de l'empirisme")_ ), ce sont des mécanismes sociaux qui vont imposer une interprétation unique. La négociation a lieu au sein d'un petit groupe de spécialistes (appelé « _core set_ ») dont les autres scientifiques acceptent les conclusions. C'est donc une approche de type micro-sociologique. Les sociologues participant à l'EPOR enquêtent de préférence sur des cas contemporains, parfois à la frontière des sciences.
+
+Les critiques[[Qui ?]](/wiki/Aide:Qui "Aide:Qui") des programmes
+relativistes[[non
+neutre]](/wiki/Wikip%C3%A9dia:Neutralit%C3%A9_de_point_de_vue
+"Wikipédia:Neutralité de point de vue") dénoncent le parti pris
+réductionniste[Passage problématique] du principe de symétrie qui consiste à
+exclure les facteurs naturels dans le succès ou l'échec d'une théorie
+scientifique. S'ils reconnaissent qu'il existe une certaine flexibilité
+interprétative des données d'une expérience, les interprétations possibles
+restent limitées et ne peuvent être manipulées au gré des intérêts de tel ou
+tel chercheur.[[réf.
+nécessaire]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire "Aide:Référence
+nécessaire")
+
+###
+Anthropologie[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=5
+"Modifier la section : Anthropologie") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=5
+"Modifier la section : Anthropologie")]
+
+[Karin Knorr Cetina](/wiki/Karin_Knorr_Cetina "Karin Knorr Cetina") définit le
+concept des [cultures épistémiques](/wiki/Cultures_%C3%A9pist%C3%A9miques
+"Cultures épistémiques") comme une diversité de façons de faire de la science
+selon les disciplines, non seulement dans les méthodes et les outils mais
+aussi dans les raisonnements, les façons d'établir la preuve, et les rapports
+entre [empirie](/wiki/Empirisme "Empirisme") et théorie. Le travail qu'elle
+fournit explicite la diversité de ces cultures du savoir et, en représentant
+leurs différences remet en question la vision acceptée d'une science
+unifiée.[3] Son travail est celui d'une [anthropologue](/wiki/Anthropologie
+"Anthropologie"), réalisant une double observation au long cours, dans la
+lignée de l'anthropologie de laboratoire de [Latour](/wiki/Bruno_Latour "Bruno
+Latour") et [Woolgar](/wiki/Steve_Woolgar "Steve Woolgar")[4].
+
+###
+Actuellement[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=6
+"Modifier la section : Actuellement") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=6
+"Modifier la section : Actuellement")]
+
+Cette section est vide, insuffisamment détaillée ou incomplète. [Votre
+aide](/wiki/Sp%C3%A9cial:EditPage/Sociologie_des_sciences
+"Spécial:EditPage/Sociologie des sciences") est la bienvenue ! [Comment faire
+?](/wiki/Aide:Comment_modifier_une_page "Aide:Comment modifier une page")
+
+##
+Courants[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=7
+"Modifier la section : Courants") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=7
+"Modifier la section : Courants")]
+
+Comme beaucoup de disciplines en sciences sociales, la sociologie des sciences
+regroupe plusieurs courants de pensée, qui se distinguent entre eux par leurs
+objets, leurs méthodes, leurs conceptions de la sociologie de la science.
+Parmi les courants marquants de la période contemporaine, il y a la [théorie
+de l'acteur-réseau](/wiki/Th%C3%A9orie_de_l%27acteur-r%C3%A9seau "Théorie de
+l'acteur-réseau") ( _Actor-Network Theory_ ou ANT). Développé en France par
+[Michel Callon](/wiki/Michel_Callon "Michel Callon") et [Bruno
+Latour](/wiki/Bruno_Latour "Bruno Latour"), ce courant a profondément marqué
+les nouvelles sociologies et fait partie des approches les plus citées dans
+les travaux internationaux autour des sciences et s'oppose notamment aux
+conceptions développées par Pierre Bourdieu. La plupart des auteurs
+développent des descriptions des pratiques de la recherche basées sur la
+compétition et la concurrence aux dépens des descriptions des pratiques en
+termes de coopération ou de convivialité (Gargani, 2007[5]).
+
+## Principaux
+thèmes[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=8
+"Modifier la section : Principaux thèmes") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=8
+"Modifier la section : Principaux thèmes")]
+
+Cette section est vide, insuffisamment détaillée ou incomplète. [Votre
+aide](/wiki/Sp%C3%A9cial:EditPage/Sociologie_des_sciences
+"Spécial:EditPage/Sociologie des sciences") est la bienvenue ! [Comment faire
+?](/wiki/Aide:Comment_modifier_une_page "Aide:Comment modifier une page")
+
+Il existe bien sûr un très grand nombre d'objets d'étude en sociologie des
+sciences, mais on peut distinguer quelques grands thèmes.
+
+##
+Critiques[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=9
+"Modifier la section : Critiques") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=9
+"Modifier la section : Critiques")]
+
+La nouvelle sociologie de la science (NSS), est née au milieu des années 1960,
+à partir de « la rébellion généralisée contre la science et la technique et à
+l'abri des philosophies antiscientifiques. Bien que la NSS ait des adeptes
+dans le monde entier, son centre est la Science Studies Unit de l'Université
+d'Édimbourg. L'organe de ce mouvement est la revue Social Studies of Science,
+née en 1970, et le livre le plus connu de cette école est _Laboratory Life.
+The Social Construction of Scientific Facts_ (1979) de B. Latour et S.
+Woolgar. » La NSS n'est pas un mouvement homogène. Toutefois ses membres
+partagent les thèses suivantes : (a) l'externalisme, ou l'idée que le contenu
+conceptuel de la science est déterminé par son contexte social ; (b) le
+[constructivisme](/wiki/Constructivisme_social "Constructivisme social") ou
+subjectivisme : l'idée que le chercheur construit non seulement ses hypothèses
+et artefacts mais aussi les faits eux-mêmes, et pour certains, même le monde
+dans sa totalité ; (c) le [relativisme](/wiki/Relativisme "Relativisme"), ou
+la thèse selon laquelle il n'y a pas de vérités objectives et universelles ;
+(d) le [pragmatisme](/wiki/Pragmatisme "Pragmatisme"), ou l'accent mis sur
+l'action et l'interaction aux dépens des idées, ainsi que l'identification de
+la science avec la technique ; (e) l'ordinarisme, c'est-à-dire la thèse selon
+laquelle la recherche scientifique est une pure perspiration sans inspiration
+et le refus de lui accorder un statut spécial différent de celui de
+l'idéologie, la [pseudoscience](/wiki/Pseudoscience "Pseudoscience") et même
+la non-science ; (f) l'adoption de doctrines psychologiques, comme le
+[béhaviorisme](/wiki/B%C3%A9haviorisme "Béhaviorisme") et la
+[psychanalyse](/wiki/Psychanalyse "Psychanalyse") et (g) le remplacement du
+[positivisme](/wiki/Positivisme "Positivisme"), du
+[rationalisme](/wiki/Rationalisme "Rationalisme") et d'autres philosophies
+classiques par des « philosophies ascientifiques et même antiscientifiques,
+telles que la philosophie linguistique, la phénoménologie, l'existentialisme,
+l'herméneutique, la " théorie critique ", le marxisme fossilisé, le post-
+structuralisme ou l'école française de sémiotique »[6].
+
+## Notes et
+références[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=10
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=10
+"Modifier la section : Notes et références")]
+
+  1. ↑ Cette anecdote est résumée par Michel Dubois dans son manuel de sociologie des sciences. Robert K. Merton l'évoque dans Merton, « The sociology of Science. An episodic memoir », _in_ R. K. Merton, J. Gaston (eds), _The sociology of science in Europe_ , London, Southern Illinois University Press, 1977.
+  2. ↑ (en) _The Normative Structure of Science_ , republié en 1973.
+  3. ↑ Knorr-Cetina, K. (Karin), Epistemic cultures : how the sciences make knowledge, Harvard University Press, 1999 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [0674258932](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/0674258932 "Spécial:Ouvrages de référence/0674258932"), [9780674258938](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9780674258938 "Spécial:Ouvrages de référence/9780674258938") et [0674258940](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/0674258940 "Spécial:Ouvrages de référence/0674258940"), [OCLC](/wiki/Online_Computer_Library_Center "Online Computer Library Center") [39539508](https://worldcat.org/oclc/39539508&lang=fr), [lire en ligne](https://www.worldcat.org/oclc/39539508))
+  4. ↑ Latour, Bruno,, Laboratory life : the construction of scientific facts ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [9781400820412](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9781400820412 "Spécial:Ouvrages de référence/9781400820412"), [1400820413](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/1400820413 "Spécial:Ouvrages de référence/1400820413") et [140081247X](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/140081247X "Spécial:Ouvrages de référence/140081247X"), [OCLC](/wiki/Online_Computer_Library_Center "Online Computer Library Center") [133161674](https://worldcat.org/oclc/133161674&lang=fr), [lire en ligne](https://www.worldcat.org/oclc/133161674))
+  5. ↑ Julien Gargani, « De la convivialité entre scientifiques », _[Revue du MAUSS](/wiki/Revue_du_MAUSS "Revue du MAUSS")_ , v.29, 2007, pp. 127-156.
+  6. ↑ [Mario Bunge](/wiki/Mario_Bunge "Mario Bunge"), « Une caricature de la science : la très nouvelle sociologie de la science » (article), 1991, [éditions Vigdor](/wiki/%C3%89ditions_Vigdor "Éditions Vigdor"), traduction éditée en 1997 et en 2001 en France.
+
+##
+Bibliographie[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=11
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=11
+"Modifier la section : Bibliographie")]
+
+  * [Francis Chateauraynaud](/wiki/Francis_Chateauraynaud "Francis Chateauraynaud"), _Forces et faiblesses de la nouvelle anthropologie des sciences_ , _Critique_ , tome XLVII, no 529-530, juin-juillet 1991, p. 459-478.
+  * Michel Dubois, _Introduction à la sociologie des sciences_ , Paris, PUF, 1999 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-1304-8425-7](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-1304-8425-7 "Spécial:Ouvrages de référence/978-2-1304-8425-7")).
+  * Michel Dubois, _La nouvelle sociologie des sciences_ , Paris, PUF, 2001 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-1305-1432-9](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-1305-1432-9 "Spécial:Ouvrages de référence/978-2-1305-1432-9")).
+  * [Jean-Jacques Salomon](/wiki/Jean-Jacques_Salomon "Jean-Jacques Salomon"), _Science et politique_ , Paris, Le Seuil, 1970. Réédition : Economica, Paris, 1989 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-7178-1741-6](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-7178-1741-6 "Spécial:Ouvrages de référence/978-2-7178-1741-6")).
+  * [Olivier Martin](/wiki/Olivier_Martin "Olivier Martin"), _Sociologie des sciences_ , Paris, Nathan Université, 2000 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-0919-1063-5](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-0919-1063-5 "Spécial:Ouvrages de référence/978-2-0919-1063-5")).
+  * (en) [Robert K. Merton](/wiki/Robert_King_Merton "Robert King Merton"), « The Normative Structure of Science » (1942) in Storer N.W. (ed.), _The Sociology of Science_ , [Chicago](/wiki/Chicago "Chicago"), [University of Chicago Press](/wiki/University_of_Chicago_Press "University of Chicago Press"), 1973, pp. 267-278.
+  * (en) [Sheila Jasanoff](/wiki/Sheila_Jasanoff "Sheila Jasanoff"), Gerald E. Markle, James C. Petersen et [Trevor Pinch](/wiki/Trevor_Pinch "Trevor Pinch"), _Handbook of Science and Technology Studies_ , Londres-New Delhi, Sage, 1985, réédité en 2001 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-7619-2498-2](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-0-7619-2498-2 "Spécial:Ouvrages de référence/978-0-7619-2498-2")).
+  * Jean-Michel Berthelot, [Olivier Martinet](/wiki/Olivier_Martin "Olivier Martin") Cécile Collinet, _Savoirs et savants : Les études sur la science en France_, Paris, PUF, 2005 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-1305-4523-1](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-1305-4523-1 "Spécial:Ouvrages de référence/978-2-1305-4523-1")).
+  * [Dominique Vinck](/wiki/Dominique_Vinck "Dominique Vinck"), _Sciences et société : Sociologie du travail scientifique_, Paris, Armand Colin, 2007 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-2003-4728-4](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-2003-4728-4 "Spécial:Ouvrages de référence/978-2-2003-4728-4")).
+  * [Julien Gargani](/wiki/Julien_Gargani "Julien Gargani"), _Voyage aux marges du savoir : Ethno-sociologie de la connaissance_, Ed. L'Harmattan, 2011 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-2965-5320-0](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-2965-5320-0 "Spécial:Ouvrages de référence/978-2-2965-5320-0")).
+  * [Yves Gingras](/wiki/Yves_Gingras "Yves Gingras"), _Sociologie des sciences_ , Paris, PUF, 2013, réédité en 2017 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-1307-8943-7](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-1307-8943-7 "Spécial:Ouvrages de référence/978-2-1307-8943-7")).
+
+##
+Annexes[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=12
+"Modifier la section : Annexes") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=12
+"Modifier la section : Annexes")]
+
+### Articles
+connexes[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=13
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=13
+"Modifier la section : Articles connexes")]
+
+  * [Sciences, technologies et société](/wiki/Sciences,_technologies_et_soci%C3%A9t%C3%A9 "Sciences, technologies et société"), [Épistémologie](/wiki/%C3%89pist%C3%A9mologie "Épistémologie")
+  * [Représentation](/wiki/Repr%C3%A9sentation "Représentation"), [Représentation sociale](/wiki/Repr%C3%A9sentation_sociale "Représentation sociale")
+  * [Sociologie](/wiki/Sociologie "Sociologie"), [Sociologie de la connaissance](/wiki/Sociologie_de_la_connaissance "Sociologie de la connaissance"), [Sociologie de la technique](/wiki/Socio-technique "Socio-technique"), [Connaissance](/wiki/Connaissance "Connaissance")
+  * [Bibliographie sur la sociologie](/wiki/Bibliographie_sur_la_sociologie "Bibliographie sur la sociologie"), [Bibliographie sur la sociologie de la connaissance](/wiki/Bibliographie_sur_la_sociologie_de_la_connaissance "Bibliographie sur la sociologie de la connaissance") et [Bibliographie en sociologie des sciences](/wiki/Bibliographie_en_sociologie_des_sciences "Bibliographie en sociologie des sciences")
+
+###
+Revues[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=14
+"Modifier la section : Revues") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=14
+"Modifier la section : Revues")]
+
+  * _[Revue d'Anthropologie des Connaissances](http://www.cairn.info/revue-anthropologie-des-connaissances.htm)_.
+  * _[Social Studies of Science](http://sss.sagepub.com/)_
+  * _[Science, Technology,& Human Values](http://sth.sagepub.com/)_
+  * _[Science& Technology Studies](http://www.sciencetechnologystudies.org/)_
+  * _[Research Policy](http://www.journals.elsevier.com/research-policy)_
+  * _[Minerva: A Journal of Science, Learning and Policy](https://www.springer.com/education+%26+language/journal/11024)_
+  * _[Science Technology and Society](http://sts.sagepub.com/)_
+  * _Science as[Culture](http://www.tandfonline.com/toc/csac20/current#.VNYMk7CG8zs)_
+  * _[Technology and Culture](https://www.press.jhu.edu/journals/technology_and_culture/)_
+  * _[Science and Public Policy](http://spp.oxfordjournals.org/)_
+  * _[Engineering studies](http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=test20#.VNYNerCG8zs)_
+  * _[REDES](http://iec.unq.edu.ar/index.php/es/publicaciones/revista-redes)_
+
+### Liens
+externes[[modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit&section=15
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Sociologie_des_sciences&action=edit&section=15
+"Modifier la section : Liens externes")]
+
+  * [RT 29](http://www.test-afs-socio.fr/drupal/RT29) \- Réseau thématique Science et techniques en société] de l'[Association française de sociologie](/wiki/Association_fran%C3%A7aise_de_sociologie "Association française de sociologie").
+  * [CR29 - Sociologie de la science et de l'innovation technologique](https://www.aislf.org/squelettes/crgt/crgt30.php) \- Comité de recherche de l'[Association internationale des sociologues de langue française](/wiki/Association_internationale_des_sociologues_de_langue_fran%C3%A7aise "Association internationale des sociologues de langue française").
+  * (en) [Society for Social Studies of Science - 4S](http://www.4sonline.org).
+  * (en) [European Association for the Study of Science and Technology (EASST)](http://www.easst.net/).
+  * [Société d'Anthropologie des Connaissances](http://www.socanco.org).
+
+[v](/wiki/Mod%C3%A8le:Palette_Sociologie_des_sciences_et_technologies
+"Modèle:Palette Sociologie des sciences et technologies") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Sociologie_des_sciences_et_technologies&action=edit)
+
+[Sociologie](/wiki/Sociologie "Sociologie") des sciences et technologies  
+  
+---  
+Approches |
+
+  * [Anthropologie des techniques](/wiki/Anthropologie_des_techniques "Anthropologie des techniques")
+  * [Construction sociale des technologies](/wiki/Construction_sociale_des_technologies "Construction sociale des technologies")
+  * [Histoire des sciences](/wiki/Histoire_des_sciences "Histoire des sciences")
+  * [Programme fort](/wiki/Programme_fort "Programme fort")
+  * [Science Studies](/wiki/Science_studies "Science studies")
+  * [Science and Technology studies (STS)](/wiki/%C3%89tudes_des_sciences_et_technologies "Études des sciences et technologies")
+  * [Sciences, technologies et société](/wiki/Sciences,_technologies_et_soci%C3%A9t%C3%A9 "Sciences, technologies et société")
+  * [Sociologie de la connaissance](/wiki/Sociologie_de_la_connaissance "Sociologie de la connaissance")
+  * [Sociologie de la connaissance scientifique (SSK)](/wiki/Sociologie_de_la_connaissance_scientifique "Sociologie de la connaissance scientifique")
+  * Sociologie des sciences
+  * [Théorie de l'acteur-réseau](/wiki/Th%C3%A9orie_de_l%27acteur-r%C3%A9seau "Théorie de l'acteur-réseau")
+
+  
+  
+Concepts et méthodes |
+
+  * [Constructivisme](/wiki/Constructivisme_\(%C3%A9pist%C3%A9mologie\) "Constructivisme \(épistémologie\)")
+    * [Social](/wiki/Constructivisme_social "Constructivisme social")
+  * [Controverse scientifique](/wiki/Controverse_scientifique "Controverse scientifique")
+  * [Déterminisme technologique](/wiki/D%C3%A9terminisme_technologique "Déterminisme technologique")
+  * [Externalisme](/wiki/Externalisme "Externalisme")
+  * [Relativisme](/wiki/Relativisme "Relativisme")
+
+  
+  
+Articles liés |
+
+  * [Affaire Sokal](/wiki/Affaire_Sokal "Affaire Sokal")
+  * [Centre de sociologie de l'innovation](/wiki/Centre_de_sociologie_de_l%27innovation "Centre de sociologie de l'innovation")
+  * [Society for Social Studies of Science (4S)](/wiki/Society_for_Social_Studies_of_Science "Society for Social Studies of Science")
+
+  
+  
+[v](/wiki/Mod%C3%A8le:Palette_Sociologie "Modèle:Palette Sociologie") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Sociologie&action=edit)
+
+[Sociologie](/wiki/Sociologie "Sociologie")  
+  
+---  
+[Histoire](/wiki/Histoire_de_la_sociologie "Histoire de la sociologie") ·
+[Branches](/wiki/Liste_des_branches_de_la_sociologie "Liste des branches de la
+sociologie") · [Théories](/wiki/Th%C3%A9orie_sociologique "Théorie
+sociologique")  
+Méthodes |
+
+  * [Analyse des réseaux sociaux](/wiki/Analyse_des_r%C3%A9seaux_sociaux "Analyse des réseaux sociaux")
+  * [Ethnométhodologie](/wiki/Ethnom%C3%A9thodologie "Ethnométhodologie")
+  * [Ethnographie](/wiki/Ethnographie "Ethnographie")
+  * [Interactionnisme structural](/wiki/Interactionnisme_structural "Interactionnisme structural")
+  * [Quantitative](/wiki/M%C3%A9thodes_quantitatives "Méthodes quantitatives")
+  * [Qualitative](/wiki/M%C3%A9thodes_qualitatives "Méthodes qualitatives")
+  * [Historique](/wiki/Sociologie_historique "Sociologie historique")
+  * [Informatique](/wiki/Sociologie_informatique "Sociologie informatique")
+  * [Macrosociologie](/wiki/Macrosociologie "Macrosociologie")
+  * [Microsociologie](/wiki/Microsociologie "Microsociologie")
+  * [Positivisme](/wiki/Positivisme "Positivisme")
+  * [Théorie critique](/wiki/Th%C3%A9orie_critique "Théorie critique")
+
+|
+[![icône](//upload.wikimedia.org/wikipedia/commons/9/9c/Sociologielogo.png)](/wiki/Fichier:Sociologielogo.png
+"icône")  
+[Branches](/wiki/Liste_des_branches_de_la_sociologie "Liste des branches de la
+sociologie") |
+
+  * [Art](/wiki/Sociologie_de_l%27art "Sociologie de l'art") ([Sociocritique](/wiki/Sociocritique "Sociocritique"), [Musique](/wiki/Sociologie_de_la_musique "Sociologie de la musique"))
+  * [Sociobiologie](/wiki/Sociobiologie "Sociobiologie")
+  * [Catastrophes](/wiki/Sociologie_des_catastrophes "Sociologie des catastrophes")
+  * [Classe sociale](/wiki/Classe_sociale "Classe sociale")
+  * [Clinique](/wiki/Sociologie_clinique "Sociologie clinique")
+  * [Communication](/wiki/Sociologie_des_m%C3%A9dias "Sociologie des médias")
+  * [Connaissance](/wiki/Sociologie_de_la_connaissance "Sociologie de la connaissance") Sciences, [Sociologie](/wiki/Sociologie_de_la_sociologie "Sociologie de la sociologie"))
+  * [Corps](/wiki/Sociologie_du_corps "Sociologie du corps")
+  * [Déviance](/wiki/D%C3%A9viance "Déviance")
+  * [Économie](/wiki/Sociologie_%C3%A9conomique "Sociologie économique") ([Développement](/wiki/Sociologie_du_d%C3%A9veloppement "Sociologie du développement"), [Socioéconomie](/wiki/Socio%C3%A9conomie "Socioéconomie"), [Entreprise](/wiki/Sociologie_de_l%27entreprise "Sociologie de l'entreprise"), [Environnement](/wiki/Sociologie_de_l%27environnement "Sociologie de l'environnement"))
+  * [Éducation](/wiki/Sociologie_de_l%27%C3%A9ducation "Sociologie de l'éducation")
+  * [Émotions](/wiki/Sociologie_des_%C3%A9motions "Sociologie des émotions")
+  * [Espace](/wiki/Sociologie_de_l%27espace "Sociologie de l'espace")
+  * [Famille](/wiki/Sociologie_de_la_famille "Sociologie de la famille")
+  * [Imaginaire](/wiki/Imaginaire "Imaginaire")
+  * [Inégalité sociale](/wiki/In%C3%A9galit%C3%A9_sociale "Inégalité sociale")
+  * [Juridique](/wiki/Sociologie_du_droit "Sociologie du droit") ([Criminologie](/wiki/Criminologie "Criminologie"), [Pénologie](/wiki/P%C3%A9nologie "Pénologie"), [Prison](/wiki/Sociologie_de_la_prison "Sociologie de la prison"))
+  * [Justice sociale](/wiki/Sociologie_de_la_justice_sociale "Sociologie de la justice sociale")
+  * [Genre](/wiki/%C3%89tudes_de_genre "Études de genre")
+  * [Intégration sociale](/wiki/Int%C3%A9gration_\(sociologie\) "Intégration \(sociologie\)") ([Migrations](/wiki/Sociologie_des_migrations "Sociologie des migrations"))
+  * [Culture](/wiki/Sociologie_de_la_culture "Sociologie de la culture") ([Études culturelles](/wiki/%C3%89tudes_culturelles "Études culturelles"))
+  * [Logiques d'actions](/wiki/Sociologie_des_logiques_d%27action "Sociologie des logiques d'action")
+  * Générations ([Enfance](/wiki/Sociologie_de_l%27enfance "Sociologie de l'enfance"), [Gérontologie](/wiki/G%C3%A9rontologie "Gérontologie"))
+  * [Langage](/wiki/Sociolinguistique "Sociolinguistique")
+  * [Loisir](/wiki/Loisir "Loisir")
+  * [Médias](/wiki/Sociologie_des_m%C3%A9dias "Sociologie des médias")
+  * [Militaire](/wiki/Sociologie_militaire "Sociologie militaire")
+  * [Mouvements sociaux](/wiki/Th%C3%A9orie_des_mouvements_sociaux "Théorie des mouvements sociaux")
+  * [Numérique](/wiki/Sociologie_du_num%C3%A9rique "Sociologie du numérique") ([Internet](/wiki/Sociologie_d%27Internet "Sociologie d'Internet"))
+  * [Organisations](/wiki/Sociologie_des_organisations "Sociologie des organisations")
+  * [Rapports sociaux](/wiki/Sociologie_des_rapports_sociaux "Sociologie des rapports sociaux")
+  * [Religions](/wiki/Sociologie_des_religions "Sociologie des religions")
+  * [Santé](/wiki/Sociologie_de_la_sant%C3%A9 "Sociologie de la santé") et [médecine](/wiki/Sociologie_de_la_m%C3%A9decine "Sociologie de la médecine")
+  * [Sport](/wiki/Sociologie_du_sport "Sociologie du sport")
+  * [Stratification sociale](/wiki/Stratification_sociale "Stratification sociale")
+  * [Travail](/wiki/Sociologie_du_travail "Sociologie du travail")
+  * [Politique](/wiki/Sociologie_politique "Sociologie politique") ([Conflits](/wiki/Sociologie_du_conflit "Sociologie du conflit"), [Vote](/wiki/Sociologie_du_vote "Sociologie du vote"))
+  * [Pratiques culturelles](/wiki/Sociologie_des_pratiques_culturelles "Sociologie des pratiques culturelles")
+  * [Urbaine](/wiki/Sociologie_urbaine "Sociologie urbaine") et [rurale](/wiki/Sociologie_rurale "Sociologie rurale")
+
+  
+  
+Précurseurs |
+
+  * [Auguste Comte](/wiki/Auguste_Comte "Auguste Comte")
+  * [Ibn Khaldoun](/wiki/Ibn_Khaldoun "Ibn Khaldoun")
+  * [Frédéric Le Play](/wiki/Fr%C3%A9d%C3%A9ric_Le_Play "Frédéric Le Play")
+  * [Karl Marx](/wiki/Karl_Marx "Karl Marx")
+  * [Sieyès](/wiki/Emmanuel-Joseph_Siey%C3%A8s "Emmanuel-Joseph Sieyès")
+  * [Herbert Spencer](/wiki/Herbert_Spencer "Herbert Spencer")
+  * [Alexis de Tocqueville](/wiki/Alexis_de_Tocqueville "Alexis de Tocqueville")
+
+  
+  
+Principaux auteurs |
+
+  * [Theodor W. Adorno](/wiki/Theodor_W._Adorno "Theodor W. Adorno")
+  * [Raymond Aron](/wiki/Raymond_Aron "Raymond Aron")
+  * [Howard Becker](/wiki/Howard_Becker "Howard Becker")
+  * [Raymond Boudon](/wiki/Raymond_Boudon "Raymond Boudon")
+  * [Pierre Bourdieu](/wiki/Pierre_Bourdieu "Pierre Bourdieu")
+  * [Émile Durkheim](/wiki/%C3%89mile_Durkheim "Émile Durkheim")
+  * [Norbert Elias](/wiki/Norbert_Elias "Norbert Elias")
+  * [Erich Fromm](/wiki/Erich_Fromm "Erich Fromm")
+  * [Anthony Giddens](/wiki/Anthony_Giddens "Anthony Giddens")
+  * [Erving Goffman](/wiki/Erving_Goffman "Erving Goffman")
+  * [Jürgen Habermas](/wiki/J%C3%BCrgen_Habermas "Jürgen Habermas")
+  * [Max Horkheimer](/wiki/Max_Horkheimer "Max Horkheimer")
+  * [Lucien Lévy-Bruhl](/wiki/Lucien_L%C3%A9vy-Bruhl "Lucien Lévy-Bruhl")
+  * [Herbert Marcuse](/wiki/Herbert_Marcuse "Herbert Marcuse")
+  * [George Herbert Mead](/wiki/George_Herbert_Mead "George Herbert Mead")
+  * [Robert Merton](/wiki/Robert_King_Merton "Robert King Merton")
+  * [Charles Wright Mills](/wiki/Charles_Wright_Mills "Charles Wright Mills")
+  * [Vilfredo Pareto](/wiki/Vilfredo_Pareto "Vilfredo Pareto")
+  * [Talcott Parsons](/wiki/Talcott_Parsons "Talcott Parsons")
+  * [Georg Simmel](/wiki/Georg_Simmel "Georg Simmel")
+  * [Ferdinand Tönnies](/wiki/Ferdinand_T%C3%B6nnies "Ferdinand Tönnies")
+  * [Alain Touraine](/wiki/Alain_Touraine "Alain Touraine")
+  * [Thorstein Veblen](/wiki/Thorstein_Veblen "Thorstein Veblen")
+  * [Max Weber](/wiki/Max_Weber "Max Weber")
+
+  
+  
+Listes |
+
+  * [Centres de recherche](/wiki/Centres_ou_instituts_de_recherche_francophones_en_sociologie "Centres ou instituts de recherche francophones en sociologie")
+  * [Sociologues](/wiki/Liste_de_sociologues "Liste de sociologues")
+  * [Bibliographie](/wiki/Bibliographie_sur_la_sociologie "Bibliographie sur la sociologie")
+  * [Ouvrages](/wiki/Cat%C3%A9gorie:Livre_de_sociologie "Catégorie:Livre de sociologie")
+  * [Revues](/wiki/Cat%C3%A9gorie:Revue_de_sociologie "Catégorie:Revue de sociologie")
+  * [Chronologie](/wiki/Cat%C3%A9gorie:Chronologie_de_la_sociologie "Catégorie:Chronologie de la sociologie")
+
+  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sociologielogo.png/21px-Sociologielogo.png)](/wiki/Portail:Sociologie "Portail de la sociologie") [Portail de la sociologie](/wiki/Portail:Sociologie "Portail:Sociologie")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Circle-icons-genius.svg/24px-Circle-icons-genius.svg.png)](/wiki/Portail:Sciences "Portail des sciences") [Portail des sciences](/wiki/Portail:Sciences "Portail:Sciences")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Sociologie_des_sciences&oldid=174280840](https://fr.wikipedia.org/w/index.php?title=Sociologie_des_sciences&oldid=174280840)
+».
+
+[Catégorie](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Sociologie des sciences](/wiki/Cat%C3%A9gorie:Sociologie_des_sciences "Catégorie:Sociologie des sciences")
+
+Catégories cachées :
+
+  * [Page utilisant P279](/wiki/Cat%C3%A9gorie:Page_utilisant_P279 "Catégorie:Page utilisant P279")
+  * [Article à illustrer](/wiki/Cat%C3%A9gorie:Article_%C3%A0_illustrer "Catégorie:Article à illustrer")
+  * [Article utilisant l'infobox Discipline](/wiki/Cat%C3%A9gorie:Article_utilisant_l%27infobox_Discipline "Catégorie:Article utilisant l'infobox Discipline")
+  * [Article utilisant une Infobox](/wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox "Catégorie:Article utilisant une Infobox")
+  * [Article avec passages non neutres](/wiki/Cat%C3%A9gorie:Article_avec_passages_non_neutres "Catégorie:Article avec passages non neutres")
+  * [Article à référence nécessaire](/wiki/Cat%C3%A9gorie:Article_%C3%A0_r%C3%A9f%C3%A9rence_n%C3%A9cessaire "Catégorie:Article à référence nécessaire")
+  * [Article avec une section vide ou incomplète](/wiki/Cat%C3%A9gorie:Article_avec_une_section_vide_ou_incompl%C3%A8te "Catégorie:Article avec une section vide ou incomplète")
+  * [Portail:Sociologie/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sociologie/Articles_li%C3%A9s "Catégorie:Portail:Sociologie/Articles liés")
+  * [Portail:Sciences humaines et sociales/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences_humaines_et_sociales/Articles_li%C3%A9s "Catégorie:Portail:Sciences humaines et sociales/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Sociologie_des_sciences "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Sociologie_des_sciences "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Sociologie_des_sciences&oldid=174280840 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Sociologie_des_sciences&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Sociologie_des_sciences&id=174280840&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q2747152 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Sociologie+des+sciences)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Sociologie_des_sciences&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Sociologie_des_sciences&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85_\(%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9\) "العلوم \(علم الاجتماع\) — arabe")
+  * [Deutsch](https://de.wikipedia.org/wiki/Wissenschaftssoziologie "Wissenschaftssoziologie — allemand")
+  * [Español](https://es.wikipedia.org/wiki/Sociolog%C3%ADa_de_la_ciencia "Sociología de la ciencia — espagnol")
+  * [Euskara](https://eu.wikipedia.org/wiki/Zientziaren_soziologia "Zientziaren soziologia — basque")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%A1%D7%95%D7%A6%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94_%D7%A9%D7%9C_%D7%94%D7%9E%D7%93%D7%A2 "סוציולוגיה של המדע — hébreu")
+  * [日本語](https://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E7%A4%BE%E4%BC%9A%E5%AD%A6 "科学社会学 — japonais")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Wetenschapssociologie "Wetenschapssociologie — néerlandais")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Vitenskapssosiologi "Vitenskapssosiologi — norvégien bokmål")
+  * [Polski](https://pl.wikipedia.org/wiki/Socjologia_nauki "Socjologia nauki — polonais")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8 "Социология науки — russe")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Bilim_sosyolojisi "Bilim sosyolojisi — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8 "Соціологія науки — ukrainien")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q2747152#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Sociologie+des+sciences "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Sociologie+des+sciences "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Sociologie_des_sciences "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Sociologie_des_sciences "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Sociologie_des_sciences)
+  * [Modifier](/w/index.php?title=Sociologie_des_sciences&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Sociologie_des_sciences&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Sociologie_des_sciences&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 30 août 2020 à 19:44.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Sociologie_des_sciences "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Sociologie_des_sciences&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[(en)]: Langue : anglais
+  *[pp.]: pages
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+

@@ -1,0 +1,309 @@
+# Structure
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+Sur les autres projets Wikimedia :
+
+  * [structure](https://fr.wiktionary.org/wiki/structure "wikt:structure"), sur le Wiktionnaire
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Cette page d’[homonymie](/wiki/Aide:Homonymie "Aide:Homonymie") répertorie les
+différents sujets et articles partageant un même nom.
+
+La **structure** , généralement d'un [système](/wiki/Syst%C3%A8me "Système"),
+est la façon dont ses éléments sont [reliés](/wiki/Relation "Relation") ou
+[interagissent](/wiki/Interaction "Interaction") entre eux. Un phénomène est
+dit **structurel** s'il est dû à la structure du système, par exemple d'une
+société.
+
+## Sommaire
+
+  * 1 Sciences et techniques
+    * 1.1 Architecture et construction
+    * 1.2 Biologie
+    * 1.3 Chimie et minéralogie
+    * 1.4 Informatique
+    * 1.5 Mathématiques
+    * 1.6 Sciences de la Terre
+  * 2 Sciences humaines et sociales
+    * 2.1 Psychologie
+    * 2.2 Sociologie
+  * 3 Culture et société
+    * 3.1 Alimentation
+    * 3.2 Entreprises
+    * 3.3 Musique
+    * 3.4 Presse
+  * 4 Notes et références
+  * 5 Articles connexes
+
+## Sciences et
+techniques[[modifier](/w/index.php?title=Structure&veaction=edit&section=1
+"Modifier la section : Sciences et techniques") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=1 "Modifier la section
+: Sciences et techniques")]
+
+### Architecture et
+construction[[modifier](/w/index.php?title=Structure&veaction=edit&section=2
+"Modifier la section : Architecture et construction") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=2 "Modifier la section
+: Architecture et construction")]
+
+  * Une structure ou [ossature](/wiki/Ossature_\(construction\) "Ossature \(construction\)") est un système permettant le transfert des différentes forces appliquées au bâtiment jusqu'au sol où elles s'équilibrent. Elle permet d'assurer à la construction son indéformabilité, donc sa solidité et sa stabilité.
+  * En [construction](/wiki/Construction "Construction") et en [mécanique](/wiki/M%C3%A9canique_\(industrie\) "Mécanique \(industrie\)"), un assemblage d'éléments structuraux, c'est-à-dire porteurs, qui assure l'intégrité d'une construction et le maintien des éléments non structuraux (équipements, garnissage, etc.). 
+    * Un élément est dit structural s'il a pour fonction de participer au drainage des charges mécaniques apportées par les éléments supportés.
+
+### Biologie[[modifier](/w/index.php?title=Structure&veaction=edit&section=3
+"Modifier la section : Biologie") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=3 "Modifier la section
+: Biologie")]
+
+  * La [structure](/wiki/Structure_\(biologie\) "Structure \(biologie\)") peut se définir en termes d'[information](/wiki/Information "Information") et de [complexité](/wiki/Complexit%C3%A9 "Complexité")[1].
+  * En [biochimie](/wiki/Biochimie "Biochimie"), la [structure des protéines](/wiki/Structure_des_prot%C3%A9ines "Structure des protéines").
+
+### Chimie et
+minéralogie[[modifier](/w/index.php?title=Structure&veaction=edit&section=4
+"Modifier la section : Chimie et minéralogie") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=4 "Modifier la section
+: Chimie et minéralogie")]
+
+  * Une [structure cristalline](/wiki/Structure_cristalline "Structure cristalline")...
+
+###
+Informatique[[modifier](/w/index.php?title=Structure&veaction=edit&section=5
+"Modifier la section : Informatique") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=5 "Modifier la section
+: Informatique")]
+
+  * Une [structure de données](/wiki/Structure_de_donn%C3%A9es "Structure de données") est une structure [logique](/wiki/Logique "Logique") destinée à contenir des [données](/wiki/Donn%C3%A9e_\(informatique\) "Donnée \(informatique\)").
+
+###
+Mathématiques[[modifier](/w/index.php?title=Structure&veaction=edit&section=6
+"Modifier la section : Mathématiques") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=6 "Modifier la section
+: Mathématiques")]
+
+  * Une [structure](/wiki/Structure_\(math%C3%A9matiques\) "Structure \(mathématiques\)") est une théorie reposant sur le produit cartésien de deux ensembles non nécessairement distincts, à commencer par la [structure algébrique](/wiki/Structure_alg%C3%A9brique "Structure algébrique") qui est un ensemble muni de [loi de composition](/wiki/Loi_de_composition "Loi de composition").
+  * En [logique](/wiki/Logique_math%C3%A9matique "Logique mathématique"), le terme de [structure](/wiki/Structure_\(logique_math%C3%A9matique\) "Structure \(logique mathématique\)") est une notion proche de celle de [modèle](/wiki/Th%C3%A9orie_des_mod%C3%A8les "Théorie des modèles").
+
+### Sciences de la
+Terre[[modifier](/w/index.php?title=Structure&veaction=edit&section=7
+"Modifier la section : Sciences de la Terre") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=7 "Modifier la section
+: Sciences de la Terre")]
+
+  * En [pédologie](/wiki/P%C3%A9dologie_\(g%C3%A9oscience\) "Pédologie \(géoscience\)"), la [structure](/wiki/Structure_\(p%C3%A9dologie\) "Structure \(pédologie\)") décrit la façon dont les particules constitutive du sol s'organisent.
+  * En [pétrographie](/wiki/P%C3%A9trographie "Pétrographie"), la [structure](/wiki/Structure_\(p%C3%A9trographie\) "Structure \(pétrographie\)") d'une roche décrit la façon dont les minéraux sont arrangés entre eux.
+
+## Sciences humaines et
+sociales[[modifier](/w/index.php?title=Structure&veaction=edit&section=8
+"Modifier la section : Sciences humaines et sociales") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=8 "Modifier la section
+: Sciences humaines et sociales")]
+
+###
+Psychologie[[modifier](/w/index.php?title=Structure&veaction=edit&section=9
+"Modifier la section : Psychologie") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=9 "Modifier la section
+: Psychologie")]
+
+  * En [psychanalyse](/wiki/Psychanalyse "Psychanalyse"), pour [Lacan](/wiki/Jacques_Lacan "Jacques Lacan") la [structure](/wiki/Jacques_Lacan#Le_nouage_du_réel,_du_symbolique_et_de_l'imaginaire_ou_le_concept_de_structure "Jacques Lacan") a un sens bien particulier inspiré du [structuralisme](/wiki/Structuralisme "Structuralisme") qui diffère sensiblement de celui d'autres auteurs comme [Jean Bergeret](/wiki/Jean_Bergeret_\(psychanalyste\) "Jean Bergeret \(psychanalyste\)") notamment; dans tous les cas c'est un concept descripteur du fonctionnement du psychisme inspiré des écrits de [Sigmund Freud](/wiki/Sigmund_Freud "Sigmund Freud").
+  * En [psychopathologie](/wiki/Psychopathologie "Psychopathologie") et en [psychiatrie](/wiki/Psychiatrie "Psychiatrie") le concept de [structure en psychopathologie](/wiki/Structure_en_psychopathologie "Structure en psychopathologie") définit des modèles d'organisation [psychique](/wiki/Psychisme "Psychisme").
+
+###
+Sociologie[[modifier](/w/index.php?title=Structure&veaction=edit&section=10
+"Modifier la section : Sociologie") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=10 "Modifier la section
+: Sociologie")]
+
+  * Une [structure sociale](/wiki/Structure_sociale "Structure sociale") décrit l'organisation des sociétés.
+  * En sociolinguistique, le [structuralisme](/wiki/Structuralisme "Structuralisme") est un courant des sciences humaines et appréhende la réalité sociale comme un ensemble formel de relations structurelles.
+
+## Culture et
+société[[modifier](/w/index.php?title=Structure&veaction=edit&section=11
+"Modifier la section : Culture et société") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=11 "Modifier la section
+: Culture et société")]
+
+###
+Alimentation[[modifier](/w/index.php?title=Structure&veaction=edit&section=12
+"Modifier la section : Alimentation") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=12 "Modifier la section
+: Alimentation")]
+
+  * En [œnologie](/wiki/%C5%92nologie "Œnologie"), la structure d'un vin est son aptitude, en bouche, à solliciter harmonieusement l'ensemble des récepteurs sensoriels.
+
+###
+Entreprises[[modifier](/w/index.php?title=Structure&veaction=edit&section=13
+"Modifier la section : Entreprises") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=13 "Modifier la section
+: Entreprises")]
+
+  * La [structure d'une entreprise](/wiki/Structure_d%27une_entreprise "Structure d'une entreprise") est l'agencement rationnel de tous les éléments essentiels pour que l'entreprise fonctionne avec efficacité.
+  * En [management](/wiki/Management "Management"), la [structure organisationnelle](/wiki/Structure_organisationnelle "Structure organisationnelle") ou structure d'une entreprise est la façon dont elle découpée.
+
+### Musique[[modifier](/w/index.php?title=Structure&veaction=edit&section=14
+"Modifier la section : Musique") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=14 "Modifier la section
+: Musique")]
+
+  * Une [structure](/wiki/Structure_\(musique\) "Structure \(musique\)") est l'agencement formel, l'organisation et l'exploitation, de différentes cellules musicales.
+  * _[Structures pour deux pianos, livre I](/wiki/Structures_pour_deux_pianos,_livre_I "Structures pour deux pianos, livre I")_ est une œuvre de [Pierre Boulez](/wiki/Pierre_Boulez "Pierre Boulez").
+
+### Presse[[modifier](/w/index.php?title=Structure&veaction=edit&section=15
+"Modifier la section : Presse") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=15 "Modifier la section
+: Presse")]
+
+  * _[Structure](/wiki/Structure_\(revue_litt%C3%A9raire\) "Structure \(revue littéraire\)")_ était une revue littéraire (Paris).
+  * _[Structure](/w/index.php?title=Structure_\(revue_scientifique\)&action=edit&redlink=1 "Structure \(revue scientifique\) \(page inexistante\)")_ est une revue de biochimie spécialisée en [biologie structurale](/wiki/Biologie_structurale "Biologie structurale"), en particulier la structure des protéines.
+
+## Notes et
+références[[modifier](/w/index.php?title=Structure&veaction=edit&section=16
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=16 "Modifier la section
+: Notes et références")]
+
+  1. ↑ 'J.J.Matras, [G. Chapouthier](/wiki/Georges_Chapouthier "Georges Chapouthier"), L'inné et l'acquis des structures biologiques, collection "Le Biologiste", Presses Universitaires de France éditeur, Paris, 1981'
+
+## Articles
+connexes[[modifier](/w/index.php?title=Structure&veaction=edit&section=17
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Structure&action=edit&section=17 "Modifier la section
+: Articles connexes")]
+
+  * [Infrastructure](/wiki/Infrastructure "Infrastructure")
+  * [Superstructure](/wiki/Superstructure "Superstructure")
+  * [Structuralisme](/wiki/Structuralisme "Structuralisme")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Structure&oldid=175073924](https://fr.wikipedia.org/w/index.php?title=Structure&oldid=175073924)
+».
+
+[Catégorie](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Homonymie](/wiki/Cat%C3%A9gorie:Homonymie "Catégorie:Homonymie")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Structure "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Structure "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Structure&oldid=175073924 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Structure&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Structure&id=175073924&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q8083174 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Structure)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Structure&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Structure&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres langues
+
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%A8%D9%86%D9%8A%D8%A9_\(%D8%AA%D9%88%D8%B6%D9%8A%D8%AD\) "بنية \(توضيح\) — arabe")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Estructura_\(dixebra\) "Estructura \(dixebra\) — asturien")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0 "Структура — biélorusse")
+  * [Čeština](https://cs.wikipedia.org/wiki/Struktura_\(rozcestn%C3%ADk\) "Struktura \(rozcestník\) — tchèque")
+  * [Dansk](https://da.wikipedia.org/wiki/Struktur "Struktur — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Struktur "Struktur — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%94%CE%BF%CE%BC%CE%AE_\(%CE%B1%CF%80%CE%BF%CF%83%CE%B1%CF%86%CE%AE%CE%BD%CE%B9%CF%83%CE%B7\) "Δομή \(αποσαφήνιση\) — grec")
+  * [English](https://en.wikipedia.org/wiki/Structure_\(disambiguation\) "Structure \(disambiguation\) — anglais")
+  * [Español](https://es.wikipedia.org/wiki/Estructura_\(desambiguaci%C3%B3n\) "Estructura \(desambiguación\) — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Struktuur_\(t%C3%A4psustus\) "Struktuur \(täpsustus\) — estonien")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B2%D9%87_\(%D8%A7%D8%A8%D9%87%D8%A7%D9%85%E2%80%8C%D8%B2%D8%AF%D8%A7%DB%8C%DB%8C\) "سازه \(ابهام‌زدایی\) — persan")
+  * [Galego](https://gl.wikipedia.org/wiki/Estrutura "Estrutura — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%9E%D7%91%D7%A0%D7%94_\(%D7%A4%D7%99%D7%A8%D7%95%D7%A9%D7%95%D7%A0%D7%99%D7%9D\) "מבנה \(פירושונים\) — hébreu")
+  * [Magyar](https://hu.wikipedia.org/wiki/Strukt%C3%BAra_\(egy%C3%A9rtelm%C5%B1s%C3%ADt%C5%91_lap\) "Struktúra \(egyértelműsítő lap\) — hongrois")
+  * [Italiano](https://it.wikipedia.org/wiki/Struttura "Struttura — italien")
+  * [Português](https://pt.wikipedia.org/wiki/Estrutura_\(desambigua%C3%A7%C3%A3o\) "Estrutura \(desambiguação\) — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/Structur%C4%83 "Structură — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0 "Структура — russe")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/%C5%A0trukt%C3%BAra "Štruktúra — slovaque")
+  * [Svenska](https://sv.wikipedia.org/wiki/Struktur "Struktur — suédois")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87_\(%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%A7%E0%B8%A1\) "โครงสร้าง \(แก้ความกำกวม\) — thaï")
+  * [中文](https://zh.wikipedia.org/wiki/%E7%BB%93%E6%9E%84_\(%E6%B6%88%E6%AD%A7%E4%B9%89\) "结构 \(消歧义\) — chinois")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q8083174#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Structure "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Structure "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Structure "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Structure "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Structure)
+  * [Modifier](/w/index.php?title=Structure&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Structure&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Structure&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 27 septembre 2020 à 11:48.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Structure "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Structure&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[etc.]: et cetera
+

@@ -1,0 +1,1874 @@
+# Alexandre Grothendieck
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur les
+redirections](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Redirection "Aide:Redirection")
+
+« Grothendieck » redirige ici. Pour les autres significations, voir
+[Grothendieck (homonymie)](/wiki/Grothendieck_\(homonymie\) "Grothendieck
+\(homonymie\)").
+
+Alexandre Grothendieck
+
+[![Description de cette image, également commentée ci-
+après](//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Alexander_Grothendieck.jpg/220px-
+Alexander_Grothendieck.jpg)](/wiki/Fichier:Alexander_Grothendieck.jpg
+"lang=fr")
+
+Alexandre Grothendieck en 1970.
+
+Données clés Naissance |  [28](/wiki/28_mars "28 mars") [mars](/wiki/Mars_1928
+"Mars 1928") [1928](/wiki/1928 "1928")  
+[Berlin](/wiki/Berlin "Berlin") ([Allemagne](/wiki/Allemagne "Allemagne"))  
+---|---  
+Décès |  [13](/wiki/13_novembre "13 novembre") [novembre](/wiki/Novembre_2014
+"Novembre 2014") [2014](/wiki/2014 "2014") (à 86 ans)  
+[Saint-Lizier](/wiki/Saint-Lizier "Saint-Lizier") ([France](/wiki/France
+"France"))  
+Nationalité |  [Apatride](/wiki/Apatride "Apatride") puis
+[français](/wiki/France "France") (1971)  
+Domaines |  [Géométrie algébrique](/wiki/G%C3%A9om%C3%A9trie_alg%C3%A9brique
+"Géométrie algébrique"), [analyse
+fonctionnelle](/wiki/Analyse_fonctionnelle_\(math%C3%A9matiques\) "Analyse
+fonctionnelle \(mathématiques\)")  
+Institutions |  [Institut des hautes études
+scientifiques](/wiki/Institut_des_hautes_%C3%A9tudes_scientifiques "Institut
+des hautes études scientifiques"), [Nicolas Bourbaki](/wiki/Nicolas_Bourbaki
+"Nicolas Bourbaki").  
+Diplôme |  [Université de Montpellier](/wiki/Universit%C3%A9_de_Montpellier
+"Université de Montpellier")  
+Directeur de thèse |  [Laurent
+Schwartz](/wiki/Laurent_Schwartz_\(math%C3%A9maticien\) "Laurent Schwartz
+\(mathématicien\)") et [Jean Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean
+Dieudonné")  
+Renommé pour |  [Espaces nucléaires](/wiki/Espace_nucl%C3%A9aire "Espace
+nucléaire"),  
+[théorème de Riemann-Roch](/wiki/Th%C3%A9or%C3%A8me_de_Riemann-Roch "Théorème
+de Riemann-Roch"),  
+[théorie des
+schémas](/wiki/Sch%C3%A9ma_\(g%C3%A9om%C3%A9trie_alg%C3%A9brique\) "Schéma
+\(géométrie algébrique\)"),  
+[cohomologie étale](/wiki/Cohomologie_%C3%A9tale "Cohomologie étale"),  
+[catégories abéliennes](/wiki/Cat%C3%A9gorie_ab%C3%A9lienne "Catégorie
+abélienne"),  
+[théorie des topos](/wiki/Topos_\(math%C3%A9matiques\) "Topos
+\(mathématiques\)"),  
+[cohomologie motivique](/wiki/Cohomologie_motivique "Cohomologie motivique").  
+Distinctions |  [Médaille Fields](/wiki/M%C3%A9daille_Fields "Médaille
+Fields") (1966)  
+[Prix Crafoord](/wiki/Prix_Crafoord "Prix Crafoord") (1988), refusé  
+  
+[modifier](https://fr.wikipedia.org/w/index.php?title=Alexandre_Grothendieck&action=edit)
+[![Consultez la documentation du
+modèle](//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-
+Info_Simple.svg.png)](/wiki/Mod%C3%A8le:Infobox_Scientifique "Consultez la
+documentation du modèle")
+
+**Alexandre** (ou **Alexander** [1]) **Grothendieck** (prononcé en
+[allemand](/wiki/Allemand "Allemand") :
+[[ˈɡroːtn̩diːk]](/wiki/Aide:Alphabet_phon%C3%A9tique_international
+"Aide:Alphabet phonétique international")) est un
+[mathématicien](/wiki/Math%C3%A9maticien "Mathématicien")
+[français](/wiki/France "France"), né le 28 mars 1928 à [Berlin](/wiki/Berlin
+"Berlin") et mort le 13 novembre 2014 à [Saint-Lizier](/wiki/Saint-Lizier
+"Saint-Lizier")[2], près de [Saint-Girons](/wiki/Saint-Girons_\(Ari%C3%A8ge\)
+"Saint-Girons \(Ariège\)") ([Ariège](/wiki/Ari%C3%A8ge_\(d%C3%A9partement\)
+"Ariège \(département\)")). Il est resté longtemps [apatride](/wiki/Apatride
+"Apatride") tout en vivant principalement en [France](/wiki/France "France") ;
+il obtient la [nationalité française](/wiki/Nationalit%C3%A9_fran%C3%A7aise
+"Nationalité française") en 1971[3].
+
+Il est considéré comme le refondateur de la [géométrie
+algébrique](/wiki/G%C3%A9om%C3%A9trie_alg%C3%A9brique "Géométrie algébrique")
+et, à ce titre, comme l'un des plus grands mathématiciens du XXe
+siècle[4],[5]. Il était connu pour son intuition extraordinaire et sa capacité
+de travail exceptionnelle. La [médaille Fields](/wiki/M%C3%A9daille_Fields
+"Médaille Fields") lui a été décernée en 1966.
+
+## Sommaire
+
+  * 1 Biographie
+    * 1.1 Ascendance et enfance
+    * 1.2 Étudiant
+    * 1.3 Mathématicien
+    * 1.4 Rupture avec les institutions
+    * 1.5 Manuscrits écrits pendant les années 1980
+  * 2 Travaux et influence
+  * 3 Œuvre
+    * 3.1 Mathématique
+    * 3.2 Littéraire
+  * 4 Notes et références
+    * 4.1 Notes
+    * 4.2 Références
+  * 5 Annexes
+    * 5.1 Bibliographie
+      * 5.1.1 Ouvrages principaux
+        * 5.1.1.1 En français
+        * 5.1.1.2 En anglais
+        * 5.1.1.3 En allemand
+      * 5.1.2 Ouvrages complémentaires
+    * 5.2 Articles connexes
+    * 5.3 Liens externes
+
+##
+Biographie[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=1
+"Modifier la section : Biographie") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=1
+"Modifier la section : Biographie")]
+
+### Ascendance et
+enfance[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=2
+"Modifier la section : Ascendance et enfance") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=2
+"Modifier la section : Ascendance et enfance")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sascha_Schapiro_2.jpg/170px-
+Sascha_Schapiro_2.jpg)](/wiki/Fichier:Sascha_Schapiro_2.jpg)
+
+[](/wiki/Fichier:Sascha_Schapiro_2.jpg "Agrandir")
+
+Sacha Schapiro, son père.
+
+[Sacha Schapiro](/wiki/Sacha_Schapiro "Sacha Schapiro"), son père[6],
+également connu sous le nom de _Tanaroff_ , est un
+[anarchiste](/wiki/Anarchisme "Anarchisme") militant ukrainien né à
+[Novozybkov](/wiki/Novozybkov "Novozybkov"), ville située aujourd’hui en
+[Russie](/wiki/Russie "Russie"), dans l'[oblast de
+Briansk](/wiki/Oblast_de_Briansk "Oblast de Briansk"). Il est issu d’une
+famille juive de [hassidim](/wiki/Hassidisme "Hassidisme"). Après avoir passé
+dix ans en prison pour sa participation à plusieurs soulèvements
+anti-[tsaristes](/wiki/Tsar "Tsar"), Sacha Shapiro rejoint
+[Berlin](/wiki/Berlin "Berlin") en 1922 ; il y rencontre sa future compagne,
+journaliste, également anarchiste, [Johanna « Hanka »
+Grothendieck](/wiki/Hanka_Grothendieck "Hanka Grothendieck")[7], originaire
+d’une famille protestante [hambourgeoise](/wiki/Hambourg "Hambourg") aisée[8]
+qui aurait émigré des Pays-Bas au XVIIIe siècle[a]. Johanna est alors mariée à
+Johannes « Alf » Raddatz[9],[10], également journaliste : Alexander naît de la
+liaison de sa mère avec Sacha Schapiro mais porte d’abord le nom de son père
+légitime[11], « Raddatz » dont Hanka divorce en 1929 sans épouser pour autant
+Sacha[12], père biologique d’Alexander, qui reconnaît l'enfant. Ensuite,
+Alexander porte le nom de sa mère, qui a repris son nom de jeune fille, «
+Grothendieck »[13].
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hanka_Grothendieck.gif/170px-
+Hanka_Grothendieck.gif)](/wiki/Fichier:Hanka_Grothendieck.gif)
+
+[](/wiki/Fichier:Hanka_Grothendieck.gif "Agrandir")
+
+Hanka Grothendieck, sa mère.
+
+Hanka et Sacha fréquentent le [mouvement
+libertaire](/wiki/Mouvement_libertaire "Mouvement libertaire"). En 1933, la
+montée du [nazisme](/wiki/Nazisme "Nazisme") le contraint à quitter
+l'[Allemagne](/wiki/Allemagne "Allemagne") pour la France où elle le rejoint
+en 1934, puis ils partent pour l'[Espagne](/wiki/Espagne "Espagne")
+soutenir[14], lors de la [révolution sociale espagnole de
+1936](/wiki/R%C3%A9volution_sociale_espagnole_de_1936 "Révolution sociale
+espagnole de 1936"), le mouvement [anarcho-syndicaliste](/wiki/Anarcho-
+syndicaliste "Anarcho-syndicaliste"). Dès mai 1934, Alexander est placé par sa
+mère dans la famille de Wilhelm Heydorn[15], un [pasteur
+protestant](/wiki/Pasteur_protestant "Pasteur protestant")
+[luthérien](/wiki/Luth%C3%A9ranisme "Luthéranisme") antinazi, et maître
+d'école[16],[17], alors installé près de Hambourg. En 1939 les Heydorn, vivant
+dans la crainte de la répression nazie, considèrent qu’il est dangereux pour
+un enfant ayant une « apparence juive[17] » de rester auprès d’eux et
+demandent, par l'intermédiaire du consulat français de Hambourg, à ses parents
+de le reprendre avec eux : Alexander est mis dans un train pour Paris où il
+rejoint ses parents en mai 1939. Les retrouvailles sont de courte durée : son
+père Sacha se retrouve interné au [camp du
+Vernet](/wiki/Vernet_d%27Ari%C3%A8ge_\(camp_d%27internement\) "Vernet d'Ariège
+\(camp d'internement\)") en [Ariège](/wiki/Ari%C3%A8ge_\(d%C3%A9partement\)
+"Ariège \(département\)") ; Alexander ne le reverra plus[17]. En 1940, Hanka
+et son fils sont emmenés au [camp de Rieucros](/wiki/Camp_de_Rieucros "Camp de
+Rieucros"), à côté de [Mende](/wiki/Mende_\(Loz%C3%A8re\) "Mende \(Lozère\)"),
+en [Lozère](/wiki/Loz%C3%A8re_\(d%C3%A9partement\) "Lozère \(département\)") ;
+le jeune Alexander est autorisé à quitter le camp pour aller étudier au lycée
+Chaptal à Mende. C'est pendant cette période qu'il francise son prénom en «
+Alexandre »[11]. En 1942, son père Sacha est transféré du Vernet, à
+[Noé](/wiki/No%C3%A9_\(Haute-Garonne\) "Noé \(Haute-Garonne\)") dans la
+[Haute-Garonne](/wiki/Haute-Garonne "Haute-Garonne"), puis à
+[Drancy](/wiki/Camp_de_Drancy "Camp de Drancy"), d’où il est déporté le 14
+août 1942[18] à [Auschwitz](/wiki/Auschwitz "Auschwitz")[3]. Il y meurt, selon
+toute vraisemblance, peu de temps après son arrivée[b]. De 1942 à 1944, après
+le franchissement de la [ligne de
+démarcation](/wiki/Ligne_de_d%C3%A9marcation_en_France_durant_la_Seconde_Guerre_mondiale
+"Ligne de démarcation en France durant la Seconde Guerre mondiale") par les
+troupes allemandes, Alexandre est séparé de sa mère[19] et caché au [Chambon-
+sur-Lignon](/wiki/Le_Chambon-sur-Lignon "Le Chambon-sur-Lignon")[20], à la
+Guespy, une maison d'enfants du [Secours suisse aux
+enfants](/w/index.php?title=Secours_suisse_aux_enfants&action=edit&redlink=1
+"Secours suisse aux enfants \(page inexistante\)")[21], dirigée par [Juliette
+Usach](/wiki/Juliette_Usach "Juliette Usach"), et où sont également cachées de
+nombreuses autres jeunes victimes des lois raciales. Il est alors élève du
+[collège Cévenol](/wiki/Coll%C3%A8ge_C%C3%A9venol "Collège Cévenol"), de la
+même ville, où il passe son baccalauréat à la fin de la guerre.
+
+###
+Étudiant[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=3
+"Modifier la section : Étudiant") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=3
+"Modifier la section : Étudiant")]
+
+À la fin de la guerre, Alexandre retrouve sa mère pour s'installer avec elle à
+Meyrargues ([Vendargues](/wiki/Vendargues "Vendargues")) près de
+[Montpellier](/wiki/Montpellier "Montpellier")[22], où ils vivent modestement
+avec la bourse d'études d'Alexandre ou bien avec des travaux saisonniers comme
+les vendanges ou encore avec les ménages que fait sa mère[19]. Inscrit en
+mathématiques à l'[université de
+Montpellier](/wiki/Universit%C3%A9_de_Montpellier "Université de
+Montpellier"), il fréquente très peu les amphithéâtres, préférant travailler
+seul à la définition du concept de [volume](/wiki/Volume "Volume")[23],
+premières recherches qui, en même temps qu'elles l'initient à la solitude du
+chercheur, le mènent à redéfinir l'[intégrale de
+Lebesgue](/wiki/Int%C3%A9grale_de_Lebesgue "Intégrale de Lebesgue").
+
+En 1948, il se rend à Paris avec une lettre de recommandation signée par son
+professeur d'analyse, [Jacques
+Soula](/w/index.php?title=Jacques_Soula&action=edit&redlink=1 "Jacques Soula
+\(page inexistante\)")[24],[25] et adressée à [Élie
+Cartan](/wiki/%C3%89lie_Cartan "Élie Cartan"). Il frappe à la porte d'[André
+Magnier](/w/index.php?title=Andr%C3%A9_Magnier&action=edit&redlink=1 "André
+Magnier \(page inexistante\)"), inspecteur général de mathématiques et membre
+de l'[Entraide universitaire de
+France](/w/index.php?title=Entraide_universitaire_de_France&action=edit&redlink=1
+"Entraide universitaire de France \(page inexistante\)"), qui lui accorde une
+bourse[26]. Le professeur [Henri Cartan](/wiki/Henri_Cartan "Henri Cartan"),
+le fils d'[Élie](/wiki/%C3%89lie_Cartan "Élie Cartan"), l'admet dans ses
+séminaires à l'[École normale
+supérieure](/wiki/%C3%89cole_normale_sup%C3%A9rieure_\(France\) "École normale
+supérieure \(France\)") (ENS) et le dirige vers [Jean
+Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné") et [Laurent
+Schwartz](/wiki/Laurent_Schwartz_\(math%C3%A9maticien\) "Laurent Schwartz
+\(mathématicien\)") qui se trouvent à [Nancy](/wiki/Nancy "Nancy") — l’un des
+« bastions » mathématiques à cette époque dans le domaine de l'[analyse
+fonctionnelle](/wiki/Analyse_fonctionnelle_\(math%C3%A9matiques\) "Analyse
+fonctionnelle \(mathématiques\)") — afin de préparer sa thèse. Laurent
+Schwartz, pour tester les capacités de Grothendieck, lui confie un article
+qu'il venait de publier avec Dieudonné et qui contient une liste de quatorze
+problèmes irrésolus, en lui suggérant d'en regarder un ou deux pour se
+familiariser avec le domaine ; Grothendieck les résoudra tous en quelques
+mois[27],[28],[29]. C'est le début de sa carrière mathématique.
+
+###
+Mathématicien[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=4
+"Modifier la section : Mathématicien") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=4
+"Modifier la section : Mathématicien")]
+
+Il est attaché de recherche du [CNRS](/wiki/CNRS "CNRS") de 1950 à 1953. Des
+six articles qu'il rédige pendant cette période, il en choisit un, « Produits
+tensoriels topologiques et espaces nucléaires », pour soutenir sa
+[thèse](/wiki/Doctorat "Doctorat"). À la suite de la présentation à Paris, par
+Laurent Schwartz, des travaux d'Alexandre, celui-ci intègre le groupe de
+[Nicolas Bourbaki](/wiki/Nicolas_Bourbaki "Nicolas Bourbaki") où il restera
+plusieurs années[c]. En octobre 1953, il devient père de son premier enfant
+qu'il eut d'une liaison avec Marcelle (Aline) Driquert, sa logeuse
+nancéienne[31], il peine alors à trouver un travail. Par ailleurs, sa
+situation d'[apatride](/wiki/Apatride "Apatride") l'empêche d'accéder aux
+emplois de la fonction publique et la naturalisation ne peut être obtenue
+qu'après avoir accompli le [service militaire](/wiki/Conscription
+"Conscription") : il refuse[d] et doit donc trouver un moyen de gagner sa vie.
+Il quitte la France pour travailler, en tant que professeur invité, au
+[Brésil](/wiki/Br%C3%A9sil "Brésil") de 1953 à 1954 — il est alors chargé de
+recherche du CNRS — puis à l’[Université du
+Kansas](/wiki/Universit%C3%A9_du_Kansas "Université du Kansas") en 1955 et à
+l’[Université de Chicago](/wiki/Universit%C3%A9_de_Chicago "Université de
+Chicago"). C'est au cours de cette période qu'il change de sujet d'étude.
+
+Après des travaux remarquables en [analyse
+fonctionnelle](/wiki/Analyse_fonctionnelle_\(math%C3%A9matiques\) "Analyse
+fonctionnelle \(mathématiques\)"), il se tourne vers la [géométrie
+algébrique](/wiki/G%C3%A9om%C3%A9trie_alg%C3%A9brique "Géométrie algébrique").
+Il révolutionne ce domaine en établissant de nouvelles fondations et introduit
+la notion de
+[schéma](/wiki/Sch%C3%A9ma_\(g%C3%A9om%C3%A9trie_alg%C3%A9brique\) "Schéma
+\(géométrie algébrique\)"), en collaboration avec [Jean-Pierre
+Serre](/wiki/Jean-Pierre_Serre "Jean-Pierre Serre"). Les deux chercheurs
+correspondent énormément et leurs styles, bien que très différents[[réf.
+souhaitée]](/wiki/Aide:R%C3%A9f%C3%A9rence_n%C3%A9cessaire "Aide:Référence
+nécessaire"), se complètent et portent leurs fruits.
+
+Il revient à Paris en 1956 en tant que maître de recherche du CNRS, et se
+penche sur la [topologie](/wiki/Topologie "Topologie") et la [géométrie
+algébrique](/wiki/G%C3%A9om%C3%A9trie_alg%C3%A9brique "Géométrie algébrique").
+Il produit alors une [nouvelle
+version](/wiki/Th%C3%A9or%C3%A8me_de_Grothendieck-Hirzebruch-Riemann-Roch
+"Théorème de Grothendieck-Hirzebruch-Riemann-Roch") du [théorème de Riemann-
+Roch](/wiki/Th%C3%A9or%C3%A8me_de_Riemann-Roch "Théorème de Riemann-Roch") et
+met en évidence le lien caché entre les propriétés analytiques et topologiques
+d'une [variété](/wiki/Vari%C3%A9t%C3%A9_\(g%C3%A9om%C3%A9trie\) "Variété
+\(géométrie\)").
+
+En 1957, le décès de sa mère, victime de la tuberculose qu'elle avait
+contractée pendant la guerre lors de son séjour dans le [camp de
+Rieucros](/wiki/Camp_de_Rieucros "Camp de Rieucros")[32], le plonge plusieurs
+mois dans un état dépressif. L'année suivante, il décide de terminer ses
+travaux inachevés et réalise quelques percées spectaculaires. Il rencontre
+également sa future femme, Mireille, avec qui il aura trois enfants.
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/IHES_main_building.jpg/220px-
+IHES_main_building.jpg)](/wiki/Fichier:IHES_main_building.jpg)
+
+[](/wiki/Fichier:IHES_main_building.jpg "Agrandir")
+
+Le bâtiment principal de l'IHES.
+
+Il est accueilli dans le tout nouvel [Institut des hautes études
+scientifiques](/wiki/Institut_des_hautes_%C3%A9tudes_scientifiques "Institut
+des hautes études scientifiques") (IHÉS), consacré à la recherche en [physique
+théorique](/wiki/Physique_th%C3%A9orique "Physique théorique") et en
+[mathématiques](/wiki/Math%C3%A9matiques "Mathématiques"). Il y est rejoint
+par [Jean Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné"), [René
+Thom](/wiki/Ren%C3%A9_Thom "René Thom"), [Louis
+Michel](/wiki/Louis_Michel_\(physicien\) "Louis Michel \(physicien\)") et
+[David Ruelle](/wiki/David_Ruelle_\(physicien\) "David Ruelle \(physicien\)"),
+et entreprend de construire une théorie de la géométrie algébrique[e].
+
+Entre 1960 et 1967, il rédige les quatre premiers chapitres (divisés en huit
+volumes) des _[Éléments de géométrie
+algébrique](/wiki/%C3%89l%C3%A9ments_de_g%C3%A9om%C3%A9trie_alg%C3%A9brique
+"Éléments de géométrie algébrique")_ , en collaboration avec [Jean
+Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné").
+
+Lauréat de la [médaille Fields](/wiki/M%C3%A9daille_Fields "Médaille Fields")
+en 1966[33], il refuse de se rendre en
+[URSS](/wiki/Union_des_r%C3%A9publiques_socialistes_sovi%C3%A9tiques "Union
+des républiques socialistes soviétiques") pour la recevoir.
+
+### Rupture avec les
+institutions[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=5
+"Modifier la section : Rupture avec les institutions") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=5
+"Modifier la section : Rupture avec les institutions")]
+
+Un voyage au [Viêt Nam](/wiki/Vi%C3%AAt_Nam "Viêt Nam") en 1967, le [printemps
+de Prague](/wiki/Printemps_de_Prague "Printemps de Prague") et [Mai
+68](/wiki/Mai_68 "Mai 68") le poussent vers les milieux contestataires jusqu'à
+ce qu'il démissionne de l'IHÉS en 1970, en signe de protestation contre le
+financement partiel de l'institut par le ministère de la Défense.
+
+À la suite de sa démission, il fonde avec [Pierre Samuel](/wiki/Pierre_Samuel
+"Pierre Samuel") et [Claude Chevalley](/wiki/Claude_Chevalley "Claude
+Chevalley") le groupe écologiste et politique _[Survivre et
+vivre](/wiki/Survivre_et_vivre "Survivre et vivre")_ dans le but de propager
+ses idées [antimilitaristes](/wiki/Antimilitarisme "Antimilitarisme") et
+[écologistes](/wiki/%C3%89cologisme "Écologisme"). Sa maison est alors grande
+ouverte aux groupes [hippies](/wiki/Hippies "Hippies") dont il est le « gourou
+» local[34].
+
+Grothendieck obtient un poste de professeur associé au [Collège de
+France](/wiki/Coll%C3%A8ge_de_France "Collège de France") où, le 3 novembre
+1971 il introduit son cours de mathématiques par une séance intitulée «
+Science et technologie dans la crise évolutionniste actuelle : allons-nous
+continuer la recherche scientifique[35] ? » Il aborde ainsi les questions non
+techniques de la survie « sous sa propre responsabilité, sans sanction
+officielle, et sans que le fait soit signalé sur les affiches du Collège de
+France »[36] car « une majorité de professeurs du Collège de France a voté
+contre, une première dans l’histoire de la vénérable institution[37] ».
+
+En 1972, aux [États-Unis](/wiki/%C3%89tats-Unis "États-Unis"), Grothendieck
+rencontre Justine Bumby, une étudiante en mathématiques ; il divorce alors et
+fonde avec elle une communauté près de Paris. En 1973, il obtient un poste de
+professeur à l’[université de Montpellier](/wiki/Universit%C3%A9_Montpellier_2
+"Université Montpellier 2"), qu'il occupe jusqu'à sa retraite en 1988. Le
+couple déménage dans un village de
+l'[Hérault](/wiki/H%C3%A9rault_\(d%C3%A9partement\) "Hérault \(département\)")
+et expérimente la [contre-culture](/wiki/Contre-culture "Contre-culture").
+Justine Bumby donne naissance à un enfant, John, qui est ensuite lui-même
+devenu mathématicien[38] ; elle quitte son compagnon peu de temps après la
+naissance de leur enfant.
+
+Grothendieck écrit quatre livres de 1980 à 1995 : _La Longue Marche à travers
+la théorie de Galois_ , _[Esquisse d'un
+programme](/wiki/Esquisse_d%27un_programme "Esquisse d'un programme")_ [39],
+_[À la poursuite des
+champs](/w/index.php?title=%C3%80_la_poursuite_des_champs&action=edit&redlink=1
+"À la poursuite des champs \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Pursuing_Stacks "en:Pursuing Stacks")_ et
+_Les Dérivateurs_ [40],[41]. Par ailleurs, le plus célèbre de ses ouvrages est
+_[Récoltes et Semailles](/wiki/R%C3%A9coltes_et_Semailles "Récoltes et
+Semailles")_ [23], une autobiographie de près d’un millier de pages, écrite
+vers 1985, qui ne trouve pas d'éditeur. Il y montre comment sa vie a été
+successivement traversée par trois passions : les mathématiques, la quête de
+la femme et la [méditation](/wiki/M%C3%A9ditation "Méditation")[42].
+
+En 1988, il refuse le [prix Crafoord](/wiki/Prix_Crafoord "Prix Crafoord"),
+qu’il partage avec [Pierre Deligne](/wiki/Pierre_Deligne "Pierre
+Deligne")[43], invoquant que[3],[44] :
+
+  * [son] salaire de professeur […], est beaucoup plus que suffisant pour [ses] besoins matériels ;
+  * les chercheurs de haut niveau auxquels s'adresse un prix prestigieux comme le prix Crafoord sont tous d'un statut social tel qu'ils ont déjà en abondance et le bien-être matériel et le prestige scientifique, ainsi que tous les pouvoirs et prérogatives qui vont avec ;
+  * il s’est éloigné du milieu scientifique depuis 1970 et la récompense porte sur des travaux vieux de vingt-cinq ans.
+
+Il rejette également un _[Festschrift](/wiki/Festschrift "Festschrift")_ , un
+livre « hommage » rédigé à l'occasion de son 60e anniversaire[45], persuadé
+que son œuvre a été mal comprise.
+
+En 1990, alors âgé de 62 ans, il se retire dans le petit village de
+[Lasserre](/wiki/Lasserre_\(Ari%C3%A8ge\) "Lasserre \(Ariège\)")[f], proche de
+la chaîne des [Pyrénées](/wiki/Pyr%C3%A9n%C3%A9es "Pyrénées"), en
+[Ariège](/wiki/Ari%C3%A8ge_\(d%C3%A9partement\) "Ariège \(département\)"), où
+il mène une vie de quasi-[ermite](/wiki/Ermite "Ermite"), refusant
+pratiquement tout contact avec ses anciennes relations, ce jusqu'à sa mort à
+l'hôpital de [Saint-Girons](/wiki/Saint-Girons_\(Ari%C3%A8ge\) "Saint-Girons
+\(Ariège\)")[g] en 2014[2].
+
+### Manuscrits écrits pendant les années
+1980[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=6
+"Modifier la section : Manuscrits écrits pendant les années 1980") | [modifier
+le code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=6
+"Modifier la section : Manuscrits écrits pendant les années 1980")]
+
+Tout en ne publiant pas de recherche mathématique de manière conventionnelle
+au cours des années 1980, il a produit plusieurs manuscrits influents avec une
+distribution limitée, à la fois mathématique et biographique. Produite entre
+1980 et 1981, _La Longue Marche à travers la théorie de Galois_ est un
+manuscrit de 1 600 pages contenant plusieurs des idées qui ont mené à
+_[Esquisse d'un programme](/wiki/Esquisse_d%27un_programme "Esquisse d'un
+programme")_. Il comprend également une étude de la [théorie de
+Teichmüller](/w/index.php?title=Th%C3%A9orie_de_Teichm%C3%BCller&action=edit&redlink=1
+"Théorie de Teichmüller \(page inexistante\)").
+
+En 1983, stimulé par la correspondance avec [Ronald
+Brown](/w/index.php?title=Ronald_Brown,math%C3%A9maticien&action=edit&redlink=1
+"Ronald Brown,mathématicien \(page inexistante\)") et Tim Porter à
+l'[université de Bangor](/wiki/Universit%C3%A9_de_Bangor "Université de
+Bangor"), Grothendieck a écrit un manuscrit en anglais de 600 pages intitulé
+_Pursuing Stacks_ ( _[À la Poursuite des
+champs](/w/index.php?title=%C3%80_la_Poursuite_des_champs&action=edit&redlink=1
+"À la Poursuite des champs \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Pursuing_Stacks "en:Pursuing Stacks")_),
+en commençant par une lettre adressée à [Daniel Quillen](/wiki/Daniel_Quillen
+"Daniel Quillen"). Cette lettre et les parties successives ont été distribuées
+à partir de Bangor (voir les liens externes ci-dessous). Au sein de ces
+derniers, d'une manière informelle et journalière, Grothendieck a expliqué et
+développé ses idées sur la relation entre la théorie de l'homotopie algébrique
+et la géométrie algébrique et les perspectives d'une théorie non commutative
+des champs. Le manuscrit, édité pour publication par G. Maltsiniotis, a
+ensuite conduit à une autre œuvre monumentale, Les Dérivateurs. Écrit en 1991,
+ce dernier ouvrage d'environ 2 000 pages a développé les idées homotopiques
+commencées dans _Pursuing Stacks_. Une grande partie de ce travail prévoyait
+le développement ultérieur de la théorie de l'homotopie de [Fabien
+Morel](/wiki/Fabien_Morel "Fabien Morel") et [V.
+Voevodsky](/wiki/Vladimir_Vo%C3%AFevodski "Vladimir Voïevodski") au milieu des
+années 1990.
+
+En 1984, Grothendieck a écrit la proposition « _[Esquisse d'un
+programme](/wiki/Esquisse_d%27un_programme "Esquisse d'un programme")_ » pour
+obtenir un poste au Centre National de Recherche Scientifique (CNRS). Il
+décrit de nouvelles idées pour étudier l'espace de modules de courbes
+complexes. Bien que Grothendieck lui-même n'ait jamais publié son travail dans
+ce domaine, la proposition a inspiré le travail d'autres mathématiciens en
+devenant la source de la [théorie du dessin
+d'enfant](/wiki/Dessin_d%27enfant_\(math%C3%A9matiques\) "Dessin d'enfant
+\(mathématiques\)") et de la géométrie anabélienne. Il a ensuite été publié
+dans les actions géométriques de Galois en deux volumes (Cambridge University
+Press, 1997).
+
+Au cours de cette période, Grothendieck a également donné son consentement à
+publier certains de ses projets pour EGA sur les théorèmes de type Bertini
+(EGA V, publié dans Ulam Quarterly en 1992-1993 et publié plus tard sur le
+site Web du _Grothendieck Circle_ en 2004).
+
+Dans le manuscrit autobiographique de 1 000 pages [_Récoltes et
+semailles_](/wiki/R%C3%A9coltes_et_Semailles "Récoltes et Semailles") (1986),
+Grothendieck décrit son approche des mathématiques et ses expériences dans la
+communauté mathématique, une communauté qui l'a d'abord accepté de manière
+ouverte et accueillante, mais qu'il a progressivement perçue comme étant
+gouvernée par la concurrence et le statut. Il se plaint de ce qu'il a vu comme
+« enterrement » de son travail et de sa trahison par ses anciens étudiants et
+collègues après avoir quitté la communauté. Les travaux de _Récoltes et
+semailles_ sont maintenant disponibles sur Internet. Des parties de _Récoltes
+et semailles_ ont été traduites en espagnol et en russe et publiées à Moscou,
+une traduction anglaise serait en cours[[Quand ?]](/wiki/Aide:Quand
+"Aide:Quand").
+
+En 1988, Grothendieck refuse le [prix Crafoord](/wiki/Prix_Crafoord "Prix
+Crafoord") et s'en explique dans une lettre ouverte aux médias. Il y écrit que
+les mathématiciens établis comme lui n'ont pas besoin de soutien financier
+supplémentaire. Il y critique ce qu'il considère comme une baisse du niveau
+éthique de la communauté scientifique, où le vol scientifique serait, selon
+lui, devenu monnaie courante et même toléré. La lettre exprime également sa
+conviction que des événements imprévus avant la fin du siècle entraîneront un
+effondrement sans précédent de la civilisation. Grothendieck ajoute que son
+point de vue ne « constitue en aucune façon une critique des objectifs de
+l'Académie royale dans l'administration de ses fonds ». Il ajoute : « Je
+regrette le dérangement que mon refus du prix Crafoord peut causer à
+l'Académie royale. » Il s'excuse pour ce dérangement.
+
+_La Clef des Songes_ , un manuscrit de 315 pages écrit en 1987, est le récit
+de Grothendieck sur la façon dont la considération de la source des rêves l'a
+conduit à conclure que Dieu existe. Dans le cadre des notes de ce manuscrit,
+Grothendieck a décrit la vie et la parole de 18 « mutants », les personnes
+qu'il admirait comme visionnaires bien avant leur temps et qui annonçait un
+nouvel âge. Le seul mathématicien de sa liste était [Bernhard
+Riemann](/wiki/Bernhard_Riemann "Bernhard Riemann"). Influencé par la mystique
+catholique [Marthe Robin](/wiki/Marthe_Robin "Marthe Robin") qui prétendait
+survivre sur la seule Eucharistie, Grothendieck a failli mourir de faim en
+1988. Sa préoccupation croissante à l'égard des questions spirituelles était
+également évidente dans une lettre intitulée _Lettre de la Bonne Nouvelle_
+envoyée à 250 amis en janvier 1990. Il y décrit ses rencontres avec une
+divinité et annonce qu'un « New Age » commencerait le 14 octobre 1996, avant
+de se rétracter dans une nouvelle lettre envoyée deux mois après la première.
+Au début de 1990, il jeûne pendant 45 jours, cet épisode est presque mortel
+pour lui, son fils Alexandre rappelle qu'il ressemblait à un prisonnier
+d'Auschwitz[46].
+
+## Travaux et
+influence[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=7
+"Modifier la section : Travaux et influence") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=7
+"Modifier la section : Travaux et influence")]
+
+Le gros de l’œuvre de Grothendieck est publié dans les monumentaux, quoique
+inachevés, _[Éléments de géométrie
+algébrique](/wiki/%C3%89l%C3%A9ments_de_g%C3%A9om%C3%A9trie_alg%C3%A9brique
+"Éléments de géométrie algébrique")_ (EGA) et dans le _[Séminaire de géométrie
+algébrique du Bois
+Marie](/wiki/S%C3%A9minaire_de_g%C3%A9om%C3%A9trie_alg%C3%A9brique_du_Bois_Marie
+"Séminaire de géométrie algébrique du Bois Marie")_ (SGA). La collection
+_[Fondements de la géométrie
+algébrique](/wiki/Fondements_de_la_g%C3%A9om%C3%A9trie_alg%C3%A9brique
+"Fondements de la géométrie algébrique")_ (FGA) réunit pour sa part sa série
+d'exposés au [séminaire Bourbaki](/wiki/S%C3%A9minaire_Bourbaki "Séminaire
+Bourbaki").
+
+Une avancée fondamentale que l’on doit à Grothendieck est l’invention de la
+théorie de la [cohomologie étale](/wiki/Cohomologie_%C3%A9tale "Cohomologie
+étale") et de la cohomologie l-adique, qui en est issue et servit de fondement
+pour faire passer les [conjectures de Weil](/wiki/Conjectures_de_Weil
+"Conjectures de Weil") au stade de théorème, en particulier grâce au travail
+de [Pierre Deligne](/wiki/Pierre_Deligne "Pierre Deligne"), l'un des élèves de
+Grothendieck.
+
+Par ailleurs, son travail a servi de base à [Gerd
+Faltings](/wiki/Gerd_Faltings "Gerd Faltings") pour démontrer la conjecture de
+Mordell, connue depuis comme le [théorème de
+Faltings](/wiki/Th%C3%A9or%C3%A8me_de_Faltings "Théorème de Faltings").
+
+Dans son autobiographie, il classe ainsi ses contributions majeures (par ordre
+chronologique d'apparition) :
+
+  1. [Produits tensoriels topologiques](/w/index.php?title=Produit_tensoriel_topologique&action=edit&redlink=1 "Produit tensoriel topologique \(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/Topological_tensor_product "en:Topological tensor product") et [espaces nucléaires](/wiki/Espace_nucl%C3%A9aire "Espace nucléaire")
+  2. [Dualité](/w/index.php?title=Dualit%C3%A9_coh%C3%A9rente&action=edit&redlink=1 "Dualité cohérente \(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/Coherent_duality "en:Coherent duality") « continue » et « discrète » ([catégories](/wiki/Th%C3%A9orie_des_cat%C3%A9gories "Théorie des catégories") [dérivées](/wiki/Cat%C3%A9gorie_d%C3%A9riv%C3%A9e "Catégorie dérivée"), « six opérations »)
+  3. Techniques [Riemann-Roch-Grothendieck](/wiki/Th%C3%A9or%C3%A8me_de_Grothendieck-Hirzebruch-Riemann-Roch "Théorème de Grothendieck-Hirzebruch-Riemann-Roch") ([K-théorie](/wiki/K-th%C3%A9orie "K-théorie"), relation à la [théorie des intersections](/w/index.php?title=Th%C3%A9orie_de_l%27intersection&action=edit&redlink=1 "Théorie de l'intersection \(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/Intersection_theory_\(mathematics\) "en:Intersection theory \(mathematics\)"))
+  4. [Schémas](/wiki/Sch%C3%A9ma_\(g%C3%A9om%C3%A9trie_alg%C3%A9brique\) "Schéma \(géométrie algébrique\)")
+  5. [Topos](/wiki/Topos_\(math%C3%A9matiques\) "Topos \(mathématiques\)")
+  6. [Cohomologie étale](/wiki/Cohomologie_%C3%A9tale "Cohomologie étale") et _l_ -adique
+  7. [Motifs](/wiki/Motif_\(g%C3%A9om%C3%A9trie_alg%C3%A9brique\) "Motif \(géométrie algébrique\)") et groupe de Galois motivique (⊗-catégories de Grothendieck)
+  8. Cristaux et [cohomologie cristalline](/wiki/Cohomologie_cristalline "Cohomologie cristalline"), yoga « coefficients de De Rham », « coefficient de Hodge »
+  9. « Algèbre topologique » ∞-champs, dérivateurs ; formalisme topologique des topos, comme inspiration pour une nouvelle [algèbre homotopique](/w/index.php?title=Alg%C3%A8bre_homotopique&action=edit&redlink=1 "Algèbre homotopique \(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/Homotopical_algebra "en:Homotopical algebra")
+  10. Topologie modérée
+  11. Yoga de [géométrie algébrique anabélienne](/w/index.php?title=G%C3%A9om%C3%A9trie_anab%C3%A9lienne&action=edit&redlink=1 "Géométrie anabélienne \(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/Anabelian_geometry "en:Anabelian geometry"), théorie de Galois-Teichmüller
+  12. Point de vue « schématique » ou « arithmétique » pour les [polyèdres réguliers](/wiki/Poly%C3%A8dre_r%C3%A9gulier "Polyèdre régulier") et les configurations régulières en tous genres.
+
+Pendant des années, il accumule des « cartons pleins avec mes gribouillis, que
+je dois être le seul à pouvoir déchiffrer[47] ». En 1991, il confie à un de
+ses anciens étudiants, Jean Malgoire, cinq de ces cartons, contenant quelque
+20 000 pages de notes rédigées depuis 1970. En 2010, il écrit à Malgoire pour
+lui interdire toute publication de ces notes, entreposées à la faculté de
+Montpellier[48].
+
+De même, en janvier 2010, il déclare, dans une lettre adressée au
+mathématicien [Luc Illusie](/wiki/Luc_Illusie "Luc Illusie"), qu'il refuse
+toute diffusion de ses œuvres que ce soit par édition numérique ou
+publication/republication papier[49].
+
+Luc Gomel, conservateur national, responsable du patrimoine de l’université de
+Montpellier, qui veille sur les « cartons » aujourd’hui, souhaite les faire
+classer « [trésor national](/wiki/Tr%C3%A9sor_national_\(France\) "Trésor
+national \(France\)") » afin qu'ils échappent au droit commun et donc au refus
+d'Alexandre Grothendieck de les mettre à la disposition de la communauté
+scientifique[48].
+
+Début 2016, soit un peu plus d’un an après sa mort, les enfants du
+mathématicien, qui contestent à l'université la propriété des cartons, font en
+outre inventorier 65 000 autres pages d'archives qui se trouvaient entreposées
+dans des cantines au dernier domicile de Grothendieck au moment de sa
+mort[50],[51]. Dans son testament, le mathématicien demande que ses dizaines
+de milliers de pages manuscrites soient remises à la Bibliothèque nationale de
+France. Il lève l'interdiction de divulguer ses écrits.
+
+Le 10 mai 2017, l'université de Montpellier rend ainsi publiques les notes de
+Grothendieck, soit quelque 18 000 pages de notes manuscrites réparties dans 35
+boîtes d'archives. Il s'agit maintenant de décrypter ces notes de calculs, de
+schémas et d'équations en tous genres, un travail jugé compliqué par le
+directeur de l'institut Grothendieck de Montpellier, dû non seulement à un
+problème de lisibilité de son écriture à la main, mais aussi de compréhension
+du fond, car « il faut être dans les mathématiques de Grothendieck pour le
+comprendre », a-t-il expliqué. Ce travail de déchiffrage devrait visiblement
+prendre des années, mais les mathématiciens s'en réjouissent car, d'après eux,
+ces notes constituent un trésor pour les mathématiques, et une véritable
+énigme à résoudre[52],[53].
+
+##
+Œuvre[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=8
+"Modifier la section : Œuvre") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=8
+"Modifier la section : Œuvre")]
+
+###
+Mathématique[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=9
+"Modifier la section : Mathématique") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=9
+"Modifier la section : Mathématique")]
+
+Ci-dessous une liste des principales publications d'Alexandre Grothendieck,
+proche de celle dressée par le magazine _[La
+Recherche](/wiki/La_Recherche_\(magazine\) "La Recherche \(magazine\)")_ en
+2014[54]. Une liste plus exhaustive est disponible sur le Grothendieck
+Circle[55].
+
+  * Alexandre Grothendieck, « Produits tensoriels topologiques et espaces nucléaires », _Memoirs of the[American Mathematical Society](/wiki/American_Mathematical_Society "American Mathematical Society")_, no 16, 1955, p. 1-140 ([lire en ligne](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/PTT.pdf), consulté le 27 juillet 2020).
+  * Alexandre Grothendieck, « Résumé de la théorie métrique des produits tensoriels topologiques », _Boletín de la Sociedad Matemática Mexicana_ , Sao Paulo, Sociedad Matemática Mexicana, no 8, 1956, p. 1-79 ([lire en ligne](http://www.ime.usp.br/acervovirtual/textos/estrangeiros/grothendieck/produits_tensoriels_topologiques/files/produits_tensoriels_topologiques.pdf), consulté le 6 juin 2014).
+  * Alexandre Grothendieck (dir.), [Armand Borel](/wiki/Armand_Borel "Armand Borel") et [Jean-Pierre Serre](/wiki/Jean-Pierre_Serre "Jean-Pierre Serre"), « Le [théorème de Riemann-Roch](/wiki/Th%C3%A9or%C3%A8me_de_Riemann-Roch "Théorème de Riemann-Roch") », _Bulletin de la[Société mathématique de France](/wiki/Soci%C3%A9t%C3%A9_math%C3%A9matique_de_France "Société mathématique de France")_, no 86, 1958, p. 97-136 ([lire en ligne](http://archive.numdam.org/ARCHIVE/BSMF/BSMF_1958__86_/BSMF_1958__86__97_0/BSMF_1958__86__97_0.pdf), consulté le 15 octobre 2015).
+  * Alexandre Grothendieck, « [Sur quelques points d'algèbre homologique](/w/index.php?title=Sur_quelques_points_d%27alg%C3%A8bre_homologique&action=edit&redlink=1 "Sur quelques points d'algèbre homologique \(page inexistante\)") [(en)](https://en.wikipedia.org/wiki/Grothendieck%27s_T%C3%B4hoku_paper "en:Grothendieck's Tôhoku paper") », _[Tohoku Mathematical Journal](/wiki/Liste_des_journaux_scientifiques_en_math%C3%A9matiques#T "Liste des journaux scientifiques en mathématiques")_ , vol. 9, no 2, 1957, p. 119-221 ([résumé](https://www.scribd.com/doc/81309130/Sur-quelques-points-d-algebre-homologique-Grothendieck)).
+  * Alexandre Grothendieck (dir.) et [Jean Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné"), [Éléments de géométrie algébrique](/wiki/%C3%89l%C3%A9ments_de_g%C3%A9om%C3%A9trie_alg%C3%A9brique "Éléments de géométrie algébrique") (EGA), [IHÉS](/wiki/Institut_des_hautes_%C3%A9tudes_scientifiques "Institut des hautes études scientifiques"), 1960-1967, 1774 p.
+    * « EGA 1 : Le Langage des schémas », _[Publications mathématiques de l'IHÉS](/wiki/Publications_math%C3%A9matiques_de_l%27IH%C3%89S "Publications mathématiques de l'IHÉS")_ , vol. 4, 1960, p. 5-228 ([lire en ligne](http://www.numdam.org/numdam-bin/fitem?id=PMIHES_1960__4__5_0), consulté le 6 juin 2014).
+    * « EGA 2 : Étude globale élémentaire de quelques classes de morphismes », _Publications mathématiques de l'IHÉS_ , vol. 8, 1961, p. 5-222 ([lire en ligne](http://www.numdam.org/numdam-bin/fitem?id=PMIHES_1961__8__5_0), consulté le 6 juin 2014).
+    * « EGA 3 : Étude cohomologique des faisceaux cohérents », _Publications mathématiques de l'IHÉS_ , vol. 11, 17, 1964-1967, p. 5-167, 5-91 [[tome 1](http://www.numdam.org/numdam-bin/fitem?id=PMIHES_1961__11__5_0)] [[tome 2](http://www.numdam.org/numdam-bin/fitem?id=PMIHES_1963__17__5_0)].
+    * « EGA 4 : Étude locale des schémas et des morphismes de schémas », _Publications mathématiques de l'IHÉS_ , vol. 20, 24, 28, 32, 1961-1963, p. 5-259, 5-231, 5-255, 5-361 [[tome 1](http://www.numdam.org/numdam-bin/fitem?id=PMIHES_1964__20__5_0)] [[tome 2](http://www.numdam.org/numdam-bin/fitem?id=PMIHES_1965__24__5_0)] [[tome 3](http://www.numdam.org/numdam-bin/fitem?id=PMIHES_1966__28__5_0)] [[tome 4](http://www.numdam.org/numdam-bin/fitem?id=PMIHES_1967__32__5_0)].
+  * Alexandre Grothendieck (dir.), [Séminaire de géométrie algébrique du Bois Marie](/wiki/S%C3%A9minaire_de_g%C3%A9om%C3%A9trie_alg%C3%A9brique_du_Bois_Marie "Séminaire de géométrie algébrique du Bois Marie") (SGA) : 1960-1969, [Springer Verlag et North Holland](/wiki/Springer_Science%2BBusiness_Media "Springer Science+Business Media"), 1968-1973, 6521 p.
+    * Michèle Raynaud, « SGA 1 : Revêtements étales et groupe fondamental : 1960-1961 », _Lecture Notes in Mathematics_ , vol. 224, 1971, p. 1-447 ([présentation en ligne](https://link.springer.com/book/10.1007%2FBFb0058656), [lire en ligne](https://arxiv.org/abs/math/0206203), consulté le 6 juin 2014).
+    * Michèle Raynaud, « SGA 2 : Cohomologie locale des faisceaux cohérents et théorèmes de Lefschetz locaux et globaux : 1961-1962 », _Advanced Studies in Pure Mathematics_ , North Holland, 1968, p. 1-287 ([lire en ligne](https://arxiv.org/abs/math/0511279), consulté le 6 juin 2014).
+    * [Michel Demazure](/wiki/Michel_Demazure "Michel Demazure"), « SGA 3 : Schémas en groupes : 1962-1964 », _Lecture Notes in Mathematics_ , vol. 151, 152, 153, 1970, p. 1-564, 1-654, 1-529 ([présentation en ligne](http://smf4.emath.fr/Publications/DocumentsMathematiques/2011/8/html/smf_doc-math_8.php)).
+    * [Michael Artin](/wiki/Michael_Artin "Michael Artin"), [Jean-Louis Verdier](/wiki/Jean-Louis_Verdier "Jean-Louis Verdier") _et al._ , « SGA 4 : Théorie des topos et cohomologie étale des schémas : 1963-1964 », _Lecture Notes in Mathematics_ , vol. 269, 270, 305, 1972-1973, p. 1-525, 1-418, 1-640 [[tome 1](http://www.math.polytechnique.fr/~laszlo/sga4/SGA4-3/sga43.pdf)] [[tome 3](https://link.springer.com/book/10.1007%2FBFb0070714)].
+    * [Pierre Deligne](/wiki/Pierre_Deligne "Pierre Deligne") (compilation de textes de SGA 4 et SGA 5), « SGA 4 1/2 : Cohomologie étale », _Lecture Notes in Mathematics_ , vol. 569, 1977, p. 1-312 ([présentation en ligne](https://link.springer.com/book/10.1007%2FBFb0091516), [lire en ligne](http://www.math.cornell.edu/~dkmiller/bin/sga4.5.pdf), consulté le 6 juin 2014).
+    * [Luc Illusie](/wiki/Luc_Illusie "Luc Illusie"), [Jean-Pierre Serre](/wiki/Jean-Pierre_Serre "Jean-Pierre Serre") _et al._ , « SGA 5 : Cohomologie l-adique et fonctions L : 1965-1966 », _Lecture Notes in Mathematics_ , vol. 589, 1977, p. 1-484 ([lire en ligne](http://www.math.jussieu.fr/~leila/grothendieckcircle/SGA5.pdf), consulté le 6 juin 2014).
+    * Luc Illusie, [Pierre Berthelot](/wiki/Pierre_Berthelot_\(math%C3%A9maticien\) "Pierre Berthelot \(mathématicien\)") _et al._ , « SGA 6 : Théorie des intersections et théorème de Riemann-Roch : 1966-1967 », _Lecture Notes in Mathematics_ , vol. 225, 1971, p. 1-700 ([présentation en ligne](https://link.springer.com/book/10.1007%2FBFb0066283)).
+    * Pierre Deligne et [Nicholas Michael Katz](/wiki/Nicholas_Michael_Katz "Nicholas Michael Katz"), « SGA 7 : Groupes de monodromie en géométrie algébrique : 1967-1969 », _Lecture Notes in Mathematics_ , vol. 288, 340, 1972-1973, p. 1-523, 1-438 ([présentation en ligne](https://link.springer.com/book/10.1007%2FBFb0060505)).
+  * Alexandre Grothendieck, [Esquisse d'un programme](/wiki/Esquisse_d%27un_programme "Esquisse d'un programme"), Université Paris 6, Grothendieck Circle, 1984, 44 p. ([lire en ligne](http://www.math.jussieu.fr/~leila/grothendieckcircle/EsquisseFr.pdf)).
+  * Alexandre Grothendieck, Les Dérivateurs, Université Paris 6, Édité par Matthias Künzer, Jean Malgoire et Georges Maltsiniotis, 1991, 1976 p. ([présentation en ligne](http://www.math.jussieu.fr/~maltsin/groth/ps/lettreder.pdf), [lire en ligne](http://www.math.jussieu.fr/~maltsin/groth/Derivateurs.html)).
+  * Alexandre Grothendieck, Archives mathématiques d'Alexandre Grothendieck de 1949 à 1991, [Université de Montpellier](/wiki/Universit%C3%A9_de_Montpellier "Université de Montpellier"), 10 mai 2017, 18 000 p. ([lire en ligne](http://grothendieck.umontpellier.fr)).
+
+###
+Littéraire[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=10
+"Modifier la section : Littéraire") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=10
+"Modifier la section : Littéraire")]
+
+  * Alexandre Grothendieck, [Récoltes et Semailles](/wiki/R%C3%A9coltes_et_Semailles "Récoltes et Semailles") : réflexions et témoignage sur un passé de mathématicien, Université Paris 6, Grothendieck Circle, janvier 1986, 929 p. ([lire en ligne](http://www.math.jussieu.fr/~leila/grothendieckcircle/RetS.pdf)).
+  * Alexandre Grothendieck, La Clef des songes : ou dialogue avec le bon Dieu, Université Paris 6, Grothendieck Circle, 1987, 1027 p. ([lire en ligne](http://www.math.jussieu.fr/~leila/grothendieckcircle/recoltesetc.php)).
+  * Alexandre Grothendieck et Jean-Pierre Serre, Correspondance Grothendieck-Serre, P. Colmez, J.-P. Serre, éds., Documents mathématiques, 2 (2001), Société Mathématique de France, Paris.
+  * Joseph Rouzel, _La folie créatrice. Alexandre Grothendieck et quelques autres_ , Editions érès, Toulouse, 2016.
+
+## Notes et
+références[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=11
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=11
+"Modifier la section : Notes et références")]
+
+###
+Notes[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=12
+"Modifier la section : Notes") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=12
+"Modifier la section : Notes")]
+
+  1. ↑ Ce qui justifie la consonance néerlandaise du nom, « Grothendieck ».
+  2. ↑ La « [solution finale de la question juive](/wiki/Shoah "Shoah") » a été mise en place courant 1942, à la suite de la [conférence de Wannsee](/wiki/Conf%C3%A9rence_de_Wannsee "Conférence de Wannsee"), qui s'est tenue début 1942 dans un quartier de Berlin.
+  3. ↑ Il est invité à participer aux travaux du groupe en 1952[30], mais ne sera coopté qu'en 1956 ou 1957.
+  4. ↑ Par [antimilitarisme](/wiki/Antimilitarisme "Antimilitarisme")
+  5. ↑ Sur l'histoire de l'IHÉS dans ces années, il convient de consulter les travaux de David Aubin, en particulier sa [_thèse de doctorat_](http://www.math.jussieu.fr/~daubin/publis.html#1999).
+  6. ↑ La lecture d'une carte de la région montre que ce village se situe à faible et égale distance — environ 35 km « à vol d’oiseau » — des deux camps d’internement du Vernet et de Noé où le père de Grothendieck, [Sacha Schapiro](/wiki/Sacha_Schapiro "Sacha Schapiro"), a passé les deux dernières années de sa vie, avant qu'il soit déporté puis exterminé : [Le Vernet](/wiki/Le_Vernet_\(Ari%C3%A8ge\) "Le Vernet \(Ariège\)") est à l'est de Lasserre ; [Noé](/wiki/No%C3%A9_\(Haute-Garonne\) "Noé \(Haute-Garonne\)") est au Nord.
+  7. ↑ En fait, l'hôpital est géographiquement situé dans la commune de [Saint-Lizier](/wiki/Saint-Lizier "Saint-Lizier"), limitrophe de la ville de Saint-Girons qui est la sous-préfecture de l’arrondissement de l'Ariège où Grothendieck a passé les dernières années de sa vie.
+
+###
+Références[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=13
+"Modifier la section : Références") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=13
+"Modifier la section : Références")]
+
+(en) Cet article est partiellement ou en totalité issu de l’article de
+Wikipédia en [anglais](/wiki/Anglais "Anglais") intitulé « [Alexander
+Grothendieck](https://en.wikipedia.org/wiki/Alexander_Grothendieck?oldid=634050181)
+» ([voir la liste des
+auteurs](https://en.wikipedia.org/wiki/Alexander_Grothendieck?action=history)).
+
+(en) Cet article est partiellement ou en totalité issu de l’article de
+Wikipédia en [anglais](/wiki/Anglais "Anglais") intitulé « [Sascha
+Schapiro](https://en.wikipedia.org/wiki/Sascha_Schapiro?oldid=634140139) »
+([voir la liste des
+auteurs](https://en.wikipedia.org/wiki/Sascha_Schapiro?action=history)).
+
+  1. ↑ Cartier et Herreman 2000, p. 10 : « Alexander — il tient beaucoup à cette orthographe » ; mais il signe « Alexandre » ses œuvres en français.
+  2. ↑ a et b Douroux 11 2014. 
+  3. ↑ a b et c Douroux 02 2012. 
+  4. ↑ [« Une occasion pour la philosophie ? »](http://savoirs.ens.fr/expose.php?id=242) [vidéo], sur le site de l'[ENS](/wiki/%C3%89cole_normale_sup%C3%A9rieure_\(France\) "École normale supérieure \(France\)"), 20 mars 2006.
+  5. ↑ Entretien avec [Michael Harris](/wiki/Michael_Harris_\(math%C3%A9maticien\) "Michael Harris \(mathématicien\)"), _La Recherche_ , 1er avril 2020, page 70.
+  6. ↑ _[Dictionnaire des anarchistes](/wiki/Dictionnaire_des_anarchistes "Dictionnaire des anarchistes")_ , « Le Maitron » : [TANAROFF Alexander](http://maitron-en-ligne.univ-paris1.fr/spip.php?article154376).
+  7. ↑ [Dictionnaire des anarchistes](/wiki/Dictionnaire_des_anarchistes "Dictionnaire des anarchistes"), « Le Maitron » : [Hanka Grothendieck](http://maitron-en-ligne.univ-paris1.fr/spip.php?article155206).
+  8. ↑ Bourbaki 2009, p. 12\. 
+  9. ↑ Scharlau, p. 46\. 
+  10. ↑ Bourbaki 2009, p. 13\. 
+  11. ↑ a et b Bourbaki 2009, p. 14\. 
+  12. ↑ [Society for Industrial and Applied Mathematics](http://www.siam.org/news/news.php?id=1405)
+  13. ↑ Cartier 2000. 
+  14. ↑ Scharlau 2008, p. 931\. 
+  15. ↑ Bourbaki 2009, p. 15\. 
+  16. ↑ Bourbaki 2009, p. 16\. 
+  17. ↑ a b et c Jackson 2004, p. 1040\. 
+  18. ↑ The Central Database of Shoah Victims' Names : [Alexandre Tanaroff](http://db.yadvashem.org/names/nameDetails.html?itemId=3224591&language=en).
+  19. ↑ a et b Jackson 2004, p. 1041\. 
+  20. ↑ Voir, Moorehead, 2014, p. 148.
+  21. ↑ Bourbaki 2009, p. 22\. 
+  22. ↑ « Entre 1945 et 1948, je vivais avec ma mère dans un petit hameau à une dizaine de kilomètres de Montpellier, Mairargues (par Vendargues), perdu au milieu des vignes. » \- Grothendieck 1986, p. 33, note 1
+  23. ↑ a et b Grothendieck 1986. 
+  24. ↑ [Liste d'universitaires, de 1810 à 1960, concernés par l’enseignement de l’astronomie](https://www.lupm.univ-montp2.fr/spip.php?article280) à la [Faculté des Sciences de Montpellier](/wiki/Facult%C3%A9_des_Sciences_de_Montpellier "Faculté des Sciences de Montpellier") (FSM), publié le 4 décembre 2012 par Henri Reboul, sur le site du [Laboratoire Univers et Particules de Montpellier](https://www.lupm.univ-montp2.fr) (consulté le 8 juin 2019)
+  25. ↑ [PDF] [Dictionnaire des Astronomes Français 1850-1950 : lettre **S**](http://www.obs-hp.fr/dictionnaire/par_lettre/lettre_S.pdf#page=25), page 25/32, publié le 24 août 2016 sur le site de l'[observatoire de Haute-Provence](/wiki/Observatoire_de_Haute-Provence "Observatoire de Haute-Provence") (consulté le 8 juin 2019)
+  26. ↑ Jackson 2004, p. 1042\. 
+  27. ↑ Winfried Charlau, « Grothendieck, un génie des maths devenu ermite », _Pour la Science_ , no 467, août 2016, p. 12 ([lire en ligne](https://www.pourlascience.fr/sr/article/grothendieck-un-genie-des-maths-devenu-ermite-9242=)).
+  28. ↑ Philippe Pajot, « La revanche d'un théorème oublié », _La Recherche_ , no 501, juillet-août 2015 ([lire en ligne](https://www.larecherche.fr/node/35231)).
+  29. ↑ Philippe Douroux, « Alexandre Grothendieck : un voyage à la poursuite des choses évidentes », _Images des Mathématiques_ , [CNRS](/wiki/CNRS "CNRS"), 8 février 2012 ([lire en ligne](http://images.math.cnrs.fr/Alexandre-Grothendieck.html), consulté le 6 juin 2014). ![](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-Icon_flat_design_plume.svg.png)
+  30. ↑ [Compte-rendu de séance de mars 1952](http://sites.mathdoc.fr/archives-bourbaki/PDF/nbt_028.pdf).
+  31. ↑ [« Chapter 3. From student to celebrity: 1949-1952 »](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mathematics/chap3.pdf)
+  32. ↑ Bourbaki 2009, p. 19\. 
+  33. ↑ Weber et Rehmeyer 2014. 
+  34. ↑ Un pays dont on ne connaîtrait que le nom (Grothendieck et les « motifs »), [Pierre Cartier](/wiki/Pierre_Cartier "Pierre Cartier"), 2009
+  35. ↑ Jean-François Pressicaud, [« Journal IPNS - Journal d'information et de débat du plateau de Millevaches - publication papier trimestrielle - Articles - Alexandre Grothendieck en Limousin »](https://www.journal-ipns.org/les-numeros/n-49-decembre-2014/alexandre-grothendieck-en-limousin), sur www.journal-ipns.org, décembre 2014 (consulté le 22 novembre 2017)
+  36. ↑ Alexandre Grothendieck, [Survivre et vivre](/wiki/Survivre_et_vivre "Survivre et vivre"), numéro 9, août-septembre 1971, 39 p. ([présentation en ligne](http://archivesautonomies.org/spip.php?article2638), [lire en ligne](http://science.societe.free.fr/documents/pdf/Survivre/Survivre9.pdf)), p. 16
+  37. ↑ Azar Khalatbari, « Alexandre Grothendieck enfin publié », _Le Nouvel Observateur_ , juillet 2008 ([lire en ligne](https://web.archive.org/web/20081205050018/http://sciencesetavenirmensuel.nouvelobs.com/hebdo/parution/p737/articles/a378150-.html), consulté en 5 décembre 2008])
+  38. ↑ Hersh et John-Steiner 2010, p. 123\. 
+  39. ↑ Grothendieck 1984. 
+  40. ↑ Grothendieck 1991. 
+  41. ↑ _Lettre à l'Académie royale des sciences de Suède_ , A. Grothendieck ( _[Le Monde](/wiki/Le_Monde "Le Monde")_ , 4 mai 1988).
+  42. ↑ Grothendieck 1986, p. 191-194. 
+  43. ↑ [Attribution du prix Crafoord 1988 à P.Deligne et A. Grothendieck](http://www.crafoordprize.se/press/arkivpressreleases/thecrafoordprize1988.5.32d4db7210df50fec2d800017732.html), site _The Crafoord Prize_ , consulté le 22 novembre 2014.
+  44. ↑ [_Grothendieck Circle_](http://www.math.jussieu.fr/~leila/grothendieckcircle/mathtexts.php), un site consacré à Alexander Grothendieck, qui contenait, jusqu'au mois de mars 2010, une part importante de ses œuvres.
+  45. ↑ _The Grothendieck Festschrift : a collection of articles written in honor of the 60th birthday of Alexander Grothendieck_. par [Pierre Cartier](/wiki/Pierre_Cartier "Pierre Cartier") & al., Springer, 1990 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [0-8176-3428-2](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/0-8176-3428-2 "Spécial:Ouvrages de référence/0-8176-3428-2")), ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [9780817634285](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9780817634285 "Spécial:Ouvrages de référence/9780817634285")), 520 pages. [En ligne](https://books.google.fr/books?id=_93AHPD76B0C&dq=Festschrift&printsec=frontcover&source=bl&ots=nKrQ7URqTI&sig=S_Dw38NPX5IbmzS_3w1V0MUmtRQ&hl=fr&ei=QhMCSvGCDJy6jAfp6cTyBg&sa=X&oi=book_result&ct=result&resnum=6#PPP1,M1)
+  46. ↑ [[1]](http://www.math.jussieu.fr/~leila/grothendieckcircle/Spirituality/Spirituality29.pdf)
+  47. ↑ Grothendieck 1986, p. 75\. 
+  48. ↑ a et b Douroux 07 2012. 
+  49. ↑ _[La Recherche](/wiki/La_Recherche_\(magazine\) "La Recherche \(magazine\)")_ , no 440, avril 2010, pp. 18-19. [PDF] [« Déclaration d'intention de non-publication »](http://tqft.net/misc/Grothendieck%27s%20Declaration.pdf), 3 janvier 2010.
+  50. ↑ Philippe Rioux, [« Bataille autour des mystérieux manuscrits du mathématicien de génie »](https://www.ladepeche.fr/article/2016/01/16/2257145-bataille-autour-des-mysterieux-manuscrits-du-mathematicien-de-genie.html), sur www.ladepeche.fr, Toulouse, La Dépêche du Midi, 16 janvier 2016 (consulté le 16 janvier 2016).
+  51. ↑ Douroux 12 2016. 
+  52. ↑ Sébastien Baer, [« Les milliers de notes inédites griffonnées par le génie des maths Alexandre Grothendieck seront-elles déchiffrées ? »](https://www.francetvinfo.fr/sciences/les-milliers-de-notes-inedites-griffonnees-par-le-genie-des-maths-alexandre-grothendieck-seront-elles-dechiffrees_2184625.html), sur francetvinfo.fr, 10 mai 2017.
+  53. ↑ Philippe Douroux, [« Les notes du mathématicien Alexandre Grothendieck arrivent sur le Net »](http://www.liberation.fr/sciences/2017/05/05/les-notes-du-mathematicien-alexandre-grothendieck-arrivent-sur-le-net_1567517), sur liberation.fr, 5 mai 2017.
+  54. ↑ La Recherche 04 2014. 
+  55. ↑ Grothendieck Circle. 
+
+##
+Annexes[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=14
+"Modifier la section : Annexes") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=14
+"Modifier la section : Annexes")]
+
+###
+Bibliographie[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=15
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=15
+"Modifier la section : Bibliographie")]
+
+![Document utilisé pour la rédaction de
+l’article](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-
+Icon_flat_design_plume.svg.png) : document utilisé comme source pour la
+rédaction de cet article.
+
+#### Ouvrages
+principaux[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=16
+"Modifier la section : Ouvrages principaux") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=16
+"Modifier la section : Ouvrages principaux")]
+
+##### En
+français[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=17
+"Modifier la section : En français") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=17
+"Modifier la section : En français")]
+
+  * [Nicolas Bourbaki](/wiki/Nicolas_Bourbaki "Nicolas Bourbaki"), [« Grothendieck : La disparition »](http://www.images.hachette-livre.fr/media/contenuNumerique/039/131068797.pdf) [PDF], sur [Hachette Livre.fr](/wiki/Hachette_Livre "Hachette Livre"), 15 janvier 2009 (consulté le 6 juin 2014), p. 9-25. ![Document utilisé pour la rédaction de l’article](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-Icon_flat_design_plume.svg.png)
+  * Georges Bringuier (préambule Jean-Paul Durand), Alexandre Grothendieck : itinéraire d'un mathématicien hors normes, Toulouse, [Éditions Privat](/wiki/%C3%89ditions_Privat "Éditions Privat"), mai 2015, 228 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-7089-6970-4](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-7089-6970-4 "Spécial:Ouvrages de référence/978-2-7089-6970-4")).
+  * [Pierre Cartier](/wiki/Pierre_Cartier "Pierre Cartier") et Alain Herreman, « Notes sur l'histoire et la philosophie des mathématiques IV : un pays dont on ne connaîtrait que le nom (Grothendieck et les « motifs ») », _[Institut des hautes études scientifiques](/wiki/Institut_des_hautes_%C3%A9tudes_scientifiques "Institut des hautes études scientifiques")_ , novembre 2000 ([lire en ligne](http://preprints.ihes.fr/M00/M00-75.pdf) [PDF], consulté le 6 juin 2014). ![](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-Icon_flat_design_plume.svg.png)
+  * [Pierre Cartier](/wiki/Pierre_Cartier "Pierre Cartier"), [« Alexander Grothendieck — Un pays dont on ne connaîtrait que le nom »](http://inference-review.com/article/un-pays-dont-on-ne-connaitrait-que-le-nom), sur Inference — International Review of Science, 2000 (consulté le 16 novembre 2014).
+  * Philippe Douroux, « Alexandre Grothendieck : un voyage à la poursuite des choses évidentes », _Images des Mathématiques_ , [CNRS](/wiki/CNRS "CNRS"), 8 février 2012 ([lire en ligne](http://images.math.cnrs.fr/Alexandre-Grothendieck.html), consulté le 6 juin 2014). ![](//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon_flat_design_plume.svg/20px-Icon_flat_design_plume.svg.png)
+  * Philippe Douroux, « Le trésor oublié du génie des maths », _[Libération.fr](/wiki/Lib%C3%A9ration_\(journal\) "Libération \(journal\)")_ , 1er juillet 2012 ([lire en ligne](http://www.liberation.fr/sciences/2012/07/01/le-tresor-oublie-du-genie-des-maths_830399), consulté le 6 juin 2014).
+  * Philippe Douroux, « Alexandre Grothendieck, ou la mort d'un génie qui voulait se faire oublier », _[Libération](/wiki/Lib%C3%A9ration_\(journal\) "Libération \(journal\)")_ , 13 novembre 2014 ([lire en ligne](http://www.liberation.fr/sciences/2014/11/13/alexandre-grothendieck-ou-la-mort-d-un-genie-qui-voulait-se-faire-oublier_1142614), consulté le 13 novembre 2014).
+  * Philippe Douroux, « Les « gribouillis » d'Alexandre Grothendieck enfin sauvegardés », _Libération_ , no 11063, 17 juin 2015 ([ISSN](/wiki/International_Standard_Serial_Number "International Standard Serial Number") [0335-1793](http://worldcat.org/issn/0335-1793&lang=fr), [lire en ligne](http://www.liberation.fr/sciences/2015/06/17/les-gribouillis-d-alexandre-grothendieck-enfin-sauvegardes_1331465), consulté le 16 décembre 2016).
+  * Philippe Douroux, « La chasse aux manuscrits de Grothendieck a commencé », _Libération_ , no 11063, 5 juillet 2015 ([ISSN](/wiki/International_Standard_Serial_Number "International Standard Serial Number") [0335-1793](http://worldcat.org/issn/0335-1793&lang=fr), [lire en ligne](http://www.liberation.fr/france/2015/07/05/la-chasse-aux-manuscrits-de-grothendieck-a-commence_1343847), consulté le 16 décembre 2016).
+  * Philippe Douroux, « Les maths, les lettres et l’alcool de poire de Grothendieck », _Libération_ , no 11063, 6 juillet 2015 ([ISSN](/wiki/International_Standard_Serial_Number "International Standard Serial Number") [0335-1793](http://worldcat.org/issn/0335-1793&lang=fr), [lire en ligne](http://www.liberation.fr/sciences/2015/07/06/les-maths-les-lettres-et-l-alcool-de-poire-de-grothendieck_1339291), consulté le 16 décembre 2016).
+  * Philippe Douroux, « Grothendieck, des « gribouillis » de génie en héritage », _Libération_ , no 11063, 14 janvier 2016 ([ISSN](/wiki/International_Standard_Serial_Number "International Standard Serial Number") [0335-1793](http://worldcat.org/issn/0335-1793&lang=fr), [lire en ligne](http://www.liberation.fr/futurs/2016/01/14/grothendieck-des-gribouillis-de-genie-en-heritage_1426478), consulté le 16 décembre 2016).
+  * Philippe Douroux, « Les inestimés « Grothendieck Papers » », _Libération_ , no 11063, 8 juin 2016 ([ISSN](/wiki/International_Standard_Serial_Number "International Standard Serial Number") [0335-1793](http://worldcat.org/issn/0335-1793&lang=fr), [lire en ligne](http://www.liberation.fr/debats/2016/06/08/les-inestimes-grothendieck-papers_1458196), consulté le 16 décembre 2016).
+  * Philippe Douroux, « Inestimables mathématiques, avez-vous donc un prix ? », _Libération_ , no 11063, 16 décembre 2016, p. 24 - 25 ([ISSN](/wiki/International_Standard_Serial_Number "International Standard Serial Number") [0335-1793](http://worldcat.org/issn/0335-1793&lang=fr), [lire en ligne](http://www.liberation.fr/debats/2016/12/15/inestimables-mathematiques-avez-vous-donc-un-prix_1535510), consulté le 16 décembre 2016).
+  * Philippe Douroux, Alexandre Grothendieck, sur les traces du dernier génie des mathématiques, [Allary Éditions](/wiki/Allary_%C3%89ditions "Allary Éditions"), 2016, 250 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-37073-085-5](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-37073-085-5 "Spécial:Ouvrages de référence/978-2-37073-085-5")).
+  * [« Principales publications d'Alexandre Grothendieck »](http://www.larecherche.fr/encadre/ses-principales-publications-01-04-2014-173436), sur [La Recherche.fr](/wiki/La_Recherche_\(magazine\) "La Recherche \(magazine\)"), 1er avril 2014 (consulté le 6 juin 2014).
+  * [« Bibliographie d'Alexandre Grothendieck »](http://www.math.jussieu.fr/~leila/grothendieckcircle/GrothBiblio.pdf), sur Grothendieck Circle ([Université Paris 6](/wiki/Universit%C3%A9_Pierre-et-Marie-Curie "Université Pierre-et-Marie-Curie")) (consulté le 6 juin 2014).
+  * Joseph Rouzel, _La folie créatrice. Alexandre Grothendieck et quelques autres_ , érès, 2016.
+
+##### En
+anglais[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=18
+"Modifier la section : En anglais") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=18
+"Modifier la section : En anglais")]
+
+  * (en) Reuben Hersh et Vera John-Steiner, Loving and Hating Mathematics : Challenging the Myths of Mathematical Life, Princeton University Press, 2010.
+  * (en) Allyn Jackson, « Comme Appelé du Néant — As If Summoned from the Void: The Life of Alexandre Grothendieck I », _[Notices of the American Mathematical Society](/wiki/Notices_of_the_American_Mathematical_Society "Notices of the American Mathematical Society")_ , [Société mathématique américaine](/wiki/Soci%C3%A9t%C3%A9_math%C3%A9matique_am%C3%A9ricaine "Société mathématique américaine"), vol. 51, no 4, 2004, p. 1038-1056 ([lire en ligne](http://www.ams.org/notices/200409/fea-grothendieck-part1.pdf) [PDF], consulté le 16 novembre 2014).
+  * (en) Werner Kleinert, « Critique de _Wer ist Alexander Grothendieck ? Anarchie, Mathematik, Spiritualität. Eine Biographie. Teil 1 : Anarchie._ », _[Zentralblatt MATH](/wiki/Zentralblatt_MATH "Zentralblatt MATH")_ , 2007 ([zbMATH](/wiki/Zentralblatt_MATH "Zentralblatt MATH") [1129.01018](https://zbmath.org/?q=an:1129.01018)).
+  * (en) Winfried Scharlau (trad. D. Kotschick), « Who is Alexander Grothendieck ? », _[Notices of the American Mathematical Society](/wiki/Notices_of_the_American_Mathematical_Society "Notices of the American Mathematical Society")_ , [Providence, RI](/wiki/Providence,_Rhode_Island "Providence, Rhode Island"), [American Mathematical Society](/wiki/Soci%C3%A9t%C3%A9_math%C3%A9matique_am%C3%A9ricaine "Société mathématique américaine"), vol. 55, no 8, septembre 2008, p. 930–941 ([ISSN](/wiki/International_Standard_Serial_Number "International Standard Serial Number") [1088-9477](http://worldcat.org/issn/1088-9477&lang=fr), [OCLC](/wiki/Online_Computer_Library_Center "Online Computer Library Center") [34550461](https://worldcat.org/oclc/34550461&lang=fr), [lire en ligne](http://www.ams.org/notices/200808/tx080800930p.pdf) [PDF], consulté le 16 novembre 2014).
+  * (en) Bruce Weber et Julie Rehmeyer, [« Alexander Grothendieck, Math Enigma, Dies at 86. The New York Times »](https://www.nytimes.com/2014/11/16/world/europe/alexander-grothendieck-math-enigma-dies-at-86.html?hpw&rref=obituaries&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0), sur [The New York Times](/wiki/The_New_York_Times "The New York Times"), 14 novembre 2014 (consulté le 16 novembre 2014).
+
+##### En
+allemand[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=19
+"Modifier la section : En allemand") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=19
+"Modifier la section : En allemand")]
+
+  * (de) [« Biographie des parents d'Alexandre Grothendieck, en allemand »](http://www.scharlau-online.de/DOKS/Anarchist.pdf), sur [Site du mathématicien allemand](http://www.scharlau-online.de/ag_1.html) [Winfried Scharlau](/w/index.php?title=Winfried_Scharlau&action=edit&redlink=1 "Winfried Scharlau \(page inexistante\)") [(de)](https://de.wikipedia.org/wiki/Winfried_Scharlau_\(Mathematiker\) "de:Winfried Scharlau \(Mathematiker\)") : (consulté le 22 novembre 2014).
+  * (de) Winfried Scharlau, Wer ist Alexander Grothendieck? : anarchie, Mathematik, Spiritualität, 204 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-3-8423-4092-3](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-3-8423-4092-3 "Spécial:Ouvrages de référence/978-3-8423-4092-3"), [lire en ligne](http://www.scharlau-online.de/ag_1.html)) Biographie en trois volumes, dont le 1er volume est disponible en anglais.
+
+#### Ouvrages
+complémentaires[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=20
+"Modifier la section : Ouvrages complémentaires") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=20
+"Modifier la section : Ouvrages complémentaires")]
+
+  * [Pierre Deligne](/wiki/Pierre_Deligne "Pierre Deligne"), [« Quelques idées maîtresses de l'œuvre de A. Grothendieck »](http://smf4.emath.fr/Publications/SeminairesCongres/1998/3/pdf/smf_sem-cong_3_11-19.pdf), sur [Société mathématique de France](/wiki/Soci%C3%A9t%C3%A9_math%C3%A9matique_de_France "Société mathématique de France"), 1998 (consulté le 6 juin 2014).
+  * Alexandre Hobeika, « Grothendieck : au fond des choses », _[Pour la Science](/wiki/Pour_la_Science "Pour la Science")_ , août 2005 ([lire en ligne](http://www.pourlascience.fr/ewb_pages/a/article-grothendieck-au-fond-des-choses-20660.php)).
+  * Mauricio D. Garay, « Alexandre Grothendieck », _Les Mathématiques.net_ , juin 2008 ([lire en ligne](http://www.les-mathematiques.net/histoire/histoire_grothendieck.php), consulté le 6 juin 2014).
+  * « Le génie d'Alexandre Grothendieck », _[La Recherche](/wiki/La_Recherche_\(magazine\) "La Recherche \(magazine\)")_ , no 486, avril 2014 ([lire en ligne](https://web.archive.org/web/20150526192025/http://www.ihes.fr/~landais/LR483_GROTHENDIECK.pdf), consulté le 6 juin 2014).
+  * « Les maths de Grothendieck », _[Pour la science](/wiki/Pour_la_science "Pour la science")_ , no 467, septembre 2016 ([lire en ligne](http://www.pourlascience.fr/ewb_pages/a/article-les-maths-de-grothendieck-37371.php), consulté le 18 novembre 2016).
+  * [Jean Dieudonné](/wiki/Jean_Dieudonn%C3%A9 "Jean Dieudonné"), [« Les travaux de Alexander Grothendieck »](http://www.mathunion.org/ICM/ICM1966.1/Main/icm1966.1.0021.0024.ocr.pdf) (consulté le 6 juin 2014).
+  * (en) Caroline Moorehead. _Village Of Secrets. Defying The Nazis In Vichy France_. Harper: New York, 2014 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [9780062202475](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9780062202475 "Spécial:Ouvrages de référence/9780062202475")).
+  * coordonné par Céline Pessis, « Survivre et vivre : critique de la science, naissance de l’écologie » (Sciences sociales, Histoire des sciences, technologies et sociétés), Éditions L’échappée, 2014, 480 p. ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-915830-71-2](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-915830-71-2 "Spécial:Ouvrages de référence/978-2-915830-71-2")).
+  * [Nicolas Bouleau](/wiki/Nicolas_Bouleau "Nicolas Bouleau"), article « Grothendieck, Alexandre (1928-2014) » _in_ [Dominique Bourg](/wiki/Dominique_Bourg "Dominique Bourg") et Alain Papaux, _[Dictionnaire de la pensée écologique](/wiki/Dictionnaire_de_la_pens%C3%A9e_%C3%A9cologique "Dictionnaire de la pensée écologique")_ , Presses universitaires de France, 2015 ( ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-2-13-058696-8](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-13-058696-8 "Spécial:Ouvrages de référence/978-2-13-058696-8"))).
+  * Marie-Catherine Massebœuf, « Une comète nommée Grothendieck », _[Union pacifiste de France](/wiki/Union_pacifiste_de_France "Union pacifiste de France")_ , no 529, mai 2015, p. 12-13 ([lire en ligne](https://unionpacifiste.org/IMG/pdf/_up_05_2015_couleur.pdf)).
+
+### Articles
+connexes[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=21
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=21
+"Modifier la section : Articles connexes")]
+
+  * [Fondements de la géométrie algébrique](/wiki/Fondements_de_la_g%C3%A9om%C3%A9trie_alg%C3%A9brique "Fondements de la géométrie algébrique")
+  * [Éléments de géométrie algébrique](/wiki/%C3%89l%C3%A9ments_de_g%C3%A9om%C3%A9trie_alg%C3%A9brique "Éléments de géométrie algébrique")
+  * [cohomologie étale](/wiki/Cohomologie_%C3%A9tale "Cohomologie étale")
+  * [Cohomologie motivique](/wiki/Cohomologie_motivique "Cohomologie motivique")
+  * [Géométrie non commutative](/wiki/G%C3%A9om%C3%A9trie_non_commutative "Géométrie non commutative")
+  * [Séminaire de géométrie algébrique du Bois Marie](/wiki/S%C3%A9minaire_de_g%C3%A9om%C3%A9trie_alg%C3%A9brique_du_Bois_Marie "Séminaire de géométrie algébrique du Bois Marie")
+  * [Catégorie abélienne](/wiki/Cat%C3%A9gorie_ab%C3%A9lienne "Catégorie abélienne")
+  * [Esquisse d'un programme](/wiki/Esquisse_d%27un_programme "Esquisse d'un programme")
+  * [Récoltes et Semailles](/wiki/R%C3%A9coltes_et_Semailles "Récoltes et Semailles")
+  * [Floréal Cuadrado](/wiki/Flor%C3%A9al_Cuadrado "Floréal Cuadrado")
+  * [Mikhail Gromov](/wiki/Mikhail_Gromov "Mikhail Gromov")
+
+### Liens
+externes[[modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit&section=22
+"Modifier la section : Liens externes") | [modifier le
+code](/w/index.php?title=Alexandre_Grothendieck&action=edit&section=22
+"Modifier la section : Liens externes")]
+
+  * [Notices d'autorité](/wiki/Autorit%C3%A9_\(sciences_de_l%27information\) "Autorité \(sciences de l'information\)")[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q77141?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : 
+    * [Fichier d’autorité international virtuel](http://viaf.org/viaf/12381506)
+    * [International Standard Name Identifier](http://isni.org/isni/0000000121209530)
+    * [CiNii](http://ci.nii.ac.jp/author/DA01678656?l=en)
+    * [Bibliothèque nationale de France](http://catalogue.bnf.fr/ark:/12148/cb123417348) ([données](http://data.bnf.fr/ark:/12148/cb123417348))
+    * [Système universitaire de documentation](http://www.idref.fr/032375549)
+    * [Bibliothèque du Congrès](http://id.loc.gov/authorities/n50031015)
+    * [Gemeinsame Normdatei](http://d-nb.info/gnd/118952773)
+    * [Bibliothèque nationale de la Diète](http://id.ndl.go.jp/auth/ndlna/00441839)
+    * [Bibliothèque nationale d’Espagne](http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX1266968)
+    * [Bibliothèque royale des Pays-Bas](http://data.bibliotheken.nl/id/thes/p075208466)
+    * [Bibliothèque nationale de Pologne](http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=01&IM=05&TX=&NU=01&WI=A32366619)
+    * [Bibliothèque nationale d’Israël](http://uli.nli.org.il/F/?func=direct&doc_number=001776249&local_base=nlx10)
+    * [WorldCat](http://www.worldcat.org/identities/lccn-n50-031015)
+
+  * (en) _[Grothendieck Circle](http://www.grothendieckcircle.org)_ : un site universitaire complet consacré à sa vie et à son œuvre
+  * Ressource relative à la recherche[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q77141?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : 
+    * (en) [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/id.php?id=31245)
+  * (en) [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/id.php?id=31245)
+  * Notices dans des dictionnaires ou encyclopédies généralistes[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q77141?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : [_Croatian Encyclopedia_](http://www.enciklopedija.hr/Natuknica.aspx?ID=23520) • [_Deutsche Biographie_](http://www.deutsche-biographie.de/118952773.html) • [_Enciclopedia De Agostini_](http://www.sapere.it/enciclopedia/Grothendieck,+Alexander.html) • [_Encyclopædia Britannica_](https://www.britannica.com/biography/Alexandre-Grothendieck) • [_Encyclopædia Universalis_](https://www.universalis.fr/encyclopedie/alexander-grothendieck/) • [_Gran Enciclopèdia Catalana_](https://www.enciclopedia.cat/EC-GEC-0031217.xml) • [_Swedish Nationalencyklopedin_](https://www.ne.se/uppslagsverk/encyklopedi/lång/alexander-grothendieck) • [_Proleksis enciklopedija_](https://proleksis.lzmk.hr/24657).
+  *   *   * Ressource relative à la vie publique[![Voir et modifier les données sur Wikidata](//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png)](https://www.wikidata.org/wiki/Q77141?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") : 
+    * [« Maitron »](http://maitron.fr/spip.php?article170819)
+  * "[ _Lectures grothendieckiennes"_](http://www.math.ens.fr/seminaire_G/) : séminaire organisé au [département de mathématiques](http://www.math.ens.fr/-Seminaires-) de l'ENS, 2017-2018. Captations en ligne sur le site [CultureMath](http://culturemath.ens.fr/content/lectures-grothendieckiennes)
+  * [" _La maïeutique mathématique selon Poincaré et selon Grothendieck_ "](http://www.diffusion.ens.fr/index.php?res=conf&idconf=1616), conférence d'Yves André à l'ENS, juin 2007
+  * Documentaire [" _L'espace d'un homme_ "](https://vimeo.com/33110361/) d'[Hervé Nisic](/wiki/Herv%C3%A9_Nisic "Hervé Nisic") (lien vers les cinq premières minutes du film)
+  * Documentaire [" _Alexandre Grothendieck, sur les routes d'un génie_ "](https://grothendiecklefilm.tumblr.com)
+  * [« _Décès du mathématicien Alexandre Grothendieck_ »](http://www.franceculture.fr/2014-11-14-deces-du-mathematicien-alexandre-grothendieck), sur Sciences - [France Culture](/wiki/France_Culture "France Culture") (consulté le 15 novembre 2014)
+  * [" _Une vie digne d'être vécue_ "](https://archive.org/details/AlexandreGrothendieck-UneVieDigneDtreVcue), entretien de 2 h 30, conférence au [CERN](/wiki/CERN "CERN") du 27 janvier 1972 ([transcript](http://sniadecki.wordpress.com/2012/05/20/grothendieck-recherche/)) 
+    * [A. Grothendieck](https://agrothendieck.github.io/) par Mateo Carmona
+
+[v](/wiki/Mod%C3%A8le:Palette_Shoah_en_France "Modèle:Palette Shoah en
+France") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Shoah_en_France&action=edit)
+
+[Shoah en France](/wiki/Shoah_en_France "Shoah en France")  
+  
+---  
+  
+  * Article principal : [Shoah](/wiki/Shoah "Shoah")
+  * Articles connexes par pays : [Belgique](/wiki/Shoah_en_Belgique "Shoah en Belgique")
+  * [Lettonie](/wiki/Shoah_en_Lettonie "Shoah en Lettonie")
+  * [Biélorussie](/wiki/Shoah_en_Bi%C3%A9lorussie "Shoah en Biélorussie")
+  * [Norvège](/wiki/Shoah_en_Norv%C3%A8ge "Shoah en Norvège")
+
+  
+  
+[Rafles](/wiki/Rafle#Rafles_pendant_la_Seconde_Guerre_mondiale "Rafle") |
+
+  * [Billet vert](/wiki/Rafle_du_billet_vert "Rafle du billet vert")
+  * [Rafle du 20 août 1941](/wiki/Rafle_du_20_ao%C3%BBt_1941 "Rafle du 20 août 1941")
+  * [Rafle des notables](/wiki/Rafle_des_notables "Rafle des notables")
+  * [Vel' d'hiv](/wiki/Rafle_du_V%C3%A9lodrome_d%27Hiver "Rafle du Vélodrome d'Hiver")
+  * [Rafle manquée de Nancy](/wiki/Rafle_manqu%C3%A9e_de_Nancy "Rafle manquée de Nancy")
+  * [Rafle du 26 août 1942](/wiki/Rafle_du_26_ao%C3%BBt_1942 "Rafle du 26 août 1942")
+  * [Rafle du 11 septembre 1942](/wiki/Rafle_du_11_septembre_1942 "Rafle du 11 septembre 1942")
+  * [Rafle du 24 septembre 1942](/wiki/Rafle_du_24_septembre_1942 "Rafle du 24 septembre 1942")
+  * [Rafle du 5 novembre 1942](/wiki/Rafle_du_5_novembre_1942 "Rafle du 5 novembre 1942")
+  * [Marseille](/wiki/Rafle_de_Marseille "Rafle de Marseille")
+  * [Rafle de la rue Sainte-Catherine](/wiki/Rafle_de_la_rue_Sainte-Catherine "Rafle de la rue Sainte-Catherine")
+  * [Villeurbanne](/wiki/Rafle_des_Villeurbannais "Rafle des Villeurbannais")
+  * [Clermont-Ferrand](/wiki/Rafle_de_Clermont-Ferrand_\(25_novembre_1943\) "Rafle de Clermont-Ferrand \(25 novembre 1943\)")
+  * [Rafle du 10 janvier 1944](/wiki/Rafle_du_10_janvier_1944 "Rafle du 10 janvier 1944")
+  * [Rafle de Dijon (1944)](/wiki/Rafle_de_Dijon_\(1944\) "Rafle de Dijon \(1944\)")
+  * [Rafle de la Martellière à Voiron](/wiki/Rafle_de_la_Martelli%C3%A8re_%C3%A0_Voiron "Rafle de la Martellière à Voiron")
+  * [Izieu](/wiki/Enfants_d%27Izieu "Enfants d'Izieu")
+  * [Rafle de La Varenne-Saint-Hilaire](/wiki/Rafle_de_La_Varenne-Saint-Hilaire "Rafle de La Varenne-Saint-Hilaire")
+  * [Rafle de Louveciennes](/wiki/Rafle_de_Louveciennes "Rafle de Louveciennes")
+  * [Rafle de la rue Vauquelin](/wiki/Rafle_de_la_rue_Vauquelin "Rafle de la rue Vauquelin")
+  * [Rafle de l'avenue Secrétan](/wiki/Rafle_de_l%27avenue_Secr%C3%A9tan "Rafle de l'avenue Secrétan")
+  * [Rafle de Saint-Mandé](/wiki/Rafle_de_Saint-Mand%C3%A9 "Rafle de Saint-Mandé")
+  * [Rafle de Neuilly](/wiki/Rafle_de_Neuilly "Rafle de Neuilly")
+  * [Convois de la déportation des Juifs de France](/wiki/Convois_de_la_d%C3%A9portation_des_Juifs_de_France "Convois de la déportation des Juifs de France")
+  * [Autobus parisiens et la Shoah](/wiki/Autobus_parisiens_et_la_Shoah "Autobus parisiens et la Shoah")
+  * [SNCF et la Shoah](/wiki/SNCF_et_la_Shoah "SNCF et la Shoah")
+
+  
+  
+[Camps](/wiki/Camp_d%27internement_fran%C3%A7ais "Camp d'internement
+français") |
+
+  * [Drancy](/wiki/Camp_de_Drancy "Camp de Drancy")
+  * [Gurs](/wiki/Camp_de_Gurs "Camp de Gurs")
+  * [Camp de la Lande de Monts](/wiki/Camp_de_la_Lande_de_Monts "Camp de la Lande de Monts")
+  * [Milles](/wiki/Camp_des_Milles "Camp des Milles")
+  * [Rivesaltes](/wiki/Camp_de_Rivesaltes "Camp de Rivesaltes")
+  * [Vernet](/wiki/Camp_du_Vernet "Camp du Vernet")
+  * [Natzweiler-Struthof](/wiki/Camp_de_concentration_de_Natzweiler-Struthof "Camp de concentration de Natzweiler-Struthof")
+  * [Royallieu](/wiki/Camp_de_Royallieu "Camp de Royallieu")
+  * [Pithiviers](/wiki/Pithiviers_\(camp_de_transit\) "Pithiviers \(camp de transit\)")
+  * [Beaune-la-Rolande](/wiki/Beaune-la-Rolande_\(camp_de_transit\) "Beaune-la-Rolande \(camp de transit\)")
+  * [Vénissieux](/wiki/Camp_de_V%C3%A9nissieux "Camp de Vénissieux")
+  * [Camp d'internement de Vittel](/wiki/Camp_d%27internement_de_Vittel "Camp d'internement de Vittel")
+
+  
+  
+Documentation |
+
+  * [Centre de documentation juive contemporaine](/wiki/Centre_de_documentation_juive_contemporaine "Centre de documentation juive contemporaine")
+  * [Lois sur le statut des Juifs du régime de Vichy](/wiki/Lois_sur_le_statut_des_Juifs_du_r%C3%A9gime_de_Vichy "Lois sur le statut des Juifs du régime de Vichy")
+
+  
+  
+Auteurs |
+
+  * [Otto Abetz](/wiki/Otto_Abetz "Otto Abetz")
+  * [Ernst Achenbach](/wiki/Ernst_Achenbach "Ernst Achenbach")
+  * [Horst Ahnert](/wiki/Horst_Ahnert "Horst Ahnert")
+  * [Klaus Barbie](/wiki/Klaus_Barbie "Klaus Barbie")
+  * [Werner Best](/wiki/Werner_Best "Werner Best")
+  * [Kurt Blanke](/wiki/Kurt_Blanke "Kurt Blanke")
+  * [Karl Bömelburg](/wiki/Karl_B%C3%B6melburg "Karl Bömelburg")
+  * [Alois Brunner](/wiki/Alois_Brunner "Alois Brunner")
+  * [Theodor Dannecker](/wiki/Theodor_Dannecker "Theodor Dannecker")
+  * [Hans-Dietrich Ernst](/wiki/Hans-Dietrich_Ernst "Hans-Dietrich Ernst")
+  * [Herbert Hagen](/wiki/Herbert_Hagen "Herbert Hagen")
+  * [Ernst Heinrichsohn](/wiki/Ernst_Heinrichsohn "Ernst Heinrichsohn")
+  * [Helmut Knochen](/wiki/Helmut_Knochen "Helmut Knochen")
+  * [Kurt Lischka](/wiki/Kurt_Lischka "Kurt Lischka")
+  * [Carl Oberg](/wiki/Carl_Oberg "Carl Oberg")
+  * [Heinz Röthke](/wiki/Heinz_R%C3%B6thke "Heinz Röthke")
+  * [Carltheo Zeitschel](/wiki/Carltheo_Zeitschel "Carltheo Zeitschel")
+
+  
+  
+Régime d'occupation nazi et organisations |
+
+  * [Devisenschutzkommando](/wiki/Devisenschutzkommando "Devisenschutzkommando")
+  * [Parti populaire français](/wiki/Parti_populaire_fran%C3%A7ais "Parti populaire français") (PPF)
+
+  
+  
+[Régime de Vichy](/wiki/R%C3%A9gime_de_Vichy "Régime de Vichy") |
+
+  * [Joseph Antignac](/wiki/Joseph_Antignac "Joseph Antignac")
+  * [René Bousquet](/wiki/Ren%C3%A9_Bousquet "René Bousquet")
+  * [Émile Hennequin](/wiki/%C3%89mile_Hennequin_\(policier\) "Émile Hennequin \(policier\)")
+  * [Pierre Laval](/wiki/Pierre_Laval "Pierre Laval")
+  * [Louis Darquier de Pellepoix](/wiki/Louis_Darquier_de_Pellepoix "Louis Darquier de Pellepoix")
+  * [Jean Leguay](/wiki/Jean_Leguay "Jean Leguay")
+  * [Philippe Pétain](/wiki/Philippe_P%C3%A9tain "Philippe Pétain")
+  * [Paul Sézille](/wiki/Paul_S%C3%A9zille "Paul Sézille")
+  * [André Tulard](/wiki/Andr%C3%A9_Tulard "André Tulard")
+  * [Xavier Vallat](/wiki/Xavier_Vallat "Xavier Vallat")
+  * [Chronologie de la collaboration dans la Shoah](/wiki/Chronologie_de_la_collaboration_de_Vichy_dans_le_g%C3%A9nocide_des_Juifs "Chronologie de la collaboration de Vichy dans le génocide des Juifs")
+  * [Révolution nationale](/wiki/R%C3%A9volution_nationale "Révolution nationale")
+
+  
+  
+[Collaborateurs](/wiki/Collaboration_en_France "Collaboration en France") |
+
+  * [Louis-Ferdinand Céline](/wiki/Louis-Ferdinand_C%C3%A9line "Louis-Ferdinand Céline")
+  * [René Gérard (propagandiste antisémite)](/wiki/Ren%C3%A9_G%C3%A9rard_\(propagandiste_antis%C3%A9mite\) "René Gérard \(propagandiste antisémite\)")
+  * [Maurice Papon](/wiki/Maurice_Papon "Maurice Papon")
+  * [Louis Darquier de Pellepoix](/wiki/Louis_Darquier_de_Pellepoix "Louis Darquier de Pellepoix")
+  * [Paul Touvier](/wiki/Paul_Touvier "Paul Touvier")
+  * [Xavier Vallat](/wiki/Xavier_Vallat "Xavier Vallat")
+  * [Collaboration policière sous le régime de Vichy](/wiki/Collaboration_polici%C3%A8re_sous_le_r%C3%A9gime_de_Vichy "Collaboration policière sous le régime de Vichy")
+
+  
+  
+Victimes célèbres |
+
+  * [Henri Abraham](/wiki/Henri_Abraham "Henri Abraham")
+  * [Julien Abrahamer](/wiki/Julien_Abrahamer "Julien Abrahamer")
+  * [Éric Allatini](/wiki/%C3%89ric_Allatini "Éric Allatini")
+  * [Hans Ament](/wiki/Hans_Ament "Hans Ament")
+  * [Salomon Altermann](/wiki/Salomon_Altermann "Salomon Altermann")
+  * [Hélène Basch](/wiki/H%C3%A9l%C3%A8ne_Basch "Hélène Basch")
+  * [Victor Basch](/wiki/Victor_Basch "Victor Basch")
+  * [André Baur](/wiki/Andr%C3%A9_Baur "André Baur")
+  * [Albert Bendrihen](/wiki/Albert_Bendrihen "Albert Bendrihen")
+  * [Joseph Benzacar](/wiki/Joseph_Benzacar "Joseph Benzacar")
+  * [Claude Ben Zimra](/wiki/Claude_Ben_Zimra "Claude Ben Zimra")
+  * [Léon Berman](/wiki/L%C3%A9on_Berman "Léon Berman")
+  * [Jean-Guy Bernard](/wiki/Jean-Guy_Bernard "Jean-Guy Bernard")
+  * [Léonce Bernheim](/wiki/L%C3%A9once_Bernheim "Léonce Bernheim")
+  * [Hélène Berr](/wiki/H%C3%A9l%C3%A8ne_Berr "Hélène Berr")
+  * [Raymond Berr](/wiki/Raymond_Berr "Raymond Berr")
+  * [Fanny Beznos](/wiki/Fanny_Beznos "Fanny Beznos")
+  * [Jacques Biélinky](/wiki/Jacques_Bi%C3%A9linky "Jacques Biélinky")
+  * [Nachman Bindefeld](/wiki/Nachman_Bindefeld "Nachman Bindefeld")
+  * [Denise Bloch](/wiki/Denise_Bloch "Denise Bloch")
+  * [Élie Bloch](/wiki/%C3%89lie_Bloch "Élie Bloch")
+  * [Eugène Bloch](/wiki/Eug%C3%A8ne_Bloch "Eugène Bloch")
+  * [Marc Bloch](/wiki/Marc_Bloch "Marc Bloch")
+  * [Raissa Bloch](/wiki/Raissa_Bloch "Raissa Bloch")
+  * [René Blum](/wiki/Ren%C3%A9_Blum "René Blum")
+  * [David Brainin](/wiki/David_Brainin "David Brainin")
+  * [Robert Brunschwig](/wiki/Robert_Brunschwig "Robert Brunschwig")
+  * [Suzanne Buisson](/wiki/Suzanne_Buisson "Suzanne Buisson")
+  * [Albert Bulka](/wiki/Albert_Bulka "Albert Bulka")
+  * [Béatrice de Camondo](/wiki/B%C3%A9atrice_de_Camondo "Béatrice de Camondo")
+  * [Kadmi Cohen](/wiki/Kadmi_Cohen "Kadmi Cohen")
+  * [Léo Cohn](/wiki/L%C3%A9o_Cohn "Léo Cohn")
+  * [Marianne Cohn](/wiki/Marianne_Cohn "Marianne Cohn")
+  * [Pierre Créange](/wiki/Pierre_Cr%C3%A9ange "Pierre Créange")
+  * [Benjamin Crémieux](/wiki/Benjamin_Cr%C3%A9mieux "Benjamin Crémieux")
+  * [Édouard Crémieux](/wiki/%C3%89douard_Cr%C3%A9mieux "Édouard Crémieux")
+  * [Elie Cyper](/wiki/Elie_Cyper "Elie Cyper")
+  * [Vladimir Dyck](/wiki/Vladimir_Dyck "Vladimir Dyck")
+  * [Madeleine Elbogen](/wiki/Madeleine_Elbogen "Madeleine Elbogen")
+  * [Henri Epstein](/wiki/Henri_Epstein "Henri Epstein")
+  * [Joseph Epstein](/wiki/Joseph_Epstein "Joseph Epstein")
+  * [Ralph Erwin](/wiki/Ralph_Erwin "Ralph Erwin")
+  * [Richard Fall](/wiki/Richard_Fall "Richard Fall")
+  * [Alexandre Fasini](/wiki/Alexandre_Fasini "Alexandre Fasini")
+  * [Aizik Feder](/wiki/Aizik_Feder "Aizik Feder")
+  * [Florette Feissel](/wiki/Florette_Feissel "Florette Feissel")
+  * [Philippe Feist](/wiki/Philippe_Feist "Philippe Feist")
+  * [Maurice Feferman](/wiki/Maurice_Feferman "Maurice Feferman")
+  * [Jacques Feldbau](/wiki/Jacques_Feldbau "Jacques Feldbau")
+  * [Maurice Fingercwajg](/wiki/Maurice_Fingercwajg "Maurice Fingercwajg")
+  * [Benjamin Fondane](/wiki/Benjamin_Fondane "Benjamin Fondane")
+  * [Otto Freundlich](/wiki/Otto_Freundlich "Otto Freundlich")
+  * [Simon Frid](/wiki/Simon_Frid "Simon Frid")
+  * [Régine Gattegno](/wiki/R%C3%A9gine_Gattegno "Régine Gattegno")
+  * [Joséphine Getting](/wiki/Jos%C3%A9phine_Getting "Joséphine Getting")
+  * [Léo Glaeser](/wiki/L%C3%A9o_Glaeser "Léo Glaeser")
+  * [Ernest Ginsburger](/wiki/Ernest_Ginsburger "Ernest Ginsburger")
+  * [Vila Glasberg](/wiki/Vila_Glasberg "Vila Glasberg")
+  * [Salomon Gluck](/wiki/Salomon_Gluck "Salomon Gluck")
+  * [Jacques Gotko](/wiki/Jacques_Gotko "Jacques Gotko")
+  * [Samuel Granowsky](/wiki/Samuel_Granowsky "Samuel Granowsky")
+  * [Szlama Grzywacz](/wiki/Szlama_Grzywacz "Szlama Grzywacz")
+  * [Claude Gutmann](/wiki/Claude_Gutmann "Claude Gutmann")
+  * [Paul Haguenauer](/wiki/Paul_Haguenauer "Paul Haguenauer")
+  * [Jacques Halpern](/wiki/Jacques_Halpern "Jacques Halpern")
+  * [Herta Hauben](/wiki/Herta_Hauben "Herta Hauben")
+  * [Jacques Helbronner](/wiki/Jacques_Helbronner "Jacques Helbronner")
+  * [Chaim Herman](/wiki/Chaim_Herman "Chaim Herman")
+  * [Pál Hermann](/wiki/P%C3%A1l_Hermann "Pál Hermann")
+  * [Robert Herzog](/wiki/Robert_Herzog "Robert Herzog")
+  * [Berthe Hirsch](/wiki/Berthe_Hirsch "Berthe Hirsch")
+  * [René Hirschler](/wiki/Ren%C3%A9_Hirschler "René Hirschler")
+  * [Alice Hohermann](/wiki/Alice_Hohermann "Alice Hohermann")
+  * [Jacob Hopensztand](/wiki/Jacob_Hopensztand "Jacob Hopensztand")
+  * [Nathan Hosanski](/wiki/Nathan_Hosanski "Nathan Hosanski")
+  * [Tamara Isserlis](/wiki/Tamara_Isserlis "Tamara Isserlis")
+  * [Sylvain Itkine](/wiki/Sylvain_Itkine "Sylvain Itkine")
+  * [Adolphe Javal](/wiki/Adolphe_Javal "Adolphe Javal")
+  * [André Jacob](/wiki/Andr%C3%A9_Jacob_\(architecte\) "André Jacob \(architecte\)")
+  * [Max Jacob](/wiki/Max_Jacob "Max Jacob")
+  * [Benjamin Jourist](/wiki/Benjamin_Jourist "Benjamin Jourist")
+  * [Jacques Kahn](/wiki/Jacques_Kahn "Jacques Kahn")
+  * [Robert Kahn](/wiki/Robert_Kahn_\(r%C3%A9sistant\) "Robert Kahn \(résistant\)")
+  * [Moïse Kahlenberg](/wiki/Mo%C3%AFse_Kahlenberg "Moïse Kahlenberg")
+  * [Isidore Kargeman](/wiki/Isidore_Kargeman "Isidore Kargeman")
+  * [Ytshak Katzenelson](/wiki/Ytshak_Katzenelson "Ytshak Katzenelson")
+  * [Léopold Kaufmann](/wiki/L%C3%A9opold_Kaufmann "Léopold Kaufmann")
+  * [Roger Kespy](/wiki/Roger_Kespy "Roger Kespy")
+  * [Jacques Kipman](/wiki/Jacques_Kipman "Jacques Kipman")
+  * [Samy Klein](/wiki/Samy_Klein "Samy Klein")
+  * [Bereck Kofman](/wiki/Bereck_Kofman "Bereck Kofman")
+  * [Georges André Kohn](/wiki/Georges_Andr%C3%A9_Kohn "Georges André Kohn")
+  * [Samuel Kohn](/wiki/Samuel_Kohn "Samuel Kohn")
+  * [Chana Kowalska](/wiki/Chana_Kowalska "Chana Kowalska")
+  * [Nathalie Kraemer](/wiki/Nathalie_Kraemer "Nathalie Kraemer")
+  * [Louis Krzyzkowski](/wiki/Louis_Krzyzkowski "Louis Krzyzkowski")
+  * [Raymond-Raoul Lambert](/wiki/Raymond-Raoul_Lambert "Raymond-Raoul Lambert")
+  * [François Lang](/wiki/Fran%C3%A7ois_Lang "François Lang")
+  * [Henri Lang](/wiki/Henri_Lang "Henri Lang")
+  * [Pierre Lanzenberg](/wiki/Pierre_Lanzenberg "Pierre Lanzenberg")
+  * [Marcel Lattès](/wiki/Marcel_Latt%C3%A8s "Marcel Lattès")
+  * [Albert Lautman](/wiki/Albert_Lautman "Albert Lautman")
+  * [Max Leiner](/wiki/Max_Leiner "Max Leiner")
+  * [Sarah Levan-Reifman](/wiki/Sarah_Levan-Reifman "Sarah Levan-Reifman")
+  * [Élie Lévy](/wiki/%C3%89lie_L%C3%A9vy "Élie Lévy")
+  * [Henri Lévy](/wiki/Henri_L%C3%A9vy "Henri Lévy")
+  * [Madeleine Lévy](/wiki/Madeleine_L%C3%A9vy "Madeleine Lévy")
+  * [René Lisbonne](/wiki/Ren%C3%A9_Lisbonne "René Lisbonne")
+  * [Marcelle Loeb](/wiki/Marcelle_Loeb "Marcelle Loeb")
+  * [Maurice Loebenberg](/wiki/Maurice_Loebenberg "Maurice Loebenberg")
+  * [Fritz Loebmann](/wiki/Fritz_Loebmann "Fritz Loebmann")
+  * [Zinovy Lvovsky](/wiki/Zinovy_Lvovsky "Zinovy Lvovsky")
+  * [Georges Mandel](/wiki/Georges_Mandel "Georges Mandel")
+  * [Pierre Masse](/wiki/Pierre_Masse "Pierre Masse")
+  * [August L. Mayer](/wiki/August_L._Mayer "August L. Mayer")
+  * [Marcel Mermelstein](/wiki/Marcel_Mermelstein "Marcel Mermelstein")
+  * [Paula Mermelstein](/wiki/Paula_Mermelstein "Paula Mermelstein")
+  * [Hélène Metzger](/wiki/H%C3%A9l%C3%A8ne_Metzger "Hélène Metzger")
+  * [Robert Meyers](/wiki/Robert_Meyers "Robert Meyers")
+  * [Jacqueline Morgenstern](/wiki/Jacqueline_Morgenstern "Jacqueline Morgenstern")
+  * [Fernand Musnik](/wiki/Fernand_Musnik "Fernand Musnik")
+  * [Robert Najberg](/wiki/Robert_Najberg "Robert Najberg")
+  * [Bernard Natan](/wiki/Bernard_Natan "Bernard Natan")
+  * [Irène Némirovsky](/wiki/Ir%C3%A8ne_N%C3%A9mirovsky "Irène Némirovsky")
+  * [Casimir Oberfeld](/wiki/Casimir_Oberfeld "Casimir Oberfeld")
+  * [Young Perez](/wiki/Young_Perez "Young Perez")
+  * [Louise Pikovsky](/wiki/Louise_Pikovsky "Louise Pikovsky")
+  * [Bella Pochez](/wiki/Bella_Pochez "Bella Pochez")
+  * [Siegfried Prock](/wiki/Siegfried_Prock "Siegfried Prock")
+  * [Josué Pruner](/wiki/Josu%C3%A9_Pruner "Josué Pruner")
+  * [Édith Pulver](/wiki/%C3%89dith_Pulver "Édith Pulver")
+  * [Mila Racine](/wiki/Mila_Racine "Mila Racine")
+  * [Jean-Jacques Rein](/wiki/Jean-Jacques_Rein "Jean-Jacques Rein")
+  * [David Rapoport](/wiki/David_Rapoport "David Rapoport")
+  * [Alma Rosé](/wiki/Alma_Ros%C3%A9 "Alma Rosé")
+  * [Horst Rosenthal](/wiki/Horst_Rosenthal "Horst Rosenthal")
+  * [Markus Rottenberg](/wiki/Markus_Rottenberg "Markus Rottenberg")
+  * [Saoud l'Oranais](/wiki/Saoud_l%27Oranais "Saoud l'Oranais")
+  * [Joseph Saks](/wiki/Joseph_Saks "Joseph Saks")
+  * [Charlotte Salomon](/wiki/Charlotte_Salomon "Charlotte Salomon")
+  * [Hélène Schapiro](/wiki/H%C3%A9l%C3%A8ne_Schapiro "Hélène Schapiro")
+  * [Sacha Schapiro](/wiki/Sacha_Schapiro "Sacha Schapiro")
+  * [Willy Schapiro](/wiki/Willy_Schapiro "Willy Schapiro")
+  * [Benjamin Schatzman](/wiki/Benjamin_Schatzman "Benjamin Schatzman")
+  * [Maurice Schlisselmann](/wiki/Maurice_Schlisselmann "Maurice Schlisselmann")
+  * [Maurice Schlosser](/wiki/Maurice_Schlosser "Maurice Schlosser")
+  * [Bernard Schonberg](/wiki/Bernard_Schonberg "Bernard Schonberg")
+  * [Ariadna Scriabina](/wiki/Ariadna_Scriabina "Ariadna Scriabina")
+  * [Aron Skrobek](/wiki/Aron_Skrobek "Aron Skrobek")
+  * [Marcel Slodki](/wiki/Marcel_Slodki "Marcel Slodki")
+  * [Luise Straus-Ernst](/wiki/Luise_Straus-Ernst "Luise Straus-Ernst")
+  * [Samy Stourdzé](/wiki/Samy_Stourdz%C3%A9 "Samy Stourdzé")
+  * [Alfred Valensi](/wiki/Alfred_Valensi "Alfred Valensi")
+  * [Paul Velsa](/wiki/Paul_Velsa "Paul Velsa")
+  * [David Vogel](/wiki/David_Vogel "David Vogel")
+  * [Wolf Wajsbrot](/wiki/Wolf_Wajsbrot "Wolf Wajsbrot")
+  * [Nicole Weil-Salon](/wiki/Nicole_Weil-Salon "Nicole Weil-Salon")
+  * [Juliette Weill](/wiki/Juliette_Weill "Juliette Weill")
+  * [Joseph Wiener](/wiki/Joseph_Wiener "Joseph Wiener")
+  * [Rosette Wolczak](/wiki/Rosette_Wolczak "Rosette Wolczak")
+  * [Aron Wolf](/wiki/Aron_Wolf "Aron Wolf")
+  * [Mathieu Wolf](/wiki/Mathieu_Wolf "Mathieu Wolf")
+  * [Eugène Wollman](/wiki/Eug%C3%A8ne_Wollman "Eugène Wollman")
+  * [Léon Zadoc-Kahn](/wiki/L%C3%A9on_Zadoc-Kahn "Léon Zadoc-Kahn")
+  * [Émile Zeizig](/wiki/%C3%89mile_Zeizig "Émile Zeizig")
+  * [Annette Zelman](/wiki/Annette_Zelman "Annette Zelman")
+  * [Miron Zlatin](/wiki/Miron_Zlatin "Miron Zlatin")
+
+  
+  
+Survivants célèbres |
+
+  * [Moussa Abadi](/wiki/Moussa_Abadi "Moussa Abadi")
+  * [Pierre Abraham](/wiki/Pierre_Abraham "Pierre Abraham")
+  * [Jules Adler](/wiki/Jules_Adler "Jules Adler")
+  * [Milo Adoner](/wiki/Milo_Adoner "Milo Adoner")
+  * [Pierre Aidenbaum](/wiki/Pierre_Aidenbaum "Pierre Aidenbaum")
+  * [Louise Alcan](/wiki/Louise_Alcan "Louise Alcan")
+  * [André Amar](/wiki/Andr%C3%A9_Amar "André Amar")
+  * [Alfred Ament](/wiki/Alfred_Ament "Alfred Ament")
+  * [Léo Ansbacher](/wiki/L%C3%A9o_Ansbacher "Léo Ansbacher")
+  * [Ernest Appenzeller](/wiki/Ernest_Appenzeller "Ernest Appenzeller")
+  * [Louis Aron](/wiki/Louis_Aron "Louis Aron")
+  * [Liliane Atlan](/wiki/Liliane_Atlan "Liliane Atlan")
+  * [Gérard Avran](/wiki/G%C3%A9rard_Avran "Gérard Avran")
+  * [Édouard Axelrad](/wiki/%C3%89douard_Axelrad "Édouard Axelrad")
+  * [Robert Badinter](/wiki/Robert_Badinter "Robert Badinter")
+  * [Barbara](/wiki/Barbara "Barbara")
+  * [Joseph Bass](/wiki/Joseph_Bass "Joseph Bass")
+  * [Nicolas Baudy](/wiki/Nicolas_Baudy "Nicolas Baudy")
+  * [Nina Baumstein](/wiki/Nina_Baumstein "Nina Baumstein")
+  * [Julien Benda](/wiki/Julien_Benda "Julien Benda")
+  * [Gabriel Bénichou](/wiki/Gabriel_B%C3%A9nichou "Gabriel Bénichou")
+  * [Bençion Rabinowicz](/wiki/Benn_\(peintre\) "Benn \(peintre\)")
+  * [Doris Bensimon](/wiki/Doris_Bensimon "Doris Bensimon")
+  * [Léo Bergoffen](/wiki/L%C3%A9o_Bergoffen "Léo Bergoffen")
+  * [Jean-Jacques Bernard](/wiki/Jean-Jacques_Bernard "Jean-Jacques Bernard")
+  * [Tristan Bernard](/wiki/Tristan_Bernard "Tristan Bernard")
+  * [Joseph Bialot](/wiki/Joseph_Bialot "Joseph Bialot")
+  * [Albert Bigielman](/wiki/Albert_Bigielman "Albert Bigielman")
+  * [Gerda Bikales](/wiki/Gerda_Bikales "Gerda Bikales")
+  * [Norbert M. Bikales](/wiki/Norbert_M._Bikales "Norbert M. Bikales")
+  * [Claude Bloch](/wiki/Claude_Bloch_\(convoi_77\) "Claude Bloch \(convoi 77\)")
+  * [Ève Line Blum-Cherchevsky](/wiki/%C3%88ve_Line_Blum-Cherchevsky "Ève Line Blum-Cherchevsky")
+  * [Marcel Bluwal](/wiki/Marcel_Bluwal "Marcel Bluwal")
+  * [Henri Borlant](/wiki/Henri_Borlant "Henri Borlant")
+  * [Alfred Brauner](/wiki/Alfred_Brauner "Alfred Brauner")
+  * [Françoise Brauner](/wiki/Fran%C3%A7oise_Brauner "Françoise Brauner")
+  * [Colette Brull-Ulmann](/wiki/Colette_Brull-Ulmann "Colette Brull-Ulmann")
+  * [Henry Bulawko](/wiki/Henry_Bulawko "Henry Bulawko")
+  * [Bernadette Byk](/wiki/Bernadette_Byk "Bernadette Byk")
+  * [Jean Cahen-Salvador](/wiki/Jean_Cahen-Salvador "Jean Cahen-Salvador")
+  * [Moïse Cassorla](/wiki/Mo%C3%AFse_Cassorla "Moïse Cassorla")
+  * [David Catarivas](/wiki/David_Catarivas "David Catarivas")
+  * [Annette Chalut](/wiki/Annette_Chalut "Annette Chalut")
+  * [Georges Charpak](/wiki/Georges_Charpak "Georges Charpak")
+  * [Thérèse Chassaing](/wiki/Th%C3%A9r%C3%A8se_Chassaing "Thérèse Chassaing")
+  * [Rachel Cheigam-Grunstein](/wiki/Rachel_Cheigam-Grunstein "Rachel Cheigam-Grunstein")
+  * [Jean-Claude Chermann](/wiki/Jean-Claude_Chermann "Jean-Claude Chermann")
+  * [Francine Christophe](/wiki/Francine_Christophe "Francine Christophe")
+  * [Paul Chytelman](/wiki/Paul_Chytelman "Paul Chytelman")
+  * [Suzanne Citron](/wiki/Suzanne_Citron "Suzanne Citron")
+  * [Robert Clary](/wiki/Robert_Clary "Robert Clary")
+  * [Fernand Cohen](/wiki/Fernand_Cohen "Fernand Cohen")
+  * [Henriette Cohen](/wiki/Henriette_Cohen "Henriette Cohen")
+  * [Marthe Cohn](/wiki/Marthe_Cohn "Marthe Cohn")
+  * [Herta Cohn-Bendit](/wiki/Herta_Cohn-Bendit "Herta Cohn-Bendit")
+  * [Albert Crémieux (médecin)](/wiki/Albert_Cr%C3%A9mieux_\(m%C3%A9decin\) "Albert Crémieux \(médecin\)")
+  * [Roger Cukierman](/wiki/Roger_Cukierman "Roger Cukierman")
+  * [Boris Cyrulnik](/wiki/Boris_Cyrulnik "Boris Cyrulnik")
+  * [Natan Darty](/wiki/Natan_Darty "Natan Darty")
+  * [Marcel Dassault](/wiki/Marcel_Dassault "Marcel Dassault")
+  * [Myriam David](/wiki/Myriam_David "Myriam David")
+  * [Charles Denner](/wiki/Charles_Denner "Charles Denner")
+  * [Alfred Denner](/wiki/Alfred_Denner "Alfred Denner")
+  * [Michel Drach](/wiki/Michel_Drach "Michel Drach")
+  * [Jean-Claude Dreyfus (biologiste)](/wiki/Jean-Claude_Dreyfus_\(biologiste\) "Jean-Claude Dreyfus \(biologiste\)")
+  * [Madeleine Dreyfus](/wiki/Madeleine_Dreyfus "Madeleine Dreyfus")
+  * [Odette Elina](/wiki/Odette_Elina "Odette Elina")
+  * [Jean Elleinstein](/wiki/Jean_Elleinstein "Jean Elleinstein")
+  * [Denise Epstein](/wiki/Denise_Epstein "Denise Epstein")
+  * [Roland Epstein](/wiki/Roland_Epstein "Roland Epstein")
+  * [Raphaël Esrail](/wiki/Rapha%C3%ABl_Esrail "Raphaël Esrail")
+  * [Odette Fabius](/wiki/Odette_Fabius "Odette Fabius")
+  * [Daniel Farhi](/wiki/Daniel_Farhi "Daniel Farhi")
+  * [Yvette Farnoux](/wiki/Yvette_Farnoux "Yvette Farnoux")
+  * [Suzanne Feingold](/wiki/Suzanne_Feingold "Suzanne Feingold")
+  * [Léa Feldblum](/wiki/L%C3%A9a_Feldblum "Léa Feldblum")
+  * [Fania Fénelon](/wiki/Fania_F%C3%A9nelon "Fania Fénelon")
+  * [Antoinette Feuerwerker](/wiki/Antoinette_Feuerwerker "Antoinette Feuerwerker")
+  * [David Feuerwerker](/wiki/David_Feuerwerker "David Feuerwerker")
+  * [Esther Fogiel](/wiki/Esther_Fogiel "Esther Fogiel")
+  * [Saul Friedländer](/wiki/Saul_Friedl%C3%A4nder "Saul Friedländer")
+  * [Jean Frydman](/wiki/Jean_Frydman "Jean Frydman")
+  * [Serge Gainsbourg](/wiki/Serge_Gainsbourg "Serge Gainsbourg")
+  * [Denise Gamzon](/wiki/Denise_Gamzon "Denise Gamzon")
+  * [Robert Gamzon](/wiki/Robert_Gamzon "Robert Gamzon")
+  * [Georges Garel](/wiki/Georges_Garel "Georges Garel")
+  * [Lili Garel](/wiki/Lili_Garel "Lili Garel")
+  * [Georges Gheldman](/wiki/Georges_Gheldman "Georges Gheldman")
+  * [Élisabeth Gille](/wiki/%C3%89lisabeth_Gille "Élisabeth Gille")
+  * [Norbert Glanzberg](/wiki/Norbert_Glanzberg "Norbert Glanzberg")
+  * [Denise Glaser](/wiki/Denise_Glaser "Denise Glaser")
+  * [André Glucksmann](/wiki/Andr%C3%A9_Glucksmann "André Glucksmann")
+  * [Alter Mojsze Goldman](/wiki/Alter_Mojsze_Goldman "Alter Mojsze Goldman")
+  * [Gisèle Gonse-Boas](/wiki/Gis%C3%A8le_Gonse-Boas "Gisèle Gonse-Boas")
+  * [Gotlib](/wiki/Gotlib "Gotlib")
+  * [Charles Gottlieb](/wiki/Charles_Gottlieb "Charles Gottlieb")
+  * [Nina Gourfinkel](/wiki/Nina_Gourfinkel "Nina Gourfinkel")
+  * [Ida Grinspan](/wiki/Ida_Grinspan "Ida Grinspan")
+  * [François Gros](/wiki/Fran%C3%A7ois_Gros_\(biologiste\) "François Gros \(biologiste\)")
+  * Alexandre Grothendieck
+  * [Jean-Claude Grumberg](/wiki/Jean-Claude_Grumberg "Jean-Claude Grumberg")
+  * [Nathan Grunsweigh](/wiki/Nathan_Grunsweigh "Nathan Grunsweigh")
+  * [Tony Gryn](/wiki/Tony_Gryn "Tony Gryn")
+  * [Simon Gutman](/wiki/Simon_Gutman "Simon Gutman")
+  * [Ninon Haït-Weyl](/wiki/Ninon_Ha%C3%AFt-Weyl "Ninon Haït-Weyl")
+  * [Georges Hansel](/wiki/Georges_Hansel "Georges Hansel")
+  * [Maurice Hausner](/wiki/Maurice_Hausner "Maurice Hausner")
+  * [Nadine Heftler](/wiki/Nadine_Heftler "Nadine Heftler")
+  * [Max Heilbronn](/wiki/Max_Heilbronn "Max Heilbronn")
+  * [Bertrand Herz](/wiki/Bertrand_Herz "Bertrand Herz")
+  * [Claire Heyman](/wiki/Claire_Heyman "Claire Heyman")
+  * [Elisabeth Hirsch](/wiki/Elisabeth_Hirsch "Elisabeth Hirsch")
+  * [Jean-Raphaël Hirsch](/wiki/Jean-Rapha%C3%ABl_Hirsch "Jean-Raphaël Hirsch")
+  * [Sigismond Hirsch](/wiki/Sigismond_Hirsch "Sigismond Hirsch")
+  * [Denise Holstein](/wiki/Denise_Holstein "Denise Holstein")
+  * [Maurice Honel](/wiki/Maurice_Honel "Maurice Honel")
+  * [Izis](/wiki/Izis "Izis")
+  * [Marcel Jabelot](/wiki/Marcel_Jabelot "Marcel Jabelot")
+  * [Gilberte Jacob](/wiki/Gilberte_Jacob "Gilberte Jacob")
+  * [Gilles Jacob](/wiki/Gilles_Jacob "Gilles Jacob")
+  * [Violette Jacquet-Silberstein](/wiki/Violette_Jacquet-Silberstein "Violette Jacquet-Silberstein")
+  * [Jean Jérôme](/wiki/Jean_J%C3%A9r%C3%B4me "Jean Jérôme")
+  * [Robert Job](/wiki/Robert_Job "Robert Job")
+  * [Joseph Joffo](/wiki/Joseph_Joffo "Joseph Joffo")
+  * [Marcel Jungerman](/wiki/Marcel_Jungerman "Marcel Jungerman")
+  * [Émile Kaçmann](/wiki/%C3%89mile_Ka%C3%A7mann "Émile Kaçmann")
+  * [Élie Kagan](/wiki/%C3%89lie_Kagan "Élie Kagan")
+  * [Raya Kagan](/wiki/Raya_Kagan "Raya Kagan")
+  * [André Kahn](/wiki/Andr%C3%A9_Kahn "André Kahn")
+  * [Anne-Marcelle Kahn](/wiki/Anne-Marcelle_Kahn "Anne-Marcelle Kahn")
+  * [Jean Kahn](/wiki/Jean_Kahn_\(1929-2013\) "Jean Kahn \(1929-2013\)")
+  * [Daniel-Henry Kahnweiler](/wiki/Daniel-Henry_Kahnweiler "Daniel-Henry Kahnweiler")
+  * [Adolfo Kaminsky](/wiki/Adolfo_Kaminsky "Adolfo Kaminsky")
+  * [René Kapel](/wiki/Ren%C3%A9_Kapel "René Kapel")
+  * [Paula Kaufman](/wiki/Paula_Kaufman "Paula Kaufman")
+  * [Sylvain Kaufmann](/wiki/Sylvain_Kaufmann "Sylvain Kaufmann")
+  * [Claude Kelman](/wiki/Claude_Kelman "Claude Kelman")
+  * [Colette Kessler](/wiki/Colette_Kessler "Colette Kessler")
+  * [Georges Kiejman](/wiki/Georges_Kiejman "Georges Kiejman")
+  * [Robert Klapisch](/wiki/Robert_Klapisch "Robert Klapisch")
+  * [Serge Klarsfeld](/wiki/Serge_Klarsfeld "Serge Klarsfeld")
+  * [Edith Klebinder](/wiki/Edith_Klebinder "Edith Klebinder")
+  * [Michel Klein (vétérinaire)](/wiki/Michel_Klein_\(v%C3%A9t%C3%A9rinaire\) "Michel Klein \(vétérinaire\)")
+  * [Noah Klieger](/wiki/Noah_Klieger "Noah Klieger")
+  * [David Knout](/wiki/David_Knout "David Knout")
+  * [Sarah Kofman](/wiki/Sarah_Kofman "Sarah Kofman")
+  * [Jacques Kohn](/wiki/Jacques_Kohn "Jacques Kohn")
+  * [Raymond Kojitsky](/wiki/Raymond_Kojitsky "Raymond Kojitsky")
+  * [Ginette Kolinka](/wiki/Ginette_Kolinka "Ginette Kolinka")
+  * [Henri Krasucki](/wiki/Henri_Krasucki "Henri Krasucki")
+  * [Annie Kriegel](/wiki/Annie_Kriegel "Annie Kriegel")
+  * [Arthur Kriegel](/wiki/Arthur_Kriegel "Arthur Kriegel")
+  * [Henri Krischer](/wiki/Henri_Krischer "Henri Krischer")
+  * [Simone Lagrange](/wiki/Simone_Lagrange "Simone Lagrange")
+  * [Simon Laks](/wiki/Simon_Laks "Simon Laks")
+  * [Ruth Lambert](/wiki/Ruth_Lambert "Ruth Lambert")
+  * [Lazare Landau](/wiki/Lazare_Landau "Lazare Landau")
+  * [Lucien Lazare](/wiki/Lucien_Lazare "Lucien Lazare")
+  * [Malvine Lanzet](/wiki/Malvine_Lanzet "Malvine Lanzet")
+  * [Claude Lanzmann](/wiki/Claude_Lanzmann "Claude Lanzmann")
+  * [Gérard Lebovici](/wiki/G%C3%A9rard_Lebovici "Gérard Lebovici")
+  * [Serge Lebovici](/wiki/Serge_Lebovici "Serge Lebovici")
+  * [Charles Lederman](/wiki/Charles_Lederman "Charles Lederman")
+  * [Lili Leignel](/wiki/Lili_Leignel "Lili Leignel")
+  * [Claude Lelouch](/wiki/Claude_Lelouch "Claude Lelouch")
+  * [Francis Lemarque](/wiki/Francis_Lemarque "Francis Lemarque")
+  * [Raïssa Levinas](/wiki/Ra%C3%AFssa_Levinas "Raïssa Levinas")
+  * [Georges Lévitte](/wiki/Georges_L%C3%A9vitte "Georges Lévitte")
+  * [Simon Levitte](/wiki/Simon_Levitte "Simon Levitte")
+  * [Gaston Lévy](/wiki/Gaston_L%C3%A9vy "Gaston Lévy")
+  * [Paulette Lévy](/wiki/Paulette_L%C3%A9vy "Paulette Lévy")
+  * [Raymond Lévy](/wiki/Raymond_L%C3%A9vy_\(r%C3%A9sistant\) "Raymond Lévy \(résistant\)")
+  * [Yvette Lévy](/wiki/Yvette_L%C3%A9vy "Yvette Lévy")
+  * [Paulette Libermann](/wiki/Paulette_Libermann "Paulette Libermann")
+  * [Hersz Librach](/wiki/Hersz_Librach "Hersz Librach")
+  * [Fanny Loinger](/wiki/Fanny_Loinger "Fanny Loinger")
+  * [Flore Loinger](/wiki/Flore_Loinger "Flore Loinger")
+  * [Georges Loinger](/wiki/Georges_Loinger "Georges Loinger")
+  * [Marceline Loridan-Ivens](/wiki/Marceline_Loridan-Ivens "Marceline Loridan-Ivens")
+  * [Lucien Lublin](/wiki/Lucien_Lublin "Lucien Lublin")
+  * [Jean-Marie Lustiger](/wiki/Jean-Marie_Lustiger "Jean-Marie Lustiger")
+  * [Maurice Maidenberg](/wiki/Maurice_Maidenberg "Maurice Maidenberg")
+  * [Marcel Marceau](/wiki/Marcel_Marceau "Marcel Marceau")
+  * [Claude-Gérard Marcus](/wiki/Claude-G%C3%A9rard_Marcus "Claude-Gérard Marcus")
+  * [Arnold Mandel](/wiki/Arnold_Mandel "Arnold Mandel")
+  * [Germaine Masour](/wiki/Germaine_Masour "Germaine Masour")
+  * [Simone Mayer](/wiki/Simone_Mayer "Simone Mayer")
+  * [Freddy Menahem](/wiki/Freddy_Menahem "Freddy Menahem")
+  * [Henri Meschonnic](/wiki/Henri_Meschonnic "Henri Meschonnic")
+  * [Jacqueline Mesnil-Amar](/wiki/Jacqueline_Mesnil-Amar "Jacqueline Mesnil-Amar")
+  * [Léon Meyer](/wiki/L%C3%A9on_Meyer "Léon Meyer")
+  * [Otto Fritz Meyerhof](/wiki/Otto_Fritz_Meyerhof "Otto Fritz Meyerhof")
+  * [André Migdal](/wiki/Andr%C3%A9_Migdal "André Migdal")
+  * [Rachel Minc](/wiki/Rachel_Minc "Rachel Minc")
+  * [Henri Minczeles](/wiki/Henri_Minczeles "Henri Minczeles")
+  * [Emanuel Mink](/wiki/Emanuel_Mink "Emanuel Mink")
+  * [Vidal Modiano](/wiki/Vidal_Modiano "Vidal Modiano")
+  * [Henri Moraud](/wiki/Henri_Moraud "Henri Moraud")
+  * [Pierre Morhange](/wiki/Pierre_Morhange "Pierre Morhange")
+  * [Zina Morhange](/wiki/Zina_Morhange "Zina Morhange")
+  * [Jean-Claude Moscovici](/wiki/Jean-Claude_Moscovici "Jean-Claude Moscovici")
+  * [Édith Moskovic](/wiki/%C3%89dith_Moskovic "Édith Moskovic")
+  * [Annette Muller](/wiki/Annette_Muller "Annette Muller")
+  * [Michel Muller](/wiki/Michel_Muller_\(acteur\) "Michel Muller \(acteur\)")
+  * [Achille Naftalis](/wiki/Achille_Naftalis "Achille Naftalis")
+  * [Alfred Nakache](/wiki/Alfred_Nakache "Alfred Nakache")
+  * [Richard Neher](/wiki/Richard_Neher "Richard Neher")
+  * [Renée Neher-Bernheim](/wiki/Ren%C3%A9e_Neher-Bernheim "Renée Neher-Bernheim")
+  * [Henri Nerson](/wiki/Henri_Nerson "Henri Nerson")
+  * [Paul Niedermann](/wiki/Paul_Niedermann "Paul Niedermann")
+  * [Maurice Obréjan](/wiki/Maurice_Obr%C3%A9jan "Maurice Obréjan")
+  * [David Olère](/wiki/David_Ol%C3%A8re "David Olère")
+  * [Dounia Ourisson](/wiki/Dounia_Ourisson "Dounia Ourisson")
+  * [Gérard Oury](/wiki/G%C3%A9rard_Oury "Gérard Oury")
+  * [Charles Palant](/wiki/Charles_Palant "Charles Palant")
+  * [Mordecai Paldiel](/wiki/Mordecai_Paldiel "Mordecai Paldiel")
+  * [Jean-Claude Pecker](/wiki/Jean-Claude_Pecker "Jean-Claude Pecker")
+  * [Victor Perahia](/wiki/Victor_Perahia "Victor Perahia")
+  * [Georges Perec](/wiki/Georges_Perec "Georges Perec")
+  * [Roger Perelman](/wiki/Roger_Perelman "Roger Perelman")
+  * [Simone Perl](/wiki/Simone_Perl "Simone Perl")
+  * [Jenny Plocki](/wiki/Jenny_Plocki "Jenny Plocki")
+  * [Rachel Pludermacher](/wiki/Rachel_Pludermacher "Rachel Pludermacher")
+  * [Abraham Polonski](/wiki/Abraham_Polonski "Abraham Polonski")
+  * [Germaine Poliakov](/wiki/Germaine_Poliakov "Germaine Poliakov")
+  * [René Polski](/wiki/Ren%C3%A9_Polski "René Polski")
+  * [Popeck](/wiki/Popeck "Popeck")
+  * [Léon Rabinovitch](/wiki/L%C3%A9on_Rabinovitch "Léon Rabinovitch")
+  * [Léopold Rabinovitch](/wiki/L%C3%A9opold_Rabinovitch "Léopold Rabinovitch")
+  * [Emmanuel Racine](/wiki/Emmanuel_Racine "Emmanuel Racine")
+  * [Maurice Rajsfus](/wiki/Maurice_Rajsfus "Maurice Rajsfus")
+  * [Adam Rayski](/wiki/Adam_Rayski "Adam Rayski")
+  * [Léon Reifman](/wiki/L%C3%A9on_Reifman "Léon Reifman")
+  * [Lionel Rocheman](/wiki/Lionel_Rocheman "Lionel Rocheman")
+  * [Paul Roitman](/wiki/Paul_Roitman "Paul Roitman")
+  * [Isidore Rosenbaum](/wiki/Isidore_Rosenbaum "Isidore Rosenbaum")
+  * [Paulette Angel Rosenberg](/wiki/Paulette_Angel_Rosenberg "Paulette Angel Rosenberg")
+  * [Odette Rosenstock](/wiki/Odette_Rosenstock "Odette Rosenstock")
+  * [Joseph Rubinsztein](/wiki/Joseph_Rubinsztein "Joseph Rubinsztein")
+  * [Marcel Sachs](/wiki/Marcel_Sachs "Marcel Sachs")
+  * [Andrée Salomon](/wiki/Andr%C3%A9e_Salomon "Andrée Salomon")
+  * [Jacques Salon](/wiki/Jacques_Salon "Jacques Salon")
+  * [Israël Salzer](/wiki/Isra%C3%ABl_Salzer "Israël Salzer")
+  * [Julien Samuel](/wiki/Julien_Samuel "Julien Samuel")
+  * [Vivette Samuel](/wiki/Vivette_Samuel "Vivette Samuel")
+  * [Paulette Sarcey](/wiki/Paulette_Sarcey "Paulette Sarcey")
+  * [Jacques Saurel](/wiki/Jacques_Saurel "Jacques Saurel")
+  * [Paul Schaffer](/wiki/Paul_Schaffer "Paul Schaffer")
+  * [Evry Schatzman](/wiki/Evry_Schatzman "Evry Schatzman")
+  * [Dora Schaul](/wiki/Dora_Schaul "Dora Schaul")
+  * [Madeleine Schnerb](/wiki/Madeleine_Schnerb "Madeleine Schnerb")
+  * [Robert Schnerb](/wiki/Robert_Schnerb "Robert Schnerb")
+  * [Abraham Schrameck](/wiki/Abraham_Schrameck "Abraham Schrameck")
+  * [Isaïe Schwartz](/wiki/Isa%C3%AFe_Schwartz "Isaïe Schwartz")
+  * [Laurent Schwartz](/wiki/Laurent_Schwartz_\(math%C3%A9maticien\) "Laurent Schwartz \(mathématicien\)")
+  * [Léon Schwartzenberg](/wiki/L%C3%A9on_Schwartzenberg "Léon Schwartzenberg")
+  * [André Schwarz-Bart](/wiki/Andr%C3%A9_Schwarz-Bart "André Schwarz-Bart")
+  * [Michel Sima](/wiki/Michel_Sima "Michel Sima")
+  * [Bouli Simon](/wiki/Bouli_Simon "Bouli Simon")
+  * [Shatta Simon](/wiki/Shatta_Simon "Shatta Simon")
+  * [Jérôme Skorka](/wiki/J%C3%A9r%C3%B4me_Skorka "Jérôme Skorka")
+  * [Régine Skorka-Jacubert](/wiki/R%C3%A9gine_Skorka-Jacubert "Régine Skorka-Jacubert")
+  * [Michel Slitinsky](/wiki/Michel_Slitinsky "Michel Slitinsky")
+  * [Jacques Smaer](/wiki/Jacques_Smaer "Jacques Smaer")
+  * [Georges Snyders](/wiki/Georges_Snyders "Georges Snyders")
+  * [Denise Soriano-Boucherit](/wiki/Denise_Soriano-Boucherit "Denise Soriano-Boucherit")
+  * [Odette Spingarn](/wiki/Odette_Spingarn "Odette Spingarn")
+  * [Adolphe Steg](/wiki/Adolphe_Steg "Adolphe Steg")
+  * [Armand Steinberg](/wiki/Armand_Steinberg "Armand Steinberg")
+  * [Hughes Steiner](/wiki/Hughes_Steiner "Hughes Steiner")
+  * [Anne-Lise Stern](/wiki/Anne-Lise_Stern "Anne-Lise Stern")
+  * [Juliette Stern](/wiki/Juliette_Stern "Juliette Stern")
+  * [Jacques Sternberg](/wiki/Jacques_Sternberg "Jacques Sternberg")
+  * [Lionel Stoléru](/wiki/Lionel_Stol%C3%A9ru "Lionel Stoléru")
+  * [Victor Svarc](/wiki/Victor_Svarc "Victor Svarc")
+  * [Sam Szafran](/wiki/Sam_Szafran "Sam Szafran")
+  * [Albert Szerman](/wiki/Albert_Szerman "Albert Szerman")
+  * [Jacob Szmulewicz](/wiki/Jacob_Szmulewicz "Jacob Szmulewicz")
+  * [Mayer Szyndelman](/wiki/Mayer_Szyndelman "Mayer Szyndelman")
+  * [Albert Tadlewski](/wiki/Albert_Tadlewski "Albert Tadlewski")
+  * [Boris Taslitzky](/wiki/Boris_Taslitzky "Boris Taslitzky")
+  * [Jacqueline Teyssier](/wiki/Jacqueline_Teyssier "Jacqueline Teyssier")
+  * [Eva Tichauer](/wiki/Eva_Tichauer "Eva Tichauer")
+  * [Daniel Urbejtel](/wiki/Daniel_Urbejtel "Daniel Urbejtel")
+  * [Georges Vadnaï](/wiki/Georges_Vadna%C3%AF "Georges Vadnaï")
+  * [Simone Veil](/wiki/Simone_Veil "Simone Veil")
+  * [Denise Vernay](/wiki/Denise_Vernay "Denise Vernay")
+  * [Pierre Vidal-Naquet](/wiki/Pierre_Vidal-Naquet "Pierre Vidal-Naquet")
+  * [Dina Vierny](/wiki/Dina_Vierny "Dina Vierny")
+  * [Pierre Villon](/wiki/Pierre_Villon "Pierre Villon")
+  * [Denise Vormus](/wiki/Denise_Vormus "Denise Vormus")
+  * [Huguette Wahl](/wiki/Huguette_Wahl "Huguette Wahl")
+  * [Jean Wahl](/wiki/Jean_Wahl "Jean Wahl")
+  * [Robert Waitz](/wiki/Robert_Waitz "Robert Waitz")
+  * [Rose Warfman](/wiki/Rose_Warfman "Rose Warfman")
+  * [Frida Wattenberg](/wiki/Frida_Wattenberg "Frida Wattenberg")
+  * [Hélène Waysbord-Loing](/wiki/H%C3%A9l%C3%A8ne_Waysbord-Loing "Hélène Waysbord-Loing")
+  * [Robert Weil](/wiki/Robert_Weil_\(professeur_de_physique\) "Robert Weil \(professeur de physique\)")
+  * [Joseph Weill](/wiki/Joseph_Weill "Joseph Weill")
+  * [Simone Weil Lipman](/wiki/Simone_Weil_Lipman "Simone Weil Lipman")
+  * [Étienne Weill-Raynal](/wiki/%C3%89tienne_Weill-Raynal "Étienne Weill-Raynal")
+  * [Feiga Weisbuch](/wiki/Feiga_Weisbuch "Feiga Weisbuch")
+  * [Joseph Weismann](/wiki/Joseph_Weismann "Joseph Weismann")
+  * [Georges Wellers](/wiki/Georges_Wellers "Georges Wellers")
+  * [Dora Werzberg](/wiki/Dora_Werzberg "Dora Werzberg")
+  * [Gaby Wolff](/wiki/Gaby_Wolff "Gaby Wolff")
+  * [Roger Wolman](/wiki/Roger_Wolman "Roger Wolman")
+  * [Élie Wollman](/wiki/%C3%89lie_Wollman "Élie Wollman")
+  * [Jacqueline Zadoc-Kahn Eisenmann](/wiki/Jacqueline_Zadoc-Kahn_Eisenmann "Jacqueline Zadoc-Kahn Eisenmann")
+  * [Henri Zajdenwergier](/wiki/Henri_Zajdenwergier "Henri Zajdenwergier")
+  * [Charles Zelty](/wiki/Charles_Zelty "Charles Zelty")
+  * [Ben Zimet](/wiki/Ben_Zimet "Ben Zimet")
+  * [Solange Zitlenok](/wiki/Solange_Zitlenok "Solange Zitlenok")
+  * [Sabine Zlatin](/wiki/Sabine_Zlatin "Sabine Zlatin")
+  * [Léon Zyguel](/wiki/L%C3%A9on_Zyguel "Léon Zyguel")
+
+  
+  
+[Justes parmi les nations](/wiki/Juste_parmi_les_nations "Juste parmi les
+nations") |
+
+  * [Albert Bedane](/wiki/Albert_Bedane "Albert Bedane")
+  * [Odette Bergoffen](/wiki/Odette_Bergoffen "Odette Bergoffen")
+  * [Marc Boegner](/wiki/Marc_Boegner "Marc Boegner")
+  * [Hélène Burger](/wiki/H%C3%A9l%C3%A8ne_Burger "Hélène Burger")
+  * [Le Chambon-sur-Lignon](/wiki/Le_Chambon-sur-Lignon "Le Chambon-sur-Lignon")
+  * [Lucienne Clément de l’Épine](/wiki/Lucienne_Cl%C3%A9ment_de_l%E2%80%99%C3%89pine "Lucienne Clément de l’Épine")
+  * [Isabelle Crémer](/wiki/Isabelle_Cr%C3%A9mer "Isabelle Crémer")
+  * [Jean Deffaugt](/wiki/Jean_Deffaugt "Jean Deffaugt")
+  * [Élisabeth Eidenbenz](/wiki/%C3%89lisabeth_Eidenbenz "Élisabeth Eidenbenz")
+  * [Jacques Ellul](/wiki/Jacques_Ellul "Jacques Ellul")
+  * [Pierre-Marie Gerlier](/wiki/Pierre_Gerlier "Pierre Gerlier")
+  * [Alexandre Glasberg](/wiki/Alexandre_Glasberg "Alexandre Glasberg")
+  * [Vila Glasberg](/wiki/Vila_Glasberg "Vila Glasberg")
+  * [Justin Godart](/wiki/Justin_Godart "Justin Godart")
+  * [Adélaïde Hautval](/wiki/Ad%C3%A9la%C3%AFde_Hautval "Adélaïde Hautval")
+  * [Père Jacques](/wiki/Jacques_de_J%C3%A9sus "Jacques de Jésus")
+  * [Jean Lecanuet](/wiki/Jean_Lecanuet "Jean Lecanuet")
+  * [Gilbert Lesage](/wiki/Gilbert_Lesage "Gilbert Lesage")
+  * [Pierre Marie (résistant)](/wiki/Pierre_Marie_\(r%C3%A9sistant\) "Pierre Marie \(résistant\)")
+  * [Père Marie-Benoît](/wiki/P%C3%A8re_Marie-Beno%C3%AEt "Père Marie-Benoît")
+  * [Jean Meunier](/wiki/Jean_Meunier "Jean Meunier")
+  * [Edmond Michelet](/wiki/Edmond_Michelet "Edmond Michelet")
+  * [Joseph Migneret ](/wiki/Joseph_Migneret "Joseph Migneret")
+  * [René de Naurois](/wiki/Ren%C3%A9_de_Naurois "René de Naurois")
+  * [Paul Ramadier](/wiki/Paul_Ramadier "Paul Ramadier")
+  * [Henri Reynders](/wiki/Henri_Reynders "Henri Reynders")
+  * [Germaine Ribière](/wiki/Germaine_Ribi%C3%A8re "Germaine Ribière")
+  * [Jules-Géraud Saliège](/wiki/Jules_Sali%C3%A8ge "Jules Saliège")
+  * [Madeleine Sorel](/wiki/Madeleine_Sorel "Madeleine Sorel")
+  * [Jean-Marie Soutou](/wiki/Jean-Marie_Soutou "Jean-Marie Soutou")
+  * [Joseph Storck](/wiki/Joseph_Storck "Joseph Storck")
+  * [Pierre-Marie Théas](/wiki/Pierre-Marie_Th%C3%A9as "Pierre-Marie Théas")
+  * [André et Magda Trocmé](/wiki/Andr%C3%A9_Trocm%C3%A9 "André Trocmé")
+  * [Édouard Vigneron](/wiki/%C3%89douard_Vigneron "Édouard Vigneron")
+
+  
+  
+Monuments |
+
+  * [Fils et filles de déportés juifs de France](/wiki/Fils_et_filles_de_d%C3%A9port%C3%A9s_juifs_de_France "Fils et filles de déportés juifs de France")
+  * [Mémorial de la Shoah](/wiki/M%C3%A9morial_de_la_Shoah "Mémorial de la Shoah")
+  * [Mémorial des Martyrs de la Déportation](/wiki/M%C3%A9morial_des_Martyrs_de_la_D%C3%A9portation "Mémorial des Martyrs de la Déportation")
+  * [Mémorial national de la déportation](/wiki/M%C3%A9morial_national_de_la_d%C3%A9portation "Mémorial national de la déportation")
+  * [Rivesaltes](/wiki/M%C3%A9morial_du_Camp_de_Rivesaltes "Mémorial du Camp de Rivesaltes")
+  * [Mémorial de la Shoah à Drancy](/wiki/M%C3%A9morial_de_la_Shoah_%C3%A0_Drancy "Mémorial de la Shoah à Drancy")
+  * [Liste de monuments et musées de la Shoah](/wiki/Liste_de_mus%C3%A9es_et_monuments_comm%C3%A9moratifs_de_la_Shoah#France "Liste de musées et monuments commémoratifs de la Shoah")
+
+  
+  
+[v](/wiki/Mod%C3%A8le:Palette_Laur%C3%A9ats_de_la_m%C3%A9daille_Fields
+"Modèle:Palette Lauréats de la médaille Fields") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Laur%C3%A9ats_de_la_m%C3%A9daille_Fields&action=edit)
+
+Lauréats de la [médaille Fields](/wiki/M%C3%A9daille_Fields "Médaille Fields")  
+  
+---  
+[Lars Ahlfors](/wiki/Lars_Valerian_Ahlfors "Lars Valerian Ahlfors") / [Jesse
+Douglas](/wiki/Jesse_Douglas "Jesse Douglas") (1936) · [Laurent
+Schwartz](/wiki/Laurent_Schwartz_\(math%C3%A9maticien\) "Laurent Schwartz
+\(mathématicien\)") / [Atle Selberg](/wiki/Atle_Selberg "Atle Selberg") (1950)
+· [Kunihiko Kodaira](/wiki/Kunihiko_Kodaira "Kunihiko Kodaira") / [Jean-Pierre
+Serre](/wiki/Jean-Pierre_Serre "Jean-Pierre Serre") (1954) · [Klaus
+Roth](/wiki/Klaus_Roth "Klaus Roth") / [René Thom](/wiki/Ren%C3%A9_Thom "René
+Thom") (1958) · [Lars Hörmander](/wiki/Lars_H%C3%B6rmander "Lars Hörmander") /
+[John Milnor](/wiki/John_Milnor "John Milnor") (1962) · [Michael
+Atiyah](/wiki/Michael_Atiyah "Michael Atiyah") / [Paul Cohen](/wiki/Paul_Cohen
+"Paul Cohen") / Alexandre Grothendieck / [Stephen Smale](/wiki/Stephen_Smale
+"Stephen Smale") (1966) · [Alan Baker](/wiki/Alan_Baker "Alan Baker") /
+[Heisuke Hironaka](/wiki/Heisuke_Hironaka "Heisuke Hironaka") / [Sergueï
+Novikov](/wiki/Sergue%C3%AF_Novikov_\(math%C3%A9maticien\) "Sergueï Novikov
+\(mathématicien\)") / [John Griggs Thompson](/wiki/John_Griggs_Thompson "John
+Griggs Thompson") (1970) · [Enrico Bombieri](/wiki/Enrico_Bombieri "Enrico
+Bombieri") / [David Mumford](/wiki/David_Mumford "David Mumford") (1974) ·
+[Pierre Deligne](/wiki/Pierre_Deligne "Pierre Deligne") / [Charles
+Fefferman](/wiki/Charles_Fefferman "Charles Fefferman") / [Gregori
+Margulis](/wiki/Gregori_Margulis "Gregori Margulis") / [Daniel
+Quillen](/wiki/Daniel_Quillen "Daniel Quillen") (1978) · [Alain
+Connes](/wiki/Alain_Connes "Alain Connes") / [William
+Thurston](/wiki/William_Thurston "William Thurston") / [Shing-Tung
+Yau](/wiki/Shing-Tung_Yau "Shing-Tung Yau") (1982) · [Simon
+Donaldson](/wiki/Simon_Donaldson "Simon Donaldson") / [Gerd
+Faltings](/wiki/Gerd_Faltings "Gerd Faltings") / [Michael
+Freedman](/wiki/Michael_Freedman "Michael Freedman") (1986) · [Vladimir
+Drinfeld](/wiki/Vladimir_Drinfeld "Vladimir Drinfeld") / [Vaughan
+Jones](/wiki/Vaughan_Jones "Vaughan Jones") / [Shigefumi
+Mori](/wiki/Shigefumi_Mori "Shigefumi Mori") / [Edward
+Witten](/wiki/Edward_Witten "Edward Witten") (1990) · [Jean
+Bourgain](/wiki/Jean_Bourgain "Jean Bourgain") / [Pierre-Louis
+Lions](/wiki/Pierre-Louis_Lions "Pierre-Louis Lions") / [Jean-Christophe
+Yoccoz](/wiki/Jean-Christophe_Yoccoz "Jean-Christophe Yoccoz") / [Efim
+Zelmanov](/wiki/Efim_Zelmanov "Efim Zelmanov") (1994) · [Richard Ewen
+Borcherds](/wiki/Richard_Ewen_Borcherds "Richard Ewen Borcherds") / [Timothy
+Gowers](/wiki/Timothy_Gowers "Timothy Gowers") / [Maxime
+Kontsevitch](/wiki/Maxime_Kontsevitch "Maxime Kontsevitch") / [Curtis Tracy
+McMullen](/wiki/Curtis_Tracy_McMullen "Curtis Tracy McMullen") (1998) ·
+[Laurent Lafforgue](/wiki/Laurent_Lafforgue "Laurent Lafforgue") / [Vladimir
+Voïevodski](/wiki/Vladimir_Vo%C3%AFevodski "Vladimir Voïevodski") (2002) ·
+[Andreï Okounkov](/wiki/Andre%C3%AF_Okounkov "Andreï Okounkov") / [Grigori
+Perelman](/wiki/Grigori_Perelman "Grigori Perelman") (refusée) / [Terence
+Tao](/wiki/Terence_Tao "Terence Tao") / [Wendelin
+Werner](/wiki/Wendelin_Werner "Wendelin Werner") (2006) · [Elon
+Lindenstrauss](/wiki/Elon_Lindenstrauss "Elon Lindenstrauss") / [Ngô Bảo
+Châu](/wiki/Ng%C3%B4_B%E1%BA%A3o_Ch%C3%A2u "Ngô Bảo Châu") / [Stanislav
+Smirnov](/wiki/Stanislav_Smirnov "Stanislav Smirnov") / [Cédric
+Villani](/wiki/C%C3%A9dric_Villani "Cédric Villani") (2010) · [Artur
+Ávila](/wiki/Artur_%C3%81vila "Artur Ávila") / [Manjul
+Bhargava](/wiki/Manjul_Bhargava "Manjul Bhargava") / [Martin
+Hairer](/wiki/Martin_Hairer "Martin Hairer") / [Maryam
+Mirzakhani](/wiki/Maryam_Mirzakhani "Maryam Mirzakhani") (2014) · [Alessio
+Figalli](/wiki/Alessio_Figalli "Alessio Figalli") / [Caucher
+Birkar](/wiki/Caucher_Birkar "Caucher Birkar") / [Peter
+Scholze](/wiki/Peter_Scholze "Peter Scholze") / [Akshay
+Venkatesh](/wiki/Akshay_Venkatesh "Akshay Venkatesh") (2018) |
+
+[![FieldsMedalFront.jpg](//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FieldsMedalFront.jpg/150px-
+FieldsMedalFront.jpg)](/wiki/Fichier:FieldsMedalFront.jpg)  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/24px-Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Portail:Math%C3%A9matiques "Portail des mathématiques") [Portail des mathématiques](/wiki/Portail:Math%C3%A9matiques "Portail:Mathématiques")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Emojione1_267B.svg/24px-Emojione1_267B.svg.png)](/wiki/Portail:Environnement "Portail de l’environnement") [Portail de l’environnement](/wiki/Portail:Environnement "Portail:Environnement")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Science_history_icon.svg/37px-Science_history_icon.svg.png)](/wiki/Portail:Histoire_des_sciences "Portail de l’histoire des sciences") [Portail de l’histoire des sciences](/wiki/Portail:Histoire_des_sciences "Portail:Histoire des sciences")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Judaism_Symbol.png/23px-Judaism_Symbol.png)](/wiki/Portail:Juda%C3%AFsme "Portail de la culture juive et du judaïsme") [Portail de la culture juive et du judaïsme](/wiki/Portail:Juda%C3%AFsme "Portail:Judaïsme")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AnarchySymbolInk.svg/23px-AnarchySymbolInk.svg.png)](/wiki/Portail:Anarchisme "Portail de l’anarchisme") [Portail de l’anarchisme](/wiki/Portail:Anarchisme "Portail:Anarchisme")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Arithmetic_symbols.svg/24px-Arithmetic_symbols.svg.png)](/wiki/Portail:Alg%C3%A8bre "Portail de l’algèbre") [Portail de l’algèbre](/wiki/Portail:Alg%C3%A8bre "Portail:Algèbre")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blason_d%C3%A9partement_fr_H%C3%A9rault.svg/22px-Blason_d%C3%A9partement_fr_H%C3%A9rault.svg.png)](/wiki/Portail:H%C3%A9rault "Portail de l’Hérault") [Portail de l’Hérault](/wiki/Portail:H%C3%A9rault "Portail:Hérault")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Blason_d%C3%A9partement_fr_Ari%C3%A8ge.svg/22px-Blason_d%C3%A9partement_fr_Ari%C3%A8ge.svg.png)](/wiki/Portail:Ari%C3%A8ge "Portail de l’Ariège") [Portail de l’Ariège](/wiki/Portail:Ari%C3%A8ge "Portail:Ariège")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Alexandre_Grothendieck&oldid=174850456](https://fr.wikipedia.org/w/index.php?title=Alexandre_Grothendieck&oldid=174850456)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Alexandre Grothendieck](/wiki/Cat%C3%A9gorie:Alexandre_Grothendieck "Catégorie:Alexandre Grothendieck")
+  * [Courant anti-industriel](/wiki/Cat%C3%A9gorie:Courant_anti-industriel "Catégorie:Courant anti-industriel")
+  * [Lauréat de la médaille Fields](/wiki/Cat%C3%A9gorie:Laur%C3%A9at_de_la_m%C3%A9daille_Fields "Catégorie:Lauréat de la médaille Fields")
+  * [Bourbaki](/wiki/Cat%C3%A9gorie:Bourbaki "Catégorie:Bourbaki")
+  * [Mathématicien français du XXe siècle](/wiki/Cat%C3%A9gorie:Math%C3%A9maticien_fran%C3%A7ais_du_XXe_si%C3%A8cle "Catégorie:Mathématicien français du XXe siècle")
+  * [Mathématicien juif contraint de quitter l'Allemagne nazie](/wiki/Cat%C3%A9gorie:Math%C3%A9maticien_juif_contraint_de_quitter_l%27Allemagne_nazie "Catégorie:Mathématicien juif contraint de quitter l'Allemagne nazie")
+  * [Professeur à l'université de Chicago](/wiki/Cat%C3%A9gorie:Professeur_%C3%A0_l%27universit%C3%A9_de_Chicago "Catégorie:Professeur à l'université de Chicago")
+  * [Enseignant à l'université de Montpellier](/wiki/Cat%C3%A9gorie:Enseignant_%C3%A0_l%27universit%C3%A9_de_Montpellier "Catégorie:Enseignant à l'université de Montpellier")
+  * [Étudiant de l'université de Montpellier](/wiki/Cat%C3%A9gorie:%C3%89tudiant_de_l%27universit%C3%A9_de_Montpellier "Catégorie:Étudiant de l'université de Montpellier")
+  * [Survivant de la Shoah](/wiki/Cat%C3%A9gorie:Survivant_de_la_Shoah "Catégorie:Survivant de la Shoah")
+  * [Apatride](/wiki/Cat%C3%A9gorie:Apatride "Catégorie:Apatride")
+  * [Naissance en mars 1928](/wiki/Cat%C3%A9gorie:Naissance_en_mars_1928 "Catégorie:Naissance en mars 1928")
+  * [Naissance à Berlin](/wiki/Cat%C3%A9gorie:Naissance_%C3%A0_Berlin "Catégorie:Naissance à Berlin")
+  * [Décès en novembre 2014](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_en_novembre_2014 "Catégorie:Décès en novembre 2014")
+  * [Décès à Saint-Girons (Ariège)](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_%C3%A0_Saint-Girons_\(Ari%C3%A8ge\) "Catégorie:Décès à Saint-Girons \(Ariège\)")
+  * [Décès à 86 ans](/wiki/Cat%C3%A9gorie:D%C3%A9c%C3%A8s_%C3%A0_86_ans "Catégorie:Décès à 86 ans")
+  * [Antimilitariste français](/wiki/Cat%C3%A9gorie:Antimilitariste_fran%C3%A7ais "Catégorie:Antimilitariste français")
+
+Catégories cachées :
+
+  * [Article utilisant une Infobox](/wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox "Catégorie:Article utilisant une Infobox")
+  * [Page utilisant un sommaire limité](/wiki/Cat%C3%A9gorie:Page_utilisant_un_sommaire_limit%C3%A9 "Catégorie:Page utilisant un sommaire limité")
+  * [Article à référence souhaitée](/wiki/Cat%C3%A9gorie:Article_%C3%A0_r%C3%A9f%C3%A9rence_souhait%C3%A9e "Catégorie:Article à référence souhaitée")
+  * [Article contenant un appel à traduction en anglais](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais "Catégorie:Article contenant un appel à traduction en anglais")
+  * [Article contenant un appel à traduction en allemand](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_allemand "Catégorie:Article contenant un appel à traduction en allemand")
+  * [Article de Wikipédia avec notice d'autorité](/wiki/Cat%C3%A9gorie:Article_de_Wikip%C3%A9dia_avec_notice_d%27autorit%C3%A9 "Catégorie:Article de Wikipédia avec notice d'autorité")
+  * [Page utilisant P549](/wiki/Cat%C3%A9gorie:Page_utilisant_P549 "Catégorie:Page utilisant P549")
+  * [Page pointant vers des bases externes](/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_bases_externes "Catégorie:Page pointant vers des bases externes")
+  * [Page pointant vers des bases relatives à la recherche](/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_bases_relatives_%C3%A0_la_recherche "Catégorie:Page pointant vers des bases relatives à la recherche")
+  * [Page pointant vers des dictionnaires ou encyclopédies généralistes](/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_dictionnaires_ou_encyclop%C3%A9dies_g%C3%A9n%C3%A9ralistes "Catégorie:Page pointant vers des dictionnaires ou encyclopédies généralistes")
+  * [Page utilisant P7982](/wiki/Cat%C3%A9gorie:Page_utilisant_P7982 "Catégorie:Page utilisant P7982")
+  * [Page utilisant P7902](/wiki/Cat%C3%A9gorie:Page_utilisant_P7902 "Catégorie:Page utilisant P7902")
+  * [Page utilisant P6706](/wiki/Cat%C3%A9gorie:Page_utilisant_P6706 "Catégorie:Page utilisant P6706")
+  * [Page utilisant P1417](/wiki/Cat%C3%A9gorie:Page_utilisant_P1417 "Catégorie:Page utilisant P1417")
+  * [Page utilisant P3219](/wiki/Cat%C3%A9gorie:Page_utilisant_P3219 "Catégorie:Page utilisant P3219")
+  * [Page utilisant P1296](/wiki/Cat%C3%A9gorie:Page_utilisant_P1296 "Catégorie:Page utilisant P1296")
+  * [Page utilisant P3222](/wiki/Cat%C3%A9gorie:Page_utilisant_P3222 "Catégorie:Page utilisant P3222")
+  * [Page utilisant P8349](/wiki/Cat%C3%A9gorie:Page_utilisant_P8349 "Catégorie:Page utilisant P8349")
+  * [Page utilisant P4724](/wiki/Cat%C3%A9gorie:Page_utilisant_P4724 "Catégorie:Page utilisant P4724")
+  * [Page pointant vers des bases relatives à la vie publique](/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_bases_relatives_%C3%A0_la_vie_publique "Catégorie:Page pointant vers des bases relatives à la vie publique")
+  * [Portail:Mathématiques/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s "Catégorie:Portail:Mathématiques/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Portail:Environnement/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Environnement/Articles_li%C3%A9s "Catégorie:Portail:Environnement/Articles liés")
+  * [Portail:Histoire des sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Histoire_des_sciences/Articles_li%C3%A9s "Catégorie:Portail:Histoire des sciences/Articles liés")
+  * [Portail:Histoire/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Histoire/Articles_li%C3%A9s "Catégorie:Portail:Histoire/Articles liés")
+  * [Portail:Judaïsme/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Juda%C3%AFsme/Articles_li%C3%A9s "Catégorie:Portail:Judaïsme/Articles liés")
+  * [Portail:Anarchisme/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Anarchisme/Articles_li%C3%A9s "Catégorie:Portail:Anarchisme/Articles liés")
+  * [Portail:Algèbre/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Alg%C3%A8bre/Articles_li%C3%A9s "Catégorie:Portail:Algèbre/Articles liés")
+  * [Portail:Hérault/Articles liés](/wiki/Cat%C3%A9gorie:Portail:H%C3%A9rault/Articles_li%C3%A9s "Catégorie:Portail:Hérault/Articles liés")
+  * [Portail:Languedoc-Roussillon/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Languedoc-Roussillon/Articles_li%C3%A9s "Catégorie:Portail:Languedoc-Roussillon/Articles liés")
+  * [Portail:Région Occitanie/Articles liés](/wiki/Cat%C3%A9gorie:Portail:R%C3%A9gion_Occitanie/Articles_li%C3%A9s "Catégorie:Portail:Région Occitanie/Articles liés")
+  * [Portail:France/Articles liés](/wiki/Cat%C3%A9gorie:Portail:France/Articles_li%C3%A9s "Catégorie:Portail:France/Articles liés")
+  * [Portail:Europe/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Europe/Articles_li%C3%A9s "Catégorie:Portail:Europe/Articles liés")
+  * [Portail:Ariège/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Ari%C3%A8ge/Articles_li%C3%A9s "Catégorie:Portail:Ariège/Articles liés")
+  * [Portail:Midi-Pyrénées/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Midi-Pyr%C3%A9n%C3%A9es/Articles_li%C3%A9s "Catégorie:Portail:Midi-Pyrénées/Articles liés")
+  * [Wikipédia:Article biographique](/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia:Article_biographique "Catégorie:Wikipédia:Article biographique")
+  * [Portail:Biographie/Articles liés/Sciences](/wiki/Cat%C3%A9gorie:Portail:Biographie/Articles_li%C3%A9s/Sciences "Catégorie:Portail:Biographie/Articles liés/Sciences")
+  * [Portail:Biographie/Articles liés/Culture et arts](/wiki/Cat%C3%A9gorie:Portail:Biographie/Articles_li%C3%A9s/Culture_et_arts "Catégorie:Portail:Biographie/Articles liés/Culture et arts")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Alexandre_Grothendieck "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Alexandre_Grothendieck "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Alexandre_Grothendieck&oldid=174850456 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Alexandre_Grothendieck&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Alexandre_Grothendieck&id=174850456&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q77141 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Alexandre+Grothendieck)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Alexandre_Grothendieck&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Alexandre_Grothendieck&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Alexander_Grothendieck)
+
+###  Dans d’autres langues
+
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D9%83%D8%B3%D9%86%D8%AF%D8%B1_%D8%BA%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%AF%D9%8A%D9%83 "ألكسندر غروتينديك — arabe")
+  * [مصرى](https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D9%83%D8%B3%D9%86%D8%AF%D8%B1_%D8%AC%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%AF%D9%8A%D9%83 "الكسندر جروتينديك — arabe égyptien")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — asturien")
+  * [تۆرکجه](https://azb.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%B3%D8%A7%D9%86%D8%AF%D8%B1_%D9%82%D8%B1%D9%88%D8%AA%D9%86%D8%AF%DB%8C%DA%A9 "الکساندر قروتندیک — South Azerbaijani")
+  * [Català](https://ca.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — catalan")
+  * [Čeština](https://cs.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — tchèque")
+  * [Dansk](https://da.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — allemand")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%B5%CE%BE%CE%AC%CE%BD%CF%84%CE%B5%CF%81_%CE%93%CE%BA%CF%81%CF%8C%CF%84%CE%B5%CE%BD%CF%84%CE%B9%CE%BA "Αλεξάντερ Γκρότεντικ — grec")
+  * [English](https://en.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — anglais")
+  * [Español](https://es.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — espagnol")
+  * [Euskara](https://eu.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — basque")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%B3%D8%A7%D9%86%D8%AF%D8%B1_%DA%AF%D8%B1%D9%88%D8%AA%D9%86%D8%AF%DB%8C%DA%A9 "الکساندر گروتندیک — persan")
+  * [Suomi](https://fi.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — finnois")
+  * [Galego](https://gl.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — galicien")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8_%D7%92%D7%A8%D7%95%D7%AA%D7%A0%D7%93%D7%99%D7%A7 "אלכסנדר גרותנדיק — hébreu")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Alexandre_Grothendieck "Alexandre Grothendieck — croate")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — indonésien")
+  * [Italiano](https://it.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AD%E3%82%BF%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AF "アレクサンドル・グロタンディーク — japonais")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%95%8C%EB%A0%89%EC%82%B0%EB%8D%94_%EA%B7%B8%EB%A1%9C%ED%85%90%EB%94%94%ED%81%AC "알렉산더 그로텐디크 — coréen")
+  * [Latina](https://la.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — latin")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Aleksandrs_Grotend%C4%ABks "Aleksandrs Grotendīks — letton")
+  * [Malagasy](https://mg.wikipedia.org/wiki/Alexandre_Grothendieck "Alexandre Grothendieck — malgache")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%B2%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B4%BE%E0%B4%A3%E0%B5%8D%E0%B4%9F%E0%B5%BC_%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B5%8A%E0%B4%A4%E0%B5%86%E0%B5%BB%E0%B4%A1%E0%B4%BF%E0%B4%95%E0%B5%8D "അലക്സാണ്ടർ ഗ്രൊതെൻഡിക് — malayalam")
+  * [မြန်မာဘာသာ](https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%9C%E1%80%80%E1%80%BA%E1%80%87%E1%80%94%E1%80%BA%E1%80%B8%E1%80%92%E1%80%AB%E1%80%B8_%E1%80%82%E1%80%9B%E1%80%AD%E1%80%AF%E1%80%9E%E1%80%94%E1%80%BA%E1%80%92%E1%80%AD%E1%80%81%E1%80%BA "အလက်ဇန်းဒါး ဂရိုသန်ဒိခ် — birman")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Alexandre_Grothendieck "Alexandre Grothendieck — norvégien nynorsk")
+  * [Occitan](https://oc.wikipedia.org/wiki/Alexandre_Grothendieck "Alexandre Grothendieck — occitan")
+  * [Polski](https://pl.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — polonais")
+  * [پنجابی](https://pnb.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%DB%8C%DA%AF%D8%B2%D9%86%DA%88%D8%B1_%DA%AF%D8%B1%D9%88%D8%AA%DA%BE%D9%86%DA%88%D8%A7%D8%A6%DB%8C%DA%A9 "ایلیگزنڈر گروتھنڈائیک — Western Punjabi")
+  * [Português](https://pt.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — portugais")
+  * [Română](https://ro.wikipedia.org/wiki/Alexandre_Grothendieck "Alexandre Grothendieck — roumain")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D1%82%D0%B5%D0%BD%D0%B4%D0%B8%D0%BA,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80 "Гротендик, Александр — russe")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/Alexandre_Grothendieck "Alexandre Grothendieck — sicilien")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — slovaque")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%93%D1%80%D0%BE%D1%82%D0%B5%D0%BD%D0%B4%D0%B8%D0%BA "Александар Гротендик — serbe")
+  * [Svenska](https://sv.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — suédois")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — turc")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%93%D1%80%D0%BE%D1%82%D0%B5%D0%BD%D0%B4%D1%96%D0%BA "Александр Гротендік — ukrainien")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — ouzbek")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — vietnamien")
+  * [中文](https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%A0%BC%E7%BD%97%E6%BB%95%E8%BF%AA%E5%85%8B "亚历山大·格罗滕迪克 — chinois")
+  * [Bân-lâm-gú](https://zh-min-nan.wikipedia.org/wiki/Alexander_Grothendieck "Alexander Grothendieck — Chinese \(Min Nan\)")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E6%88%88%E9%A8%B0%E7%8B%84 "戈騰狄 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q77141#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Alexandre+Grothendieck "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Alexandre+Grothendieck "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Alexandre_Grothendieck "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Alexandre_Grothendieck "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Alexandre_Grothendieck)
+  * [Modifier](/w/index.php?title=Alexandre_Grothendieck&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Alexandre_Grothendieck&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Alexandre_Grothendieck&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 19 septembre 2020 à 20:24.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Alexandre_Grothendieck "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Alexandre_Grothendieck&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[XXe]: 20ᵉ siècle
+  *[XVIIIe]: 18ᵉ siècle
+  *[réf.]: référence
+  *[60e]: Soixantième
+  *[no]: numéro
+  *[p.]: page(s)
+  *[dir.]: directeur de publication
+  *[vol.]: volume
+  *[et al.]: et alii (et d’autres)
+  *[(en)]: Langue : anglais
+  *[[vidéo]]: Vidéo au format MPEG, AVI...
+  *[1er]: Premier
+  *[[PDF]]: Document au format Portable Document Format (PDF) d'Adobe
+  *[pp.]: pages
+  *[trad.]: traduction
+  *[(de)]: Langue : allemand
+  *[h]: heures
+  *[v]: Voir ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+

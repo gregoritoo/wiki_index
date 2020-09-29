@@ -1,0 +1,1123 @@
+# Nombre
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+Sauter à la navigation Sauter à la recherche
+
+[![Page d’aide sur
+l’homonymie](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-
+Disambig_colour.svg.png)](/wiki/Aide:Homonymie "Aide:Homonymie")
+
+Pour la notion de nombre en linguistique, voir [Nombre
+grammatical](/wiki/Nombre_grammatical "Nombre grammatical").
+
+Un **nombre** est un [concept](/wiki/Concept_\(philosophie\) "Concept
+\(philosophie\)") permettant d’évaluer et de
+[comparer](/wiki/Relation_d%27ordre "Relation d'ordre") des quantités ou des
+[rapports de grandeurs](/wiki/Ordre_de_grandeur "Ordre de grandeur"), mais
+aussi d’ordonner des éléments par une numérotation[1]. Souvent
+[écrits](/wiki/%C3%89criture "Écriture") à l’aide d’un ou plusieurs
+[chiffres](/wiki/Chiffre "Chiffre"), les nombres interagissent par le biais
+d’[opérations](/wiki/Op%C3%A9ration_\(math%C3%A9matiques\) "Opération
+\(mathématiques\)") qui sont résumées par des règles de
+[calcul](/wiki/Calcul_\(math%C3%A9matiques\) "Calcul \(mathématiques\)"). Les
+propriétés de ces relations entre les nombres sont l’objet d’étude de
+l’[arithmétique](/wiki/Arithm%C3%A9tique "Arithmétique"), qui se prolonge avec
+la [théorie des nombres](/wiki/Th%C3%A9orie_des_nombres "Théorie des
+nombres").
+
+En l’absence d’une définition générale satisfaisante de cette notion[2], les
+[mathématiques](/wiki/Math%C3%A9matiques "Mathématiques") proposent plusieurs
+types de nombres pour exprimer des [mesures physiques](/wiki/Mesure_physique
+"Mesure physique"), résoudre des [équations](/wiki/%C3%89quation "Équation"),
+voire pour appréhender l’[infini](/wiki/Infini "Infini").
+
+En [physique](/wiki/Physique "Physique"), les grandeurs sans dimension sont
+souvent appelées « nombres », tels le [nombre de
+Reynolds](/wiki/Nombre_de_Reynolds "Nombre de Reynolds") en mécanique des
+fluides ou les [nombres quantiques](/wiki/Nombre_quantique "Nombre
+quantique").
+
+En dehors de leur utilisation scientifique, certains nombres ont aussi acquis
+une charge [symbolique](/wiki/Symbolique "Symbolique") forte dans différentes
+cultures. C'est par exemple le cas du [ nombre trois pour les
+chrétiens](/wiki/Trinit%C3%A9_\(christianisme\) "Trinité \(christianisme\)")
+ou du [ nombre dix pour les pythagoriciens](/wiki/T%C3%A9traktys "Tétraktys").
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NumberSetinR2.svg/220px-
+NumberSetinR2.svg.png)](/wiki/Fichier:NumberSetinR2.svg)
+
+[](/wiki/Fichier:NumberSetinR2.svg "Agrandir")
+
+Relations d'inclusion entre les différents ensembles de nombres.
+
+## Sommaire
+
+  * 1 Conception
+    * 1.1 Principe
+    * 1.2 Extension progressive
+    * 1.3 Pédagogie
+  * 2 Numération
+    * 2.1 Origine
+    * 2.2 Du signe au chiffre
+  * 3 Arithmétique
+    * 3.1 Opérations
+    * 3.2 Multiple et diviseur
+    * 3.3 Nombre premier
+    * 3.4 Vers la théorie des nombres
+  * 4 Géométrie
+    * 4.1 Nombre figuré
+    * 4.2 Rapport de grandeur
+  * 5 Notes et références
+  * 6 Voir aussi
+    * 6.1 Articles connexes
+    * 6.2 Bibliographie
+    * 6.3 Filmographie
+    * 6.4 Lien externe
+
+## Conception[[modifier](/w/index.php?title=Nombre&veaction=edit&section=1
+"Modifier la section : Conception") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=1 "Modifier la section :
+Conception")]
+
+### Principe[[modifier](/w/index.php?title=Nombre&veaction=edit&section=2
+"Modifier la section : Principe") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=2 "Modifier la section :
+Principe")]
+
+Le concept de nombre trouve son origine dans l’idée
+d’[appariement](/wiki/Appariement_\(math%C3%A9matiques\) "Appariement
+\(mathématiques\)"), c’est-à-dire de la mise en correspondance d’ensembles
+(par exemple des êtres humains d’une part et des chevaux d’autre part). Si
+l’on tente de répartir tous les éléments en
+[couples](/wiki/Couple_\(math%C3%A9matiques\) "Couple \(mathématiques\)")
+comprenant un élément de chaque ensemble, il se peut qu’il reste des éléments
+d’un ensemble en trop, ou qu’il en manque, ou encore qu’il y en ait juste
+assez. L’expérience montre alors que la manière de faire la répartition ne
+change pas le résultat, d’où la notion de [quantité](/wiki/Quantit%C3%A9
+"Quantité"), caractère intrinsèque et qui peut être comparé.
+
+Cette quantité n’est pas encore un nombre mais est parfois désignée comme un «
+nombre-de »[3]. Le nombre en tant que tel ne possède pas d’[unité de
+mesure](/wiki/Unit%C3%A9_de_mesure "Unité de mesure"). Il est d’après
+[Euclide](/wiki/Euclide "Euclide")[4] « un assemblage composé d’unités », où «
+l’unité est ce selon quoi chacune des choses existantes est dite une. »
+
+Parallèlement à la notion de quantité, liée à l’aspect « cardinal », la notion
+de repérage dans une liste mène à la définition du nombre « ordinal » : le
+premier nombre[5] est suivi d’un deuxième, lui-même suivi d’un autre et ainsi
+de suite « jusqu’à l’infini ».
+
+### Extension
+progressive[[modifier](/w/index.php?title=Nombre&veaction=edit&section=3
+"Modifier la section : Extension progressive") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=3 "Modifier la section :
+Extension progressive")]
+
+![](//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Irrationnels.png/400px-
+Irrationnels.png)
+
+[](/wiki/Fichier:Irrationnels.png "Agrandir")
+
+Representation des [nombres irrationnels](/wiki/Nombre_irrationnel "Nombre
+irrationnel") selon la repartition des [reels](/wiki/Nombres_r%C3%A9els
+"Nombres réels") en [nombres rationnels](/wiki/Nombres_rationnels "Nombres
+rationnels"), [constructibles](/wiki/Nombre_constructible "Nombre
+constructible"), [algebriques](/wiki/Nombre_alg%C3%A9brique "Nombre
+algébrique") et [transcendants](/wiki/Nombre_transcendant "Nombre
+transcendant"). Cliquez sur un des nombres du schema pour plus d'informations
+concernant l'element choisi. ([Image
+source](https://commons.wikimedia.org/wiki/File:Irrationnels.png?uselang=fr))
+[v](/wiki/Mod%C3%A8le:Nombres_irrationnels "Modèle:Nombres irrationnels") *
+[d](/wiki/Discussion_mod%C3%A8le:Nombres_irrationnels "Discussion
+modèle:Nombres irrationnels") *
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Nombres_irrationnels&action=edit)
+
+Sans calcul, les nombres sont limités à la quantité de symboles utilisables.
+La découverte des opérations numériques élémentaires (addition et
+multiplication notamment) va permettre aux mathématiques de faciliter la
+description des nombres beaucoup plus grands à l’aide de divers [systèmes de
+numération](/wiki/Syst%C3%A8me_de_num%C3%A9ration "Système de numération"). La
+civilisation babylonienne découvre notamment la [notation
+positionnelle](/wiki/Notation_positionnelle "Notation positionnelle") dès le
+IIIe millénaire avant notre ère et pratique alors le calcul avec des nombres
+ayant une [partie fractionnaire](/wiki/Partie_fractionnaire "Partie
+fractionnaire").
+
+Les [fractions](/wiki/Fraction_\(math%C3%A9matiques\) "Fraction
+\(mathématiques\)") sont conçues en [Égypte
+antique](/wiki/Math%C3%A9matiques_en_%C3%89gypte_antique "Mathématiques en
+Égypte antique") sous formes de « quantièmes », c’est-à-dire d’inverses
+d’entiers. Leur manipulation est alors soumise à [certaines
+contraintes](/wiki/Fraction_%C3%A9gyptienne "Fraction égyptienne") qui ne
+seront surmontées que par l’interprétation géométrique comme rapport de
+longueurs (entières). Toutefois, ni les fractions ni les autres proportions
+géométriques telles que [pi](/wiki/Pi "Pi"), le [nombre
+d’or](/wiki/Nombre_d%E2%80%99or "Nombre d’or") ou la [diagonale du
+carré](/wiki/Racine_carr%C3%A9e_de_deux "Racine carrée de deux") ne seront
+vraiment considérées comme des nombres par les [mathématiciens de la Grèce
+antique](/wiki/Math%C3%A9matiques_de_la_Gr%C3%A8ce_antique "Mathématiques de
+la Grèce antique"), pour qui les seuls nombres sont
+[entiers](/wiki/Entier_naturel "Entier naturel").
+
+Même si le _chiffre_ « 0 » est employé dans certains systèmes de numération
+positionnelle par plusieurs civilisations antiques[6], le _nombre_
+[zéro](/wiki/Z%C3%A9ro "Zéro") n’apparaît en tant que tel qu’au VIIe siècle
+dans les [mathématiques indiennes](/wiki/Math%C3%A9matiques_indiennes
+"Mathématiques indiennes"). Il est repris par la civilisation de l’Islam et
+importé en Europe au Xe siècle. Sous le qualificatif d’« absurdes », les
+[nombres négatifs](/wiki/Nombre_n%C3%A9gatif "Nombre négatif") sont déjà
+étudiés au XVIe siècle mais leurs propriétés arithmétiques font encore
+polémique au début du XIXe siècle.
+
+Les [nombres algébriques](/wiki/Nombre_alg%C3%A9brique "Nombre algébrique")
+[réels](/wiki/Nombre_r%C3%A9el "Nombre réel") positifs sont étudiés avec le
+développement de l’[algèbre](/wiki/Alg%C3%A8bre "Algèbre") par les
+[mathématiciens arabes](/wiki/Math%C3%A9matiques_arabes "Mathématiques
+arabes"). Ces derniers en calculent des valeurs approchées en [notation
+décimale](/wiki/Nombre_d%C3%A9cimal "Nombre décimal") dès le XIIe siècle.
+Cette même algèbre conduira certains mathématiciens italiens à inventer au
+XVIe siècle des nombres « imaginaires », première approche des [nombres
+complexes](/wiki/Nombre_complexe "Nombre complexe") qui ne seront définis de
+manière satisfaisante qu’au XVIIIe siècle. Leur construction géométrique sera
+d’ailleurs rapidement suivie de celle des [quaternions](/wiki/Quaternion
+"Quaternion") puis d’autres [nombres
+hypercomplexes](/wiki/Nombre_hypercomplexe "Nombre hypercomplexe") pendant le
+siècle suivant.
+
+Paradoxalement, il faudra cependant attendre le XIXe siècle pour que soit
+reconnue l’existence de [nombres transcendants](/wiki/Nombre_transcendant
+"Nombre transcendant"), juste avant que soit formalisée la notion de [nombre
+réel](/wiki/Nombre_r%C3%A9el "Nombre réel") indépendamment de la géométrie. La
+procédure de [complétion](/wiki/Espace_complet "Espace complet") des nombres
+[rationnels](/wiki/Nombre_rationnel "Nombre rationnel") sera imitée au début
+du XXe siècle pour construire les [nombres _p_ -adiques](/wiki/Nombre_p-adique
+"Nombre p-adique").
+
+Les [nombres transfinis](/wiki/Nombre_transfini "Nombre transfini") sont
+introduits de diverses manières à partir de la fin du XIXe siècle, lorsque
+Georg Cantor définit les [ordinaux](/wiki/Ordinal "Ordinal") et
+[cardinaux](/wiki/Nombre_cardinal "Nombre cardinal"). Dans la seconde moitié
+du XXe siècle, l’[analyse non standard](/wiki/Analyse_non_standard "Analyse
+non standard") fait usage de [nombres hyperréels](/wiki/Nombre_hyperr%C3%A9el
+"Nombre hyperréel") puis [superréels](/wiki/Nombre_superr%C3%A9el "Nombre
+superréel"), tandis que [Conway](/wiki/John_Horton_Conway "John Horton
+Conway") présente les [nombres surréels et pseudo-
+réels](/wiki/Nombre_surr%C3%A9el "Nombre surréel").
+
+Article détaillé : [Histoire des
+mathématiques](/wiki/Histoire_des_math%C3%A9matiques "Histoire des
+mathématiques").
+
+### Pédagogie[[modifier](/w/index.php?title=Nombre&veaction=edit&section=4
+"Modifier la section : Pédagogie") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=4 "Modifier la section :
+Pédagogie")]
+
+Diverses expériences explorent les capacités numériques chez l’enfant en bas
+âge.
+
+Article détaillé : [Construction du nombre chez
+l'enfant](/wiki/Construction_du_nombre_chez_l%27enfant "Construction du nombre
+chez l'enfant").
+
+Dans l’éducation, l’apprentissage du nombre débute avec l’acquisition de la «
+[chaîne numérique](/wiki/Cha%C3%AEne_num%C3%A9rique "Chaîne numérique") »[7],
+notamment à l’aide de [comptines](/wiki/Comptine "Comptine")[8] : « un, deux,
+trois… » Cette liste sera progressivement prolongée pour permettre à l’enfant
+d’ _énumérer_ des objets qu’il manipule afin de les
+_[dénombrer](/wiki/D%C3%A9nombrement "Dénombrement")_ (en associant à cette
+quantité le dernier terme de l’énumération), mais aussi pour repérer une
+position dans une série ordonnée.
+
+Au cours de la scolarité, l’enfant est amené à considérer divers types de
+nombres rangés dans une suite croissante d’ensembles :
+
+  * l’ensemble **N** (ou  N {\displaystyle \mathbb {N} } ![\\mathbb {N} ](https://wikimedia.org/api/rest_v1/media/math/render/svg/fdf9a96b565ea202d0f4322e9195613fb26a9bed)) des [entiers naturels](/wiki/Entier_naturel "Entier naturel"), qui peuvent s’écrire à l’aide des dix [chiffres arabes](/wiki/Chiffre_arabe "Chiffre arabe") ;
+  * l’ensemble **Z** (ou  Z {\displaystyle \mathbb {Z} } ![\\mathbb {Z} ](https://wikimedia.org/api/rest_v1/media/math/render/svg/449494a083e0a1fda2b61c62b2f09b6bee4633dc)) des [entiers relatifs](/wiki/Entier_relatif "Entier relatif"), qui sont munis d’un signe positif ( + {\displaystyle +} ![+](https://wikimedia.org/api/rest_v1/media/math/render/svg/fe6ef363cd19902d1a7a71fb1c8b21e8ede52406)) ou négatif ( − {\displaystyle -} ![-](https://wikimedia.org/api/rest_v1/media/math/render/svg/04bd52ce670743d3b61bec928a7ec9f47309eb36)) ;
+  * l’ensemble **D** (ou  D {\displaystyle \mathbb {D} } ![{\\mathbb  {D}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b932b553742ca27776057f1262527014ebbb46a0)) des [nombres décimaux](/wiki/Nombre_d%C3%A9cimal "Nombre décimal"), qui admettent une [partie entière](/wiki/Partie_enti%C3%A8re "Partie entière") et une [partie décimale](/wiki/Partie_d%C3%A9cimale "Partie décimale") de longueur finie, en général notées de part et d'autre d'une virgule[9] ;
+  * l’ensemble **Q** (ou  Q {\displaystyle \mathbb {Q} } ![\\mathbb{Q} ](https://wikimedia.org/api/rest_v1/media/math/render/svg/c5909f0b54e4718fa24d5fd34d54189d24a66e9a)) des [nombres rationnels](/wiki/Nombre_rationnel "Nombre rationnel"), qui sont représentés par des fractions avec un numérateur et un dénominateur entiers (ou décimaux) ;
+  * l’ensemble **R** (ou  R {\displaystyle \mathbb {R} } ![\\mathbb {R} ](https://wikimedia.org/api/rest_v1/media/math/render/svg/786849c765da7a84dbc3cce43e96aad58a5868dc)) des [nombres réels](/wiki/Nombre_r%C3%A9el "Nombre réel"), qui repèrent tous les points d’un axe orienté continu ;
+  * l’ensemble **C** (ou  C {\displaystyle \mathbb {C} } ![\\mathbb {C} ](https://wikimedia.org/api/rest_v1/media/math/render/svg/f9add4085095b9b6d28d045fd9c92c2c09f549a7)) des [nombres complexes](/wiki/Nombre_complexe "Nombre complexe"), qui peuvent décrire tous les points d’un plan.
+
+## Numération[[modifier](/w/index.php?title=Nombre&veaction=edit&section=5
+"Modifier la section : Numération") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=5 "Modifier la section :
+Numération")]
+
+Article détaillé : [Numération](/wiki/Num%C3%A9ration "Numération").
+
+### Origine[[modifier](/w/index.php?title=Nombre&veaction=edit&section=6
+"Modifier la section : Origine") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=6 "Modifier la section :
+Origine")]
+
+L’idée de quantité et sa codification visuelle sont vraisemblablement
+antérieures à l’apparition de l’écriture[10]. Plusieurs procédés de comptage
+sont progressivement développés pour décrire la taille d’un troupeau et
+contrôler son évolution, suivre un calendrier ou mesurer des récoltes[11].
+
+Au IVe millénaire avant notre ère, les civilisations mésopotamiennes utilisent
+ainsi des boules creuses d’argile contenant des jetons, puis des tablettes
+d’argile munies de marques. Un système de notation (dit « système S ») est
+employé pour la désignation des quantités discrètes, tandis que les surfaces
+et autres grandeurs sont représentées chacune selon un système de notation
+propre[12]. Il faut attendre la fusion de ces systèmes, à la fin du IIIe
+millénaire avant notre ère, pour voir se former véritablement le concept du
+nombre abstrait, indépendant de ses réalisations concrètes[13].
+
+### Du signe au
+chiffre[[modifier](/w/index.php?title=Nombre&veaction=edit&section=7 "Modifier
+la section : Du signe au chiffre") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=7 "Modifier la section :
+Du signe au chiffre")]
+
+Article détaillé : [Système de
+numération](/wiki/Syst%C3%A8me_de_num%C3%A9ration "Système de numération").
+
+Dans les systèmes de numération additifs, certains symboles (variables selon
+les cultures) représentent des quantités précises et sont juxtaposés pour
+désigner tous les nombres utiles[14].
+
+Les systèmes alphabétiques associent la liste des lettres de l’alphabet
+(employant en renfort des lettres inusitées, désuètes ou inventées[15]) aux
+neuf unités, neuf dizaines et neuf centaines pour écrire chaque nombre entre 1
+et 999 en trois caractères maximum. Pour écrire des valeurs supérieures, un
+nouveau groupe de trois lettres maximum désignant les milliers est placé à
+gauche, séparé par une apostrophe.
+
+Ce système est proche de l’écriture positionnelle chiffrée, dans laquelle
+chaque position ne contient (au plus[16]) qu’un seul chiffre.
+
+Les chiffres de la [numération décimale](/wiki/Nombre_d%C3%A9cimal "Nombre
+décimal") correspondent aux dix premiers nombres entiers :
+[zéro](/wiki/0_\(nombre\) "0 \(nombre\)"), [un](/wiki/1_\(nombre\) "1
+\(nombre\)"), [deux](/wiki/2_\(nombre\) "2 \(nombre\)"),
+[trois](/wiki/3_\(nombre\) "3 \(nombre\)"), [quatre](/wiki/4_\(nombre\) "4
+\(nombre\)"), [cinq](/wiki/5_\(nombre\) "5 \(nombre\)"),
+[six](/wiki/6_\(nombre\) "6 \(nombre\)"), [sept](/wiki/7_\(nombre\) "7
+\(nombre\)"), [huit](/wiki/8_\(nombre\) "8 \(nombre\)") et
+[neuf](/wiki/9_\(nombre\) "9 \(nombre\)").
+
+## Arithmétique[[modifier](/w/index.php?title=Nombre&veaction=edit&section=8
+"Modifier la section : Arithmétique") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=8 "Modifier la section :
+Arithmétique")]
+
+Article détaillé : [Arithmétique](/wiki/Arithm%C3%A9tique "Arithmétique").
+
+### Opérations[[modifier](/w/index.php?title=Nombre&veaction=edit&section=9
+"Modifier la section : Opérations") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=9 "Modifier la section :
+Opérations")]
+
+Dès lors que les quantités sont représentées par des symboles, la manipulation
+des quantités doit être traduite par des
+[opérations](/wiki/Op%C3%A9ration_\(math%C3%A9matiques\) "Opération
+\(mathématiques\)") sur les nombres. Ainsi, la réunion de deux quantités
+définit l’opération d’[addition](/wiki/Addition "Addition") et la répétition
+d’une certaine quantité donne lieu à la [multiplication](/wiki/Multiplication
+"Multiplication"). Ces deux opérations _directes_ admettent des opérations
+_réciproques_ : la [soustraction](/wiki/Soustraction "Soustraction") et la
+[division](/wiki/Division "Division"), qui permettent de retrouver l’un des
+[opérandes](/wiki/Op%C3%A9rande "Opérande") à partir du résultat et de l’autre
+opérande.
+
+Chacune de ces opérations est réalisée selon diverses techniques de
+[calcul](/wiki/Calcul_\(math%C3%A9matiques\) "Calcul \(mathématiques\)"). Mais
+contrairement aux opérations directes qui sont définies sans restriction, les
+opérations réciproques n’aboutissent que sous certaines conditions. Ainsi,
+avant l’utilisation des [nombres négatifs](/wiki/Nombre_n%C3%A9gatif "Nombre
+négatif"), un nombre ne peut être soustrait qu’à un nombre plus grand[17]. De
+même, la notion de [divisibilité](/wiki/Divisibilit%C3%A9 "Divisibilité")
+décrit la réalisabilité d’une division. Le processus de [division
+euclidienne](/wiki/Division_euclidienne "Division euclidienne") a cependant
+l’avantage de fournir un résultat même sans l’hypothèse de divisibilité. Cette
+dernière s’exprime alors par l’absence de _reste_.
+
+À partir du moment où la multiplication apparaît comme une opération purement
+numérique, sa répétition définit les
+[puissances](/wiki/Puissance_\(math%C3%A9matiques_%C3%A9l%C3%A9mentaires\)
+"Puissance \(mathématiques élémentaires\)") d’un nombre, dont les opérations
+réciproques sont appelées [racines](/wiki/Racine_d%27un_nombre "Racine d'un
+nombre"). D’autres opérations telles que la [factorielle](/wiki/Factorielle
+"Factorielle") sont développées dans le cadre de la
+[combinatoire](/wiki/Combinatoire "Combinatoire").
+
+Article détaillé : [Opération
+(mathématiques)](/wiki/Op%C3%A9ration_\(math%C3%A9matiques\) "Opération
+\(mathématiques\)").
+
+### Multiple et
+diviseur[[modifier](/w/index.php?title=Nombre&veaction=edit&section=10
+"Modifier la section : Multiple et diviseur") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=10 "Modifier la section :
+Multiple et diviseur")]
+
+Dans ce paragraphe, les nombres considérés sont des [entiers
+naturels](/wiki/Entier_naturel "Entier naturel") non nuls.
+
+Étant donné un nombre, l’ensemble de ses [multiples](/wiki/Multiplication
+"Multiplication") est [infini](/wiki/Ensemble_infini "Ensemble infini") mais
+régulièrement réparti et facile à décrire par une [suite
+arithmétique](/wiki/Suite_arithm%C3%A9tique "Suite arithmétique"). Par
+exemple, les multiples de 2 sont les nombres
+[pairs](/wiki/Parit%C3%A9_\(math%C3%A9matiques\) "Parité \(mathématiques\)"),
+qui sont alternés avec les nombres impairs parmi tous les entiers.
+
+Au contraire, l’ensemble des [diviseurs](/wiki/Diviseur "Diviseur") d’un
+nombre est toujours [fini](/wiki/Ensemble_fini "Ensemble fini") et sa
+répartition n’a pas du tout le même genre de régularité. Il contient certes
+toujours le nombre à diviser et le nombre 1, les éventuels autres diviseurs se
+situant entre ces deux extrêmes. Mais il est en général difficile de lister
+ces autres diviseurs à partir d’une écriture du nombre dans une
+[base](/wiki/Base_\(arithm%C3%A9tique\) "Base \(arithmétique\)") donnée.
+
+Ce problème est lié en partie à la rareté de critères simples pour déterminer
+sans calcul si un nombre est divisible par un autre. Dans un système de
+[numération positionnelle
+décimale](/wiki/%C3%89criture_d%C3%A9cimale_positionnelle "Écriture décimale
+positionnelle"), plusieurs [critères de
+divisibilité](/wiki/Crit%C3%A8res_de_divisibilit%C3%A9 "Critères de
+divisibilité") sont connus pour de petits diviseurs (surtout pour 2, 3, 5, 9
+et 10), mais en dehors de ces quelques cas, c’est essentiellement la division
+euclidienne qui permet de répondre à cette question.
+
+Article détaillé : [Divisibilité](/wiki/Divisibilit%C3%A9 "Divisibilité").
+
+### Nombre
+premier[[modifier](/w/index.php?title=Nombre&veaction=edit&section=11
+"Modifier la section : Nombre premier") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=11 "Modifier la section :
+Nombre premier")]
+
+Hormis le nombre 1, qui est son seul diviseur, tout nombre admet donc au moins
+deux diviseurs distincts. Ceux qui en admettent exactement deux sont appelés
+[nombres premiers](/wiki/Nombre_premier "Nombre premier"). Ils sont les seuls
+à pouvoir réduire d’autres nombres par division, sans être eux-mêmes
+décomposables en produit de nombres strictement plus petits. Il en existe une
+infinité et chaque nombre se
+[décompose](/wiki/D%C3%A9composition_en_produit_de_facteurs_premiers
+"Décomposition en produit de facteurs premiers") de manière unique en un
+produit de nombres premiers. Cette décomposition permet entre autres de
+comprendre la structure de l’ensemble des diviseurs.
+
+Articles détaillés : [Nombre premier](/wiki/Nombre_premier "Nombre premier")
+et [Théorème fondamental de
+l'arithmétique](/wiki/Th%C3%A9or%C3%A8me_fondamental_de_l%27arithm%C3%A9tique
+"Théorème fondamental de l'arithmétique").
+
+### Vers la théorie des
+nombres[[modifier](/w/index.php?title=Nombre&veaction=edit&section=12
+"Modifier la section : Vers la théorie des nombres") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=12 "Modifier la section :
+Vers la théorie des nombres")]
+
+Article détaillé : [théorie des nombres](/wiki/Th%C3%A9orie_des_nombres
+"Théorie des nombres").
+
+L'[arithmétique](/wiki/Arithm%C3%A9tique "Arithmétique") est littéralement la
+science des entiers, comprenant la définition des opérations élémentaires
+d'[addition](/wiki/Addition "Addition") et de
+[multiplication](/wiki/Multiplication "Multiplication"), de leurs opérations
+inverses, de la relation de [divisibilité](/wiki/Divisibilit%C3%A9
+"Divisibilité") et des propriétés qui s'en déduisent, permettant le traitement
+d'[équations diophantiennes](/wiki/%C3%89quation_diophantienne "Équation
+diophantienne"). À partir du XIXe siècle, la [théorie des
+nombres](/wiki/Th%C3%A9orie_des_nombres "Théorie des nombres") prolonge ces
+notions à l'aide des outils de
+l'[algèbre](/wiki/Th%C3%A9orie_alg%C3%A9brique_des_nombres "Théorie algébrique
+des nombres") et de l'[analyse](/wiki/Th%C3%A9orie_analytique_des_nombres
+"Théorie analytique des nombres"), dans les ensembles de nombres
+[réels](/wiki/Nombre_r%C3%A9el "Nombre réel"),
+[complexes](/wiki/Nombre_complexe "Nombre complexe") ou
+[p-adiques](/wiki/Nombre_p-adique "Nombre p-adique").
+
+## Géométrie[[modifier](/w/index.php?title=Nombre&veaction=edit&section=13
+"Modifier la section : Géométrie") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=13 "Modifier la section :
+Géométrie")]
+
+### Nombre
+figuré[[modifier](/w/index.php?title=Nombre&veaction=edit&section=14 "Modifier
+la section : Nombre figuré") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=14 "Modifier la section :
+Nombre figuré")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tetractys.svg/200px-
+Tetractys.svg.png)](/wiki/Fichier:Tetractys.svg)
+
+[](/wiki/Fichier:Tetractys.svg "Agrandir")
+
+La _tetraktys_ pythagoricienne.
+
+L’évaluation d’une quantité d’objets se fait plus ou moins rapidement selon la
+manière dont les objets sont rangés. Par exemple, seize jetons se comptent
+bien plus facilement s’ils sont disposés en carré que s’ils sont jetés en
+désordre sur une table. De même, la _tetraktys_ des
+[pythagoriciens](/wiki/%C3%89cole_pythagoricienne "École pythagoricienne") est
+le rangement de dix points en [triangle](/wiki/Nombre_triangulaire "Nombre
+triangulaire"). D’autres formes sont étudiées sous cet angle dans le plan
+([hexagones](/wiki/Nombre_hexagonal "Nombre hexagonal") par exemple) ou dans
+l’espace par des [empilements](/wiki/Nombre_pyramidal "Nombre pyramidal") de
+figures.
+
+Cette vision des nombres comme des configurations géométriques permet entre
+autres d’interpréter le produit de deux nombres comme le rectangle dont les
+côtés sont décrits par ces deux nombres, d’où la nécessaire
+[commutativité](/wiki/Commutativit%C3%A9 "Commutativité") de la
+multiplication, c’est-à-dire que l’ordre dans lequel on effectue la
+multiplication n’a pas d’influence sur le résultat. D’autres propriétés
+arithmétiques peuvent s’énoncer géométriquement. Ainsi, un nombre est pair
+s’il est représentable par un rectangle sur deux lignes ; il est premier si la
+seule manière de le représenter sous forme de rectangle est une ligne de
+plusieurs points.
+
+Article détaillé : [Nombre figuré](/wiki/Nombre_figur%C3%A9 "Nombre figuré").
+
+### Rapport de
+grandeur[[modifier](/w/index.php?title=Nombre&veaction=edit&section=15
+"Modifier la section : Rapport de grandeur") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=15 "Modifier la section :
+Rapport de grandeur")]
+
+Certains nombres proviennent de rapports géométriques comme [pi](/wiki/Pi
+"Pi"), rapport de la circonférence du cercle à son diamètre, ou le [nombre
+d’or](/wiki/Nombre_d%27or "Nombre d'or"), né du problème de la division « en
+extrême et moyenne raison ».
+
+## Notes et
+références[[modifier](/w/index.php?title=Nombre&veaction=edit&section=16
+"Modifier la section : Notes et références") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=16 "Modifier la section :
+Notes et références")]
+
+  1. ↑ Définitions [lexicographiques](http://www.cnrtl.fr/lexicographie/Nombre/0) et [étymologiques](http://www.cnrtl.fr/etymologie/Nombre/0) de « Nombre » (sens Nombre ordinal) du _[Trésor de la langue française informatisé](/wiki/Tr%C3%A9sor_de_la_langue_fran%C3%A7aise_informatis%C3%A9 "Trésor de la langue française informatisé")_ , sur le site du [Centre national de ressources textuelles et lexicales](/wiki/Centre_national_de_ressources_textuelles_et_lexicales "Centre national de ressources textuelles et lexicales")
+  2. ↑ Le _Petit Robert de la langue française_ et le _Trésor de la Langue Française Informatisé_ rapportent que « le nombre est une des notions fondamentales de l’entendement […] qu’on ne peut définir. » Le _Petit Larousse illustré_ soutient que le nombre « ne peut faire l’objet d’une définition stricte ».
+  3. ↑ Expression utilisée par Stella Baruk dans son _Dictionnaire de mathématiques élémentaires_.
+  4. ↑ _Éléments_ , livre VII.
+  5. ↑ Le premier entier dit « naturel » est le nombre  1 {\displaystyle 1} ![1](https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf) avant la reconnaissance du zéro mais encore après dans le langage courant et encore aujourd’hui dans les mathématiques anglo-saxonnes.
+  6. ↑ On le trouve notamment dans la [numération grecque](/wiki/Num%C3%A9ration_grecque "Numération grecque") à partir du IIe siècle avant notre ère et la [numération maya](/wiki/Num%C3%A9ration_maya "Numération maya") au cours du Ier millénaire.
+  7. ↑ Il s’agit de la suite des premiers nombres entiers, commençant généralement à 1, voir à ce sujet les [nouveaux programmes de l’école primaire en France](http://www.education.gouv.fr/cid21082/les-nouveaux-programmes-ecole-primaire.html) p. 7.
+  8. ↑ Le mot « comptine » dérive lui-même tardivement du verbe « compter » selon le [dictionnaire historique de la langue française](/wiki/Dictionnaire_historique_de_la_langue_fran%C3%A7aise "Dictionnaire historique de la langue française").
+  9. ↑ Dans plusieurs autres pays, la virgule est remplacée par un [point](/wiki/Point_\(signe\) "Point \(signe\)").
+  10. ↑ L’[os d’Ishango](/wiki/Os_d%27Ishango "Os d'Ishango") est ainsi interprété comme un artefact antérieur à l’apparition de l’écriture et représentant des valeurs numériques.
+  11. ↑ Georges Ifrah, introduction à l’ _Histoire universelle des chiffres_.
+  12. ↑ [Catherine Goldstein](/wiki/Catherine_Goldstein "Catherine Goldstein"), « La naissance du nombre en Mésopotamie », _Histoire des nombres_ , éditions Tallandier, 2007.
+  13. ↑ Christian Houzel, « Qu’est-ce qu’un nombre ? », _Histoire des nombres_ , éditions Tallandier, 2007.
+  14. ↑ Le [système de numération de l’Égypte antique](/wiki/Num%C3%A9ration_%C3%A9gyptienne "Numération égyptienne") s’arrête ainsi au symbole du [million](/wiki/Million "Million"), assimilé à l’[infini](/wiki/Infini "Infini").
+  15. ↑ Voir par exemple la [numération grecque](/wiki/Num%C3%A9ration_grecque "Numération grecque").
+  16. ↑ Le zéro de position est inventé d’abord pour indiquer l’absence de chiffre sur une position.
+  17. ↑ Même en admettant l’usage des nombres négatifs, pour soustraire un nombre positif à un nombre positif plus petit, on effectue la soustraction contraire et on change le signe du résultat.
+
+## Voir aussi[[modifier](/w/index.php?title=Nombre&veaction=edit&section=17
+"Modifier la section : Voir aussi") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=17 "Modifier la section :
+Voir aussi")]
+
+Sur les autres projets Wikimedia :
+
+  * [Nombre](https://commons.wikimedia.org/wiki/commons:Category:Numbers?uselang=fr), sur Wikimedia Commons
+  * [nombre](https://fr.wiktionary.org/wiki/nombre "wikt:nombre"), sur le Wiktionnaire
+
+### Articles
+connexes[[modifier](/w/index.php?title=Nombre&veaction=edit&section=18
+"Modifier la section : Articles connexes") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=18 "Modifier la section :
+Articles connexes")]
+
+  * [Gogol](/wiki/Gogol_\(nombre\) "Gogol \(nombre\)")
+  * [Nombres en français](/wiki/Nombres_en_fran%C3%A7ais "Nombres en français")
+  * [Nom des grands nombres](/wiki/Nom_des_grands_nombres "Nom des grands nombres")
+  * [Nombres dans le monde](/wiki/Nombres_dans_le_monde "Nombres dans le monde")
+  * [Liste de nombres](/wiki/Liste_de_nombres "Liste de nombres")
+  * [Liste de grands nombres](/wiki/Liste_de_grands_nombres "Liste de grands nombres")
+  * [Suite d'entiers](/wiki/Suite_d%27entiers "Suite d'entiers")
+  * [Table des diviseurs](/wiki/Table_des_diviseurs "Table des diviseurs")
+  * [Fondements des mathématiques](/wiki/Fondements_des_math%C3%A9matiques "Fondements des mathématiques")
+  * [Philosophie des mathématiques](/wiki/Philosophie_des_math%C3%A9matiques "Philosophie des mathématiques")
+  * _[Principia Mathematica](/wiki/Principia_Mathematica "Principia Mathematica")_
+  * _[Introduction à la philosophie mathématique](/wiki/Introduction_%C3%A0_la_philosophie_math%C3%A9matique "Introduction à la philosophie mathématique")_
+
+###
+Bibliographie[[modifier](/w/index.php?title=Nombre&veaction=edit&section=19
+"Modifier la section : Bibliographie") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=19 "Modifier la section :
+Bibliographie")]
+
+  * [John H. Conway](/wiki/John_H._Conway "John H. Conway") et [Richard K. Guy](/wiki/Richard_K._Guy "Richard K. Guy"), _Le Livre des nombres_ , Paris, [Eyrolles](/wiki/Eyrolles "Eyrolles"), 1998 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [2-212-03638-8](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-212-03638-8 "Spécial:Ouvrages de référence/2-212-03638-8"))
+  * [Heinz-Dieter Ebbinghaus](/w/index.php?title=Heinz-Dieter_Ebbinghaus&action=edit&redlink=1 "Heinz-Dieter Ebbinghaus \(page inexistante\)") [(de)](https://de.wikipedia.org/wiki/Heinz-Dieter_Ebbinghaus "de:Heinz-Dieter Ebbinghaus") et al., _Numbers_ , New York, [Springer](/wiki/Springer_Verlag "Springer Verlag"), 1991 ([ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [0-387-97497-0](/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/0-387-97497-0 "Spécial:Ouvrages de référence/0-387-97497-0"))
+  * Paul Benoît, [Karine Chemla](/wiki/Karine_Chemla "Karine Chemla") et Jim Ritter, Histoire des fractions, fractions d'histoire, [Birkhäuser](/wiki/Birkh%C3%A4user "Birkhäuser"), 1992
+  * (en) [G. H. Hardy](/wiki/Godfrey_Harold_Hardy "Godfrey Harold Hardy") et [E. M. Wright](/wiki/Edward_Maitland_Wright "Edward Maitland Wright"), An Introduction to the Theory of Numbers (1re éd. 1938) [[détail des éditions](/wiki/R%C3%A9f%C3%A9rence:Theory_of_numbers_\(HardyWright\) "Référence:Theory of numbers \(HardyWright\)")]
+
+« Le plus grand classique sur la théorie des nombres » selon [Douglas
+Hofstadter](/wiki/Douglas_Hofstadter "Douglas Hofstadter")
+
+  * [Georges Ifrah](/wiki/Georges_Ifrah "Georges Ifrah"), _Histoire universelle des chiffres_ , [Éditions Robert Laffont](/wiki/%C3%89ditions_Robert_Laffont "Éditions Robert Laffont"), collection « Bouquins »
+  * _Le Mystère des nombres_ , Hors-série de _[Science et Avenir](/wiki/Science_et_Avenir "Science et Avenir")_ , 2004
+  * [Denis Guedj](/wiki/Denis_Guedj "Denis Guedj"), _L'Empire des nombres_ , Gallimard, coll. « [Découvertes Gallimard](/wiki/D%C3%A9couvertes_Gallimard "Découvertes Gallimard") / Sciences et techniques » ([no 300](/wiki/Liste_des_volumes_de_%C2%AB_D%C3%A9couvertes_Gallimard_%C2%BB_\(2e_partie\) "Liste des volumes de « Découvertes Gallimard » \(2e partie\)")), 1996
+
+### Filmographie[[modifier](/w/index.php?title=Nombre&veaction=edit&section=20
+"Modifier la section : Filmographie") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=20 "Modifier la section :
+Filmographie")]
+
+_L'empire des nombres_ , DVD paru chez Arte édition.
+
+### Lien externe[[modifier](/w/index.php?title=Nombre&veaction=edit&section=21
+"Modifier la section : Lien externe") | [modifier le
+code](/w/index.php?title=Nombre&action=edit&section=21 "Modifier la section :
+Lien externe")]
+
+Jean-Pierre Dedieu, [« Les Mots des nombres »](http://www.mip.ups-
+tlse.fr/~dedieu/Book-20-04-04.pdf)([Archive](http://web.archive.org/web/*/http://www.mip.ups-
+tlse.fr/~dedieu/Book-20-04-04.pdf) •
+[Wikiwix](http://archive.wikiwix.com/cache/?url=http://www.mip.ups-
+tlse.fr/~dedieu/Book-20-04-04.pdf) •
+[Archive.is](http://archive.is/http://www.mip.ups-
+tlse.fr/~dedieu/Book-20-04-04.pdf) •
+[Google](https://www.google.fr/search?q=cache:http://www.mip.ups-
+tlse.fr/~dedieu/Book-20-04-04.pdf) • [Que faire
+?](/wiki/Projet:Correction_des_liens_externes#J'ai_trouvé_un_lien_mort,_que_faire_?
+"Projet:Correction des liens externes")), 7 février 2007
+
+[v](/wiki/Mod%C3%A8le:Palette_Notion_de_nombre "Modèle:Palette Notion de
+nombre") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Notion_de_nombre&action=edit)
+
+Notion de nombre  
+  
+---  
+Ensembles usuels | [Entier naturel](/wiki/Entier_naturel "Entier naturel") ( N
+{\displaystyle \scriptstyle \mathbb {N} } ![{\\displaystyle \\scriptstyle
+\\mathbb {N}
+}](https://wikimedia.org/api/rest_v1/media/math/render/svg/40eac26c488d3257e3fbe63619729673145d228c))
+· [Entier relatif](/wiki/Entier_relatif "Entier relatif") ( Z {\displaystyle
+\scriptstyle \mathbb {Z} } ![\\scriptstyle \\mathbb{Z }
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/f0c672518c0350ca035befd41c26633a2d399431))
+· [Nombre décimal](/wiki/Nombre_d%C3%A9cimal "Nombre décimal") ( D
+{\displaystyle \scriptstyle \mathbb {D} } ![\\scriptstyle \\mathbb {D}
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/a3f303c0b908a47cc0dfb5e7a7293a94a22dd0bf))
+· [Nombre rationnel](/wiki/Nombre_rationnel "Nombre rationnel") ( Q
+{\displaystyle \scriptstyle \mathbb {Q} } ![\\scriptstyle \\mathbb{Q}
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/feaa5ab94a056a5a25944ddf0c52c92a404715ab))
+· [Nombre réel](/wiki/Nombre_r%C3%A9el "Nombre réel") ( R {\displaystyle
+\scriptstyle \mathbb {R} } ![\\scriptstyle \\mathbb{R}
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/ac7df6838b44979c6531f6a0306206fbdb0477ec))
+· [Nombre complexe](/wiki/Nombre_complexe "Nombre complexe") ( C
+{\displaystyle \scriptstyle \mathbb {C} } ![{\\displaystyle \\scriptstyle
+\\mathbb {C}
+}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ebe3a54bb4e56c039e18c3af24ba70ab377f7a07))
+|
+[![Mathématiques](//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/70px-
+Nuvola_apps_edu_mathematics_blue-p.svg.png)](/wiki/Fichier:Nuvola_apps_edu_mathematics_blue-p.svg
+"Mathématiques")  
+Extensions | [Quaternion](/wiki/Quaternion "Quaternion") ( H {\displaystyle
+\scriptstyle \mathbb {H} } ![\\scriptstyle \\mathbb {H}
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/3d00daea5df233d805f1ec5d5ae84845bac2ad06))
+· [Octonion](/wiki/Octonion "Octonion") ( O {\displaystyle \scriptstyle
+\mathbb {O} } ![\\scriptstyle \\mathbb {O}
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/3c5cf3960cf7ba384648447c15581d5d4589a6d5))
+· [Sédénion](/wiki/S%C3%A9d%C3%A9nion "Sédénion") ( S {\displaystyle
+\scriptstyle \mathbb {S} } ![\\scriptstyle \\mathbb {S}
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/6ef48a593f4503abeab608e8781ba478b7d1b304))
+· [Nombre complexe déployé](/wiki/Nombre_complexe_d%C3%A9ploy%C3%A9 "Nombre
+complexe déployé") · [Tessarine](/wiki/Tessarine "Tessarine") · [Nombre
+bicomplexe](/wiki/Nombre_bicomplexe "Nombre bicomplexe") ( C 2 {\displaystyle
+\scriptstyle \mathbb {C} _{2}} ![{\\displaystyle \\scriptstyle \\mathbb {C}
+_{2}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ba9ab8af8ff8f4437f3c72de4e78738374ee4954))
+· Nombre multicomplexe ([ C n {\displaystyle \scriptstyle \mathbb {C} _{n}}
+![{\\displaystyle \\scriptstyle \\mathbb {C}
+_{n}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ee4170ef11ece45d8b66656c919e34eefdb51e42)](/wiki/Nombre_multicomplexe_\(Segre\)
+"Nombre multicomplexe \(Segre\)") · [ M C n {\displaystyle \scriptstyle
+{\mathcal {M}}\mathbb {C} _{n}} ![{\\displaystyle \\scriptstyle {\\mathcal
+{M}}\\mathbb {C}
+_{n}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/7be2600f9a2a7a3fdbdb7b08d21dec751dfde32e)](/wiki/Nombre_multicomplexe_\(Fleury\)
+"Nombre multicomplexe \(Fleury\)")) · [Biquaternion](/wiki/Biquaternion
+"Biquaternion") · [Coquaternion](/wiki/Coquaternion "Coquaternion") ·
+[Quaternion hyperbolique](/wiki/Quaternion_hyperbolique "Quaternion
+hyperbolique") · [Octonion déployé](/wiki/Octonion_d%C3%A9ploy%C3%A9 "Octonion
+déployé") · [Nombre hypercomplexe](/wiki/Nombre_hypercomplexe "Nombre
+hypercomplexe") · [Nombre p-adique](/wiki/Nombre_p-adique "Nombre p-adique") (
+Q p {\displaystyle \scriptstyle \mathbb {Q} _{p}} ![{\\displaystyle
+\\scriptstyle \\mathbb {Q}
+_{p}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/425658dc852cec8a2d4b6f7d513e60977710d7f7))
+· [Nombre hyperréel](/wiki/Nombre_hyperr%C3%A9el "Nombre hyperréel") · [Nombre
+superréel](/wiki/Nombre_superr%C3%A9el "Nombre superréel") · [Nombre
+dual](/wiki/Nombre_dual "Nombre dual") · [Droite réelle
+achevée](/wiki/Droite_r%C3%A9elle_achev%C3%A9e "Droite réelle achevée") ·
+[Nombre cardinal](/wiki/Nombre_cardinal "Nombre cardinal") · [Nombre
+ordinal](/wiki/Nombre_ordinal "Nombre ordinal") · [Nombre
+surréel](/wiki/Nombre_surr%C3%A9el "Nombre surréel") · [Nombre pseudo-
+réel](/wiki/Nombre_pseudo-r%C3%A9el "Nombre pseudo-réel")  
+Propriétés particulières | [Parité](/wiki/Parit%C3%A9_\(arithm%C3%A9tique\)
+"Parité \(arithmétique\)") · [Nombre premier](/wiki/Nombre_premier "Nombre
+premier") · [Nombre composé](/wiki/Nombre_compos%C3%A9 "Nombre composé") ·
+[Nombre figuré](/wiki/Nombre_figur%C3%A9 "Nombre figuré") · [Nombre
+parfait](/wiki/Nombre_parfait "Nombre parfait") · [Nombre
+positif](/wiki/Nombre_positif "Nombre positif") · [Nombre
+négatif](/wiki/Nombre_n%C3%A9gatif "Nombre négatif") · [Fraction
+dyadique](/wiki/Fraction_dyadique "Fraction dyadique") · ![Bon
+article](//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bon_article.svg/14px-
+Bon_article.svg.png) [Nombre irrationnel](/wiki/Nombre_irrationnel "Nombre
+irrationnel") · [Nombre algébrique](/wiki/Nombre_alg%C3%A9brique "Nombre
+algébrique") · [Nombre transcendant](/wiki/Nombre_transcendant "Nombre
+transcendant") · [Nombre imaginaire pur](/wiki/Nombre_imaginaire_pur "Nombre
+imaginaire pur") · [Nombre de Liouville](/wiki/Nombre_de_Liouville "Nombre de
+Liouville") · [Période](/wiki/Alg%C3%A8bre_des_p%C3%A9riodes "Algèbre des
+périodes") · [Nombre normal](/wiki/Nombre_normal "Nombre normal") · [Nombre
+univers](/wiki/Nombre_univers "Nombre univers") · [Nombre
+constructible](/wiki/Nombre_constructible "Nombre constructible") · [Nombre
+réel calculable](/wiki/Nombre_r%C3%A9el_calculable "Nombre réel calculable") ·
+[Nombre transfini](/wiki/Nombre_transfini "Nombre transfini") · [Infiniment
+petit](/wiki/Infiniment_petit "Infiniment petit")  
+Exemples | [Pi](/wiki/Pi "Pi") (π) · ![Bon
+article](//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bon_article.svg/14px-
+Bon_article.svg.png) [Racine carrée de deux](/wiki/Racine_carr%C3%A9e_de_deux
+"Racine carrée de deux") ( 2 {\displaystyle \scriptstyle {\sqrt {2}}}
+![\\scriptstyle {\\sqrt
+{2}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/7b6ac02637a190523aa10dde1b52ae41964dfff0))
+· ![Bon
+article](//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bon_article.svg/14px-
+Bon_article.svg.png) [Nombre d’or](/wiki/Nombre_d%27or "Nombre d'or") (φ) ·
+[Zéro](/wiki/Z%C3%A9ro "Zéro") (0) · [Unité
+imaginaire](/wiki/Unit%C3%A9_imaginaire "Unité imaginaire") (i) · [Constante
+de Neper](/wiki/E_\(nombre\) "E \(nombre\)") (e) · [Aleph-
+zéro](/wiki/Aleph-z%C3%A9ro "Aleph-zéro") (ℵ0) · [Table de constantes
+mathématiques](/wiki/Table_de_constantes_math%C3%A9matiques "Table de
+constantes mathématiques")  
+Articles liés | [Chiffre](/wiki/Chiffre "Chiffre") ·
+[Numération](/wiki/Num%C3%A9ration "Numération") ·
+[Fraction](/wiki/Fraction_\(math%C3%A9matiques\) "Fraction \(mathématiques\)")
+· [Opération](/wiki/Op%C3%A9ration_\(math%C3%A9matiques\) "Opération
+\(mathématiques\)") · [Calcul](/wiki/Calcul_\(math%C3%A9matiques\) "Calcul
+\(mathématiques\)") · [Algèbre](/wiki/Alg%C3%A8bre "Algèbre") ·
+[Arithmétique](/wiki/Arithm%C3%A9tique "Arithmétique") · [Suite
+d'entiers](/wiki/Suite_d%27entiers "Suite d'entiers") · [Infini](/wiki/Infini
+"Infini") (∞) · [Chiffre significatif](/wiki/Chiffre_significatif "Chiffre
+significatif")  
+  
+[v](/wiki/Mod%C3%A8le:Palette_Num%C3%A9ration "Modèle:Palette Numération") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Num%C3%A9ration&action=edit)
+
+[Systèmes de numération](/wiki/Syst%C3%A8me_de_num%C3%A9ration "Système de
+numération")  
+  
+---  
+[Arabo-indiens](/wiki/Syst%C3%A8me_de_num%C3%A9ration_indo-arabe "Système de
+numération indo-arabe") |
+
+  * [Arabe](/wiki/Num%C3%A9ration_arabe "Numération arabe")
+  * [Khmer](/w/index.php?title=Num%C3%A9ration_khmer&action=edit&redlink=1 "Numération khmer \(page inexistante\)")
+  * [Indienne](/wiki/Num%C3%A9ration_indienne "Numération indienne")
+  * [Mongole](/wiki/Num%C3%A9ration_mongole "Numération mongole")
+  * [Thaï](/wiki/Num%C3%A9ration_tha%C3%AFe "Numération thaïe")
+
+  
+  
+[Positionnels](/wiki/Notation_positionnelle "Notation positionnelle") |
+
+  * [À bâtons](/wiki/Baguettes_%C3%A0_calculer "Baguettes à calculer")
+  * [Maya](/wiki/Num%C3%A9ration_maya "Numération maya")
+  * [Mésopotamienne](/wiki/Num%C3%A9ration_m%C3%A9sopotamienne "Numération mésopotamienne")
+
+  
+  
+Asie de l'est |
+
+  * [Chinoise](/wiki/Num%C3%A9ration_chinoise "Numération chinoise")
+  * [Coréenne](/wiki/Num%C3%A9ration_cor%C3%A9enne "Numération coréenne")
+  * [Japonaise](/wiki/Num%C3%A9ration_japonaise "Numération japonaise")
+  * [Suzhou](/wiki/Num%C3%A9ration_Suzhou "Numération Suzhou")
+
+  
+  
+Alphabétiques |
+
+  * [Arménienne](/wiki/Num%C3%A9ration_arm%C3%A9nienne "Numération arménienne")
+  * [Cyrillique](/w/index.php?title=Num%C3%A9ration_cyrillique&action=edit&redlink=1 "Numération cyrillique \(page inexistante\)")
+  * [Âryabhata](/w/index.php?title=Num%C3%A9ration_d%27%C3%82ryabhata&action=edit&redlink=1 "Numération d'Âryabhata \(page inexistante\)")
+  * [Éthiopienne](/wiki/Num%C3%A9ration_%C3%A9thiopienne "Numération éthiopienne")
+  * [Hébraïque](/wiki/Num%C3%A9ration_h%C3%A9bra%C3%AFque "Numération hébraïque")
+  * [Grecque](/wiki/Num%C3%A9ration_grecque "Numération grecque")
+  * [Gotique](/wiki/Num%C3%A9ration_gotique "Numération gotique")
+
+  
+  
+[Additifs](/wiki/Notation_additive_\(num%C3%A9ration\) "Notation additive
+\(numération\)") |
+
+  * [Attique](/w/index.php?title=Num%C3%A9ration_attique&action=edit&redlink=1 "Numération attique \(page inexistante\)")
+  * [Brahmi](/w/index.php?title=Num%C3%A9ration_brahmi&action=edit&redlink=1 "Numération brahmi \(page inexistante\)")
+  * [Champs d'urnes](/w/index.php?title=Num%C3%A9ration_de_la_civilisation_des_champs_d%27urnes&action=edit&redlink=1 "Numération de la civilisation des champs d'urnes \(page inexistante\)")
+  * [Égyptienne](/wiki/Num%C3%A9ration_%C3%A9gyptienne "Numération égyptienne")
+  * [Étrusque](/wiki/Num%C3%A9ration_%C3%A9trusque "Numération étrusque")
+  * [Forestière](/wiki/Num%C3%A9ration_foresti%C3%A8re "Numération forestière")
+  * [Inuite](/w/index.php?title=Num%C3%A9ration_inuite&action=edit&redlink=1 "Numération inuite \(page inexistante\)")
+  * [Romaine](/wiki/Num%C3%A9ration_romaine "Numération romaine")
+  * [Tchouvache](/wiki/Num%C3%A9ration_tchouvache "Numération tchouvache")
+
+  
+  
+[v](/wiki/Mod%C3%A8le:Palette_Base_de_num%C3%A9ration_positionnelle
+"Modèle:Palette Base de numération positionnelle") ·
+[m](https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Base_de_num%C3%A9ration_positionnelle&action=edit)
+
+[Base](/wiki/Base_\(arithm%C3%A9tique\) "Base \(arithmétique\)") de
+[numération positionnelle](/wiki/Notation_positionnelle "Notation
+positionnelle")  
+  
+---  
+1 à 9 | [unaire (1)](/wiki/Syst%C3%A8me_unaire "Système unaire"), [binaire
+(2)](/wiki/Syst%C3%A8me_binaire "Système binaire"), [ternaire
+(3)](/wiki/Syst%C3%A8me_ternaire "Système ternaire"), [quaternaire
+(4)](/wiki/Syst%C3%A8me_quaternaire "Système quaternaire"), [quinaire
+(5)](/wiki/Syst%C3%A8me_quinaire "Système quinaire"), [sénaire
+(6)](/wiki/Syst%C3%A8me_s%C3%A9naire "Système sénaire"), [septénaire
+(7)](/wiki/Syst%C3%A8me_sept%C3%A9naire "Système septénaire"), [octal
+(8)](/wiki/Syst%C3%A8me_octal "Système octal"), [nonaire
+(9)](/wiki/Syst%C3%A8me_nonaire "Système nonaire") |
+[![Mathématiques](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Racine_carr%C3%A9e_bleue.svg/70px-
+Racine_carr%C3%A9e_bleue.svg.png)](/wiki/Fichier:Racine_carr%C3%A9e_bleue.svg
+"Mathématiques")  
+10 à 60 | [décimal (10)](/wiki/Syst%C3%A8me_d%C3%A9cimal "Système décimal"),
+[duodécimal (12)](/wiki/Syst%C3%A8me_duod%C3%A9cimal "Système duodécimal"),
+[tridécimal (13)](/wiki/Syst%C3%A8me_trid%C3%A9cimal "Système tridécimal"),
+[quindécimal
+(15)](/w/index.php?title=Syst%C3%A8me_quind%C3%A9cimal&action=edit&redlink=1
+"Système quindécimal \(page inexistante\)"), [hexadécimal
+(16)](/wiki/Syst%C3%A8me_hexad%C3%A9cimal "Système hexadécimal"), [octodécimal
+(18)](/w/index.php?title=Syst%C3%A8me_octod%C3%A9cimal&action=edit&redlink=1
+"Système octodécimal \(page inexistante\)"), [vicésimal
+(20)](/wiki/Syst%C3%A8me_vic%C3%A9simal "Système vicésimal"), [base
+36](/wiki/Base_36 "Base 36"), [sexagésimal
+(60)](/wiki/Syst%C3%A8me_sexag%C3%A9simal "Système sexagésimal")  
+Autre base | [base d'or (φ)](/wiki/Base_d%27or "Base d'or"), [négabinaire
+(–2)](/wiki/Syst%C3%A8me_n%C3%A9gabinaire "Système négabinaire"),
+[négaternaire (-3)](/wiki/Syst%C3%A8me_n%C3%A9gaternaire "Système
+négaternaire"), [bases
+complexes](/w/index.php?title=Syst%C3%A8me_%C3%A0_base_complexe&action=edit&redlink=1
+"Système à base complexe \(page inexistante\)")
+[(en)](https://en.wikipedia.org/wiki/Complex-base_system "en:Complex-base
+system") : [quater-imaginaire (2i)](/wiki/Syst%C3%A8me_quater-imaginaire
+"Système quater-imaginaire")  
+Notions | [base](/wiki/Base_\(arithm%C3%A9tique\) "Base \(arithmétique\)") •
+[chiffre](/wiki/Chiffre "Chiffre") • nombre • [notation
+positionnelle](/wiki/Notation_positionnelle "Notation positionnelle") •
+[numération](/wiki/Num%C3%A9ration "Numération") • [système bibi-
+binaire](/wiki/Syst%C3%A8me_bibi-binaire "Système bibi-binaire")  
+  
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Auguste_Rodin_-_Penseur_50px.png/17px-Auguste_Rodin_-_Penseur_50px.png)](/wiki/Portail:Philosophie "Portail de la philosophie") [Portail de la philosophie](/wiki/Portail:Philosophie "Portail:Philosophie")
+  * [![](//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pascal%27s_triangle_5.svg/34px-Pascal%27s_triangle_5.svg.png)](/wiki/Portail:Arithm%C3%A9tique_et_th%C3%A9orie_des_nombres "Arithmétique et théorie des nombres") [Arithmétique et théorie des nombres](/wiki/Portail:Arithm%C3%A9tique_et_th%C3%A9orie_des_nombres "Portail:Arithmétique et théorie des nombres")
+
+![](//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Ce document provient de «
+[https://fr.wikipedia.org/w/index.php?title=Nombre&oldid=174982575](https://fr.wikipedia.org/w/index.php?title=Nombre&oldid=174982575)
+».
+
+[Catégories](/wiki/Cat%C3%A9gorie:Accueil "Catégorie:Accueil") :
+
+  * [Nombre](/wiki/Cat%C3%A9gorie:Nombre "Catégorie:Nombre")
+  * [Objet mathématique](/wiki/Cat%C3%A9gorie:Objet_math%C3%A9matique "Catégorie:Objet mathématique")
+
+Catégories cachées :
+
+  * [Catégorie Commons avec lien local différent sur Wikidata](/wiki/Cat%C3%A9gorie:Cat%C3%A9gorie_Commons_avec_lien_local_diff%C3%A9rent_sur_Wikidata "Catégorie:Catégorie Commons avec lien local différent sur Wikidata")
+  * [Article contenant un appel à traduction en allemand](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_allemand "Catégorie:Article contenant un appel à traduction en allemand")
+  * [Page contenant un lien mort](/wiki/Cat%C3%A9gorie:Page_contenant_un_lien_mort "Catégorie:Page contenant un lien mort")
+  * [Article contenant un appel à traduction en anglais](/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais "Catégorie:Article contenant un appel à traduction en anglais")
+  * [Portail:Philosophie/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Philosophie/Articles_li%C3%A9s "Catégorie:Portail:Philosophie/Articles liés")
+  * [Portail:Sciences humaines et sociales/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences_humaines_et_sociales/Articles_li%C3%A9s "Catégorie:Portail:Sciences humaines et sociales/Articles liés")
+  * [Portail:Arithmétique et théorie des nombres/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Arithm%C3%A9tique_et_th%C3%A9orie_des_nombres/Articles_li%C3%A9s "Catégorie:Portail:Arithmétique et théorie des nombres/Articles liés")
+  * [Portail:Sciences/Articles liés](/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s "Catégorie:Portail:Sciences/Articles liés")
+  * [Projet:Mathématiques/Articles](/wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles "Catégorie:Projet:Mathématiques/Articles")
+  * [Bon article en catalan](/wiki/Cat%C3%A9gorie:Bon_article_en_catalan "Catégorie:Bon article en catalan")
+  * [Bon article en polonais](/wiki/Cat%C3%A9gorie:Bon_article_en_polonais "Catégorie:Bon article en polonais")
+
+Afficher/cacher la barre latérale
+
+###  Navigation
+
+  * [Accueil](/wiki/Wikip%C3%A9dia:Accueil_principal "Accueil général \[z\]")
+  * [Portails thématiques](/wiki/Portail:Accueil)
+  * [Article au hasard](/wiki/Sp%C3%A9cial:Page_au_hasard "Affiche un article au hasard \[x\]")
+  * [Contact](/wiki/Wikip%C3%A9dia:Contact)
+
+###  Contribuer
+
+  * [Débuter sur Wikipédia](/wiki/Aide:D%C3%A9buter)
+  * [Aide](/wiki/Aide:Accueil "Accès à l’aide")
+  * [Communauté](/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9 "À propos du projet, ce que vous pouvez faire, où trouver les informations")
+  * [Modifications récentes](/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes "Liste des modifications récentes sur le wiki \[r\]")
+  * [Faire un don](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_fr.wikipedia.org&uselang=fr "Soutenez-nous")
+
+###  Outils
+
+  * [Pages liées](/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Nombre "Liste des pages liées qui pointent sur celle-ci \[j\]")
+  * [Suivi des pages liées](/wiki/Sp%C3%A9cial:Suivi_des_liens/Nombre "Liste des modifications récentes des pages appelées par celle-ci \[k\]")
+  * [Téléverser un fichier](/wiki/Aide:Importer_un_fichier "Importer des fichiers \[u\]")
+  * [Pages spéciales](/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales "Liste de toutes les pages spéciales \[q\]")
+  * [Lien permanent](/w/index.php?title=Nombre&oldid=174982575 "Adresse permanente de cette version de la page")
+  * [Informations sur la page](/w/index.php?title=Nombre&action=info "Plus d’informations sur cette page")
+  * [Citer cette page](/w/index.php?title=Sp%C3%A9cial:Citer&page=Nombre&id=174982575&wpFormIdentifier=titleform "Informations sur la manière de citer cette page")
+  * [Élément Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q11563 "Lien vers l’élément dans le dépôt de données connectées \[g\]")
+
+###  Imprimer / exporter
+
+  * [Créer un livre](/w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Nombre)
+  * [Télécharger comme PDF](/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Nombre&action=show-download-screen)
+  * [Version imprimable](/w/index.php?title=Nombre&printable=yes "Version imprimable de cette page \[p\]")
+
+###  Dans d’autres projets
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Numbers)
+
+###  Dans d’autres langues
+
+  * [Afrikaans](https://af.wikipedia.org/wiki/Getal "Getal — afrikaans")
+  * [Alemannisch](https://als.wikipedia.org/wiki/Zahl "Zahl — Alemannisch")
+  * [አማርኛ](https://am.wikipedia.org/wiki/%E1%89%81%E1%8C%A5%E1%88%AD "ቁጥር — amharique")
+  * [Aragonés](https://an.wikipedia.org/wiki/Numero "Numero — aragonais")
+  * [Ænglisc](https://ang.wikipedia.org/wiki/R%C4%ABm "Rīm — ancien anglais")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D8%AF "عدد — arabe")
+  * [ܐܪܡܝܐ](https://arc.wikipedia.org/wiki/%DC%A1%DC%A2%DC%9D%DC%A2%DC%90 "ܡܢܝܢܐ — araméen")
+  * [অসমীয়া](https://as.wikipedia.org/wiki/%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE "সংখ্যা — assamais")
+  * [Asturianu](https://ast.wikipedia.org/wiki/N%C3%BAmberu "Númberu — asturien")
+  * [Atikamekw](https://atj.wikipedia.org/wiki/Akitasowin "Akitasowin — atikamekw")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/%C6%8Fd%C9%99d "Ədəd — azéri")
+  * [تۆرکجه](https://azb.wikipedia.org/wiki/%D8%B9%D8%AF%D8%AF "عدد — South Azerbaijani")
+  * [Башҡортса](https://ba.wikipedia.org/wiki/%D2%BA%D0%B0%D0%BD "Һан — bachkir")
+  * [Boarisch](https://bar.wikipedia.org/wiki/Zoih "Zoih — bavarois")
+  * [Žemaitėška](https://bat-smg.wikipedia.org/wiki/Skaitlios "Skaitlios — Samogitian")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%9B%D1%96%D0%BA "Лік — biélorusse")
+  * [Беларуская (тарашкевіца)‎](https://be-tarask.wikipedia.org/wiki/%D0%9B%D1%96%D0%BA "Лік — Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%A7%D0%B8%D1%81%D0%BB%D0%BE "Число — bulgare")
+  * [Banjar](https://bjn.wikipedia.org/wiki/Wilangan "Wilangan — banjar")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE "সংখ্যা — bengali")
+  * [བོད་ཡིག](https://bo.wikipedia.org/wiki/%E0%BD%82%E0%BE%B2%E0%BD%84%E0%BD%A6%E0%BC%8B%E0%BD%80%E0%BC%8D "གྲངས་ཀ། — tibétain")
+  * [Brezhoneg](https://br.wikipedia.org/wiki/Niver "Niver — breton")
+  * [Bosanski](https://bs.wikipedia.org/wiki/Broj "Broj — bosniaque")
+  * [Буряад](https://bxr.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BE "Тоо — Russia Buriat")
+  * [Català](https://ca.wikipedia.org/wiki/Nombre "Nombre — catalan")
+  * [Choctaw](https://cho.wikipedia.org/wiki/Hohltina "Hohltina — choctaw")
+  * [کوردی](https://ckb.wikipedia.org/wiki/%DA%98%D9%85%D8%A7%D8%B1%DB%95 "ژمارە — sorani")
+  * [Čeština](https://cs.wikipedia.org/wiki/%C4%8C%C3%ADslo "Číslo — tchèque")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%A5%D0%B8%D1%81%D0%B5%D0%BF "Хисеп — tchouvache")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Rhif "Rhif — gallois")
+  * [Dansk](https://da.wikipedia.org/wiki/Tal "Tal — danois")
+  * [Deutsch](https://de.wikipedia.org/wiki/Zahl "Zahl — allemand")
+  * [डोटेली](https://dty.wikipedia.org/wiki/%E0%A4%85%E0%A4%82%E0%A4%95%E0%A4%BE "अंका — Doteli")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CE%B8%CE%BC%CF%8C%CF%82 "Αριθμός — grec")
+  * [Emiliàn e rumagnòl](https://eml.wikipedia.org/wiki/N%C3%B3mmer "Nómmer — Emiliano-Romagnolo")
+  * [English](https://en.wikipedia.org/wiki/Number "Number — anglais")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Nombro "Nombro — espéranto")
+  * [Español](https://es.wikipedia.org/wiki/N%C3%BAmero "Número — espagnol")
+  * [Eesti](https://et.wikipedia.org/wiki/Arv "Arv — estonien")
+  * [Euskara](https://eu.wikipedia.org/wiki/Zenbaki "Zenbaki — basque")
+  * [Estremeñu](https://ext.wikipedia.org/wiki/N%C3%BAmiru "Númiru — estrémègne")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%B9%D8%AF%D8%AF "عدد — persan")
+  * [Fulfulde](https://ff.wikipedia.org/wiki/Limle "Limle — peul")
+  * [Suomi](https://fi.wikipedia.org/wiki/Luku "Luku — finnois")
+  * [Võro](https://fiu-vro.wikipedia.org/wiki/Arv "Arv — Võro")
+  * [Na Vosa Vakaviti](https://fj.wikipedia.org/wiki/Naba "Naba — fidjien")
+  * [Føroyskt](https://fo.wikipedia.org/wiki/Tal "Tal — féroïen")
+  * [Arpetan](https://frp.wikipedia.org/wiki/Nombro "Nombro — francoprovençal")
+  * [Nordfriisk](https://frr.wikipedia.org/wiki/Taal "Taal — frison du Nord")
+  * [Frysk](https://fy.wikipedia.org/wiki/Getal "Getal — frison occidental")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/Uimhir "Uimhir — irlandais")
+  * [贛語](https://gan.wikipedia.org/wiki/%E6%95%B8 "數 — gan")
+  * [Kriyòl gwiyannen](https://gcr.wikipedia.org/wiki/Nomm "Nomm — créole guyanais")
+  * [Gàidhlig](https://gd.wikipedia.org/wiki/%C3%80ireamh "Àireamh — gaélique écossais")
+  * [Galego](https://gl.wikipedia.org/wiki/N%C3%BAmero "Número — galicien")
+  * [Avañe'ẽ](https://gn.wikipedia.org/wiki/Papaha "Papaha — guarani")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%A4%D7%A8 "מספר — hébreu")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BE "संख्या — hindi")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Broj "Broj — croate")
+  * [Kreyòl ayisyen](https://ht.wikipedia.org/wiki/Nonm "Nonm — créole haïtien")
+  * [Magyar](https://hu.wikipedia.org/wiki/Sz%C3%A1m "Szám — hongrois")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%B9%D5%AB%D5%BE "Թիվ — arménien")
+  * [Արեւմտահայերէն](https://hyw.wikipedia.org/wiki/%D4%B9%D5%AB%D6%82 "Թիւ — arménien occidental")
+  * [Interlingua](https://ia.wikipedia.org/wiki/Numero "Numero — interlingua")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Bilangan "Bilangan — indonésien")
+  * [Ilokano](https://ilo.wikipedia.org/wiki/Numero "Numero — ilocano")
+  * [Ido](https://io.wikipedia.org/wiki/Nombro "Nombro — ido")
+  * [Íslenska](https://is.wikipedia.org/wiki/Tala_\(st%C3%A6r%C3%B0fr%C3%A6%C3%B0i\) "Tala \(stærðfræði\) — islandais")
+  * [Italiano](https://it.wikipedia.org/wiki/Numero "Numero — italien")
+  * [日本語](https://ja.wikipedia.org/wiki/%E6%95%B0 "数 — japonais")
+  * [Patois](https://jam.wikipedia.org/wiki/Nomba "Nomba — créole jamaïcain")
+  * [La .lojban.](https://jbo.wikipedia.org/wiki/namcu "namcu — lojban")
+  * [Jawa](https://jv.wikipedia.org/wiki/Wilangan_\(mat%C3%A9matika\) "Wilangan \(matématika\) — javanais")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%A0%E1%83%98%E1%83%AA%E1%83%AE%E1%83%95%E1%83%98 "რიცხვი — géorgien")
+  * [Taqbaylit](https://kab.wikipedia.org/wiki/Am%E1%B8%8Dan "Amḍan — kabyle")
+  * [Kabɩyɛ](https://kbp.wikipedia.org/wiki/%C3%91%CA%8A%CA%8A_\(t%CA%8A%CA%8Az%CA%8A%CA%8A\) "Ñʊʊ \(tʊʊzʊʊ\) — Kabiye")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD "Сан — kazakh")
+  * [ಕನ್ನಡ](https://kn.wikipedia.org/wiki/%E0%B2%B8%E0%B2%82%E0%B2%96%E0%B3%8D%E0%B2%AF%E0%B3%86 "ಸಂಖ್ಯೆ — kannada")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%88%98_\(%EC%88%98%ED%95%99\) "수 \(수학\) — coréen")
+  * [Kurdî](https://ku.wikipedia.org/wiki/Hejmar "Hejmar — kurde")
+  * [Kernowek](https://kw.wikipedia.org/wiki/Niver "Niver — cornique")
+  * [Latina](https://la.wikipedia.org/wiki/Numerus "Numerus — latin")
+  * [Lëtzebuergesch](https://lb.wikipedia.org/wiki/Zuel "Zuel — luxembourgeois")
+  * [Лакку](https://lbe.wikipedia.org/wiki/%D0%90%D1%8C%D0%B4%D0%B0%D0%B4 "Аьдад — Lak")
+  * [Lingua Franca Nova](https://lfn.wikipedia.org/wiki/Numero "Numero — lingua franca nova")
+  * [Luganda](https://lg.wikipedia.org/wiki/Ennamba "Ennamba — ganda")
+  * [Limburgs](https://li.wikipedia.org/wiki/Getal "Getal — limbourgeois")
+  * [ລາວ](https://lo.wikipedia.org/wiki/%E0%BA%88%E0%BA%B3%E0%BA%99%E0%BA%A7%E0%BA%99 "ຈຳນວນ — lao")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Skai%C4%8Dius "Skaičius — lituanien")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Skaitlis "Skaitlis — letton")
+  * [मैथिली](https://mai.wikipedia.org/wiki/%E0%A4%85%E0%A4%82%E0%A4%95 "अंक — maïthili")
+  * [Malagasy](https://mg.wikipedia.org/wiki/Isa "Isa — malgache")
+  * [Олык марий](https://mhr.wikipedia.org/wiki/%D0%A8%D0%BE%D1%82%D0%BF%D0%B0%D0%BB "Шотпал — Eastern Mari")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D1%98 "Број — macédonien")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%82%E0%B4%96%E0%B5%8D%E0%B4%AF "സംഖ്യ — malayalam")
+  * [Монгол](https://mn.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BE "Тоо — mongol")
+  * [मराठी](https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BE "संख्या — marathi")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/Nombor "Nombor — malais")
+  * [Mirandés](https://mwl.wikipedia.org/wiki/N%C3%BAmaro "Númaro — mirandais")
+  * [မြန်မာဘာသာ](https://my.wikipedia.org/wiki/%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8 "ကိန်း — birman")
+  * [Nāhuatl](https://nah.wikipedia.org/wiki/Tlap%C5%8Dhualli "Tlapōhualli — Nāhuatl")
+  * [Plattdüütsch](https://nds.wikipedia.org/wiki/Tahl "Tahl — bas-allemand")
+  * [नेपाली](https://ne.wikipedia.org/wiki/%E0%A4%85%E0%A4%82%E0%A4%95 "अंक — népalais")
+  * [नेपाल भाषा](https://new.wikipedia.org/wiki/%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%83 "ल्याः — newari")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Getal_\(wiskunde\) "Getal \(wiskunde\) — néerlandais")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Tal "Tal — norvégien nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/Tall "Tall — norvégien bokmål")
+  * [Novial](https://nov.wikipedia.org/wiki/Nombre "Nombre — novial")
+  * [Nouormand](https://nrm.wikipedia.org/wiki/Neunm%C3%A9tho "Neunmétho — Norman")
+  * [Sesotho sa Leboa](https://nso.wikipedia.org/wiki/Nomoro "Nomoro — sotho du Nord")
+  * [Occitan](https://oc.wikipedia.org/wiki/Nombre "Nombre — occitan")
+  * [Ирон](https://os.wikipedia.org/wiki/%D0%9D%D1%8B%D0%BC%C3%A6%D1%86 "Нымæц — ossète")
+  * [ਪੰਜਾਬੀ](https://pa.wikipedia.org/wiki/%E0%A8%85%E0%A9%B0%E0%A8%95 "ਅੰਕ — pendjabi")
+  * [Pangasinan](https://pag.wikipedia.org/wiki/Numero "Numero — pangasinan")
+  * [Polski](https://pl.wikipedia.org/wiki/Liczba "Liczba — polonais")
+  * [پنجابی](https://pnb.wikipedia.org/wiki/%D9%86%D9%85%D8%A8%D8%B1 "نمبر — Western Punjabi")
+  * [پښتو](https://ps.wikipedia.org/wiki/%D8%B9%D8%AF%D8%AF "عدد — pachto")
+  * [Português](https://pt.wikipedia.org/wiki/N%C3%BAmero "Número — portugais")
+  * [Runa Simi](https://qu.wikipedia.org/wiki/Yupay "Yupay — quechua")
+  * [Română](https://ro.wikipedia.org/wiki/Num%C4%83r "Număr — roumain")
+  * [Armãneashti](https://roa-rup.wikipedia.org/wiki/Numiru "Numiru — Aromanian")
+  * [Tarandíne](https://roa-tara.wikipedia.org/wiki/Numere "Numere — Tarantino")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D1%81%D0%BB%D0%BE "Число — russe")
+  * [Русиньскый](https://rue.wikipedia.org/wiki/%D0%A7%D1%96%D1%81%D0%BB%D0%BE "Чісло — ruthène")
+  * [संस्कृतम्](https://sa.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%83 "संख्याः — sanskrit")
+  * [Саха тыла](https://sah.wikipedia.org/wiki/%D0%90%D1%85%D1%81%D0%B0%D0%B0%D0%BD "Ахсаан — iakoute")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/N%C3%B9mmuru "Nùmmuru — sicilien")
+  * [Scots](https://sco.wikipedia.org/wiki/Nummer "Nummer — écossais")
+  * [سنڌي](https://sd.wikipedia.org/wiki/%D8%A7%D9%86%DA%AF "انگ — sindhi")
+  * [Sängö](https://sg.wikipedia.org/wiki/N%C3%B6m%C3%B6r%C3%B6 "Nömörö — sango")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Broj "Broj — serbo-croate")
+  * [Simple English](https://simple.wikipedia.org/wiki/Number "Number — Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/%C4%8C%C3%ADslo_\(matematika\) "Číslo \(matematika\) — slovaque")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/%C5%A0tevilo "Število — slovène")
+  * [ChiShona](https://sn.wikipedia.org/wiki/Nhamba "Nhamba — shona")
+  * [Soomaaliga](https://so.wikipedia.org/wiki/Tiro "Tiro — somali")
+  * [Shqip](https://sq.wikipedia.org/wiki/Numri "Numri — albanais")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D1%98 "Број — serbe")
+  * [Sunda](https://su.wikipedia.org/wiki/Wilangan "Wilangan — soundanais")
+  * [Svenska](https://sv.wikipedia.org/wiki/Tal "Tal — suédois")
+  * [Kiswahili](https://sw.wikipedia.org/wiki/Namba "Namba — swahili")
+  * [Ślůnski](https://szl.wikipedia.org/wiki/N%C5%AFmera "Nůmera — silésien")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%8E%E0%AE%A3%E0%AF%8D "எண் — tamoul")
+  * [ತುಳು](https://tcy.wikipedia.org/wiki/%E0%B2%B8%E0%B2%82%E0%B2%96%E0%B3%8D%E0%B2%AF%E0%B3%86 "ಸಂಖ್ಯೆ — toulou")
+  * [తెలుగు](https://te.wikipedia.org/wiki/%E0%B0%B8%E0%B0%82%E0%B0%96%E0%B1%8D%E0%B0%AF "సంఖ్య — télougou")
+  * [Тоҷикӣ](https://tg.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%B4 "Адад — tadjik")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99 "จำนวน — thaï")
+  * [ትግርኛ](https://ti.wikipedia.org/wiki/%E1%89%81%E1%8C%BD%E1%88%AA "ቁጽሪ — tigrigna")
+  * [Türkmençe](https://tk.wikipedia.org/wiki/San "San — turkmène")
+  * [Tagalog](https://tl.wikipedia.org/wiki/Bilang "Bilang — tagalog")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Say%C4%B1 "Sayı — turc")
+  * [Xitsonga](https://ts.wikipedia.org/wiki/Nomboro "Nomboro — tsonga")
+  * [Татарча/tatarça](https://tt.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD "Сан — tatar")
+  * [Удмурт](https://udm.wikipedia.org/wiki/%D0%9B%D1%8B%D0%B4 "Лыд — oudmourte")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%A7%D0%B8%D1%81%D0%BB%D0%BE "Число — ukrainien")
+  * [اردو](https://ur.wikipedia.org/wiki/%D8%B9%D8%AF%D8%AF "عدد — ourdou")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/Son "Son — ouzbek")
+  * [Vèneto](https://vec.wikipedia.org/wiki/N%C3%B9maro "Nùmaro — vénitien")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/S%E1%BB%91 "Số — vietnamien")
+  * [Winaray](https://war.wikipedia.org/wiki/Ihap "Ihap — waray")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E6%95%B0 "数 — wu")
+  * [Хальмг](https://xal.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B9%D0%B3 "Тойг — kalmouk")
+  * [IsiXhosa](https://xh.wikipedia.org/wiki/INANI "INANI — xhosa")
+  * [ייִדיש](https://yi.wikipedia.org/wiki/%D7%A6%D7%90%D7%9C "צאל — yiddish")
+  * [Yorùbá](https://yo.wikipedia.org/wiki/N%E1%BB%8D%CC%81mb%C3%A0 "Nọ́mbà — yoruba")
+  * [中文](https://zh.wikipedia.org/wiki/%E6%95%B0 "数 — chinois")
+  * [文言](https://zh-classical.wikipedia.org/wiki/%E6%95%B8 "數 — Classical Chinese")
+  * [Bân-lâm-gú](https://zh-min-nan.wikipedia.org/wiki/S%C3%B2%CD%98-ba%CC%8Dk "Sò͘-ba̍k — Chinese \(Min Nan\)")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E6%95%B8 "數 — Cantonese")
+
+[Modifier les
+liens](https://www.wikidata.org/wiki/Special:EntityPage/Q11563#sitelinks-
+wikipedia "Modifier les liens interlangues")
+
+[ ![](/static/images/mobile/copyright/wikipedia.png)
+![Wikipédia](/static/images/mobile/copyright/wikipedia-wordmark-fr.svg)
+![l'encyclopédie libre](/static/images/mobile/copyright/wikipedia-tagline-
+fr.svg) ](/wiki/Wikip%C3%A9dia:Accueil_principal)
+
+## Menu de navigation
+
+###  Outils personnels
+
+  * Non connecté
+  * [Discussion](/wiki/Sp%C3%A9cial:Mes_discussions "La page de discussion pour les contributions depuis cette adresse IP \[n\]")
+  * [Contributions](/wiki/Sp%C3%A9cial:Mes_contributions "Une liste des modifications effectuées depuis cette adresse IP \[y\]")
+  * [Créer un compte](/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Nombre "Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.")
+  * [Se connecter](/w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Nombre "Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. \[o\]")
+
+###  Espaces de noms
+
+  * [Article](/wiki/Nombre "Voir le contenu de la page \[c\]")
+  * [Discussion](/wiki/Discussion:Nombre "Discussion au sujet de cette page de contenu \[t\]")
+
+###  Variantes
+
+###  Affichages
+
+  * [Lire](/wiki/Nombre)
+  * [Modifier](/w/index.php?title=Nombre&veaction=edit "Modifier cette page \[v\]")
+  * [Modifier le code](/w/index.php?title=Nombre&action=edit "Vous pouvez modifier cette page ! \[e\]")
+  * [Voir l’historique](/w/index.php?title=Nombre&action=history "Historique des versions de cette page \[h\]")
+
+###  Plus
+
+###  Rechercher
+
+  * La dernière modification de cette page a été faite le 23 septembre 2020 à 23:46.
+  * [Droit d'auteur](/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia "Droit d'auteur") : les textes sont disponibles sous [licence Creative Commons attribution, partage dans les mêmes conditions](https://creativecommons.org/licenses/by-sa/3.0/deed.fr "Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé") ; d’autres conditions peuvent s’appliquer. Voyez les [conditions d’utilisation](https://wikimediafoundation.org/wiki/Conditions_d%27utilisation "Conditions d’utilisation de la Wikimedia Foundation") pour plus de détails, ainsi que les [crédits graphiques](/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques "Droit d'auteur de certaines icônes"). En cas de réutilisation des textes de cette page, voyez [comment citer les auteurs et mentionner la licence](/wiki/Sp%C3%A9cial:Citer/Nombre "Citer ou réutiliser cette page").  
+Wikipedia® est une marque déposée de la [Wikimedia Foundation,
+Inc.](https://wikimediafoundation.org/ "Wikimedia Foundation"), organisation
+de bienfaisance régie par le paragraphe [501(c)(3)](/wiki/501c "501c") du code
+fiscal des États-Unis.  
+
+  * [Politique de confidentialité](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
+  * [À propos de Wikipédia](/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia "Wikipédia:À propos de Wikipédia")
+  * [Avertissements](/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux "Wikipédia:Avertissements généraux")
+  * [Contact](//fr.wikipedia.org/wiki/Wikipédia:Contact)
+  * [Version mobile](//fr.m.wikipedia.org/w/index.php?title=Nombre&mobileaction=toggle_view_mobile)
+  * [Développeurs](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistiques](https://stats.wikimedia.org/#/fr.wikipedia.org)
+  * [Déclaration sur les témoins (cookies)](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[v]: Voir ce modèle.
+  *[d]: Discussion sur ce modèle.
+  *[m]: Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.
+  *[IIIe]: Troisième
+  *[VIIe]: 7ᵉ siècle
+  *[Xe]: 10ᵉ siècle
+  *[XVIe]: 16ᵉ siècle
+  *[XIXe]: Dix-neuvième
+  *[XIIe]: 12ᵉ siècle
+  *[XVIIIe]: 18ᵉ siècle
+  *[XXe]: 20ᵉ siècle
+  *[IVe]: Quatrième
+  *[IIe]: 2ᵉ siècle
+  *[Ier]: premier
+  *[p.]: page
+  *[(en)]: Langue : anglais
+  *[1re]: première
+  *[éd.]: édition
+  *[no]: numéro
+
