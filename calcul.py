@@ -17,7 +17,7 @@ from nltk.stem import SnowballStemmer
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
-
+from scipy.sparse.linalg import svds, eigs
 
 
 def compute_cosine_similarity(query,tf_idf):
@@ -90,26 +90,29 @@ def vectorize():
 	return index,tf,idf,doc_tok_matrix,txt_fitted
 
 
-index,tf,idf,doc_tok_matrix,txt_fitted = vectorize()
 
-plot_words_informations(tf,idf,nb_words_to_show=10,method="min")
+if __name__ == '__main__':
+	index,tf,idf,doc_tok_matrix,txt_fitted = vectorize()
+	#plot_words_informations(tf,idf,nb_words_to_show=10,method="max")
+	query="voiture"
+	Qt=clean_query(query,txt_fitted,language="french")
+	cos_matrix=compute_cosine_similarity(Qt,doc_tok_matrix)
+	ranking=classify(cos_matrix,top_size=1)
+	if ranking == 0 :
+		print("no results to your request")
+	else :
+		for element in ranking :
+			print(index[str(element)])
+	from sklearn.decomposition import TruncatedSVD
+	svd = TruncatedSVD(n_components=10, n_iter=7, random_state=42)
+	svd.fit(doc_tok_matrix)
+	plt.plot(svd.singular_values_)
+	plt.show()
 
-
-query="chat"
-Qt=clean_query(query,txt_fitted,language="french")
-cos_matrix=compute_cosine_similarity(Qt,doc_tok_matrix)
-ranking=classify(cos_matrix,top_size=4)
-
-if ranking == 0 :
-	print("no results to your request")
-else :
-	for element in ranking :
-		print(index[str(element)])
- 
-
-
-
-
+	u, sing, vt = svds(doc_tok_matrix, k=10)
+	plt.plot(sing)
+	sigma=np.diag(sing)
+	Qest=np.dot(np.dot(np.linalg.inv(sigma),np.transpose(u)),Qt)
 
 
 """
