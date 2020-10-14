@@ -25,7 +25,7 @@ tf = doc\tokens (fréquence d'apparition des tokens dans les documents)</br>
 tf_idf = matrice doc\token normalisé par la quantité d'information apporté par chaque tockens  </br>    
 
 Si l'on regarde l'importance des mots pour 50 pages Wikipédia swcraller de manière aléatoire : </br>
-![words](img/inforrmations.png)
+![words](img/inforrmations.png)</br>
 Latent space semantic :  </br>   
 - On calcul l'information apporté par chaque token dans le document (-log(p(x))</br>   
 ![matrix](/matrix.png)
