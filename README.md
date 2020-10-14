@@ -1,4 +1,4 @@
-# wiki_index# wiki_index
+# wiki_index
 
 Indexation du web 
 =================
@@ -22,9 +22,12 @@ Puis diminuer le nombre de tokens en utilisant le stemming (regroupements des mo
 
 Construction de la matrice tf (time frequency)</br>   
 tf = doc\tokens (fréquence d'apparition des tokens dans les documents)</br>      
-tf_idf = matrice token\doc (afin de diminuer la compléxité de l'algorithme)</br>    
+tf_idf = matrice doc\token normalisé par la quantité d'information apporté par chaque tockens  </br>    
 
+Si l'on regarde l'importance des mots pour 50 pages Wikipédia swcraller de manière aléatoire : </br>
+![words](img/inforrmations.png)
 Latent space semantic :  </br>   
 - On calcul l'information apporté par chaque token dans le document (-log(p(x))</br>   
 ![matrix](/matrix.png)
 - On cherche les valeurs propres de la matrice (tf^t)*(tf) puis diagonalise la matrice </br> 
+
