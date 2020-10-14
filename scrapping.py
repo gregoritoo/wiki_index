@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import numpy as np 
 import pandas as pd 
 import requests 
@@ -7,8 +9,7 @@ import random
 import html2text
 import os
 import time
-#soup = bs4.BeautifulSoup(rep.text, 'html.parser')
-#em_box = soup.find_all("em", {"class":"agency-website"})
+
 
 
 def scrapping(init_page,nb_pages,regex,info=True,directory="./docs/") :
@@ -27,7 +28,6 @@ def scrapping(init_page,nb_pages,regex,info=True,directory="./docs/") :
 	'''
 	init_page=init_page
 	html = requests.get(init_page)
-
 	pattern=re.compile(regex)
 	print(pattern)
 	matches=pattern.finditer(html.text)
@@ -36,8 +36,8 @@ def scrapping(init_page,nb_pages,regex,info=True,directory="./docs/") :
 	print(matches)
 	nb_files=len(os.listdir(directory))
 	for w in range(nb_pages) :
-		for match in matches :
-			while nb_files+i < nb_pages+nb_files :
+		while nb_files+i < nb_pages+nb_files :
+			for match in matches :
 				if info :
 					print(dict)
 					print(match.group(0))
@@ -46,13 +46,14 @@ def scrapping(init_page,nb_pages,regex,info=True,directory="./docs/") :
 					dict.update({match.group(0):0})
 					random_num=random.randint(1,len(dict)-1)
 					tab=[element for element in dict.keys()]
-					with open(directory+"doc_"+str(i)+".txt","w") as file :
-						print("saving file")
-						file.write(html2text.html2text(html.text))
-					#not necessary with a better regex
 					page="https://fr.wikipedia.org"+tab[random_num]
-					with open('pages.csv', 'a') as f:
-						f.write(page+"\n")
+					if not os.path.isfile(directory+match.group(0).replace("/","_")+".txt") :
+						with open(directory+match.group(0).replace("/","_")+".txt","w") as file :
+							print("saving file")
+							file.write(html2text.html2text(html.text))
+						#not necessary with a better regex
+						with open('pages.csv', 'a') as f:
+							f.write(page+"\n")
 				else :
 					dict[match.group(0)]=1	
 				j=0
@@ -72,4 +73,4 @@ def scrapping(init_page,nb_pages,regex,info=True,directory="./docs/") :
 
 if __name__ == '__main__':
 	page_init="https://fr.wikipedia.org/wiki/Mathématiques"
-	scrapping(page_init,102,regex='(\/wiki\/[\w:]*)')
+	scrapping(page_init,500,regex='(\/wiki\/[\w:]*)')
