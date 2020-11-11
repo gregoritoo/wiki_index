@@ -29,5 +29,5 @@ Si l'on regarde l'importance des mots pour 50 pages Wikipédia swcraller de mani
 Latent space semantic :  </br>   
 - On calcul l'information apporté par chaque token dans le document (-log(p(x))</br>   
 ![matrix](/matrix.png)
-- On cherche les valeurs propres de la matrice (tf^t)*(tf) puis diagonalise la matrice </br> 
+- Decompositon SVD 
 
